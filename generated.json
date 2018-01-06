@@ -109,6 +109,13 @@
  "epeterson320/ABAP-Logger": {
   "lines": 1303,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 23935101,
    "name": "ABAP-Logger",
@@ -216,6 +223,13 @@
  "koemaeda/abap-markdown": {
   "lines": 5097,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 42476879,
    "name": "abap-markdown",
@@ -282,7 +296,7 @@
    "deployments_url": "https://api.github.com/repos/koemaeda/abap-markdown/deployments",
    "created_at": "2015-09-14T21:02:51Z",
    "updated_at": "2018-01-04T22:15:43Z",
-   "pushed_at": "2017-05-13T01:02:20Z",
+   "pushed_at": "2018-01-06T10:40:19Z",
    "git_url": "git://github.com/koemaeda/abap-markdown.git",
    "ssh_url": "git@github.com:koemaeda/abap-markdown.git",
    "clone_url": "https://github.com/koemaeda/abap-markdown.git",
@@ -297,18 +311,18 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
     "spdx_id": "MIT",
     "url": "https://api.github.com/licenses/mit"
    },
-   "forks": 1,
-   "open_issues": 1,
+   "forks": 2,
+   "open_issues": 2,
    "watchers": 16,
    "default_branch": "master",
    "permissions": {
@@ -316,13 +330,24 @@
     "push": false,
     "pull": true
    },
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 7
   }
  },
  "SAP2Moose/SAP2Moose": {
   "lines": 19081,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml",
+   "/z_moose_extractor.abap",
+   "/z_moose_extractor_texts.txt",
+   "/changelog.txt",
+   "/changelog_release_in_preparation.txt"
+  ],
   "repo": {
    "id": 50174079,
    "name": "SAP2Moose",
@@ -449,6 +474,13 @@
  "cesar-sap/abap_geocoder_ces": {
   "lines": 1163,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 81007204,
    "name": "abap_geocoder_ces",
@@ -556,6 +588,13 @@
  "cesar-sap/abap_fm_json": {
   "lines": 2482,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 17319122,
    "name": "abap_fm_json",
@@ -663,6 +702,16 @@
  "larshp/abapGit": {
   "lines": 54427,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.travis.yml",
+   "/CONTRIBUTING.md",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/changelog.txt",
+   "/.gitignore",
+   "/CODE_OF_CONDUCT.md"
+  ],
   "repo": {
    "id": 21115149,
    "name": "abapGit",
@@ -770,6 +819,13 @@
  "thedoginthewok/ZwdFTP": {
   "lines": 1354,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 115229976,
    "name": "ZwdFTP",
@@ -877,6 +933,13 @@
  "thedoginthewok/ZwdHangman": {
   "lines": 719,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 115225445,
    "name": "ZwdHangman",
@@ -984,6 +1047,13 @@
  "ivanfemia/abap2xlsx": {
   "lines": 44232,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 15457787,
    "name": "abap2xlsx",
@@ -1091,6 +1161,13 @@
  "furlan/abap101_AOC2017": {
   "lines": 1094,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 113069738,
    "name": "abap101_AOC2017",
@@ -1198,6 +1275,16 @@
  "nomssi/abap_scheme": {
   "lines": 7121,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml",
+   "/_config.yml",
+   "/img/abap_lisp_workbench.png",
+   "/src/.gitkeep"
+  ],
   "repo": {
    "id": 109576420,
    "name": "abap_scheme",
@@ -1305,6 +1392,13 @@
  "theits/CharmMylynConnector": {
   "lines": 2671,
   "startingFolder": "/Z001_CHARM_MYLYN_API/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 106196999,
    "name": "CharmMylynConnector",
@@ -1412,6 +1506,13 @@
  "objective-partner/abap_debugger_data_view_extension": {
   "lines": 642,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 110137116,
    "name": "abap_debugger_data_view_extension",
@@ -1538,6 +1639,13 @@
  "beraadim/zcl_pdf": {
   "lines": 2712,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 93239143,
    "name": "zcl_pdf",
@@ -1640,6 +1748,13 @@
  "ycohen-dev/hcm-time-constraint-utils": {
   "lines": 548,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 111907557,
    "name": "hcm-time-constraint-utils",
@@ -1747,6 +1862,13 @@
  "gregorwolf/ebid-abap-client": {
   "lines": 2880,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 27563882,
    "name": "ebid-abap-client",
@@ -1854,6 +1976,13 @@
  "larshp/ABAP-Object-Visualizer": {
   "lines": 421,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 42304055,
    "name": "ABAP-Object-Visualizer",
@@ -1961,6 +2090,13 @@
  "ceedee666/acr_gol": {
   "lines": 1614,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 82910912,
    "name": "acr_gol",
@@ -2068,6 +2204,17 @@
  "jasper07/Teched17": {
   "lines": 4023,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml",
+   "/img",
+   "/ZFLIGHTOVP.zip",
+   "/ZFLIGHTLIST.zip",
+   "/DX134_49973_Presentation_1.pdf"
+  ],
   "repo": {
    "id": 100005965,
    "name": "Teched17",
@@ -2175,6 +2322,15 @@
  "alborghetti/ABAPFire": {
   "lines": 2522,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml",
+   "/_config.yml",
+   "/docs/img/retrieve_keys.JPG"
+  ],
   "repo": {
    "id": 100637115,
    "name": "ABAPFire",
@@ -2282,6 +2438,13 @@
  "grahamrobbo/building_gateway_services": {
   "lines": 3460,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 99661400,
    "name": "building_gateway_services",
@@ -2389,6 +2552,15 @@
  "Sumu-Ning/AES": {
   "lines": 6604,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml",
+   "/History.txt",
+   "/License.txt"
+  ],
   "repo": {
    "id": 38386958,
    "name": "AES",
@@ -2496,6 +2668,21 @@
  "fidley/falv": {
   "lines": 6860,
   "startingFolder": "/CODE/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml",
+   "/changelog731.md",
+   "/changelog740.md",
+   "/BUILD/ZFALV_V731.1.0.3.nugg",
+   "/BUILD/ZFALV_V731.1.0.3.zip",
+   "/BUILD/ZFALV_V740.1.0.11.nugg",
+   "/BUILD/ZFALV_V740.1.0.11.zip",
+   "/CODE/abapgit/README.md",
+   "/CODE/abapgit/readme"
+  ],
   "repo": {
    "id": 53656405,
    "name": "falv",
@@ -2603,6 +2790,13 @@
  "larshp/Datamatrix": {
   "lines": 664,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 21115365,
    "name": "Datamatrix",
@@ -2710,6 +2904,13 @@
  "larshp/abapCov": {
   "lines": 631,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 51525616,
    "name": "abapCov",
@@ -2817,6 +3018,12 @@
  "larshp/abapOpenChecks": {
   "lines": 28620,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.travis.yml",
+   "/LICENSE",
+   "/README.md",
+   "/package.json"
+  ],
   "repo": {
    "id": 21558384,
    "name": "abapOpenChecks",
@@ -2924,6 +3131,10 @@
  "larshp/abapOrion": {
   "lines": 1649,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/LICENSE",
+   "/README.md"
+  ],
   "repo": {
    "id": 30485974,
    "name": "abapOrion",
@@ -3031,6 +3242,13 @@
  "larshp/abapOpenReview": {
   "lines": 3478,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 30067656,
    "name": "abapOpenReview",
@@ -3138,6 +3356,11 @@
  "larshp/upDOWNci": {
   "lines": 1466,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/LICENSE",
+   "/README.md",
+   "/example.xml"
+  ],
   "repo": {
    "id": 39909089,
    "name": "upDOWNci",
@@ -3245,6 +3468,13 @@
  "larshp/FORMfactor": {
   "lines": 1006,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 41919545,
    "name": "FORMfactor",
@@ -3352,6 +3582,13 @@
  "larshp/ABAP-Swagger": {
   "lines": 1424,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 61979909,
    "name": "ABAP-Swagger",
@@ -3459,6 +3696,13 @@
  "larshp/abapGitServer": {
   "lines": 6258,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 38559404,
    "name": "abapGitServer",
@@ -3566,6 +3810,11 @@
  "larshp/abapNTLM": {
   "lines": 5399,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/LICENSE",
+   "/README.md",
+   "/abaplint.json"
+  ],
   "repo": {
    "id": 29089771,
    "name": "abapNTLM",
@@ -3673,6 +3922,13 @@
  "larshp/abapPGP": {
   "lines": 16609,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 69593882,
    "name": "abapPGP",
@@ -3780,6 +4036,13 @@
  "LinkeIT/AWS_S3_SDK_for_ABAP_Z": {
   "lines": 9862,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 76855103,
    "name": "AWS_S3_SDK_for_ABAP_Z",
@@ -4013,6 +4276,16 @@
  "sbcgua/abap_data_parser": {
   "lines": 1387,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml",
+   "/changelog.txt",
+   "abaplint.json",
+   "/abaplint.json"
+  ],
   "repo": {
    "id": 65610470,
    "name": "abap_data_parser",
@@ -4120,6 +4393,15 @@
  "sbcgua/abap_include_assembler": {
   "lines": 1041,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml",
+   "/changelog.txt",
+   "/illustration_small.png"
+  ],
   "repo": {
    "id": 54305846,
    "name": "abap_include_assembler",
@@ -4227,6 +4509,13 @@
  "sbcgua/abap_mustache": {
   "lines": 2068,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 79266013,
    "name": "abap_mustache",
@@ -4334,6 +4623,13 @@
  "sbcgua/abap_w3mi_poller": {
   "lines": 776,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 78275400,
    "name": "abap_w3mi_poller",
@@ -4441,6 +4737,13 @@
  "se38/SchemA": {
   "lines": 4527,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 49208576,
    "name": "SchemA",
@@ -4548,6 +4851,13 @@
  "se38/zJSON": {
   "lines": 2914,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 12601601,
    "name": "zJSON",
@@ -4650,6 +4960,13 @@
  "VishnAndr/zuiddlb": {
   "lines": 357,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 76947140,
    "name": "zuiddlb",
@@ -4757,6 +5074,14 @@
  "pixelbaker/ABAP-RayTracer": {
   "lines": 3027,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml",
+   "/changelog.txt"
+  ],
   "repo": {
    "id": 100707462,
    "name": "ABAP-RayTracer",
@@ -4864,6 +5189,13 @@
  "abramsba/abapLisp": {
   "lines": 759,
   "startingFolder": "/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "repo": {
    "id": 105582939,
    "name": "abapLisp",
