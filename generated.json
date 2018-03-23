@@ -97,11 +97,6 @@
    "open_issues": 3,
    "watchers": 5,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 1,
    "subscribers_count": 2
   }
@@ -211,11 +206,6 @@
    "open_issues": 4,
    "watchers": 69,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 18,
    "subscribers_count": 25
   }
@@ -325,11 +315,6 @@
    "open_issues": 1,
    "watchers": 15,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 3,
    "subscribers_count": 7
   }
@@ -443,11 +428,6 @@
    "open_issues": 22,
    "watchers": 19,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "organization": {
     "login": "SAP2Moose",
     "id": 30557254,
@@ -576,11 +556,6 @@
    "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 1
   }
@@ -690,11 +665,6 @@
    "open_issues": 1,
    "watchers": 48,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 17,
    "subscribers_count": 16
   }
@@ -804,17 +774,12 @@
    "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 0
   }
  },
  "larshp/abapGit": {
-  "lines": 56877,
+  "lines": 56870,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -891,42 +856,37 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-03-22T11:42:08Z",
-   "pushed_at": "2018-03-22T13:10:24Z",
+   "updated_at": "2018-03-23T13:02:19Z",
+   "pushed_at": "2018-03-23T12:14:25Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 7816,
-   "stargazers_count": 324,
-   "watchers_count": 324,
+   "size": 7832,
+   "stargazers_count": 325,
+   "watchers_count": 325,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 115,
+   "forks_count": 117,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 119,
+   "open_issues_count": 115,
    "license": {
     "key": "mit",
     "name": "MIT License",
     "spdx_id": "MIT",
     "url": "https://api.github.com/licenses/mit"
    },
-   "forks": 115,
-   "open_issues": 119,
-   "watchers": 324,
+   "forks": 117,
+   "open_issues": 115,
+   "watchers": 325,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
-   "network_count": 115,
+   "network_count": 117,
    "subscribers_count": 78
   }
  },
@@ -1035,11 +995,6 @@
    "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 1
   }
@@ -1149,11 +1104,6 @@
    "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 2,
    "subscribers_count": 0
   }
@@ -1263,11 +1213,6 @@
    "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 1
   }
@@ -1383,11 +1328,6 @@
    "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 2,
    "subscribers_count": 2
   }
@@ -1497,11 +1437,6 @@
    "open_issues": 0,
    "watchers": 1,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 0
   }
@@ -1611,11 +1546,6 @@
    "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 1
   }
@@ -1725,11 +1655,6 @@
    "open_issues": 62,
    "watchers": 136,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 77,
    "subscribers_count": 63
   }
@@ -1839,11 +1764,6 @@
    "open_issues": 0,
    "watchers": 2,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 3
   }
@@ -1926,14 +1846,14 @@
    "releases_url": "https://api.github.com/repos/nomssi/abap_scheme/releases{/id}",
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
-   "updated_at": "2018-03-21T00:47:09Z",
-   "pushed_at": "2018-03-21T00:47:08Z",
+   "updated_at": "2018-03-23T07:30:50Z",
+   "pushed_at": "2018-03-23T07:30:49Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": null,
-   "size": 2179,
+   "size": 2182,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -1956,11 +1876,6 @@
    "open_issues": 6,
    "watchers": 1,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 1,
    "subscribers_count": 1
   }
@@ -2070,11 +1985,6 @@
    "open_issues": 0,
    "watchers": 2,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 3
   }
@@ -2184,11 +2094,6 @@
    "open_issues": 3,
    "watchers": 7,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "organization": {
     "login": "objective-partner",
     "id": 3862752,
@@ -2312,11 +2217,6 @@
    "open_issues": 1,
    "watchers": 4,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 1,
    "subscribers_count": 2
   }
@@ -2426,11 +2326,6 @@
    "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 0
   }
@@ -2540,11 +2435,6 @@
    "open_issues": 0,
    "watchers": 1,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 1
   }
@@ -2654,11 +2544,6 @@
    "open_issues": 3,
    "watchers": 25,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
    "network_count": 1,
    "subscribers_count": 10
   }
@@ -2768,11 +2653,6 @@
    "open_issues": 0,
    "watchers": 4,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 1,
    "subscribers_count": 2
   }
@@ -2886,11 +2766,6 @@
    "open_issues": 0,
    "watchers": 13,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 6,
    "subscribers_count": 6
   }
@@ -3002,11 +2877,6 @@
    "open_issues": 0,
    "watchers": 5,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 1
   }
@@ -3116,11 +2986,6 @@
    "open_issues": 0,
    "watchers": 1,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 1,
    "subscribers_count": 1
   }
@@ -3232,11 +3097,6 @@
    "open_issues": 5,
    "watchers": 20,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": true,
-    "pull": true
-   },
    "network_count": 7,
    "subscribers_count": 5
   }
@@ -3354,11 +3214,6 @@
    "open_issues": 7,
    "watchers": 23,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 11,
    "subscribers_count": 11
   }
@@ -3468,11 +3323,6 @@
    "open_issues": 0,
    "watchers": 1,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
    "network_count": 3,
    "subscribers_count": 2
   }
@@ -3582,11 +3432,6 @@
    "open_issues": 7,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
    "network_count": 2,
    "subscribers_count": 1
   }
@@ -3695,11 +3540,6 @@
    "open_issues": 222,
    "watchers": 50,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
    "network_count": 15,
    "subscribers_count": 21
   }
@@ -3806,11 +3646,6 @@
    "open_issues": 3,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 2
   }
@@ -3920,11 +3755,6 @@
    "open_issues": 30,
    "watchers": 1,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 7
   }
@@ -4032,11 +3862,6 @@
    "open_issues": 4,
    "watchers": 3,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
    "network_count": 1,
    "subscribers_count": 2
   }
@@ -4146,11 +3971,6 @@
    "open_issues": 2,
    "watchers": 5,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 5
   }
@@ -4246,7 +4066,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 7,
+   "forks_count": 8,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 14,
@@ -4256,16 +4076,11 @@
     "spdx_id": "MIT",
     "url": "https://api.github.com/licenses/mit"
    },
-   "forks": 7,
+   "forks": 8,
    "open_issues": 14,
    "watchers": 19,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
-   "network_count": 7,
+   "network_count": 8,
    "subscribers_count": 7
   }
  },
@@ -4360,7 +4175,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 6,
+   "forks_count": 7,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 41,
@@ -4370,16 +4185,11 @@
     "spdx_id": "MIT",
     "url": "https://api.github.com/licenses/mit"
    },
-   "forks": 6,
+   "forks": 7,
    "open_issues": 41,
    "watchers": 24,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
-   "network_count": 6,
+   "network_count": 7,
    "subscribers_count": 9
   }
  },
@@ -4486,11 +4296,6 @@
    "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
    "network_count": 1,
    "subscribers_count": 2
   }
@@ -4600,11 +4405,6 @@
    "open_issues": 8,
    "watchers": 1,
    "default_branch": "master",
-   "permissions": {
-    "admin": true,
-    "push": true,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 1
   }
@@ -4714,11 +4514,6 @@
    "open_issues": 1,
    "watchers": 5,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "organization": {
     "login": "LinkeIT",
     "id": 22541843,
@@ -4840,11 +4635,6 @@
    "open_issues": 3,
    "watchers": 24,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 4,
    "subscribers_count": 8
   }
@@ -4957,11 +4747,6 @@
    "open_issues": 0,
    "watchers": 2,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 3
   }
@@ -5073,11 +4858,6 @@
    "open_issues": 1,
    "watchers": 1,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 3
   }
@@ -5187,11 +4967,6 @@
    "open_issues": 0,
    "watchers": 4,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 3
   }
@@ -5301,11 +5076,6 @@
    "open_issues": 1,
    "watchers": 2,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 1
   }
@@ -5415,11 +5185,6 @@
    "open_issues": 2,
    "watchers": 2,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 2
   }
@@ -5529,11 +5294,6 @@
    "open_issues": 1,
    "watchers": 38,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 10,
    "subscribers_count": 21
   }
@@ -5643,11 +5403,6 @@
    "open_issues": 0,
    "watchers": 1,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 2
   }
@@ -5758,11 +5513,6 @@
    "open_issues": 4,
    "watchers": 12,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 0,
    "subscribers_count": 3
   }
@@ -5872,11 +5622,6 @@
    "open_issues": 0,
    "watchers": 1,
    "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
    "network_count": 1,
    "subscribers_count": 1
   }
