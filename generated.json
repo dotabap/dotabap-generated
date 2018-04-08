@@ -928,7 +928,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 59189,
+  "lines": 59795,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1005,14 +1005,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-04-06T01:05:03Z",
-   "pushed_at": "2018-04-05T07:19:09Z",
+   "updated_at": "2018-04-08T16:10:58Z",
+   "pushed_at": "2018-04-08T16:10:56Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 7997,
+   "size": 7889,
    "stargazers_count": 331,
    "watchers_count": 331,
    "language": "ABAP",
@@ -1024,7 +1024,7 @@
    "forks_count": 121,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 120,
+   "open_issues_count": 118,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1032,7 +1032,7 @@
     "url": "https://api.github.com/licenses/mit"
    },
    "forks": 121,
-   "open_issues": 120,
+   "open_issues": 118,
    "watchers": 331,
    "default_branch": "master",
    "permissions": {
@@ -1617,7 +1617,7 @@
     "pull": true
    },
    "network_count": 0,
-   "subscribers_count": 0
+   "subscribers_count": 1
   }
  },
  "thedoginthewok/ZwdHangman": {
@@ -1963,7 +1963,7 @@
   }
  },
  "nomssi/abap_scheme": {
-  "lines": 17059,
+  "lines": 17082,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -2040,14 +2040,14 @@
    "releases_url": "https://api.github.com/repos/nomssi/abap_scheme/releases{/id}",
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
-   "updated_at": "2018-04-07T14:40:03Z",
-   "pushed_at": "2018-04-07T14:40:01Z",
+   "updated_at": "2018-04-08T15:31:17Z",
+   "pushed_at": "2018-04-08T15:31:16Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": null,
-   "size": 2640,
+   "size": 2713,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
