@@ -197,7 +197,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 19,
+   "forks_count": 20,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 4,
@@ -207,7 +207,7 @@
     "spdx_id": "MIT",
     "url": "https://api.github.com/licenses/mit"
    },
-   "forks": 19,
+   "forks": 20,
    "open_issues": 4,
    "watchers": 71,
    "default_branch": "master",
@@ -216,7 +216,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 19,
+   "network_count": 20,
    "subscribers_count": 25
   }
  },
@@ -676,7 +676,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 17,
+   "forks_count": 18,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 2,
@@ -686,7 +686,7 @@
     "spdx_id": "Apache-2.0",
     "url": "https://api.github.com/licenses/apache-2.0"
    },
-   "forks": 17,
+   "forks": 18,
    "open_issues": 2,
    "watchers": 50,
    "default_branch": "master",
@@ -695,7 +695,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 17,
+   "network_count": 18,
    "subscribers_count": 16
   }
  },
@@ -1005,7 +1005,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-04-16T13:16:58Z",
+   "updated_at": "2018-04-17T15:01:18Z",
    "pushed_at": "2018-04-16T17:20:36Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
@@ -1013,34 +1013,34 @@
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
    "size": 7876,
-   "stargazers_count": 334,
-   "watchers_count": 334,
+   "stargazers_count": 335,
+   "watchers_count": 335,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 123,
+   "forks_count": 124,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 119,
+   "open_issues_count": 120,
    "license": {
     "key": "mit",
     "name": "MIT License",
     "spdx_id": "MIT",
     "url": "https://api.github.com/licenses/mit"
    },
-   "forks": 123,
-   "open_issues": 119,
-   "watchers": 334,
+   "forks": 124,
+   "open_issues": 120,
+   "watchers": 335,
    "default_branch": "master",
    "permissions": {
     "admin": true,
     "push": true,
     "pull": true
    },
-   "network_count": 123,
+   "network_count": 124,
    "subscribers_count": 76
   }
  },
@@ -2077,7 +2077,7 @@
   }
  },
  "nomssi/abap_scheme": {
-  "lines": 17439,
+  "lines": 17560,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -2154,14 +2154,14 @@
    "releases_url": "https://api.github.com/repos/nomssi/abap_scheme/releases{/id}",
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
-   "updated_at": "2018-04-15T18:35:14Z",
-   "pushed_at": "2018-04-15T18:35:13Z",
+   "updated_at": "2018-04-16T23:28:13Z",
+   "pushed_at": "2018-04-16T23:28:12Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": null,
-   "size": 3158,
+   "size": 3290,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -3100,7 +3100,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 6,
+   "forks_count": 7,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 0,
@@ -3110,7 +3110,7 @@
     "spdx_id": "MIT",
     "url": "https://api.github.com/licenses/mit"
    },
-   "forks": 6,
+   "forks": 7,
    "open_issues": 0,
    "watchers": 14,
    "default_branch": "master",
@@ -3119,7 +3119,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 6,
+   "network_count": 7,
    "subscribers_count": 6
   }
  },
@@ -3820,7 +3820,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 30314,
+  "lines": 30437,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -3893,14 +3893,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-04-05T08:43:58Z",
-   "pushed_at": "2018-04-03T08:03:17Z",
+   "updated_at": "2018-04-17T13:36:39Z",
+   "pushed_at": "2018-04-17T13:36:38Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1254,
+   "size": 1271,
    "stargazers_count": 51,
    "watchers_count": 51,
    "language": "ABAP",
@@ -3912,7 +3912,7 @@
    "forks_count": 16,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 223,
+   "open_issues_count": 224,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3920,7 +3920,7 @@
     "url": "https://api.github.com/licenses/mit"
    },
    "forks": 16,
-   "open_issues": 223,
+   "open_issues": 224,
    "watchers": 51,
    "default_branch": "master",
    "permissions": {
