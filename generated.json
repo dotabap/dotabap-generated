@@ -3236,7 +3236,7 @@
     "pull": true
    },
    "network_count": 0,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "grahamrobbo/building_gateway_services": {
@@ -3893,7 +3893,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-04-18T16:05:17Z",
+   "updated_at": "2018-04-21T15:38:06Z",
    "pushed_at": "2018-04-18T16:05:16Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -3907,7 +3907,7 @@
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
-   "has_wiki": true,
+   "has_wiki": false,
    "has_pages": true,
    "forks_count": 16,
    "mirror_url": null,
@@ -4458,7 +4458,7 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Swagger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
-   "updated_at": "2018-02-20T15:08:50Z",
+   "updated_at": "2018-04-21T07:27:08Z",
    "pushed_at": "2018-01-13T07:16:33Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
@@ -4466,8 +4466,8 @@
    "svn_url": "https://github.com/larshp/ABAP-Swagger",
    "homepage": "",
    "size": 61,
-   "stargazers_count": 19,
-   "watchers_count": 19,
+   "stargazers_count": 20,
+   "watchers_count": 20,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -4486,7 +4486,7 @@
    },
    "forks": 10,
    "open_issues": 14,
-   "watchers": 19,
+   "watchers": 20,
    "default_branch": "master",
    "permissions": {
     "admin": true,
