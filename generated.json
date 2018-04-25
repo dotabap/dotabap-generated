@@ -1005,7 +1005,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-04-23T17:32:52Z",
+   "updated_at": "2018-04-25T14:54:36Z",
    "pushed_at": "2018-04-23T19:28:26Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
@@ -1013,8 +1013,8 @@
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
    "size": 7904,
-   "stargazers_count": 338,
-   "watchers_count": 338,
+   "stargazers_count": 339,
+   "watchers_count": 339,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -1033,7 +1033,7 @@
    },
    "forks": 127,
    "open_issues": 120,
-   "watchers": 338,
+   "watchers": 339,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -3934,7 +3934,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 30468,
+  "lines": 30627,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -4007,14 +4007,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-04-24T12:34:04Z",
-   "pushed_at": "2018-04-24T12:34:03Z",
+   "updated_at": "2018-04-25T13:27:00Z",
+   "pushed_at": "2018-04-25T05:29:27Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1294,
+   "size": 1305,
    "stargazers_count": 51,
    "watchers_count": 51,
    "language": "ABAP",
@@ -4026,7 +4026,7 @@
    "forks_count": 16,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 227,
+   "open_issues_count": 226,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4034,7 +4034,7 @@
     "url": "https://api.github.com/licenses/mit"
    },
    "forks": 16,
-   "open_issues": 227,
+   "open_issues": 226,
    "watchers": 51,
    "default_branch": "master",
    "permissions": {
@@ -4043,7 +4043,7 @@
     "pull": true
    },
    "network_count": 16,
-   "subscribers_count": 21
+   "subscribers_count": 22
   }
  },
  "larshp/abapOrion": {
@@ -5045,7 +5045,7 @@
    "forks_count": 3,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -5053,7 +5053,7 @@
     "url": "https://api.github.com/licenses/gpl-3.0"
    },
    "forks": 3,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 5,
    "default_branch": "master",
    "permissions": {
