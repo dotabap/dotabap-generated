@@ -924,11 +924,11 @@
     "pull": true
    },
    "network_count": 2,
-   "subscribers_count": 0
+   "subscribers_count": 1
   }
  },
  "larshp/abapGit": {
-  "lines": 61868,
+  "lines": 61977,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1005,16 +1005,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-05-13T06:58:44Z",
-   "pushed_at": "2018-05-13T11:04:19Z",
+   "updated_at": "2018-05-14T17:12:39Z",
+   "pushed_at": "2018-05-14T19:01:56Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 7983,
-   "stargazers_count": 347,
-   "watchers_count": 347,
+   "size": 7978,
+   "stargazers_count": 346,
+   "watchers_count": 346,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -1024,7 +1024,7 @@
    "forks_count": 129,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 131,
+   "open_issues_count": 126,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1032,8 +1032,8 @@
     "url": "https://api.github.com/licenses/mit"
    },
    "forks": 129,
-   "open_issues": 131,
-   "watchers": 347,
+   "open_issues": 126,
+   "watchers": 346,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -1041,7 +1041,7 @@
     "pull": true
    },
    "network_count": 129,
-   "subscribers_count": 78
+   "subscribers_count": 77
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -2533,7 +2533,7 @@
   }
  },
  "nomssi/abap_scheme": {
-  "lines": 18347,
+  "lines": 19032,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -2610,14 +2610,14 @@
    "releases_url": "https://api.github.com/repos/nomssi/abap_scheme/releases{/id}",
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
-   "updated_at": "2018-05-12T19:51:21Z",
-   "pushed_at": "2018-05-12T19:51:20Z",
+   "updated_at": "2018-05-14T14:02:17Z",
+   "pushed_at": "2018-05-14T14:02:16Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": null,
-   "size": 4206,
+   "size": 4300,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -3540,7 +3540,7 @@
    "releases_url": "https://api.github.com/repos/jasper07/Teched17/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jasper07/Teched17/deployments",
    "created_at": "2017-08-11T07:41:30Z",
-   "updated_at": "2018-04-19T08:39:46Z",
+   "updated_at": "2018-05-14T04:47:16Z",
    "pushed_at": "2018-01-19T10:20:58Z",
    "git_url": "git://github.com/jasper07/Teched17.git",
    "ssh_url": "git@github.com:jasper07/Teched17.git",
@@ -3548,8 +3548,8 @@
    "svn_url": "https://github.com/jasper07/Teched17",
    "homepage": "",
    "size": 11365,
-   "stargazers_count": 15,
-   "watchers_count": 15,
+   "stargazers_count": 16,
+   "watchers_count": 16,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3568,7 +3568,7 @@
    },
    "forks": 7,
    "open_issues": 0,
-   "watchers": 15,
+   "watchers": 16,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4368,7 +4368,7 @@
    "forks_count": 18,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 230,
+   "open_issues_count": 231,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4376,7 +4376,7 @@
     "url": "https://api.github.com/licenses/mit"
    },
    "forks": 18,
-   "open_issues": 230,
+   "open_issues": 231,
    "watchers": 53,
    "default_branch": "master",
    "permissions": {
@@ -4930,7 +4930,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 11,
+   "forks_count": 12,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 14,
@@ -4940,7 +4940,7 @@
     "spdx_id": "MIT",
     "url": "https://api.github.com/licenses/mit"
    },
-   "forks": 11,
+   "forks": 12,
    "open_issues": 14,
    "watchers": 20,
    "default_branch": "master",
@@ -4949,7 +4949,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 11,
+   "network_count": 12,
    "subscribers_count": 8
   }
  },
