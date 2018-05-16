@@ -4276,7 +4276,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 32978,
+  "lines": 33002,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -4349,42 +4349,42 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-05-15T10:47:09Z",
-   "pushed_at": "2018-05-15T10:47:08Z",
+   "updated_at": "2018-05-16T15:47:45Z",
+   "pushed_at": "2018-05-16T15:47:44Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1372,
-   "stargazers_count": 53,
-   "watchers_count": 53,
+   "size": 1401,
+   "stargazers_count": 54,
+   "watchers_count": 54,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 18,
+   "forks_count": 19,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 233,
+   "open_issues_count": 235,
    "license": {
     "key": "mit",
     "name": "MIT License",
     "spdx_id": "MIT",
     "url": "https://api.github.com/licenses/mit"
    },
-   "forks": 18,
-   "open_issues": 233,
-   "watchers": 53,
+   "forks": 19,
+   "open_issues": 235,
+   "watchers": 54,
    "default_branch": "master",
    "permissions": {
     "admin": true,
     "push": true,
     "pull": true
    },
-   "network_count": 18,
+   "network_count": 19,
    "subscribers_count": 22
   }
  },
@@ -5044,7 +5044,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 8,
+   "forks_count": 9,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 44,
@@ -5054,7 +5054,7 @@
     "spdx_id": "MIT",
     "url": "https://api.github.com/licenses/mit"
    },
-   "forks": 8,
+   "forks": 9,
    "open_issues": 44,
    "watchers": 25,
    "default_branch": "master",
@@ -5063,7 +5063,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 8,
+   "network_count": 9,
    "subscribers_count": 9
   }
  },
