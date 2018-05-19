@@ -928,7 +928,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 61977,
+  "lines": 62445,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1005,14 +1005,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-05-18T15:04:08Z",
-   "pushed_at": "2018-05-16T22:37:18Z",
+   "updated_at": "2018-05-19T08:17:43Z",
+   "pushed_at": "2018-05-19T08:17:42Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 7978,
+   "size": 7989,
    "stargazers_count": 347,
    "watchers_count": 347,
    "language": "ABAP",
@@ -1024,7 +1024,7 @@
    "forks_count": 129,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 128,
+   "open_issues_count": 120,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1032,7 +1032,7 @@
     "url": "https://api.github.com/licenses/mit"
    },
    "forks": 129,
-   "open_issues": 128,
+   "open_issues": 120,
    "watchers": 347,
    "default_branch": "master",
    "permissions": {
@@ -4915,13 +4915,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
    "updated_at": "2018-05-13T06:55:38Z",
-   "pushed_at": "2018-05-13T06:55:37Z",
+   "pushed_at": "2018-05-19T16:05:35Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
    "clone_url": "https://github.com/larshp/ABAP-Swagger.git",
    "svn_url": "https://github.com/larshp/ABAP-Swagger",
    "homepage": "",
-   "size": 61,
+   "size": 64,
    "stargazers_count": 20,
    "watchers_count": 20,
    "language": "ABAP",
@@ -4933,7 +4933,7 @@
    "forks_count": 12,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 14,
+   "open_issues_count": 15,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4941,7 +4941,7 @@
     "url": "https://api.github.com/licenses/mit"
    },
    "forks": 12,
-   "open_issues": 14,
+   "open_issues": 15,
    "watchers": 20,
    "default_branch": "master",
    "permissions": {
