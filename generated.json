@@ -953,7 +953,7 @@
   }
  },
  "Microsoft/ABAP-SDK-for-Azure": {
-  "lines": 9293,
+  "lines": 9297,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -1029,14 +1029,14 @@
    "releases_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2018-06-01T18:09:36Z",
-   "pushed_at": "2018-06-01T18:09:34Z",
+   "updated_at": "2018-06-02T08:35:23Z",
+   "pushed_at": "2018-06-02T09:19:11Z",
    "git_url": "git://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:Microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "svn_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
-   "size": 8108,
+   "size": 8110,
    "stargazers_count": 13,
    "watchers_count": 13,
    "language": "ABAP",
@@ -1045,10 +1045,10 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 4,
+   "open_issues_count": 5,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1056,8 +1056,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 2,
-   "open_issues": 4,
+   "forks": 3,
+   "open_issues": 5,
    "watchers": 13,
    "default_branch": "master",
    "permissions": {
@@ -1085,12 +1085,12 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 2,
-   "subscribers_count": 14
+   "network_count": 3,
+   "subscribers_count": 15
   }
  },
  "larshp/abapGit": {
-  "lines": 63974,
+  "lines": 64045,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1169,14 +1169,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-05-30T21:21:52Z",
-   "pushed_at": "2018-05-31T12:57:50Z",
+   "updated_at": "2018-06-02T10:00:15Z",
+   "pushed_at": "2018-06-02T10:00:14Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8036,
+   "size": 8064,
    "stargazers_count": 349,
    "watchers_count": 349,
    "language": "ABAP",
@@ -1188,7 +1188,7 @@
    "forks_count": 133,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 133,
+   "open_issues_count": 132,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1197,7 +1197,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 133,
-   "open_issues": 133,
+   "open_issues": 132,
    "watchers": 349,
    "default_branch": "master",
    "permissions": {
@@ -1656,7 +1656,7 @@
    "forks_count": 2,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1665,7 +1665,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 0,
+   "open_issues": 1,
    "watchers": 1,
    "default_branch": "master",
    "permissions": {
@@ -4166,7 +4166,7 @@
   }
  },
  "fidley/falv": {
-  "lines": 6770,
+  "lines": 6804,
   "startingFolder": "/CODE/",
   "ignoreFiles": [
    "/.gitignore",
@@ -4250,14 +4250,14 @@
    "releases_url": "https://api.github.com/repos/fidley/falv/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/falv/deployments",
    "created_at": "2016-03-11T09:39:33Z",
-   "updated_at": "2018-06-01T13:10:24Z",
-   "pushed_at": "2018-06-01T13:10:22Z",
+   "updated_at": "2018-06-02T14:10:27Z",
+   "pushed_at": "2018-06-02T14:10:26Z",
    "git_url": "git://github.com/fidley/falv.git",
    "ssh_url": "git@github.com:fidley/falv.git",
    "clone_url": "https://github.com/fidley/falv.git",
    "svn_url": "https://github.com/fidley/falv",
    "homepage": null,
-   "size": 1230,
+   "size": 1259,
    "stargazers_count": 24,
    "watchers_count": 24,
    "language": "ABAP",
@@ -4525,7 +4525,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 33179,
+  "lines": 33467,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -4600,14 +4600,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-05-31T06:51:10Z",
-   "pushed_at": "2018-05-31T11:17:04Z",
+   "updated_at": "2018-06-02T10:15:37Z",
+   "pushed_at": "2018-06-02T14:34:21Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1381,
+   "size": 1403,
    "stargazers_count": 54,
    "watchers_count": 54,
    "language": "ABAP",
@@ -4619,7 +4619,7 @@
    "forks_count": 19,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 241,
+   "open_issues_count": 239,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4628,7 +4628,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 19,
-   "open_issues": 241,
+   "open_issues": 239,
    "watchers": 54,
    "default_branch": "master",
    "permissions": {
