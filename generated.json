@@ -953,15 +953,8 @@
   }
  },
  "Microsoft/ABAP-SDK-for-Azure": {
-  "lines": 9297,
+  "lines": 9242,
   "startingFolder": "/src/",
-  "ignoreFiles": [
-   "/.gitignore",
-   "/LICENSE",
-   "/README.md",
-   "/package.json",
-   "/.travis.yml"
-  ],
   "repo": {
    "id": 124694095,
    "node_id": "MDEwOlJlcG9zaXRvcnkxMjQ2OTQwOTU=",
@@ -1029,16 +1022,16 @@
    "releases_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2018-06-02T08:35:23Z",
-   "pushed_at": "2018-06-02T09:19:11Z",
+   "updated_at": "2018-06-04T11:59:23Z",
+   "pushed_at": "2018-06-04T10:08:04Z",
    "git_url": "git://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:Microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "svn_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
-   "size": 8110,
-   "stargazers_count": 13,
-   "watchers_count": 13,
+   "size": 8109,
+   "stargazers_count": 16,
+   "watchers_count": 16,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1048,7 +1041,7 @@
    "forks_count": 3,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 7,
+   "open_issues_count": 3,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1057,8 +1050,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 3,
-   "open_issues": 7,
-   "watchers": 13,
+   "open_issues": 3,
+   "watchers": 16,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1086,11 +1079,11 @@
     "site_admin": false
    },
    "network_count": 3,
-   "subscribers_count": 15
+   "subscribers_count": 17
   }
  },
  "larshp/abapGit": {
-  "lines": 64050,
+  "lines": 64119,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1169,14 +1162,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-06-03T14:14:38Z",
-   "pushed_at": "2018-06-03T14:14:36Z",
+   "updated_at": "2018-06-04T13:40:36Z",
+   "pushed_at": "2018-06-04T13:40:35Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8153,
+   "size": 8063,
    "stargazers_count": 349,
    "watchers_count": 349,
    "language": "ABAP",
@@ -1188,7 +1181,7 @@
    "forks_count": 133,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 139,
+   "open_issues_count": 136,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1197,7 +1190,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 133,
-   "open_issues": 139,
+   "open_issues": 136,
    "watchers": 349,
    "default_branch": "master",
    "permissions": {
@@ -2737,7 +2730,7 @@
   }
  },
  "nomssi/abap_scheme": {
-  "lines": 19047,
+  "lines": 19143,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -2816,14 +2809,14 @@
    "releases_url": "https://api.github.com/repos/nomssi/abap_scheme/releases{/id}",
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
-   "updated_at": "2018-05-26T07:42:27Z",
-   "pushed_at": "2018-05-26T07:42:26Z",
+   "updated_at": "2018-06-04T13:42:44Z",
+   "pushed_at": "2018-06-04T13:42:42Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": "",
-   "size": 2119,
+   "size": 2214,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
