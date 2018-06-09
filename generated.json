@@ -443,7 +443,7 @@
    "forks_count": 2,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 23,
+   "open_issues_count": 22,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -452,7 +452,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 23,
+   "open_issues": 22,
    "watchers": 19,
    "default_branch": "master",
    "permissions": {
@@ -1083,7 +1083,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 64339,
+  "lines": 64421,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1162,14 +1162,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-06-07T18:38:48Z",
-   "pushed_at": "2018-06-08T06:36:59Z",
+   "updated_at": "2018-06-09T11:14:01Z",
+   "pushed_at": "2018-06-09T11:13:59Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8115,
+   "size": 8164,
    "stargazers_count": 349,
    "watchers_count": 349,
    "language": "ABAP",
@@ -1181,7 +1181,7 @@
    "forks_count": 133,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 147,
+   "open_issues_count": 142,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1190,7 +1190,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 133,
-   "open_issues": 147,
+   "open_issues": 142,
    "watchers": 349,
    "default_branch": "master",
    "permissions": {
