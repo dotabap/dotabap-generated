@@ -1083,7 +1083,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 64488,
+  "lines": 64489,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1162,14 +1162,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-06-11T14:19:49Z",
-   "pushed_at": "2018-06-11T14:50:48Z",
+   "updated_at": "2018-06-12T06:42:23Z",
+   "pushed_at": "2018-06-12T11:34:22Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8160,
+   "size": 8170,
    "stargazers_count": 349,
    "watchers_count": 349,
    "language": "ABAP",
@@ -1181,7 +1181,7 @@
    "forks_count": 133,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 147,
+   "open_issues_count": 137,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1190,7 +1190,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 133,
-   "open_issues": 147,
+   "open_issues": 137,
    "watchers": 349,
    "default_branch": "master",
    "permissions": {
@@ -2588,7 +2588,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 79,
+   "forks_count": 80,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 69,
@@ -2599,7 +2599,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 79,
+   "forks": 80,
    "open_issues": 69,
    "watchers": 145,
    "default_branch": "master",
@@ -2608,7 +2608,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 79,
+   "network_count": 80,
    "subscribers_count": 62
   }
  },
@@ -4612,7 +4612,7 @@
    "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 236,
+   "open_issues_count": 237,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4621,7 +4621,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 20,
-   "open_issues": 236,
+   "open_issues": 237,
    "watchers": 55,
    "default_branch": "master",
    "permissions": {
@@ -4630,7 +4630,7 @@
     "pull": true
    },
    "network_count": 20,
-   "subscribers_count": 21
+   "subscribers_count": 20
   }
  },
  "larshp/abapOrion": {
