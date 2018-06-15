@@ -344,7 +344,7 @@
   }
  },
  "SAP2Moose/SAP2Moose": {
-  "lines": 19600,
+  "lines": 19675,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -424,14 +424,14 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2018-06-13T20:23:58Z",
-   "pushed_at": "2018-06-13T20:23:56Z",
+   "updated_at": "2018-06-15T17:10:29Z",
+   "pushed_at": "2018-06-15T17:10:27Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
    "clone_url": "https://github.com/SAP2Moose/SAP2Moose.git",
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
-   "size": 3981,
+   "size": 4038,
    "stargazers_count": 19,
    "watchers_count": 19,
    "language": "ABAP",
@@ -443,7 +443,7 @@
    "forks_count": 2,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 22,
+   "open_issues_count": 24,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -452,7 +452,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 22,
+   "open_issues": 24,
    "watchers": 19,
    "default_branch": "master",
    "permissions": {
@@ -1022,7 +1022,7 @@
    "releases_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2018-06-08T06:53:31Z",
+   "updated_at": "2018-06-15T01:12:31Z",
    "pushed_at": "2018-06-06T15:50:26Z",
    "git_url": "git://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:Microsoft/ABAP-SDK-for-Azure.git",
@@ -1030,8 +1030,8 @@
    "svn_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
    "size": 8106,
-   "stargazers_count": 19,
-   "watchers_count": 19,
+   "stargazers_count": 20,
+   "watchers_count": 20,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1051,7 +1051,7 @@
    },
    "forks": 5,
    "open_issues": 4,
-   "watchers": 19,
+   "watchers": 20,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1083,7 +1083,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 64766,
+  "lines": 64893,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1162,14 +1162,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-06-14T11:07:37Z",
-   "pushed_at": "2018-06-14T18:34:36Z",
+   "updated_at": "2018-06-15T07:10:06Z",
+   "pushed_at": "2018-06-15T09:22:55Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8248,
+   "size": 8217,
    "stargazers_count": 353,
    "watchers_count": 353,
    "language": "ABAP",
@@ -1181,7 +1181,7 @@
    "forks_count": 133,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 138,
+   "open_issues_count": 140,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1190,7 +1190,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 133,
-   "open_issues": 138,
+   "open_issues": 140,
    "watchers": 353,
    "default_branch": "master",
    "permissions": {
@@ -6961,7 +6961,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 0,
@@ -6972,7 +6972,7 @@
     "url": "https://api.github.com/licenses/bsd-2-clause",
     "node_id": "MDc6TGljZW5zZTQ="
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
    "watchers": 8,
    "default_branch": "master",
@@ -7001,7 +7001,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 4
   }
  }
