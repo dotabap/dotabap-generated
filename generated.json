@@ -1022,7 +1022,7 @@
    "releases_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2018-06-15T01:12:31Z",
+   "updated_at": "2018-06-15T20:24:48Z",
    "pushed_at": "2018-06-06T15:50:26Z",
    "git_url": "git://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:Microsoft/ABAP-SDK-for-Azure.git",
@@ -1030,8 +1030,8 @@
    "svn_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
    "size": 8106,
-   "stargazers_count": 20,
-   "watchers_count": 20,
+   "stargazers_count": 21,
+   "watchers_count": 21,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1051,7 +1051,7 @@
    },
    "forks": 5,
    "open_issues": 4,
-   "watchers": 20,
+   "watchers": 21,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1079,11 +1079,11 @@
     "site_admin": false
    },
    "network_count": 5,
-   "subscribers_count": 20
+   "subscribers_count": 21
   }
  },
  "larshp/abapGit": {
-  "lines": 64893,
+  "lines": 65238,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1162,14 +1162,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-06-15T07:10:06Z",
-   "pushed_at": "2018-06-15T09:22:55Z",
+   "updated_at": "2018-06-17T12:54:04Z",
+   "pushed_at": "2018-06-17T12:54:03Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8217,
+   "size": 8220,
    "stargazers_count": 353,
    "watchers_count": 353,
    "language": "ABAP",
@@ -1181,7 +1181,7 @@
    "forks_count": 133,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 140,
+   "open_issues_count": 138,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1190,7 +1190,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 133,
-   "open_issues": 140,
+   "open_issues": 138,
    "watchers": 353,
    "default_branch": "master",
    "permissions": {
@@ -3782,7 +3782,7 @@
    "forks_count": 7,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3791,7 +3791,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 7,
-   "open_issues": 0,
+   "open_issues": 1,
    "watchers": 17,
    "default_branch": "master",
    "permissions": {
@@ -4630,7 +4630,7 @@
     "pull": true
    },
    "network_count": 20,
-   "subscribers_count": 20
+   "subscribers_count": 21
   }
  },
  "larshp/abapOrion": {
