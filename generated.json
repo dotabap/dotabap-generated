@@ -1023,7 +1023,7 @@
    "releases_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2018-06-18T20:24:19Z",
+   "updated_at": "2018-06-20T19:26:34Z",
    "pushed_at": "2018-06-06T15:50:26Z",
    "git_url": "git://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:Microsoft/ABAP-SDK-for-Azure.git",
@@ -1031,8 +1031,8 @@
    "svn_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
    "size": 8106,
-   "stargazers_count": 21,
-   "watchers_count": 21,
+   "stargazers_count": 22,
+   "watchers_count": 22,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1042,7 +1042,7 @@
    "forks_count": 5,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 4,
+   "open_issues_count": 3,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1051,8 +1051,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 5,
-   "open_issues": 4,
-   "watchers": 21,
+   "open_issues": 3,
+   "watchers": 22,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1080,7 +1080,7 @@
     "site_admin": false
    },
    "network_count": 5,
-   "subscribers_count": 21
+   "subscribers_count": 22
   }
  },
  "larshp/abapGit": {
@@ -1182,7 +1182,7 @@
    "forks_count": 134,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 141,
+   "open_issues_count": 142,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1191,7 +1191,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 134,
-   "open_issues": 141,
+   "open_issues": 142,
    "watchers": 353,
    "default_branch": "master",
    "permissions": {
@@ -2573,7 +2573,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-06-18T20:24:18Z",
+   "updated_at": "2018-06-20T11:08:50Z",
    "pushed_at": "2018-06-03T12:20:03Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
@@ -2581,8 +2581,8 @@
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
    "size": 22893,
-   "stargazers_count": 145,
-   "watchers_count": 145,
+   "stargazers_count": 146,
+   "watchers_count": 146,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2602,7 +2602,7 @@
    },
    "forks": 81,
    "open_issues": 69,
-   "watchers": 145,
+   "watchers": 146,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4595,13 +4595,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2018-06-18T20:24:18Z",
-   "pushed_at": "2018-06-13T13:34:07Z",
+   "pushed_at": "2018-06-20T10:06:24Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1347,
+   "size": 1355,
    "stargazers_count": 55,
    "watchers_count": 55,
    "language": "ABAP",
@@ -4613,7 +4613,7 @@
    "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 238,
+   "open_issues_count": 240,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4622,7 +4622,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 20,
-   "open_issues": 238,
+   "open_issues": 240,
    "watchers": 55,
    "default_branch": "master",
    "permissions": {
