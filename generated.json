@@ -1084,7 +1084,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 66517,
+  "lines": 66596,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1163,14 +1163,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-06-18T20:24:18Z",
-   "pushed_at": "2018-06-19T16:07:19Z",
+   "updated_at": "2018-06-21T12:28:37Z",
+   "pushed_at": "2018-06-21T12:28:36Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8277,
+   "size": 8281,
    "stargazers_count": 353,
    "watchers_count": 353,
    "language": "ABAP",
@@ -1182,7 +1182,7 @@
    "forks_count": 134,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 142,
+   "open_issues_count": 139,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1191,7 +1191,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 134,
-   "open_issues": 142,
+   "open_issues": 139,
    "watchers": 353,
    "default_branch": "master",
    "permissions": {
@@ -4135,7 +4135,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 7,
+   "forks_count": 8,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 5,
@@ -4146,7 +4146,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 7,
+   "forks": 8,
    "open_issues": 5,
    "watchers": 22,
    "default_branch": "master",
@@ -4155,7 +4155,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 7,
+   "network_count": 8,
    "subscribers_count": 7
   }
  },
@@ -4519,7 +4519,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 33538,
+  "lines": 33659,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -4594,8 +4594,8 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-06-18T20:24:18Z",
-   "pushed_at": "2018-06-20T10:06:24Z",
+   "updated_at": "2018-06-21T12:25:55Z",
+   "pushed_at": "2018-06-21T12:25:59Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
@@ -4613,7 +4613,7 @@
    "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 240,
+   "open_issues_count": 241,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4622,7 +4622,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 20,
-   "open_issues": 240,
+   "open_issues": 241,
    "watchers": 55,
    "default_branch": "master",
    "permissions": {
@@ -5770,7 +5770,7 @@
    "releases_url": "https://api.github.com/repos/sbcgua/mockup_loader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/mockup_loader/deployments",
    "created_at": "2015-11-03T17:02:54Z",
-   "updated_at": "2018-06-18T20:24:18Z",
+   "updated_at": "2018-06-21T14:14:48Z",
    "pushed_at": "2017-05-12T18:58:44Z",
    "git_url": "git://github.com/sbcgua/mockup_loader.git",
    "ssh_url": "git@github.com:sbcgua/mockup_loader.git",
@@ -5778,8 +5778,8 @@
    "svn_url": "https://github.com/sbcgua/mockup_loader",
    "homepage": null,
    "size": 303,
-   "stargazers_count": 25,
-   "watchers_count": 25,
+   "stargazers_count": 26,
+   "watchers_count": 26,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -5799,7 +5799,7 @@
    },
    "forks": 5,
    "open_issues": 3,
-   "watchers": 25,
+   "watchers": 26,
    "default_branch": "master",
    "permissions": {
     "admin": false,
