@@ -186,7 +186,7 @@
    "releases_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2018-06-26T18:21:15Z",
+   "updated_at": "2018-07-08T01:19:31Z",
    "pushed_at": "2018-07-04T11:09:25Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
@@ -194,8 +194,8 @@
    "svn_url": "https://github.com/epeterson320/ABAP-Logger",
    "homepage": null,
    "size": 87,
-   "stargazers_count": 75,
-   "watchers_count": 75,
+   "stargazers_count": 74,
+   "watchers_count": 74,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -215,7 +215,7 @@
    },
    "forks": 20,
    "open_issues": 5,
-   "watchers": 75,
+   "watchers": 74,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1202,7 +1202,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 68767,
+  "lines": 69129,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1281,14 +1281,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-07-07T08:40:30Z",
-   "pushed_at": "2018-07-07T16:32:40Z",
+   "updated_at": "2018-07-08T18:54:57Z",
+   "pushed_at": "2018-07-08T19:21:03Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8380,
+   "size": 8446,
    "stargazers_count": 359,
    "watchers_count": 359,
    "language": "ABAP",
@@ -1297,10 +1297,10 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 134,
+   "forks_count": 135,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 162,
+   "open_issues_count": 160,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1308,8 +1308,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 134,
-   "open_issues": 162,
+   "forks": 135,
+   "open_issues": 160,
    "watchers": 359,
    "default_branch": "master",
    "permissions": {
@@ -1317,7 +1317,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 134,
+   "network_count": 135,
    "subscribers_count": 82
   }
  },
