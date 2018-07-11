@@ -1202,7 +1202,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 70145,
+  "lines": 70204,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1281,14 +1281,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-07-11T07:49:44Z",
-   "pushed_at": "2018-07-11T07:45:02Z",
+   "updated_at": "2018-07-11T14:18:12Z",
+   "pushed_at": "2018-07-11T19:11:25Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8477,
+   "size": 8437,
    "stargazers_count": 363,
    "watchers_count": 363,
    "language": "ABAP",
@@ -1300,7 +1300,7 @@
    "forks_count": 138,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 155,
+   "open_issues_count": 156,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1309,7 +1309,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 138,
-   "open_issues": 155,
+   "open_issues": 156,
    "watchers": 363,
    "default_branch": "master",
    "permissions": {
@@ -4712,16 +4712,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-07-09T14:50:33Z",
-   "pushed_at": "2018-07-11T10:40:15Z",
+   "updated_at": "2018-07-11T18:56:13Z",
+   "pushed_at": "2018-07-11T18:09:17Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1408,
-   "stargazers_count": 56,
-   "watchers_count": 56,
+   "size": 1465,
+   "stargazers_count": 57,
+   "watchers_count": 57,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -4731,7 +4731,7 @@
    "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 244,
+   "open_issues_count": 245,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4740,8 +4740,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 20,
-   "open_issues": 244,
-   "watchers": 56,
+   "open_issues": 245,
+   "watchers": 57,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -7238,7 +7238,7 @@
     "pull": true
    },
    "network_count": 1,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  }
 }
