@@ -323,7 +323,7 @@
    "forks_count": 0,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -332,7 +332,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 0,
-   "open_issues": 0,
+   "open_issues": 1,
    "watchers": 4,
    "default_branch": "master",
    "permissions": {
@@ -1202,7 +1202,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 70704,
+  "lines": 69103,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1281,14 +1281,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-07-21T09:36:33Z",
-   "pushed_at": "2018-07-21T15:45:16Z",
+   "updated_at": "2018-07-22T09:55:16Z",
+   "pushed_at": "2018-07-22T11:14:26Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8543,
+   "size": 8558,
    "stargazers_count": 369,
    "watchers_count": 369,
    "language": "ABAP",
@@ -1300,7 +1300,7 @@
    "forks_count": 141,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 153,
+   "open_issues_count": 144,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1309,7 +1309,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 141,
-   "open_issues": 153,
+   "open_issues": 144,
    "watchers": 369,
    "default_branch": "master",
    "permissions": {
@@ -1318,7 +1318,7 @@
     "pull": true
    },
    "network_count": 141,
-   "subscribers_count": 84
+   "subscribers_count": 82
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -5294,13 +5294,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
    "updated_at": "2018-06-26T18:22:39Z",
-   "pushed_at": "2018-05-20T10:47:07Z",
+   "pushed_at": "2018-07-22T14:55:35Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
    "clone_url": "https://github.com/larshp/ABAP-Swagger.git",
    "svn_url": "https://github.com/larshp/ABAP-Swagger",
    "homepage": "",
-   "size": 64,
+   "size": 61,
    "stargazers_count": 22,
    "watchers_count": 22,
    "language": "ABAP",
@@ -5312,7 +5312,7 @@
    "forks_count": 12,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 17,
+   "open_issues_count": 16,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5321,7 +5321,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 12,
-   "open_issues": 17,
+   "open_issues": 16,
    "watchers": 22,
    "default_branch": "master",
    "permissions": {
