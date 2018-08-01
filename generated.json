@@ -1202,7 +1202,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 69830,
+  "lines": 69828,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1281,14 +1281,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-07-31T15:31:21Z",
-   "pushed_at": "2018-07-31T18:18:40Z",
+   "updated_at": "2018-08-01T16:55:34Z",
+   "pushed_at": "2018-08-01T17:01:10Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8704,
+   "size": 8707,
    "stargazers_count": 371,
    "watchers_count": 371,
    "language": "ABAP",
@@ -1300,7 +1300,7 @@
    "forks_count": 141,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 134,
+   "open_issues_count": 135,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1309,7 +1309,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 141,
-   "open_issues": 134,
+   "open_issues": 135,
    "watchers": 371,
    "default_branch": "master",
    "permissions": {
@@ -2692,7 +2692,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-07-30T19:20:24Z",
+   "updated_at": "2018-08-01T14:01:23Z",
    "pushed_at": "2018-07-31T06:10:51Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
@@ -2711,7 +2711,7 @@
    "forks_count": 83,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 71,
+   "open_issues_count": 73,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -2720,7 +2720,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 83,
-   "open_issues": 71,
+   "open_issues": 73,
    "watchers": 153,
    "default_branch": "master",
    "permissions": {
@@ -6612,7 +6612,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 12,
+   "forks_count": 13,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 1,
@@ -6623,7 +6623,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 12,
+   "forks": 13,
    "open_issues": 1,
    "watchers": 42,
    "default_branch": "master",
@@ -6632,7 +6632,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 12,
+   "network_count": 13,
    "subscribers_count": 22
   }
  },
