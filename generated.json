@@ -1202,7 +1202,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 69830,
+  "lines": 69823,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1281,16 +1281,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-08-02T04:48:16Z",
-   "pushed_at": "2018-08-02T09:37:28Z",
+   "updated_at": "2018-08-03T12:49:55Z",
+   "pushed_at": "2018-08-03T15:22:07Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8714,
-   "stargazers_count": 371,
-   "watchers_count": 371,
+   "size": 8748,
+   "stargazers_count": 372,
+   "watchers_count": 372,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -1300,7 +1300,7 @@
    "forks_count": 141,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 137,
+   "open_issues_count": 138,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1309,8 +1309,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 141,
-   "open_issues": 137,
-   "watchers": 371,
+   "open_issues": 138,
+   "watchers": 372,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -1318,7 +1318,7 @@
     "pull": true
    },
    "network_count": 141,
-   "subscribers_count": 82
+   "subscribers_count": 83
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -4279,7 +4279,7 @@
   }
  },
  "fidley/falv": {
-  "lines": 7351,
+  "lines": 7422,
   "startingFolder": "/CODE/",
   "ignoreFiles": [
    "/.gitignore",
@@ -4363,14 +4363,14 @@
    "releases_url": "https://api.github.com/repos/fidley/falv/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/falv/deployments",
    "created_at": "2016-03-11T09:39:33Z",
-   "updated_at": "2018-08-02T07:56:20Z",
-   "pushed_at": "2018-08-02T07:56:19Z",
+   "updated_at": "2018-08-03T13:56:47Z",
+   "pushed_at": "2018-08-03T13:56:46Z",
    "git_url": "git://github.com/fidley/falv.git",
    "ssh_url": "git@github.com:fidley/falv.git",
    "clone_url": "https://github.com/fidley/falv.git",
    "svn_url": "https://github.com/fidley/falv",
    "homepage": null,
-   "size": 1283,
+   "size": 1337,
    "stargazers_count": 27,
    "watchers_count": 27,
    "language": "ABAP",
@@ -4379,7 +4379,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 14,
+   "forks_count": 15,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 6,
@@ -4390,7 +4390,7 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "node_id": "MDc6TGljZW5zZTk="
    },
-   "forks": 14,
+   "forks": 15,
    "open_issues": 6,
    "watchers": 27,
    "default_branch": "master",
@@ -4399,7 +4399,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 14,
+   "network_count": 15,
    "subscribers_count": 12
   }
  },
@@ -4713,8 +4713,8 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-08-01T21:17:11Z",
-   "pushed_at": "2018-07-29T08:17:49Z",
+   "updated_at": "2018-08-03T13:37:26Z",
+   "pushed_at": "2018-08-03T13:37:24Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
@@ -4732,7 +4732,7 @@
    "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 246,
+   "open_issues_count": 248,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4741,7 +4741,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 20,
-   "open_issues": 246,
+   "open_issues": 248,
    "watchers": 59,
    "default_branch": "master",
    "permissions": {
