@@ -304,7 +304,7 @@
    "releases_url": "https://api.github.com/repos/tricktresor/gladius/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/gladius/deployments",
    "created_at": "2017-06-28T22:25:27Z",
-   "updated_at": "2018-07-12T21:51:50Z",
+   "updated_at": "2018-08-04T19:15:38Z",
    "pushed_at": "2018-07-12T21:51:49Z",
    "git_url": "git://github.com/tricktresor/gladius.git",
    "ssh_url": "git@github.com:tricktresor/gladius.git",
@@ -312,8 +312,8 @@
    "svn_url": "https://github.com/tricktresor/gladius",
    "homepage": null,
    "size": 52,
-   "stargazers_count": 4,
-   "watchers_count": 4,
+   "stargazers_count": 5,
+   "watchers_count": 5,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -333,7 +333,7 @@
    },
    "forks": 0,
    "open_issues": 1,
-   "watchers": 4,
+   "watchers": 5,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1202,7 +1202,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 69823,
+  "lines": 69991,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1281,14 +1281,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-08-03T12:49:55Z",
-   "pushed_at": "2018-08-03T15:22:07Z",
+   "updated_at": "2018-08-04T08:14:52Z",
+   "pushed_at": "2018-08-04T11:06:09Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8748,
+   "size": 8821,
    "stargazers_count": 372,
    "watchers_count": 372,
    "language": "ABAP",
@@ -1318,7 +1318,7 @@
     "pull": true
    },
    "network_count": 141,
-   "subscribers_count": 83
+   "subscribers_count": 82
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -4713,14 +4713,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-08-03T13:37:26Z",
-   "pushed_at": "2018-08-03T13:37:24Z",
+   "updated_at": "2018-08-04T08:51:19Z",
+   "pushed_at": "2018-08-04T08:51:17Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1409,
+   "size": 1418,
    "stargazers_count": 59,
    "watchers_count": 59,
    "language": "ABAP",
@@ -4868,7 +4868,7 @@
   }
  },
  "larshp/abapOpenReview": {
-  "lines": 3478,
+  "lines": 3479,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -4944,14 +4944,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenReview/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenReview/deployments",
    "created_at": "2015-01-30T10:37:29Z",
-   "updated_at": "2017-06-09T14:59:48Z",
-   "pushed_at": "2017-06-25T17:50:41Z",
+   "updated_at": "2018-08-04T12:22:19Z",
+   "pushed_at": "2018-08-04T12:22:18Z",
    "git_url": "git://github.com/larshp/abapOpenReview.git",
    "ssh_url": "git@github.com:larshp/abapOpenReview.git",
    "clone_url": "https://github.com/larshp/abapOpenReview.git",
    "svn_url": "https://github.com/larshp/abapOpenReview",
    "homepage": null,
-   "size": 170,
+   "size": 173,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -5429,7 +5429,7 @@
    "forks_count": 11,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 46,
+   "open_issues_count": 47,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5438,7 +5438,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 11,
-   "open_issues": 46,
+   "open_issues": 47,
    "watchers": 28,
    "default_branch": "master",
    "permissions": {
