@@ -838,7 +838,7 @@
   }
  },
  "abapGit/background_modes": {
-  "lines": 472,
+  "lines": 712,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -914,14 +914,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/background_modes/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/background_modes/deployments",
    "created_at": "2018-08-04T09:05:15Z",
-   "updated_at": "2018-08-05T06:43:59Z",
-   "pushed_at": "2018-08-05T06:43:58Z",
+   "updated_at": "2018-08-05T12:55:04Z",
+   "pushed_at": "2018-08-05T12:55:03Z",
    "git_url": "git://github.com/abapGit/background_modes.git",
    "ssh_url": "git@github.com:abapGit/background_modes.git",
    "clone_url": "https://github.com/abapGit/background_modes.git",
    "svn_url": "https://github.com/abapGit/background_modes",
    "homepage": null,
-   "size": 9,
+   "size": 28,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -1339,7 +1339,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 70090,
+  "lines": 70049,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1418,14 +1418,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-08-05T06:08:44Z",
-   "pushed_at": "2018-08-05T06:08:43Z",
+   "updated_at": "2018-08-05T13:12:17Z",
+   "pushed_at": "2018-08-05T17:44:02Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8821,
+   "size": 8954,
    "stargazers_count": 372,
    "watchers_count": 372,
    "language": "ABAP",
@@ -1437,7 +1437,7 @@
    "forks_count": 141,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 135,
+   "open_issues_count": 138,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1446,7 +1446,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 141,
-   "open_issues": 135,
+   "open_issues": 138,
    "watchers": 372,
    "default_branch": "master",
    "permissions": {
@@ -4869,7 +4869,7 @@
    "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 248,
+   "open_issues_count": 247,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4878,7 +4878,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 20,
-   "open_issues": 248,
+   "open_issues": 247,
    "watchers": 59,
    "default_branch": "master",
    "permissions": {
