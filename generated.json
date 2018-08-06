@@ -933,7 +933,7 @@
    "forks_count": 0,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -942,7 +942,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 0,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 0,
    "default_branch": "master",
    "permissions": {
@@ -1339,7 +1339,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 70049,
+  "lines": 70160,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1418,14 +1418,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-08-05T13:12:17Z",
-   "pushed_at": "2018-08-05T17:44:02Z",
+   "updated_at": "2018-08-06T18:06:20Z",
+   "pushed_at": "2018-08-06T19:25:32Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8954,
+   "size": 8878,
    "stargazers_count": 372,
    "watchers_count": 372,
    "language": "ABAP",
@@ -1434,10 +1434,10 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 141,
+   "forks_count": 142,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 138,
+   "open_issues_count": 135,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1445,8 +1445,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 141,
-   "open_issues": 138,
+   "forks": 142,
+   "open_issues": 135,
    "watchers": 372,
    "default_branch": "master",
    "permissions": {
@@ -1454,7 +1454,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 141,
+   "network_count": 142,
    "subscribers_count": 82
   }
  },
@@ -2829,7 +2829,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-08-01T20:43:21Z",
+   "updated_at": "2018-08-06T17:19:51Z",
    "pushed_at": "2018-07-31T06:10:51Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
@@ -2837,18 +2837,18 @@
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
    "size": 23034,
-   "stargazers_count": 154,
-   "watchers_count": 154,
+   "stargazers_count": 156,
+   "watchers_count": 156,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 83,
+   "forks_count": 84,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 73,
+   "open_issues_count": 74,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -2856,16 +2856,16 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 83,
-   "open_issues": 73,
-   "watchers": 154,
+   "forks": 84,
+   "open_issues": 74,
+   "watchers": 156,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
     "pull": true
    },
-   "network_count": 83,
+   "network_count": 84,
    "subscribers_count": 62
   }
  },
@@ -4036,7 +4036,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 8,
+   "forks_count": 9,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 1,
@@ -4047,7 +4047,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 8,
+   "forks": 9,
    "open_issues": 1,
    "watchers": 21,
    "default_branch": "master",
@@ -4056,7 +4056,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 8,
+   "network_count": 9,
    "subscribers_count": 9
   }
  },
@@ -4416,7 +4416,7 @@
   }
  },
  "fidley/falv": {
-  "lines": 7422,
+  "lines": 7428,
   "startingFolder": "/CODE/",
   "ignoreFiles": [
    "/.gitignore",
@@ -4500,16 +4500,16 @@
    "releases_url": "https://api.github.com/repos/fidley/falv/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/falv/deployments",
    "created_at": "2016-03-11T09:39:33Z",
-   "updated_at": "2018-08-03T13:56:47Z",
-   "pushed_at": "2018-08-03T13:56:46Z",
+   "updated_at": "2018-08-06T18:14:45Z",
+   "pushed_at": "2018-08-06T18:14:43Z",
    "git_url": "git://github.com/fidley/falv.git",
    "ssh_url": "git@github.com:fidley/falv.git",
    "clone_url": "https://github.com/fidley/falv.git",
    "svn_url": "https://github.com/fidley/falv",
    "homepage": null,
-   "size": 1337,
-   "stargazers_count": 27,
-   "watchers_count": 27,
+   "size": 1351,
+   "stargazers_count": 28,
+   "watchers_count": 28,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4529,7 +4529,7 @@
    },
    "forks": 15,
    "open_issues": 6,
-   "watchers": 27,
+   "watchers": 28,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4537,7 +4537,7 @@
     "pull": true
    },
    "network_count": 15,
-   "subscribers_count": 12
+   "subscribers_count": 13
   }
  },
  "larshp/Datamatrix": {
@@ -4869,7 +4869,7 @@
    "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 247,
+   "open_issues_count": 248,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4878,7 +4878,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 20,
-   "open_issues": 247,
+   "open_issues": 248,
    "watchers": 59,
    "default_branch": "master",
    "permissions": {
