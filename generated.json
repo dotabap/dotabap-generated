@@ -186,7 +186,7 @@
    "releases_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2018-07-31T07:17:20Z",
+   "updated_at": "2018-08-10T16:03:34Z",
    "pushed_at": "2018-07-04T11:09:25Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
@@ -194,8 +194,8 @@
    "svn_url": "https://github.com/epeterson320/ABAP-Logger",
    "homepage": null,
    "size": 87,
-   "stargazers_count": 78,
-   "watchers_count": 78,
+   "stargazers_count": 79,
+   "watchers_count": 79,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -215,7 +215,7 @@
    },
    "forks": 20,
    "open_issues": 5,
-   "watchers": 78,
+   "watchers": 79,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -223,7 +223,7 @@
     "pull": true
    },
    "network_count": 20,
-   "subscribers_count": 25
+   "subscribers_count": 26
   }
  },
  "tricktresor/gladius": {
@@ -542,7 +542,7 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2018-08-01T20:44:59Z",
+   "updated_at": "2018-08-10T16:22:01Z",
    "pushed_at": "2018-06-15T17:10:27Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
@@ -558,7 +558,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 2,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 24,
@@ -569,7 +569,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 2,
+   "forks": 4,
    "open_issues": 24,
    "watchers": 20,
    "default_branch": "master",
@@ -598,8 +598,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 2,
-   "subscribers_count": 7
+   "network_count": 4,
+   "subscribers_count": 8
   }
  },
  "cesar-sap/abap_geocoder_ces": {
@@ -1339,7 +1339,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 70348,
+  "lines": 70416,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -1419,26 +1419,26 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-08-09T13:46:12Z",
-   "pushed_at": "2018-08-09T09:28:02Z",
+   "updated_at": "2018-08-10T14:47:54Z",
+   "pushed_at": "2018-08-10T10:20:45Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 8947,
-   "stargazers_count": 373,
-   "watchers_count": 373,
+   "size": 8954,
+   "stargazers_count": 374,
+   "watchers_count": 374,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 143,
+   "forks_count": 144,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 127,
+   "open_issues_count": 128,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1446,16 +1446,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 143,
-   "open_issues": 127,
-   "watchers": 373,
+   "forks": 144,
+   "open_issues": 128,
+   "watchers": 374,
    "default_branch": "master",
    "permissions": {
     "admin": true,
     "push": true,
     "pull": true
    },
-   "network_count": 143,
+   "network_count": 144,
    "subscribers_count": 83
   }
  },
@@ -2849,7 +2849,7 @@
    "forks_count": 84,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 76,
+   "open_issues_count": 75,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -2858,7 +2858,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 84,
-   "open_issues": 76,
+   "open_issues": 75,
    "watchers": 156,
    "default_branch": "master",
    "permissions": {
@@ -4021,7 +4021,7 @@
    "releases_url": "https://api.github.com/repos/jasper07/Teched17/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jasper07/Teched17/deployments",
    "created_at": "2017-08-11T07:41:30Z",
-   "updated_at": "2018-08-01T21:17:27Z",
+   "updated_at": "2018-08-10T15:40:13Z",
    "pushed_at": "2018-01-19T10:20:58Z",
    "git_url": "git://github.com/jasper07/Teched17.git",
    "ssh_url": "git@github.com:jasper07/Teched17.git",
@@ -4029,15 +4029,15 @@
    "svn_url": "https://github.com/jasper07/Teched17",
    "homepage": "",
    "size": 11365,
-   "stargazers_count": 21,
-   "watchers_count": 21,
+   "stargazers_count": 22,
+   "watchers_count": 22,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 9,
+   "forks_count": 10,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 1,
@@ -4048,17 +4048,17 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 9,
+   "forks": 10,
    "open_issues": 1,
-   "watchers": 21,
+   "watchers": 22,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
     "pull": true
    },
-   "network_count": 9,
-   "subscribers_count": 9
+   "network_count": 10,
+   "subscribers_count": 10
   }
  },
  "alborghetti/ABAPFire": {
@@ -4618,7 +4618,7 @@
    "releases_url": "https://api.github.com/repos/larshp/Datamatrix/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/Datamatrix/deployments",
    "created_at": "2014-06-23T05:50:46Z",
-   "updated_at": "2018-05-20T10:50:10Z",
+   "updated_at": "2018-08-10T16:08:22Z",
    "pushed_at": "2018-05-20T10:50:09Z",
    "git_url": "git://github.com/larshp/Datamatrix.git",
    "ssh_url": "git@github.com:larshp/Datamatrix.git",
@@ -4626,8 +4626,8 @@
    "svn_url": "https://github.com/larshp/Datamatrix",
    "homepage": "",
    "size": 32,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": false,
    "has_projects": false,
@@ -4647,7 +4647,7 @@
    },
    "forks": 3,
    "open_issues": 0,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -4870,7 +4870,7 @@
    "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 244,
+   "open_issues_count": 245,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4879,7 +4879,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 20,
-   "open_issues": 244,
+   "open_issues": 245,
    "watchers": 59,
    "default_branch": "master",
    "permissions": {
