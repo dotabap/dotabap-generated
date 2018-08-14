@@ -1593,7 +1593,7 @@
     "pull": true
    },
    "network_count": 147,
-   "subscribers_count": 83
+   "subscribers_count": 84
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -2967,7 +2967,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-08-06T17:19:51Z",
+   "updated_at": "2018-08-14T07:44:50Z",
    "pushed_at": "2018-07-31T06:10:51Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
@@ -2975,8 +2975,8 @@
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
    "size": 23034,
-   "stargazers_count": 156,
-   "watchers_count": 156,
+   "stargazers_count": 157,
+   "watchers_count": 157,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2996,7 +2996,7 @@
    },
    "forks": 84,
    "open_issues": 75,
-   "watchers": 156,
+   "watchers": 157,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6095,7 +6095,7 @@
   }
  },
  "sbcgua/mockup_loader": {
-  "lines": 3204,
+  "lines": 3292,
   "startingFolder": "/src/",
   "repo": {
    "id": 45481794,
@@ -6164,14 +6164,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/mockup_loader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/mockup_loader/deployments",
    "created_at": "2015-11-03T17:02:54Z",
-   "updated_at": "2018-08-12T12:29:07Z",
-   "pushed_at": "2018-08-12T12:29:06Z",
+   "updated_at": "2018-08-14T17:19:58Z",
+   "pushed_at": "2018-08-14T17:19:57Z",
    "git_url": "git://github.com/sbcgua/mockup_loader.git",
    "ssh_url": "git@github.com:sbcgua/mockup_loader.git",
    "clone_url": "https://github.com/sbcgua/mockup_loader.git",
    "svn_url": "https://github.com/sbcgua/mockup_loader",
    "homepage": null,
-   "size": 329,
+   "size": 350,
    "stargazers_count": 28,
    "watchers_count": 28,
    "language": "ABAP",
