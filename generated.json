@@ -227,7 +227,7 @@
   }
  },
  "tricktresor/gladius": {
-  "lines": 964,
+  "lines": 972,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
@@ -304,8 +304,8 @@
    "releases_url": "https://api.github.com/repos/tricktresor/gladius/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/gladius/deployments",
    "created_at": "2017-06-28T22:25:27Z",
-   "updated_at": "2018-08-04T19:15:38Z",
-   "pushed_at": "2018-07-12T21:51:49Z",
+   "updated_at": "2018-09-04T19:56:01Z",
+   "pushed_at": "2018-09-04T19:56:00Z",
    "git_url": "git://github.com/tricktresor/gladius.git",
    "ssh_url": "git@github.com:tricktresor/gladius.git",
    "clone_url": "https://github.com/tricktresor/gladius.git",
@@ -323,7 +323,7 @@
    "forks_count": 1,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -332,7 +332,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 1,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 5,
    "default_branch": "master",
    "permissions": {
@@ -1863,7 +1863,7 @@
     "site_admin": false
    },
    "network_count": 6,
-   "subscribers_count": 23
+   "subscribers_count": 22
   }
  },
  "larshp/abapGit": {
@@ -1947,7 +1947,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-09-03T16:40:58Z",
+   "updated_at": "2018-09-04T16:54:13Z",
    "pushed_at": "2018-09-03T16:40:56Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
@@ -1955,8 +1955,8 @@
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
    "size": 9162,
-   "stargazers_count": 384,
-   "watchers_count": 384,
+   "stargazers_count": 385,
+   "watchers_count": 385,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -1966,7 +1966,7 @@
    "forks_count": 151,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 132,
+   "open_issues_count": 133,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1975,8 +1975,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 151,
-   "open_issues": 132,
-   "watchers": 384,
+   "open_issues": 133,
+   "watchers": 385,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -1984,7 +1984,7 @@
     "pull": true
    },
    "network_count": 151,
-   "subscribers_count": 85
+   "subscribers_count": 87
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -3358,7 +3358,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-08-31T15:04:39Z",
+   "updated_at": "2018-09-04T08:31:09Z",
    "pushed_at": "2018-08-19T22:27:31Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
@@ -3366,8 +3366,8 @@
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
    "size": 23110,
-   "stargazers_count": 160,
-   "watchers_count": 160,
+   "stargazers_count": 162,
+   "watchers_count": 162,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3387,7 +3387,7 @@
    },
    "forks": 85,
    "open_issues": 76,
-   "watchers": 160,
+   "watchers": 162,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5398,7 +5398,7 @@
    "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 250,
+   "open_issues_count": 251,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5407,7 +5407,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 20,
-   "open_issues": 250,
+   "open_issues": 251,
    "watchers": 61,
    "default_branch": "master",
    "permissions": {
@@ -6556,7 +6556,7 @@
    "deployments_url": "https://api.github.com/repos/sbcgua/mockup_loader/deployments",
    "created_at": "2015-11-03T17:02:54Z",
    "updated_at": "2018-09-02T16:07:42Z",
-   "pushed_at": "2018-09-03T07:03:13Z",
+   "pushed_at": "2018-09-04T03:28:23Z",
    "git_url": "git://github.com/sbcgua/mockup_loader.git",
    "ssh_url": "git@github.com:sbcgua/mockup_loader.git",
    "clone_url": "https://github.com/sbcgua/mockup_loader.git",
@@ -6675,14 +6675,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/abap_data_parser/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/abap_data_parser/deployments",
    "created_at": "2016-08-13T09:37:35Z",
-   "updated_at": "2018-09-03T15:18:47Z",
-   "pushed_at": "2018-09-03T03:38:13Z",
+   "updated_at": "2018-09-04T14:01:35Z",
+   "pushed_at": "2018-09-04T14:01:33Z",
    "git_url": "git://github.com/sbcgua/abap_data_parser.git",
    "ssh_url": "git@github.com:sbcgua/abap_data_parser.git",
    "clone_url": "https://github.com/sbcgua/abap_data_parser.git",
    "svn_url": "https://github.com/sbcgua/abap_data_parser",
    "homepage": null,
-   "size": 110,
+   "size": 86,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -6694,7 +6694,7 @@
    "forks_count": 1,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 2,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6703,7 +6703,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 1,
-   "open_issues": 2,
+   "open_issues": 1,
    "watchers": 3,
    "default_branch": "master",
    "permissions": {
