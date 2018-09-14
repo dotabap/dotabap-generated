@@ -493,7 +493,7 @@
   ],
   "parsing": {
    "version": "0.30.7",
-   "issues": 4
+   "issues": 1
   },
   "repo": {
    "id": 50174079,
@@ -562,8 +562,8 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2018-08-10T16:22:01Z",
-   "pushed_at": "2018-09-09T10:44:25Z",
+   "updated_at": "2018-09-14T20:06:54Z",
+   "pushed_at": "2018-09-14T20:06:53Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
    "clone_url": "https://github.com/SAP2Moose/SAP2Moose.git",
@@ -581,7 +581,7 @@
    "forks_count": 6,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 26,
+   "open_issues_count": 24,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -590,7 +590,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 6,
-   "open_issues": 26,
+   "open_issues": 24,
    "watchers": 20,
    "default_branch": "master",
    "permissions": {
@@ -1627,7 +1627,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 0,
@@ -1638,7 +1638,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 0,
+   "forks": 1,
    "open_issues": 0,
    "watchers": 3,
    "default_branch": "master",
@@ -1667,7 +1667,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 8
   }
  },
@@ -2253,16 +2253,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-09-10T16:39:01Z",
-   "pushed_at": "2018-09-13T05:59:10Z",
+   "updated_at": "2018-09-14T07:45:27Z",
+   "pushed_at": "2018-09-14T09:19:28Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
    "size": 9181,
-   "stargazers_count": 387,
-   "watchers_count": 387,
+   "stargazers_count": 389,
+   "watchers_count": 389,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -2272,7 +2272,7 @@
    "forks_count": 154,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 139,
+   "open_issues_count": 140,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2281,8 +2281,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 154,
-   "open_issues": 139,
-   "watchers": 387,
+   "open_issues": 140,
+   "watchers": 389,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -2290,7 +2290,7 @@
     "pull": true
    },
    "network_count": 154,
-   "subscribers_count": 86
+   "subscribers_count": 88
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -3728,10 +3728,10 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 87,
+   "forks_count": 88,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 78,
+   "open_issues_count": 77,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -3739,8 +3739,8 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 87,
-   "open_issues": 78,
+   "forks": 88,
+   "open_issues": 77,
    "watchers": 164,
    "default_branch": "master",
    "permissions": {
@@ -3748,7 +3748,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 87,
+   "network_count": 88,
    "subscribers_count": 63
   }
  },
@@ -6302,7 +6302,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 2,
@@ -6313,7 +6313,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 2,
+   "forks": 3,
    "open_issues": 2,
    "watchers": 6,
    "default_branch": "master",
@@ -6322,7 +6322,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 2,
+   "network_count": 3,
    "subscribers_count": 5
   }
  },
@@ -6544,7 +6544,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 11,
+   "forks_count": 12,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 47,
@@ -6555,7 +6555,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 11,
+   "forks": 12,
    "open_issues": 47,
    "watchers": 30,
    "default_branch": "master",
@@ -6564,7 +6564,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 11,
+   "network_count": 12,
    "subscribers_count": 11
   }
  },
@@ -7891,7 +7891,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 0,
@@ -7902,7 +7902,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
    "watchers": 5,
    "default_branch": "master",
@@ -7911,7 +7911,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 3
   }
  },
