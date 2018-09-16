@@ -3,8 +3,9 @@
   "lines": 3731,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "0.30.7",
-   "issues": 2
+   "version": "0.30.8",
+   "issues": 2,
+   "cloud": 76
   },
   "repo": {
    "id": 81438973,
@@ -124,8 +125,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 22
   },
   "repo": {
    "id": 23935101,
@@ -246,8 +248,9 @@
    "/Logo_Gladius_01.png"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 22
   },
   "repo": {
    "id": 95716709,
@@ -367,8 +370,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 12
   },
   "repo": {
    "id": 42476879,
@@ -492,8 +496,9 @@
    "/changelog_release_in_preparation.txt"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 1
+   "version": "0.30.8",
+   "issues": 1,
+   "cloud": 1007
   },
   "repo": {
    "id": 50174079,
@@ -633,8 +638,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 21
   },
   "repo": {
    "id": 81007204,
@@ -754,8 +760,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 353
   },
   "repo": {
    "id": 140883922,
@@ -876,8 +883,9 @@
    "/SICF.jpg"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 144
   },
   "repo": {
    "id": 17319122,
@@ -997,8 +1005,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 32
+   "version": "0.30.8",
+   "issues": 4,
+   "cloud": 764
   },
   "repo": {
    "id": 138191413,
@@ -1118,8 +1127,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 1
   },
   "repo": {
    "id": 143514031,
@@ -1259,8 +1269,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 60
   },
   "repo": {
    "id": 140464791,
@@ -1400,8 +1411,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 0
   },
   "repo": {
    "id": 93855546,
@@ -1541,8 +1553,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 10
   },
   "repo": {
    "id": 93855522,
@@ -1682,8 +1695,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 166
   },
   "repo": {
    "id": 120720998,
@@ -1803,8 +1817,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 0
   },
   "repo": {
    "id": 130444743,
@@ -1924,8 +1939,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 1
+   "version": "0.30.8",
+   "issues": 1,
+   "cloud": 176
   },
   "repo": {
    "id": 125153122,
@@ -2035,11 +2051,12 @@
   }
  },
  "Microsoft/ABAP-SDK-for-Azure": {
-  "lines": 8465,
+  "lines": 8519,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 430
   },
   "repo": {
    "id": 124694095,
@@ -2108,16 +2125,16 @@
    "releases_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2018-09-07T06:31:55Z",
-   "pushed_at": "2018-09-07T06:31:53Z",
+   "updated_at": "2018-09-16T07:01:19Z",
+   "pushed_at": "2018-09-16T06:48:58Z",
    "git_url": "git://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:Microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "svn_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
-   "size": 8082,
-   "stargazers_count": 33,
-   "watchers_count": 33,
+   "size": 9794,
+   "stargazers_count": 35,
+   "watchers_count": 35,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2137,7 +2154,7 @@
    },
    "forks": 7,
    "open_issues": 3,
-   "watchers": 33,
+   "watchers": 35,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -2169,7 +2186,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 72970,
+  "lines": 73326,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -2183,8 +2200,9 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 636
   },
   "repo": {
    "id": 21115149,
@@ -2253,8 +2271,8 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-09-15T13:10:50Z",
-   "pushed_at": "2018-09-15T14:56:24Z",
+   "updated_at": "2018-09-16T08:05:57Z",
+   "pushed_at": "2018-09-16T08:05:55Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
@@ -2272,7 +2290,7 @@
    "forks_count": 154,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 141,
+   "open_issues_count": 139,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2281,7 +2299,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 154,
-   "open_issues": 141,
+   "open_issues": 139,
    "watchers": 389,
    "default_branch": "master",
    "permissions": {
@@ -2304,8 +2322,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 65
   },
   "repo": {
    "id": 125764255,
@@ -2425,8 +2444,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 31
   },
   "repo": {
    "id": 83204921,
@@ -2546,8 +2566,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 3
+   "version": "0.30.8",
+   "issues": 3,
+   "cloud": 22
   },
   "repo": {
    "id": 99508106,
@@ -2667,8 +2688,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 22
   },
   "repo": {
    "id": 116265284,
@@ -2788,8 +2810,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 4
+   "version": "0.30.8",
+   "issues": 4,
+   "cloud": 81
   },
   "repo": {
    "id": 120045110,
@@ -2909,8 +2932,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 29
   },
   "repo": {
    "id": 115229976,
@@ -3030,8 +3054,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 2
+   "version": "0.30.8",
+   "issues": 2,
+   "cloud": 93
   },
   "repo": {
    "id": 115227765,
@@ -3151,8 +3176,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 35
   },
   "repo": {
    "id": 115228857,
@@ -3278,8 +3304,9 @@
    "/mimes/start_screen.jpg"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 2
+   "version": "0.30.8",
+   "issues": 2,
+   "cloud": 34
   },
   "repo": {
    "id": 86985256,
@@ -3399,8 +3426,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 45
   },
   "repo": {
    "id": 117000021,
@@ -3520,8 +3548,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 24
   },
   "repo": {
    "id": 115225445,
@@ -3642,8 +3671,9 @@
    "/_config.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 798
   },
   "repo": {
    "id": 15457787,
@@ -3763,8 +3793,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 62
   },
   "repo": {
    "id": 113069738,
@@ -3887,8 +3918,9 @@
    "/src/.gitkeep"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 4
+   "version": "0.30.8",
+   "issues": 4,
+   "cloud": 839
   },
   "repo": {
    "id": 109576420,
@@ -4008,8 +4040,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 39
   },
   "repo": {
    "id": 106196999,
@@ -4129,8 +4162,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 1
   },
   "repo": {
    "id": 110137116,
@@ -4270,8 +4304,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 25
   },
   "repo": {
    "id": 93239143,
@@ -4391,8 +4426,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 0
   },
   "repo": {
    "id": 111907557,
@@ -4512,8 +4548,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 22
   },
   "repo": {
    "id": 27563882,
@@ -4633,8 +4670,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 1
   },
   "repo": {
    "id": 42304055,
@@ -4754,8 +4792,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 6
+   "version": "0.30.8",
+   "issues": 6,
+   "cloud": 12
   },
   "repo": {
    "id": 82910912,
@@ -4879,8 +4918,9 @@
    "/DX134_49973_Presentation_1.pdf"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 5
   },
   "repo": {
    "id": 100005965,
@@ -5002,8 +5042,9 @@
    "/docs/img/retrieve_keys.JPG"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 2
+   "version": "0.30.8",
+   "issues": 2,
+   "cloud": 28
   },
   "repo": {
    "id": 100637115,
@@ -5123,8 +5164,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 1
+   "version": "0.30.8",
+   "issues": 1,
+   "cloud": 56
   },
   "repo": {
    "id": 99661400,
@@ -5246,8 +5288,9 @@
    "/License.txt"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 16
   },
   "repo": {
    "id": 38386958,
@@ -5375,8 +5418,9 @@
    "/CODE/abapgit/readme"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 8
+   "version": "0.30.8",
+   "issues": 8,
+   "cloud": 144
   },
   "repo": {
    "id": 53656405,
@@ -5496,8 +5540,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 7
   },
   "repo": {
    "id": 21115365,
@@ -5617,8 +5662,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 20
   },
   "repo": {
    "id": 51525616,
@@ -5737,8 +5783,9 @@
    "/package.json"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 2225
   },
   "repo": {
    "id": 21558384,
@@ -5855,8 +5902,9 @@
    "/README.md"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 74
   },
   "repo": {
    "id": 30485974,
@@ -5976,8 +6024,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 71
   },
   "repo": {
    "id": 30067656,
@@ -6095,8 +6144,9 @@
    "/example.xml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 36
   },
   "repo": {
    "id": 39909089,
@@ -6216,8 +6266,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 18
   },
   "repo": {
    "id": 41919545,
@@ -6337,8 +6388,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 91
   },
   "repo": {
    "id": 61979909,
@@ -6458,8 +6510,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 106
   },
   "repo": {
    "id": 38559404,
@@ -6577,8 +6630,9 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 509
   },
   "repo": {
    "id": 29089771,
@@ -6698,8 +6752,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 394
   },
   "repo": {
    "id": 69593882,
@@ -6819,8 +6874,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 172
   },
   "repo": {
    "id": 76855103,
@@ -6953,8 +7009,9 @@
   "lines": 4449,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 255
   },
   "repo": {
    "id": 45481794,
@@ -7077,8 +7134,9 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 143
   },
   "repo": {
    "id": 65610470,
@@ -7200,8 +7258,9 @@
    "/illustration_small.png"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 105
   },
   "repo": {
    "id": 54305846,
@@ -7321,8 +7380,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 149
   },
   "repo": {
    "id": 79266013,
@@ -7442,8 +7502,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 90
   },
   "repo": {
    "id": 78275400,
@@ -7563,8 +7624,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 47
   },
   "repo": {
    "id": 49208576,
@@ -7684,8 +7746,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 28
   },
   "repo": {
    "id": 12601601,
@@ -7805,8 +7868,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 2
   },
   "repo": {
    "id": 145228933,
@@ -7926,8 +7990,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 1
   },
   "repo": {
    "id": 76947140,
@@ -8048,8 +8113,9 @@
    "/changelog.txt"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 6
+   "version": "0.30.8",
+   "issues": 6,
+   "cloud": 134
   },
   "repo": {
    "id": 100707462,
@@ -8169,8 +8235,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 17
   },
   "repo": {
    "id": 105582939,
@@ -8290,8 +8357,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 2
+   "version": "0.30.8",
+   "issues": 2,
+   "cloud": 30
   },
   "repo": {
    "id": 90825733,
@@ -8431,8 +8499,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 4
   },
   "repo": {
    "id": 127675476,
@@ -8552,8 +8621,9 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "0.30.7",
-   "issues": 0
+   "version": "0.30.8",
+   "issues": 0,
+   "cloud": 61
   },
   "repo": {
    "id": 147115408,
