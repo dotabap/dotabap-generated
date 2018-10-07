@@ -2186,7 +2186,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 74242,
+  "lines": 75076,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -2271,16 +2271,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-10-04T22:22:13Z",
-   "pushed_at": "2018-10-05T00:29:49Z",
+   "updated_at": "2018-10-07T11:49:22Z",
+   "pushed_at": "2018-10-07T13:07:55Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9587,
-   "stargazers_count": 396,
-   "watchers_count": 396,
+   "size": 9592,
+   "stargazers_count": 397,
+   "watchers_count": 397,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -2290,7 +2290,7 @@
    "forks_count": 157,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 135,
+   "open_issues_count": 132,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2299,8 +2299,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 157,
-   "open_issues": 135,
-   "watchers": 396,
+   "open_issues": 132,
+   "watchers": 397,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -2308,7 +2308,7 @@
     "pull": true
    },
    "network_count": 157,
-   "subscribers_count": 88
+   "subscribers_count": 89
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
