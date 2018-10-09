@@ -2186,7 +2186,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 75076,
+  "lines": 75054,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -2271,16 +2271,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-10-08T12:43:36Z",
-   "pushed_at": "2018-10-07T13:07:55Z",
+   "updated_at": "2018-10-09T10:24:29Z",
+   "pushed_at": "2018-10-09T19:26:51Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9592,
-   "stargazers_count": 398,
-   "watchers_count": 398,
+   "size": 9593,
+   "stargazers_count": 399,
+   "watchers_count": 399,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -2290,7 +2290,7 @@
    "forks_count": 157,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 132,
+   "open_issues_count": 130,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2299,8 +2299,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 157,
-   "open_issues": 132,
-   "watchers": 398,
+   "open_issues": 130,
+   "watchers": 399,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -3742,7 +3742,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-10-02T11:12:22Z",
+   "updated_at": "2018-10-09T13:40:31Z",
    "pushed_at": "2018-09-25T17:38:28Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
@@ -3750,8 +3750,8 @@
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
    "size": 23437,
-   "stargazers_count": 167,
-   "watchers_count": 167,
+   "stargazers_count": 168,
+   "watchers_count": 168,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3771,7 +3771,7 @@
    },
    "forks": 88,
    "open_issues": 78,
-   "watchers": 167,
+   "watchers": 168,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3779,7 +3779,7 @@
     "pull": true
    },
    "network_count": 88,
-   "subscribers_count": 65
+   "subscribers_count": 66
   }
  },
  "furlan/abap101_AOC2017": {
@@ -5774,7 +5774,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 35255,
+  "lines": 35478,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -5786,7 +5786,7 @@
   "parsing": {
    "version": "1.0.3",
    "issues": 226,
-   "cloud": 2241
+   "cloud": 2249
   },
   "repo": {
    "id": 21558384,
@@ -5855,14 +5855,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-10-02T10:57:04Z",
-   "pushed_at": "2018-10-02T10:57:02Z",
+   "updated_at": "2018-10-09T13:54:04Z",
+   "pushed_at": "2018-10-09T13:54:05Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1463,
+   "size": 1495,
    "stargazers_count": 63,
    "watchers_count": 63,
    "language": "ABAP",
@@ -5874,7 +5874,7 @@
    "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 262,
+   "open_issues_count": 258,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5883,7 +5883,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 20,
-   "open_issues": 262,
+   "open_issues": 258,
    "watchers": 63,
    "default_branch": "master",
    "permissions": {
