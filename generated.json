@@ -494,7 +494,7 @@
   "parsing": {
    "version": "1.0.3",
    "issues": 0,
-   "cloud": 125
+   "cloud": 126
   },
   "repo": {
    "id": 152494424,
@@ -563,23 +563,23 @@
    "releases_url": "https://api.github.com/repos/tricktresor/guidrasil/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/guidrasil/deployments",
    "created_at": "2018-10-10T21:51:31Z",
-   "updated_at": "2018-10-10T22:50:08Z",
-   "pushed_at": "2018-10-10T22:50:07Z",
+   "updated_at": "2018-10-11T20:17:46Z",
+   "pushed_at": "2018-10-11T20:17:44Z",
    "git_url": "git://github.com/tricktresor/guidrasil.git",
    "ssh_url": "git@github.com:tricktresor/guidrasil.git",
    "clone_url": "https://github.com/tricktresor/guidrasil.git",
    "svn_url": "https://github.com/tricktresor/guidrasil",
    "homepage": null,
    "size": 414,
-   "stargazers_count": 0,
-   "watchers_count": 0,
+   "stargazers_count": 1,
+   "watchers_count": 1,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 0,
@@ -590,16 +590,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 0,
+   "forks": 1,
    "open_issues": 0,
-   "watchers": 0,
+   "watchers": 1,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
     "pull": true
    },
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 0
   }
  },
@@ -2308,7 +2308,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 75054,
+  "lines": 75058,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -2393,14 +2393,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-10-10T13:40:23Z",
-   "pushed_at": "2018-10-09T19:26:51Z",
+   "updated_at": "2018-10-11T08:16:40Z",
+   "pushed_at": "2018-10-11T11:56:11Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9593,
+   "size": 9748,
    "stargazers_count": 401,
    "watchers_count": 401,
    "language": "ABAP",
@@ -2412,7 +2412,7 @@
    "forks_count": 157,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 131,
+   "open_issues_count": 132,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2421,7 +2421,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 157,
-   "open_issues": 131,
+   "open_issues": 132,
    "watchers": 401,
    "default_branch": "master",
    "permissions": {
@@ -5896,7 +5896,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 35779,
+  "lines": 35851,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -5908,7 +5908,7 @@
   "parsing": {
    "version": "1.0.3",
    "issues": 226,
-   "cloud": 2250
+   "cloud": 2246
   },
   "repo": {
    "id": 21558384,
@@ -5977,14 +5977,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-10-10T09:14:30Z",
-   "pushed_at": "2018-10-10T09:14:31Z",
+   "updated_at": "2018-10-11T11:11:16Z",
+   "pushed_at": "2018-10-11T11:11:15Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1507,
+   "size": 1716,
    "stargazers_count": 63,
    "watchers_count": 63,
    "language": "ABAP",
