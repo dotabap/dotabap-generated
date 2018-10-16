@@ -197,7 +197,7 @@
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
    "updated_at": "2018-10-15T14:53:12Z",
-   "pushed_at": "2018-10-15T16:39:48Z",
+   "pushed_at": "2018-10-15T21:43:22Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
    "clone_url": "https://github.com/epeterson320/ABAP-Logger.git",
@@ -482,7 +482,7 @@
   }
  },
  "tricktresor/guidrasil": {
-  "lines": 6266,
+  "lines": 6973,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -494,7 +494,7 @@
   "parsing": {
    "version": "1.0.3",
    "issues": 0,
-   "cloud": 203
+   "cloud": 223
   },
   "repo": {
    "id": 152494424,
@@ -563,14 +563,14 @@
    "releases_url": "https://api.github.com/repos/tricktresor/guidrasil/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/guidrasil/deployments",
    "created_at": "2018-10-10T21:51:31Z",
-   "updated_at": "2018-10-15T17:15:13Z",
-   "pushed_at": "2018-10-15T17:15:12Z",
+   "updated_at": "2018-10-16T16:55:48Z",
+   "pushed_at": "2018-10-16T16:55:46Z",
    "git_url": "git://github.com/tricktresor/guidrasil.git",
    "ssh_url": "git@github.com:tricktresor/guidrasil.git",
    "clone_url": "https://github.com/tricktresor/guidrasil.git",
    "svn_url": "https://github.com/tricktresor/guidrasil",
    "homepage": null,
-   "size": 489,
+   "size": 605,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -582,7 +582,7 @@
    "forks_count": 1,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 4,
+   "open_issues_count": 5,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -591,7 +591,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 1,
-   "open_issues": 4,
+   "open_issues": 5,
    "watchers": 1,
    "default_branch": "master",
    "permissions": {
@@ -2248,7 +2248,7 @@
    "deployments_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
    "updated_at": "2018-10-10T06:27:01Z",
-   "pushed_at": "2018-10-10T06:44:09Z",
+   "pushed_at": "2018-10-16T15:08:06Z",
    "git_url": "git://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:Microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure.git",
@@ -2266,7 +2266,7 @@
    "forks_count": 9,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 5,
+   "open_issues_count": 6,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2275,7 +2275,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 9,
-   "open_issues": 5,
+   "open_issues": 6,
    "watchers": 37,
    "default_branch": "master",
    "permissions": {
@@ -2393,7 +2393,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-10-14T18:28:50Z",
+   "updated_at": "2018-10-15T21:00:24Z",
    "pushed_at": "2018-10-13T08:01:00Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
@@ -2401,8 +2401,8 @@
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
    "size": 9615,
-   "stargazers_count": 402,
-   "watchers_count": 402,
+   "stargazers_count": 403,
+   "watchers_count": 403,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -2422,7 +2422,7 @@
    },
    "forks": 157,
    "open_issues": 128,
-   "watchers": 402,
+   "watchers": 403,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -3880,7 +3880,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 90,
+   "forks_count": 91,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 78,
@@ -3891,7 +3891,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 90,
+   "forks": 91,
    "open_issues": 78,
    "watchers": 169,
    "default_branch": "master",
@@ -3900,7 +3900,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 90,
+   "network_count": 91,
    "subscribers_count": 66
   }
  },
@@ -4355,14 +4355,14 @@
    "releases_url": "https://api.github.com/repos/objective-partner/abap_debugger_data_view_extension/releases{/id}",
    "deployments_url": "https://api.github.com/repos/objective-partner/abap_debugger_data_view_extension/deployments",
    "created_at": "2017-11-09T16:08:52Z",
-   "updated_at": "2018-10-13T12:52:01Z",
-   "pushed_at": "2018-03-06T17:05:43Z",
+   "updated_at": "2018-10-16T07:57:56Z",
+   "pushed_at": "2018-10-16T07:57:55Z",
    "git_url": "git://github.com/objective-partner/abap_debugger_data_view_extension.git",
    "ssh_url": "git@github.com:objective-partner/abap_debugger_data_view_extension.git",
    "clone_url": "https://github.com/objective-partner/abap_debugger_data_view_extension.git",
    "svn_url": "https://github.com/objective-partner/abap_debugger_data_view_extension",
    "homepage": null,
-   "size": 48,
+   "size": 35,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
@@ -5977,7 +5977,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-10-15T11:15:45Z",
+   "updated_at": "2018-10-15T21:00:57Z",
    "pushed_at": "2018-10-15T11:15:44Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -5985,8 +5985,8 @@
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
    "size": 1751,
-   "stargazers_count": 63,
-   "watchers_count": 63,
+   "stargazers_count": 64,
+   "watchers_count": 64,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -5996,7 +5996,7 @@
    "forks_count": 21,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 259,
+   "open_issues_count": 260,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6005,8 +6005,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 21,
-   "open_issues": 259,
-   "watchers": 63,
+   "open_issues": 260,
+   "watchers": 64,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -6601,7 +6601,7 @@
    "forks_count": 15,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 15,
+   "open_issues_count": 14,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6610,7 +6610,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 15,
-   "open_issues": 15,
+   "open_issues": 14,
    "watchers": 27,
    "default_branch": "master",
    "permissions": {
