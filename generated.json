@@ -197,7 +197,7 @@
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
    "updated_at": "2018-10-15T14:53:12Z",
-   "pushed_at": "2018-10-15T21:43:22Z",
+   "pushed_at": "2018-10-18T18:45:07Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
    "clone_url": "https://github.com/epeterson320/ABAP-Logger.git",
@@ -215,7 +215,7 @@
    "forks_count": 24,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 6,
+   "open_issues_count": 7,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -224,7 +224,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 24,
-   "open_issues": 6,
+   "open_issues": 7,
    "watchers": 90,
    "default_branch": "master",
    "permissions": {
@@ -482,19 +482,21 @@
   }
  },
  "tricktresor/guidrasil": {
-  "lines": 6973,
+  "lines": 7048,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
    "/LICENSE",
    "/README.md",
    "/package.json",
-   "/.travis.yml"
+   "/.travis.yml",
+   "/src/zguidrasil_control_list_cc.tabl.xml",
+   "/src/zguidrasil_control_list_cc_t.ttyp.xml"
   ],
   "parsing": {
    "version": "1.0.3",
    "issues": 0,
-   "cloud": 223
+   "cloud": 236
   },
   "repo": {
    "id": 152494424,
@@ -563,16 +565,16 @@
    "releases_url": "https://api.github.com/repos/tricktresor/guidrasil/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/guidrasil/deployments",
    "created_at": "2018-10-10T21:51:31Z",
-   "updated_at": "2018-10-16T16:55:48Z",
-   "pushed_at": "2018-10-16T16:55:46Z",
+   "updated_at": "2018-10-18T09:31:41Z",
+   "pushed_at": "2018-10-18T08:55:13Z",
    "git_url": "git://github.com/tricktresor/guidrasil.git",
    "ssh_url": "git@github.com:tricktresor/guidrasil.git",
    "clone_url": "https://github.com/tricktresor/guidrasil.git",
    "svn_url": "https://github.com/tricktresor/guidrasil",
    "homepage": null,
-   "size": 605,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "size": 471,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -592,7 +594,7 @@
    },
    "forks": 1,
    "open_issues": 5,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -2393,26 +2395,26 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-10-17T13:44:08Z",
-   "pushed_at": "2018-10-17T11:25:11Z",
+   "updated_at": "2018-10-18T08:35:13Z",
+   "pushed_at": "2018-10-18T11:19:58Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9615,
-   "stargazers_count": 404,
-   "watchers_count": 404,
+   "size": 9666,
+   "stargazers_count": 405,
+   "watchers_count": 405,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 157,
+   "forks_count": 158,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 129,
+   "open_issues_count": 131,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2420,16 +2422,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 157,
-   "open_issues": 129,
-   "watchers": 404,
+   "forks": 158,
+   "open_issues": 131,
+   "watchers": 405,
    "default_branch": "master",
    "permissions": {
     "admin": true,
     "push": true,
     "pull": true
    },
-   "network_count": 157,
+   "network_count": 158,
    "subscribers_count": 91
   }
  },
@@ -3864,7 +3866,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-10-14T14:15:50Z",
+   "updated_at": "2018-10-18T19:37:07Z",
    "pushed_at": "2018-09-25T17:38:28Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
@@ -3872,8 +3874,8 @@
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
    "size": 23437,
-   "stargazers_count": 169,
-   "watchers_count": 169,
+   "stargazers_count": 171,
+   "watchers_count": 171,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3893,7 +3895,7 @@
    },
    "forks": 91,
    "open_issues": 78,
-   "watchers": 169,
+   "watchers": 171,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7834,7 +7836,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 2,
@@ -7845,7 +7847,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 0,
+   "forks": 1,
    "open_issues": 2,
    "watchers": 2,
    "default_branch": "master",
@@ -7854,7 +7856,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 2
   }
  },
