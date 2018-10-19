@@ -482,7 +482,7 @@
   }
  },
  "tricktresor/guidrasil": {
-  "lines": 7048,
+  "lines": 7197,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -496,7 +496,7 @@
   "parsing": {
    "version": "1.0.3",
    "issues": 0,
-   "cloud": 236
+   "cloud": 239
   },
   "repo": {
    "id": 152494424,
@@ -565,14 +565,14 @@
    "releases_url": "https://api.github.com/repos/tricktresor/guidrasil/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/guidrasil/deployments",
    "created_at": "2018-10-10T21:51:31Z",
-   "updated_at": "2018-10-18T09:31:41Z",
-   "pushed_at": "2018-10-18T08:55:13Z",
+   "updated_at": "2018-10-19T13:35:02Z",
+   "pushed_at": "2018-10-19T13:35:01Z",
    "git_url": "git://github.com/tricktresor/guidrasil.git",
    "ssh_url": "git@github.com:tricktresor/guidrasil.git",
    "clone_url": "https://github.com/tricktresor/guidrasil.git",
    "svn_url": "https://github.com/tricktresor/guidrasil",
    "homepage": null,
-   "size": 471,
+   "size": 518,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -2310,7 +2310,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 75318,
+  "lines": 75341,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -2395,16 +2395,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-10-18T08:35:13Z",
-   "pushed_at": "2018-10-18T11:19:58Z",
+   "updated_at": "2018-10-19T06:17:03Z",
+   "pushed_at": "2018-10-19T06:17:05Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9666,
-   "stargazers_count": 405,
-   "watchers_count": 405,
+   "size": 9681,
+   "stargazers_count": 406,
+   "watchers_count": 406,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -2414,7 +2414,7 @@
    "forks_count": 158,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 131,
+   "open_issues_count": 129,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2423,8 +2423,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 158,
-   "open_issues": 131,
-   "watchers": 405,
+   "open_issues": 129,
+   "watchers": 406,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -3784,7 +3784,7 @@
   }
  },
  "ivanfemia/abap2xlsx": {
-  "lines": 44338,
+  "lines": 44215,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -3797,7 +3797,7 @@
   "parsing": {
    "version": "1.0.3",
    "issues": 11,
-   "cloud": 980
+   "cloud": 915
   },
   "repo": {
    "id": 15457787,
@@ -3866,8 +3866,8 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-10-18T19:37:07Z",
-   "pushed_at": "2018-09-25T17:38:28Z",
+   "updated_at": "2018-10-19T20:18:55Z",
+   "pushed_at": "2018-10-19T20:18:52Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
    "clone_url": "https://github.com/ivanfemia/abap2xlsx.git",
@@ -5898,7 +5898,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 35926,
+  "lines": 35937,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -5979,14 +5979,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-10-17T08:29:56Z",
-   "pushed_at": "2018-10-17T08:29:55Z",
+   "updated_at": "2018-10-19T11:09:53Z",
+   "pushed_at": "2018-10-19T11:09:52Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1753,
+   "size": 1768,
    "stargazers_count": 64,
    "watchers_count": 64,
    "language": "ABAP",
