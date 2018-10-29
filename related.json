@@ -280,7 +280,7 @@
    "releases_url": "https://api.github.com/repos/marcellourbani/vscode_abap_remote_fs/releases{/id}",
    "deployments_url": "https://api.github.com/repos/marcellourbani/vscode_abap_remote_fs/deployments",
    "created_at": "2018-10-19T08:37:40Z",
-   "updated_at": "2018-10-28T10:00:50Z",
+   "updated_at": "2018-10-29T10:03:52Z",
    "pushed_at": "2018-10-28T10:00:49Z",
    "git_url": "git://github.com/marcellourbani/vscode_abap_remote_fs.git",
    "ssh_url": "git@github.com:marcellourbani/vscode_abap_remote_fs.git",
@@ -288,8 +288,8 @@
    "svn_url": "https://github.com/marcellourbani/vscode_abap_remote_fs",
    "homepage": null,
    "size": 80,
-   "stargazers_count": 15,
-   "watchers_count": 15,
+   "stargazers_count": 17,
+   "watchers_count": 17,
    "language": "TypeScript",
    "has_issues": true,
    "has_projects": true,
@@ -309,7 +309,7 @@
    },
    "forks": 1,
    "open_issues": 12,
-   "watchers": 15,
+   "watchers": 17,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -317,7 +317,7 @@
     "pull": true
    },
    "network_count": 1,
-   "subscribers_count": 6
+   "subscribers_count": 7
   }
  },
  "larshp/abaplint": {
@@ -389,14 +389,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abaplint/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abaplint/deployments",
    "created_at": "2015-12-20T17:32:04Z",
-   "updated_at": "2018-10-28T12:44:16Z",
-   "pushed_at": "2018-10-28T12:44:14Z",
+   "updated_at": "2018-10-29T15:35:29Z",
+   "pushed_at": "2018-10-29T18:17:36Z",
    "git_url": "git://github.com/larshp/abaplint.git",
    "ssh_url": "git@github.com:larshp/abaplint.git",
    "clone_url": "https://github.com/larshp/abaplint.git",
    "svn_url": "https://github.com/larshp/abaplint",
    "homepage": "http://www.abaplint.org",
-   "size": 5518,
+   "size": 1568,
    "stargazers_count": 27,
    "watchers_count": 27,
    "language": "TypeScript",
@@ -408,7 +408,7 @@
    "forks_count": 5,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 77,
+   "open_issues_count": 79,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -417,7 +417,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 5,
-   "open_issues": 77,
+   "open_issues": 79,
    "watchers": 27,
    "default_branch": "master",
    "permissions": {
