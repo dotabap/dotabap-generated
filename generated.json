@@ -1525,7 +1525,7 @@
   }
  },
  "MDJoerg/MQBA": {
-  "lines": 9125,
+  "lines": 9156,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -1606,14 +1606,14 @@
    "releases_url": "https://api.github.com/repos/MDJoerg/MQBA/releases{/id}",
    "deployments_url": "https://api.github.com/repos/MDJoerg/MQBA/deployments",
    "created_at": "2018-07-13T19:07:01Z",
-   "updated_at": "2018-11-09T00:18:00Z",
-   "pushed_at": "2018-11-09T00:17:57Z",
+   "updated_at": "2018-11-15T06:38:24Z",
+   "pushed_at": "2018-11-15T06:38:23Z",
    "git_url": "git://github.com/MDJoerg/MQBA.git",
    "ssh_url": "git@github.com:MDJoerg/MQBA.git",
    "clone_url": "https://github.com/MDJoerg/MQBA.git",
    "svn_url": "https://github.com/MDJoerg/MQBA",
    "homepage": "",
-   "size": 455,
+   "size": 479,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -3104,7 +3104,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 77089,
+  "lines": 77085,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -3189,16 +3189,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-11-14T08:49:59Z",
-   "pushed_at": "2018-11-14T20:21:29Z",
+   "updated_at": "2018-11-15T09:47:33Z",
+   "pushed_at": "2018-11-15T19:04:32Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9788,
-   "stargazers_count": 421,
-   "watchers_count": 421,
+   "size": 9805,
+   "stargazers_count": 422,
+   "watchers_count": 422,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -3208,7 +3208,7 @@
    "forks_count": 165,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 148,
+   "open_issues_count": 150,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3217,8 +3217,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 165,
-   "open_issues": 148,
-   "watchers": 421,
+   "open_issues": 150,
+   "watchers": 422,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -4676,10 +4676,10 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 93,
+   "forks_count": 94,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 80,
+   "open_issues_count": 81,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -4687,8 +4687,8 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 93,
-   "open_issues": 80,
+   "forks": 94,
+   "open_issues": 81,
    "watchers": 171,
    "default_branch": "master",
    "permissions": {
@@ -4696,7 +4696,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 93,
+   "network_count": 94,
    "subscribers_count": 66
   }
  },
@@ -5316,7 +5316,7 @@
    "forks_count": 1,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5325,7 +5325,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 1,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 4,
    "default_branch": "master",
    "permissions": {
@@ -8166,7 +8166,7 @@
   }
  },
  "sbcgua/abap_data_parser": {
-  "lines": 2868,
+  "lines": 2882,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
@@ -8180,8 +8180,8 @@
   ],
   "parsing": {
    "version": "1.2.2",
-   "issues": 1,
-   "cloud": 147
+   "issues": 0,
+   "cloud": 146
   },
   "repo": {
    "id": 65610470,
@@ -8250,8 +8250,8 @@
    "releases_url": "https://api.github.com/repos/sbcgua/abap_data_parser/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/abap_data_parser/deployments",
    "created_at": "2016-08-13T09:37:35Z",
-   "updated_at": "2018-11-14T17:51:25Z",
-   "pushed_at": "2018-11-13T12:45:42Z",
+   "updated_at": "2018-11-15T21:06:20Z",
+   "pushed_at": "2018-11-15T21:06:18Z",
    "git_url": "git://github.com/sbcgua/abap_data_parser.git",
    "ssh_url": "git@github.com:sbcgua/abap_data_parser.git",
    "clone_url": "https://github.com/sbcgua/abap_data_parser.git",
