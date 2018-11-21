@@ -1,0 +1,89 @@
+{
+  "version": "1.3.3",
+  "target": "v753",
+  "time": "2018-11-21T12:51:34.634Z",
+  "totals": {
+    "objects": 5,
+    "files": 8,
+    "statements": 800,
+    "tokens": 5470
+  },
+  "objects": [
+    {
+      "type": "CLAS",
+      "count": 4
+    },
+    {
+      "type": "INTF",
+      "count": 1
+    }
+  ],
+  "issues": [
+    {
+      "type": "line_length",
+      "count": 13
+    },
+    {
+      "type": "definitions_top",
+      "count": 1
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 46
+    },
+    {
+      "type": "local_variable_names",
+      "count": 55
+    },
+    {
+      "type": "class_attribute_names",
+      "count": 7
+    },
+    {
+      "type": "line_only_punc",
+      "count": 30
+    }
+  ],
+  "statements": [
+    {
+      "type": "v700",
+      "count": 759
+    },
+    {
+      "type": "v702",
+      "count": 761
+    },
+    {
+      "type": "v740sp02",
+      "count": 797
+    },
+    {
+      "type": "v740sp05",
+      "count": 797
+    },
+    {
+      "type": "v740sp08",
+      "count": 800
+    },
+    {
+      "type": "v750",
+      "count": 800
+    },
+    {
+      "type": "v751",
+      "count": 800
+    },
+    {
+      "type": "v752",
+      "count": 800
+    },
+    {
+      "type": "v753",
+      "count": 800
+    },
+    {
+      "type": "Cloud",
+      "count": 787
+    }
+  ]
+}

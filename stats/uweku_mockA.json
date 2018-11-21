@@ -1,0 +1,117 @@
+{
+  "version": "1.3.3",
+  "target": "v753",
+  "time": "2018-11-21T12:10:47.283Z",
+  "totals": {
+    "objects": 19,
+    "files": 21,
+    "statements": 3529,
+    "tokens": 19214
+  },
+  "objects": [
+    {
+      "type": "PROG",
+      "count": 5
+    },
+    {
+      "type": "CLAS",
+      "count": 8
+    },
+    {
+      "type": "INTF",
+      "count": 6
+    }
+  ],
+  "issues": [
+    {
+      "type": "obsolete_statement",
+      "count": 44
+    },
+    {
+      "type": "line_only_punc",
+      "count": 16
+    },
+    {
+      "type": "functional_writing",
+      "count": 19
+    },
+    {
+      "type": "line_length",
+      "count": 41
+    },
+    {
+      "type": "exit_or_check",
+      "count": 4
+    },
+    {
+      "type": "start_at_tab",
+      "count": 2
+    },
+    {
+      "type": "definitions_top",
+      "count": 32
+    },
+    {
+      "type": "local_variable_names",
+      "count": 1
+    },
+    {
+      "type": "class_attribute_names",
+      "count": 2
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 62
+    },
+    {
+      "type": "exporting",
+      "count": 2
+    },
+    {
+      "type": "parser_error",
+      "count": 1
+    }
+  ],
+  "statements": [
+    {
+      "type": "v700",
+      "count": 3528
+    },
+    {
+      "type": "v702",
+      "count": 3528
+    },
+    {
+      "type": "v740sp02",
+      "count": 3528
+    },
+    {
+      "type": "v740sp05",
+      "count": 3528
+    },
+    {
+      "type": "v740sp08",
+      "count": 3528
+    },
+    {
+      "type": "v750",
+      "count": 3528
+    },
+    {
+      "type": "v751",
+      "count": 3528
+    },
+    {
+      "type": "v752",
+      "count": 3528
+    },
+    {
+      "type": "v753",
+      "count": 3528
+    },
+    {
+      "type": "Cloud",
+      "count": 3314
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "version": "1.3.3",
+  "target": "v753",
+  "time": "2018-11-21T12:22:27.629Z",
+  "totals": {
+    "objects": 8,
+    "files": 9,
+    "statements": 395,
+    "tokens": 2612
+  },
+  "objects": [
+    {
+      "type": "CLAS",
+      "count": 6
+    },
+    {
+      "type": "INTF",
+      "count": 2
+    }
+  ],
+  "issues": [],
+  "statements": [
+    {
+      "type": "v700",
+      "count": 350
+    },
+    {
+      "type": "v702",
+      "count": 360
+    },
+    {
+      "type": "v740sp02",
+      "count": 389
+    },
+    {
+      "type": "v740sp05",
+      "count": 392
+    },
+    {
+      "type": "v740sp08",
+      "count": 395
+    },
+    {
+      "type": "v750",
+      "count": 395
+    },
+    {
+      "type": "v751",
+      "count": 395
+    },
+    {
+      "type": "v752",
+      "count": 395
+    },
+    {
+      "type": "v753",
+      "count": 395
+    },
+    {
+      "type": "Cloud",
+      "count": 392
+    }
+  ]
+}

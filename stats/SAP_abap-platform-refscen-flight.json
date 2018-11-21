@@ -1,0 +1,97 @@
+{
+  "version": "1.3.3",
+  "target": "v753",
+  "time": "2018-11-21T12:16:45.474Z",
+  "totals": {
+    "objects": 6,
+    "files": 19,
+    "statements": 5658,
+    "tokens": 59785
+  },
+  "objects": [
+    {
+      "type": "CLAS",
+      "count": 4
+    },
+    {
+      "type": "FUGR",
+      "count": 1
+    },
+    {
+      "type": "INTF",
+      "count": 1
+    }
+  ],
+  "issues": [
+    {
+      "type": "7bit_ascii",
+      "count": 14
+    },
+    {
+      "type": "line_length",
+      "count": 827
+    },
+    {
+      "type": "max_one_statement",
+      "count": 38
+    },
+    {
+      "type": "parser_error",
+      "count": 22
+    },
+    {
+      "type": "exit_or_check",
+      "count": 21
+    },
+    {
+      "type": "line_only_punc",
+      "count": 22
+    },
+    {
+      "type": "definitions_top",
+      "count": 100
+    }
+  ],
+  "statements": [
+    {
+      "type": "v700",
+      "count": 4841
+    },
+    {
+      "type": "v702",
+      "count": 4857
+    },
+    {
+      "type": "v740sp02",
+      "count": 5353
+    },
+    {
+      "type": "v740sp05",
+      "count": 5530
+    },
+    {
+      "type": "v740sp08",
+      "count": 5559
+    },
+    {
+      "type": "v750",
+      "count": 5635
+    },
+    {
+      "type": "v751",
+      "count": 5636
+    },
+    {
+      "type": "v752",
+      "count": 5636
+    },
+    {
+      "type": "v753",
+      "count": 5636
+    },
+    {
+      "type": "Cloud",
+      "count": 5613
+    }
+  ]
+}
