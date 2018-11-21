@@ -1,0 +1,69 @@
+{
+  "version": "1.3.3",
+  "target": "v753",
+  "time": "2018-11-21T13:34:23.442Z",
+  "totals": {
+    "objects": 8,
+    "files": 8,
+    "statements": 845,
+    "tokens": 5323
+  },
+  "objects": [
+    {
+      "type": "CLAS",
+      "count": 7
+    },
+    {
+      "type": "PROG",
+      "count": 1
+    }
+  ],
+  "issues": [
+    {
+      "type": "class_attribute_names",
+      "count": 1
+    }
+  ],
+  "statements": [
+    {
+      "type": "v700",
+      "count": 845
+    },
+    {
+      "type": "v702",
+      "count": 845
+    },
+    {
+      "type": "v740sp02",
+      "count": 845
+    },
+    {
+      "type": "v740sp05",
+      "count": 845
+    },
+    {
+      "type": "v740sp08",
+      "count": 845
+    },
+    {
+      "type": "v750",
+      "count": 845
+    },
+    {
+      "type": "v751",
+      "count": 845
+    },
+    {
+      "type": "v752",
+      "count": 845
+    },
+    {
+      "type": "v753",
+      "count": 845
+    },
+    {
+      "type": "Cloud",
+      "count": 805
+    }
+  ]
+}

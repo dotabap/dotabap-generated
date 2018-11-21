@@ -1,0 +1,149 @@
+{
+  "version": "1.3.3",
+  "target": "v753",
+  "time": "2018-11-21T12:57:10.910Z",
+  "totals": {
+    "objects": 135,
+    "files": 147,
+    "statements": 32497,
+    "tokens": 186425
+  },
+  "objects": [
+    {
+      "type": "PROG",
+      "count": 59
+    },
+    {
+      "type": "CLAS",
+      "count": 65
+    },
+    {
+      "type": "INTF",
+      "count": 11
+    }
+  ],
+  "issues": [
+    {
+      "type": "line_length",
+      "count": 413
+    },
+    {
+      "type": "colon_missing_space",
+      "count": 7
+    },
+    {
+      "type": "exit_or_check",
+      "count": 71
+    },
+    {
+      "type": "obsolete_statement",
+      "count": 207
+    },
+    {
+      "type": "exporting",
+      "count": 42
+    },
+    {
+      "type": "local_variable_names",
+      "count": 493
+    },
+    {
+      "type": "max_one_statement",
+      "count": 471
+    },
+    {
+      "type": "7bit_ascii",
+      "count": 108
+    },
+    {
+      "type": "line_only_punc",
+      "count": 180
+    },
+    {
+      "type": "definitions_top",
+      "count": 16
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 337
+    },
+    {
+      "type": "class_attribute_names",
+      "count": 360
+    },
+    {
+      "type": "contains_tab",
+      "count": 19
+    },
+    {
+      "type": "start_at_tab",
+      "count": 27
+    },
+    {
+      "type": "functional_writing",
+      "count": 98
+    },
+    {
+      "type": "empty_statement",
+      "count": 2
+    },
+    {
+      "type": "sequential_blank",
+      "count": 10
+    },
+    {
+      "type": "breakpoint",
+      "count": 1
+    },
+    {
+      "type": "parser_error",
+      "count": 11
+    },
+    {
+      "type": "space_before_colon",
+      "count": 3
+    }
+  ],
+  "statements": [
+    {
+      "type": "v700",
+      "count": 32481
+    },
+    {
+      "type": "v702",
+      "count": 32486
+    },
+    {
+      "type": "v740sp02",
+      "count": 32486
+    },
+    {
+      "type": "v740sp05",
+      "count": 32486
+    },
+    {
+      "type": "v740sp08",
+      "count": 32486
+    },
+    {
+      "type": "v750",
+      "count": 32486
+    },
+    {
+      "type": "v751",
+      "count": 32486
+    },
+    {
+      "type": "v752",
+      "count": 32486
+    },
+    {
+      "type": "v753",
+      "count": 32486
+    },
+    {
+      "type": "Cloud",
+      "count": 31686
+    }
+  ]
+}

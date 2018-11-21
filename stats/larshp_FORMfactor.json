@@ -1,0 +1,60 @@
+{
+  "version": "1.3.3",
+  "target": "v753",
+  "time": "2018-11-21T13:34:52.651Z",
+  "totals": {
+    "objects": 1,
+    "files": 1,
+    "statements": 546,
+    "tokens": 3151
+  },
+  "objects": [
+    {
+      "type": "PROG",
+      "count": 1
+    }
+  ],
+  "issues": [],
+  "statements": [
+    {
+      "type": "v700",
+      "count": 543
+    },
+    {
+      "type": "v702",
+      "count": 544
+    },
+    {
+      "type": "v740sp02",
+      "count": 546
+    },
+    {
+      "type": "v740sp05",
+      "count": 546
+    },
+    {
+      "type": "v740sp08",
+      "count": 546
+    },
+    {
+      "type": "v750",
+      "count": 546
+    },
+    {
+      "type": "v751",
+      "count": 546
+    },
+    {
+      "type": "v752",
+      "count": 546
+    },
+    {
+      "type": "v753",
+      "count": 546
+    },
+    {
+      "type": "Cloud",
+      "count": 530
+    }
+  ]
+}
