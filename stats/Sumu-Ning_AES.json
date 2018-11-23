@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.5",
   "target": "v753",
-  "time": "2018-11-22T09:06:44.023Z",
+  "time": "2018-11-23T12:46:34.918Z",
   "totals": {
     "objects": 14,
     "files": 14,
@@ -24,6 +24,10 @@
       "count": 156
     },
     {
+      "type": "keywords_upper",
+      "count": 5
+    },
+    {
       "type": "method_parameter_names",
       "count": 115
     },
@@ -38,6 +42,10 @@
     {
       "type": "line_only_punc",
       "count": 20
+    },
+    {
+      "type": "method_length",
+      "count": 4
     }
   ],
   "objectOrientation": {

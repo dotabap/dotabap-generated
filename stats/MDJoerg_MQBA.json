@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.5",
   "target": "v753",
-  "time": "2018-11-22T08:05:14.090Z",
+  "time": "2018-11-23T11:44:38.839Z",
   "totals": {
     "objects": 67,
     "files": 88,
@@ -27,6 +27,10 @@
     }
   ],
   "issues": [
+    {
+      "type": "keywords_upper",
+      "count": 55
+    },
     {
       "type": "class_attribute_names",
       "count": 67
@@ -78,6 +82,10 @@
     {
       "type": "exit_or_check",
       "count": 62
+    },
+    {
+      "type": "nesting",
+      "count": 1
     },
     {
       "type": "functional_writing",

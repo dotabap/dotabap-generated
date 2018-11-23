@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.5",
   "target": "v753",
-  "time": "2018-11-22T09:05:56.025Z",
+  "time": "2018-11-23T12:45:46.859Z",
   "totals": {
     "objects": 17,
     "files": 17,
@@ -22,6 +22,10 @@
     {
       "type": "exit_or_check",
       "count": 3
+    },
+    {
+      "type": "keywords_upper",
+      "count": 12
     },
     {
       "type": "method_parameter_names",
