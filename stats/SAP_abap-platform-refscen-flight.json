@@ -1,12 +1,12 @@
 {
-  "version": "1.3.5",
+  "version": "1.4.2",
   "target": "v753",
-  "time": "2018-11-23T11:45:43.086Z",
+  "time": "2018-11-25T06:23:00.107Z",
   "totals": {
     "objects": 6,
     "files": 19,
     "statements": 5658,
-    "tokens": 59785
+    "tokens": 59787
   },
   "objects": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "type": "parser_error",
-      "count": 21
+      "count": 5
     },
     {
       "type": "exit_or_check",
@@ -50,6 +50,18 @@
     {
       "type": "definitions_top",
       "count": 100
+    },
+    {
+      "type": "mix_returning",
+      "count": 18
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 1
+    },
+    {
+      "type": "local_variable_names",
+      "count": 68
     }
   ],
   "objectOrientation": {
@@ -173,31 +185,31 @@
     },
     {
       "type": "v740sp05",
-      "count": 5530
+      "count": 5545
     },
     {
       "type": "v740sp08",
-      "count": 5560
+      "count": 5575
     },
     {
       "type": "v750",
-      "count": 5636
+      "count": 5651
     },
     {
       "type": "v751",
-      "count": 5637
+      "count": 5653
     },
     {
       "type": "v752",
-      "count": 5637
+      "count": 5653
     },
     {
       "type": "v753",
-      "count": 5637
+      "count": 5653
     },
     {
       "type": "Cloud",
-      "count": 5614
+      "count": 5630
     }
   ]
 }
