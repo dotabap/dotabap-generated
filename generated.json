@@ -823,8 +823,8 @@
    "releases_url": "https://api.github.com/repos/pawelwiejkut/bw_trfn_pocketknife/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pawelwiejkut/bw_trfn_pocketknife/deployments",
    "created_at": "2018-10-28T19:19:58Z",
-   "updated_at": "2018-11-25T18:53:23Z",
-   "pushed_at": "2018-11-26T17:50:58Z",
+   "updated_at": "2018-11-27T20:47:13Z",
+   "pushed_at": "2018-11-27T20:47:11Z",
    "git_url": "git://github.com/pawelwiejkut/bw_trfn_pocketknife.git",
    "ssh_url": "git@github.com:pawelwiejkut/bw_trfn_pocketknife.git",
    "clone_url": "https://github.com/pawelwiejkut/bw_trfn_pocketknife.git",
@@ -3280,7 +3280,7 @@
    "forks_count": 10,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 9,
+   "open_issues_count": 10,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3289,7 +3289,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 10,
-   "open_issues": 9,
+   "open_issues": 10,
    "watchers": 40,
    "default_branch": "master",
    "permissions": {
@@ -3322,7 +3322,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 78236,
+  "lines": 78238,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -3406,26 +3406,26 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-11-26T17:28:08Z",
-   "pushed_at": "2018-11-26T17:28:09Z",
+   "updated_at": "2018-11-27T11:26:25Z",
+   "pushed_at": "2018-11-27T15:48:36Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9867,
-   "stargazers_count": 424,
-   "watchers_count": 424,
+   "size": 9884,
+   "stargazers_count": 426,
+   "watchers_count": 426,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 170,
+   "forks_count": 171,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 136,
+   "open_issues_count": 139,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3433,16 +3433,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 170,
-   "open_issues": 136,
-   "watchers": 424,
+   "forks": 171,
+   "open_issues": 139,
+   "watchers": 426,
    "default_branch": "master",
    "permissions": {
     "admin": true,
     "push": true,
     "pull": true
    },
-   "network_count": 170,
+   "network_count": 171,
    "subscribers_count": 93
   }
  },
@@ -4865,7 +4865,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-11-25T13:27:38Z",
+   "updated_at": "2018-11-27T08:17:15Z",
    "pushed_at": "2018-11-24T11:13:00Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
@@ -4873,8 +4873,8 @@
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
    "size": 23009,
-   "stargazers_count": 174,
-   "watchers_count": 174,
+   "stargazers_count": 175,
+   "watchers_count": 175,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4894,7 +4894,7 @@
    },
    "forks": 97,
    "open_issues": 83,
-   "watchers": 174,
+   "watchers": 175,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5497,7 +5497,7 @@
    "releases_url": "https://api.github.com/repos/beraadim/zcl_pdf/releases{/id}",
    "deployments_url": "https://api.github.com/repos/beraadim/zcl_pdf/deployments",
    "created_at": "2017-06-03T09:46:29Z",
-   "updated_at": "2018-09-13T08:00:37Z",
+   "updated_at": "2018-11-27T11:54:10Z",
    "pushed_at": "2018-09-13T08:00:35Z",
    "git_url": "git://github.com/beraadim/zcl_pdf.git",
    "ssh_url": "git@github.com:beraadim/zcl_pdf.git",
@@ -5505,8 +5505,8 @@
    "svn_url": "https://github.com/beraadim/zcl_pdf",
    "homepage": null,
    "size": 121,
-   "stargazers_count": 4,
-   "watchers_count": 4,
+   "stargazers_count": 5,
+   "watchers_count": 5,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -5526,7 +5526,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 4,
+   "watchers": 5,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7006,7 +7006,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 36043,
+  "lines": 36077,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -7017,7 +7017,7 @@
   ],
   "parsing": {
    "version": "1.4.2",
-   "cloud": 2258
+   "cloud": 2261
   },
   "repo": {
    "id": 21558384,
@@ -7086,8 +7086,8 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-11-25T13:27:34Z",
-   "pushed_at": "2018-11-26T11:38:35Z",
+   "updated_at": "2018-11-27T08:45:58Z",
+   "pushed_at": "2018-11-27T08:46:00Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
@@ -7105,7 +7105,7 @@
    "forks_count": 22,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 272,
+   "open_issues_count": 271,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7114,7 +7114,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 22,
-   "open_issues": 272,
+   "open_issues": 271,
    "watchers": 67,
    "default_branch": "master",
    "permissions": {
@@ -8426,7 +8426,7 @@
    "deployments_url": "https://api.github.com/repos/sbcgua/abap_data_parser/deployments",
    "created_at": "2016-08-13T09:37:35Z",
    "updated_at": "2018-11-26T15:59:49Z",
-   "pushed_at": "2018-11-26T15:59:47Z",
+   "pushed_at": "2018-11-27T08:09:25Z",
    "git_url": "git://github.com/sbcgua/abap_data_parser.git",
    "ssh_url": "git@github.com:sbcgua/abap_data_parser.git",
    "clone_url": "https://github.com/sbcgua/abap_data_parser.git",
@@ -8444,7 +8444,7 @@
    "forks_count": 2,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8453,7 +8453,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 5,
    "default_branch": "master",
    "permissions": {
@@ -9315,7 +9315,7 @@
   }
  },
  "pixelbaker/ABAP-RayTracer": {
-  "lines": 6137,
+  "lines": 6173,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -9396,14 +9396,14 @@
    "releases_url": "https://api.github.com/repos/pixelbaker/ABAP-RayTracer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pixelbaker/ABAP-RayTracer/deployments",
    "created_at": "2017-08-18T11:54:04Z",
-   "updated_at": "2018-11-25T21:07:48Z",
-   "pushed_at": "2018-11-25T21:08:02Z",
+   "updated_at": "2018-11-27T16:52:14Z",
+   "pushed_at": "2018-11-27T16:52:12Z",
    "git_url": "git://github.com/pixelbaker/ABAP-RayTracer.git",
    "ssh_url": "git@github.com:pixelbaker/ABAP-RayTracer.git",
    "clone_url": "https://github.com/pixelbaker/ABAP-RayTracer.git",
    "svn_url": "https://github.com/pixelbaker/ABAP-RayTracer",
    "homepage": null,
-   "size": 1886,
+   "size": 1889,
    "stargazers_count": 16,
    "watchers_count": 16,
    "language": "ABAP",
