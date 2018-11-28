@@ -824,13 +824,13 @@
    "deployments_url": "https://api.github.com/repos/pawelwiejkut/bw_trfn_pocketknife/deployments",
    "created_at": "2018-10-28T19:19:58Z",
    "updated_at": "2018-11-27T20:47:13Z",
-   "pushed_at": "2018-11-27T20:47:11Z",
+   "pushed_at": "2018-11-28T20:36:53Z",
    "git_url": "git://github.com/pawelwiejkut/bw_trfn_pocketknife.git",
    "ssh_url": "git@github.com:pawelwiejkut/bw_trfn_pocketknife.git",
    "clone_url": "https://github.com/pawelwiejkut/bw_trfn_pocketknife.git",
    "svn_url": "https://github.com/pawelwiejkut/bw_trfn_pocketknife",
    "homepage": "",
-   "size": 5000,
+   "size": 5001,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -3322,7 +3322,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 78238,
+  "lines": 78257,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -3337,7 +3337,7 @@
   ],
   "parsing": {
    "version": "1.4.2",
-   "cloud": 683
+   "cloud": 684
   },
   "repo": {
    "id": 21115149,
@@ -3406,16 +3406,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-11-27T11:26:25Z",
-   "pushed_at": "2018-11-27T15:48:36Z",
+   "updated_at": "2018-11-28T06:19:29Z",
+   "pushed_at": "2018-11-28T18:09:06Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9884,
-   "stargazers_count": 426,
-   "watchers_count": 426,
+   "size": 9892,
+   "stargazers_count": 427,
+   "watchers_count": 427,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -3425,7 +3425,7 @@
    "forks_count": 171,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 139,
+   "open_issues_count": 136,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3434,8 +3434,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 171,
-   "open_issues": 139,
-   "watchers": 426,
+   "open_issues": 136,
+   "watchers": 427,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -7006,7 +7006,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 36077,
+  "lines": 36094,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -7017,7 +7017,7 @@
   ],
   "parsing": {
    "version": "1.4.2",
-   "cloud": 2261
+   "cloud": 2262
   },
   "repo": {
    "id": 21558384,
@@ -7086,14 +7086,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-11-27T08:45:58Z",
-   "pushed_at": "2018-11-27T08:46:00Z",
+   "updated_at": "2018-11-28T06:20:26Z",
+   "pushed_at": "2018-11-28T06:20:24Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1502,
+   "size": 1497,
    "stargazers_count": 67,
    "watchers_count": 67,
    "language": "ABAP",
@@ -9396,7 +9396,7 @@
    "releases_url": "https://api.github.com/repos/pixelbaker/ABAP-RayTracer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pixelbaker/ABAP-RayTracer/deployments",
    "created_at": "2017-08-18T11:54:04Z",
-   "updated_at": "2018-11-27T16:52:14Z",
+   "updated_at": "2018-11-28T19:26:21Z",
    "pushed_at": "2018-11-27T16:52:12Z",
    "git_url": "git://github.com/pixelbaker/ABAP-RayTracer.git",
    "ssh_url": "git@github.com:pixelbaker/ABAP-RayTracer.git",
@@ -9404,8 +9404,8 @@
    "svn_url": "https://github.com/pixelbaker/ABAP-RayTracer",
    "homepage": null,
    "size": 1889,
-   "stargazers_count": 16,
-   "watchers_count": 16,
+   "stargazers_count": 17,
+   "watchers_count": 17,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -9425,7 +9425,7 @@
    },
    "forks": 3,
    "open_issues": 5,
-   "watchers": 16,
+   "watchers": 17,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -9433,7 +9433,7 @@
     "pull": true
    },
    "network_count": 3,
-   "subscribers_count": 4
+   "subscribers_count": 5
   }
  },
  "abramsba/abapLisp": {
