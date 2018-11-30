@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "target": "v753",
-  "time": "2018-11-25T06:15:35.528Z",
+  "time": "2018-11-30T06:25:11.464Z",
   "totals": {
     "objects": 29,
     "files": 52,
@@ -81,6 +81,10 @@
     },
     {
       "type": "breakpoint",
+      "count": 1
+    },
+    {
+      "type": "method_length",
       "count": 1
     },
     {

@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "target": "v753",
-  "time": "2018-11-25T07:21:17.504Z",
+  "time": "2018-11-30T07:26:50.867Z",
   "totals": {
     "objects": 6,
     "files": 7,
@@ -21,15 +21,15 @@
     },
     {
       "type": "line_only_punc",
-      "count": 64
+      "count": 33
     },
     {
       "type": "exporting",
-      "count": 11
+      "count": 1
     },
     {
       "type": "keywords_upper",
-      "count": 5
+      "count": 3
     },
     {
       "type": "method_parameter_names",
@@ -40,28 +40,8 @@
       "count": 4
     },
     {
-      "type": "contains_tab",
-      "count": 9
-    },
-    {
       "type": "start_at_tab",
-      "count": 45
-    },
-    {
-      "type": "local_variable_names",
-      "count": 12
-    },
-    {
-      "type": "line_length",
-      "count": 87
-    },
-    {
-      "type": "empty_statement",
-      "count": 9
-    },
-    {
-      "type": "method_length",
-      "count": 2
+      "count": 3
     }
   ],
   "objectOrientation": {

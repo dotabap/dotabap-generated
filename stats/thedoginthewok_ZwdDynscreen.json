@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "target": "v753",
-  "time": "2018-11-25T06:58:03.498Z",
+  "time": "2018-11-30T07:03:22.390Z",
   "totals": {
     "objects": 28,
     "files": 28,
@@ -42,6 +42,10 @@
     {
       "type": "definitions_top",
       "count": 3
+    },
+    {
+      "type": "method_length",
+      "count": 2
     }
   ],
   "objectOrientation": {

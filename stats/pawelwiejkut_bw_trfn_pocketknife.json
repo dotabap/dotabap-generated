@@ -1,103 +1,77 @@
 {
   "version": "1.5.0",
   "target": "v753",
-  "time": "2018-11-30T07:56:27.616Z",
+  "time": "2018-11-30T08:05:01.024Z",
   "totals": {
-    "objects": 6,
-    "files": 10,
-    "statements": 2439,
-    "tokens": 14000
+    "objects": 3,
+    "files": 4,
+    "statements": 187,
+    "tokens": 1071
   },
   "objects": [
     {
-      "type": "CLAS",
-      "count": 4
+      "type": "PROG",
+      "count": 1
     },
     {
-      "type": "PROG",
-      "count": 2
+      "type": "CLAS",
+      "count": 1
+    },
+    {
+      "type": "INTF",
+      "count": 1
     }
   ],
   "issues": [
+    {
+      "type": "line_only_punc",
+      "count": 6
+    },
+    {
+      "type": "exporting",
+      "count": 4
+    },
     {
       "type": "functional_writing",
       "count": 2
     },
     {
-      "type": "line_only_punc",
+      "type": "line_length",
+      "count": 2
+    },
+    {
+      "type": "exit_or_check",
       "count": 1
+    },
+    {
+      "type": "definitions_top",
+      "count": 1
+    },
+    {
+      "type": "local_variable_names",
+      "count": 6
+    },
+    {
+      "type": "class_attribute_names",
+      "count": 2
     }
   ],
   "objectOrientation": {
-    "oo": 1979,
-    "non": 122
+    "oo": 131,
+    "non": 7
   },
   "methodLength": [
-    1,
-    4,
-    4,
-    4,
-    4,
-    1,
-    3,
-    2,
-    4,
-    2,
-    4,
-    2,
-    2,
-    2,
-    2,
-    3,
-    0,
-    0,
-    0,
-    3,
-    2,
-    3,
-    3,
-    2,
-    1,
-    1,
-    1,
-    0,
-    0,
     0,
     1,
-    2,
-    0,
-    1,
-    0,
-    1,
-    0,
     1,
     1,
     0,
     1,
     0,
     0,
-    1,
-    0,
-    1,
     0,
     0,
     0,
-    2,
-    0,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    0,
-    0,
-    0,
-    1,
     1,
     0,
     0,
@@ -115,11 +89,8 @@
     0,
     0,
     0,
-    0,
-    0,
-    0,
-    0,
     1,
+    0,
     0,
     0,
     0,
@@ -138,43 +109,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 2421
+      "count": 165
     },
     {
       "type": "v702",
-      "count": 2439
+      "count": 166
     },
     {
       "type": "v740sp02",
-      "count": 2439
+      "count": 186
     },
     {
       "type": "v740sp05",
-      "count": 2439
+      "count": 187
     },
     {
       "type": "v740sp08",
-      "count": 2439
+      "count": 187
     },
     {
       "type": "v750",
-      "count": 2439
+      "count": 187
     },
     {
       "type": "v751",
-      "count": 2439
+      "count": 187
     },
     {
       "type": "v752",
-      "count": 2439
+      "count": 187
     },
     {
       "type": "v753",
-      "count": 2439
+      "count": 187
     },
     {
       "type": "Cloud",
-      "count": 2348
+      "count": 181
     }
   ]
 }

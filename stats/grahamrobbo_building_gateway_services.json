@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "target": "v753",
-  "time": "2018-11-25T07:24:16.124Z",
+  "time": "2018-11-30T07:29:48.851Z",
   "totals": {
     "objects": 17,
     "files": 17,
@@ -25,15 +25,15 @@
     },
     {
       "type": "keywords_upper",
-      "count": 12
+      "count": 10
     },
     {
       "type": "method_parameter_names",
-      "count": 51
+      "count": 53
     },
     {
       "type": "local_variable_names",
-      "count": 40
+      "count": 31
     },
     {
       "type": "max_one_statement",
@@ -41,7 +41,7 @@
     },
     {
       "type": "line_only_punc",
-      "count": 42
+      "count": 11
     },
     {
       "type": "obsolete_statement",
@@ -49,39 +49,23 @@
     },
     {
       "type": "exporting",
-      "count": 18
+      "count": 11
     },
     {
       "type": "definitions_top",
       "count": 4
     },
     {
+      "type": "method_length",
+      "count": 2
+    },
+    {
       "type": "class_attribute_names",
-      "count": 4
-    },
-    {
-      "type": "contains_tab",
-      "count": 9
-    },
-    {
-      "type": "start_at_tab",
-      "count": 41
+      "count": 5
     },
     {
       "type": "line_length",
-      "count": 49
-    },
-    {
-      "type": "empty_statement",
-      "count": 8
-    },
-    {
-      "type": "sequential_blank",
-      "count": 1
-    },
-    {
-      "type": "parser_error",
-      "count": 1
+      "count": 5
     }
   ],
   "objectOrientation": {
@@ -222,31 +206,31 @@
     },
     {
       "type": "v740sp05",
-      "count": 1778
+      "count": 1779
     },
     {
       "type": "v740sp08",
-      "count": 1778
+      "count": 1779
     },
     {
       "type": "v750",
-      "count": 1778
+      "count": 1779
     },
     {
       "type": "v751",
-      "count": 1778
+      "count": 1779
     },
     {
       "type": "v752",
-      "count": 1778
+      "count": 1779
     },
     {
       "type": "v753",
-      "count": 1778
+      "count": 1779
     },
     {
       "type": "Cloud",
-      "count": 1723
+      "count": 1724
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "target": "v753",
-  "time": "2018-11-25T07:57:31.891Z",
+  "time": "2018-11-30T08:03:58.636Z",
   "totals": {
     "objects": 9,
     "files": 10,
@@ -22,6 +22,10 @@
     {
       "type": "registry_add",
       "count": 2
+    },
+    {
+      "type": "functional_writing",
+      "count": 1
     },
     {
       "type": "line_length",

@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "target": "v753",
-  "time": "2018-11-25T07:49:02.718Z",
+  "time": "2018-11-30T07:55:08.612Z",
   "totals": {
     "objects": 9,
     "files": 15,
@@ -45,7 +45,7 @@
     },
     {
       "type": "local_variable_names",
-      "count": 139
+      "count": 143
     },
     {
       "type": "class_attribute_names",
@@ -54,6 +54,10 @@
     {
       "type": "max_one_statement",
       "count": 9
+    },
+    {
+      "type": "method_length",
+      "count": 2
     }
   ],
   "objectOrientation": {

@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "target": "v753",
-  "time": "2018-11-25T07:46:51.912Z",
+  "time": "2018-11-30T07:52:59.244Z",
   "totals": {
     "objects": 26,
     "files": 26,
@@ -25,7 +25,7 @@
   "issues": [
     {
       "type": "functional_writing",
-      "count": 145
+      "count": 147
     },
     {
       "type": "colon_missing_space",
@@ -37,7 +37,7 @@
     },
     {
       "type": "local_variable_names",
-      "count": 301
+      "count": 302
     },
     {
       "type": "contains_tab",
@@ -66,6 +66,10 @@
     {
       "type": "line_length",
       "count": 2
+    },
+    {
+      "type": "line_only_punc",
+      "count": 1
     }
   ],
   "objectOrientation": {
