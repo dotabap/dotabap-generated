@@ -1697,7 +1697,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 6,
+   "forks_count": 7,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 33,
@@ -1708,7 +1708,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 6,
+   "forks": 7,
    "open_issues": 33,
    "watchers": 20,
    "default_branch": "master",
@@ -1737,7 +1737,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 6,
+   "network_count": 7,
    "subscribers_count": 8
   }
  },
@@ -1822,7 +1822,7 @@
    "releases_url": "https://api.github.com/repos/swixfort/Sdw.Abap.Di/releases{/id}",
    "deployments_url": "https://api.github.com/repos/swixfort/Sdw.Abap.Di/deployments",
    "created_at": "2018-09-05T18:59:26Z",
-   "updated_at": "2018-11-21T18:17:38Z",
+   "updated_at": "2018-12-03T06:32:06Z",
    "pushed_at": "2018-11-21T18:40:40Z",
    "git_url": "git://github.com/swixfort/Sdw.Abap.Di.git",
    "ssh_url": "git@github.com:swixfort/Sdw.Abap.Di.git",
@@ -1830,8 +1830,8 @@
    "svn_url": "https://github.com/swixfort/Sdw.Abap.Di",
    "homepage": "",
    "size": 63,
-   "stargazers_count": 0,
-   "watchers_count": 0,
+   "stargazers_count": 1,
+   "watchers_count": 1,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1851,7 +1851,7 @@
    },
    "forks": 1,
    "open_issues": 2,
-   "watchers": 0,
+   "watchers": 1,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -2606,7 +2606,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 21,
+   "forks_count": 22,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 3,
@@ -2617,7 +2617,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 21,
+   "forks": 22,
    "open_issues": 3,
    "watchers": 54,
    "default_branch": "master",
@@ -2626,7 +2626,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 21,
+   "network_count": 22,
    "subscribers_count": 18
   }
  },
@@ -3813,7 +3813,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 78300,
+  "lines": 78308,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -3897,16 +3897,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-12-02T12:34:26Z",
-   "pushed_at": "2018-12-02T15:45:24Z",
+   "updated_at": "2018-12-03T11:46:47Z",
+   "pushed_at": "2018-12-03T11:46:45Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9932,
-   "stargazers_count": 429,
-   "watchers_count": 429,
+   "size": 9922,
+   "stargazers_count": 430,
+   "watchers_count": 430,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -3916,7 +3916,7 @@
    "forks_count": 172,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 139,
+   "open_issues_count": 137,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3925,8 +3925,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 172,
-   "open_issues": 139,
-   "watchers": 429,
+   "open_issues": 137,
+   "watchers": 430,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -4422,7 +4422,7 @@
   }
  },
  "cesar-sap/abap_kafka_rest_proxy": {
-  "lines": 1608,
+  "lines": 1923,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -4433,7 +4433,7 @@
   ],
   "parsing": {
    "version": "1.5.0",
-   "cloud": 91
+   "cloud": 104
   },
   "repo": {
    "id": 120045110,
@@ -4502,14 +4502,14 @@
    "releases_url": "https://api.github.com/repos/cesar-sap/abap_kafka_rest_proxy/releases{/id}",
    "deployments_url": "https://api.github.com/repos/cesar-sap/abap_kafka_rest_proxy/deployments",
    "created_at": "2018-02-03T00:15:18Z",
-   "updated_at": "2018-04-15T17:55:30Z",
-   "pushed_at": "2018-04-15T17:55:29Z",
+   "updated_at": "2018-12-03T09:32:34Z",
+   "pushed_at": "2018-12-03T09:32:33Z",
    "git_url": "git://github.com/cesar-sap/abap_kafka_rest_proxy.git",
    "ssh_url": "git@github.com:cesar-sap/abap_kafka_rest_proxy.git",
    "clone_url": "https://github.com/cesar-sap/abap_kafka_rest_proxy.git",
    "svn_url": "https://github.com/cesar-sap/abap_kafka_rest_proxy",
    "homepage": null,
-   "size": 32,
+   "size": 30,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -6841,7 +6841,7 @@
    "releases_url": "https://api.github.com/repos/alborghetti/ABAPFire/releases{/id}",
    "deployments_url": "https://api.github.com/repos/alborghetti/ABAPFire/deployments",
    "created_at": "2017-08-17T19:15:22Z",
-   "updated_at": "2018-11-22T08:33:43Z",
+   "updated_at": "2018-12-03T06:32:01Z",
    "pushed_at": "2018-11-22T08:33:41Z",
    "git_url": "git://github.com/alborghetti/ABAPFire.git",
    "ssh_url": "git@github.com:alborghetti/ABAPFire.git",
@@ -6849,8 +6849,8 @@
    "svn_url": "https://github.com/alborghetti/ABAPFire",
    "homepage": "http://alborghetti.github.io/ABAPFire/",
    "size": 76,
-   "stargazers_count": 7,
-   "watchers_count": 7,
+   "stargazers_count": 8,
+   "watchers_count": 8,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -6870,7 +6870,7 @@
    },
    "forks": 3,
    "open_issues": 1,
-   "watchers": 7,
+   "watchers": 8,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7593,10 +7593,10 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 22,
+   "forks_count": 21,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 271,
+   "open_issues_count": 273,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7604,8 +7604,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 22,
-   "open_issues": 271,
+   "forks": 21,
+   "open_issues": 273,
    "watchers": 67,
    "default_branch": "master",
    "permissions": {
@@ -7613,7 +7613,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 22,
+   "network_count": 21,
    "subscribers_count": 23
   }
  },
@@ -9806,7 +9806,7 @@
   }
  },
  "pixelbaker/ABAP-RayTracer": {
-  "lines": 6753,
+  "lines": 7021,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -9887,14 +9887,14 @@
    "releases_url": "https://api.github.com/repos/pixelbaker/ABAP-RayTracer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pixelbaker/ABAP-RayTracer/deployments",
    "created_at": "2017-08-18T11:54:04Z",
-   "updated_at": "2018-12-01T21:52:46Z",
-   "pushed_at": "2018-12-01T21:52:44Z",
+   "updated_at": "2018-12-03T20:44:34Z",
+   "pushed_at": "2018-12-03T20:44:32Z",
    "git_url": "git://github.com/pixelbaker/ABAP-RayTracer.git",
    "ssh_url": "git@github.com:pixelbaker/ABAP-RayTracer.git",
    "clone_url": "https://github.com/pixelbaker/ABAP-RayTracer.git",
    "svn_url": "https://github.com/pixelbaker/ABAP-RayTracer",
    "homepage": null,
-   "size": 1906,
+   "size": 1911,
    "stargazers_count": 17,
    "watchers_count": 17,
    "language": "ABAP",
