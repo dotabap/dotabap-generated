@@ -74,7 +74,7 @@
    "deployments_url": "https://api.github.com/repos/flaiker/abap-log/deployments",
    "created_at": "2017-02-09T10:32:15Z",
    "updated_at": "2018-11-24T09:28:49Z",
-   "pushed_at": "2018-11-24T09:28:47Z",
+   "pushed_at": "2018-12-04T21:10:47Z",
    "git_url": "git://github.com/flaiker/abap-log.git",
    "ssh_url": "git@github.com:flaiker/abap-log.git",
    "clone_url": "https://github.com/flaiker/abap-log.git",
@@ -89,10 +89,10 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 3,
+   "open_issues_count": 6,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 5,
-   "open_issues": 3,
+   "forks": 6,
+   "open_issues": 6,
    "watchers": 11,
    "default_branch": "master",
    "permissions": {
@@ -109,7 +109,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 4
   }
  },
@@ -1597,7 +1597,7 @@
   }
  },
  "SAP2Moose/SAP2Moose": {
-  "lines": 21359,
+  "lines": 21667,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -1612,7 +1612,7 @@
   ],
   "parsing": {
    "version": "1.5.0",
-   "cloud": 1027
+   "cloud": 1031
   },
   "repo": {
    "id": 50174079,
@@ -1681,8 +1681,8 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2018-11-30T21:12:07Z",
-   "pushed_at": "2018-11-30T21:12:05Z",
+   "updated_at": "2018-12-04T21:10:35Z",
+   "pushed_at": "2018-12-04T21:10:34Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
    "clone_url": "https://github.com/SAP2Moose/SAP2Moose.git",
@@ -1700,7 +1700,7 @@
    "forks_count": 7,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 33,
+   "open_issues_count": 35,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1709,7 +1709,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 7,
-   "open_issues": 33,
+   "open_issues": 35,
    "watchers": 20,
    "default_branch": "master",
    "permissions": {
@@ -3679,11 +3679,11 @@
   }
  },
  "Microsoft/ABAP-SDK-for-Azure": {
-  "lines": 8523,
+  "lines": 8652,
   "startingFolder": "/src/",
   "parsing": {
    "version": "1.5.0",
-   "cloud": 498
+   "cloud": 506
   },
   "repo": {
    "id": 124694095,
@@ -3752,14 +3752,14 @@
    "releases_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2018-11-25T09:46:08Z",
-   "pushed_at": "2018-11-25T09:46:06Z",
+   "updated_at": "2018-12-04T12:11:04Z",
+   "pushed_at": "2018-12-04T12:11:02Z",
    "git_url": "git://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:Microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "svn_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
-   "size": 11599,
+   "size": 11602,
    "stargazers_count": 40,
    "watchers_count": 40,
    "language": "ABAP",
@@ -3813,7 +3813,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 78308,
+  "lines": 78370,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -3897,16 +3897,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-12-03T11:46:47Z",
-   "pushed_at": "2018-12-03T11:46:45Z",
+   "updated_at": "2018-12-04T17:47:16Z",
+   "pushed_at": "2018-12-04T16:20:31Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9922,
-   "stargazers_count": 430,
-   "watchers_count": 430,
+   "size": 9933,
+   "stargazers_count": 431,
+   "watchers_count": 431,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -3926,7 +3926,7 @@
    },
    "forks": 172,
    "open_issues": 137,
-   "watchers": 430,
+   "watchers": 431,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -6962,7 +6962,7 @@
    "releases_url": "https://api.github.com/repos/grahamrobbo/building_gateway_services/releases{/id}",
    "deployments_url": "https://api.github.com/repos/grahamrobbo/building_gateway_services/deployments",
    "created_at": "2017-08-08T07:03:33Z",
-   "updated_at": "2018-11-25T13:27:52Z",
+   "updated_at": "2018-12-04T10:18:48Z",
    "pushed_at": "2018-07-09T04:48:38Z",
    "git_url": "git://github.com/grahamrobbo/building_gateway_services.git",
    "ssh_url": "git@github.com:grahamrobbo/building_gateway_services.git",
@@ -6970,8 +6970,8 @@
    "svn_url": "https://github.com/grahamrobbo/building_gateway_services",
    "homepage": "https://grahamrobbo.github.io/building_gateway_services/",
    "size": 130981,
-   "stargazers_count": 4,
-   "watchers_count": 4,
+   "stargazers_count": 5,
+   "watchers_count": 5,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -6991,7 +6991,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 4,
+   "watchers": 5,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7335,7 +7335,7 @@
    "releases_url": "https://api.github.com/repos/larshp/Datamatrix/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/Datamatrix/deployments",
    "created_at": "2014-06-23T05:50:46Z",
-   "updated_at": "2018-08-10T16:08:22Z",
+   "updated_at": "2018-12-04T10:19:47Z",
    "pushed_at": "2018-05-20T10:50:09Z",
    "git_url": "git://github.com/larshp/Datamatrix.git",
    "ssh_url": "git@github.com:larshp/Datamatrix.git",
@@ -7343,8 +7343,8 @@
    "svn_url": "https://github.com/larshp/Datamatrix",
    "homepage": "",
    "size": 32,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": false,
    "has_projects": false,
@@ -7364,7 +7364,7 @@
    },
    "forks": 3,
    "open_issues": 0,
-   "watchers": 2,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -7497,7 +7497,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 36094,
+  "lines": 36490,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -7508,7 +7508,7 @@
   ],
   "parsing": {
    "version": "1.5.0",
-   "cloud": 2262
+   "cloud": 2279
   },
   "repo": {
    "id": 21558384,
@@ -7577,14 +7577,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-11-28T06:20:26Z",
-   "pushed_at": "2018-11-28T06:20:24Z",
+   "updated_at": "2018-12-04T11:31:31Z",
+   "pushed_at": "2018-12-04T11:31:30Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1497,
+   "size": 1528,
    "stargazers_count": 67,
    "watchers_count": 67,
    "language": "ABAP",
@@ -7596,7 +7596,7 @@
    "forks_count": 21,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 273,
+   "open_issues_count": 269,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7605,7 +7605,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 21,
-   "open_issues": 273,
+   "open_issues": 269,
    "watchers": 67,
    "default_branch": "master",
    "permissions": {
@@ -9564,7 +9564,7 @@
   }
  },
  "se38/abapFaker": {
-  "lines": 7036,
+  "lines": 7031,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -9575,7 +9575,7 @@
   ],
   "parsing": {
    "version": "1.5.0",
-   "cloud": 3
+   "cloud": 4
   },
   "repo": {
    "id": 145228933,
@@ -9644,14 +9644,14 @@
    "releases_url": "https://api.github.com/repos/se38/abapFaker/releases{/id}",
    "deployments_url": "https://api.github.com/repos/se38/abapFaker/deployments",
    "created_at": "2018-08-18T14:57:54Z",
-   "updated_at": "2018-12-01T11:07:59Z",
-   "pushed_at": "2018-12-01T11:07:58Z",
+   "updated_at": "2018-12-04T14:44:10Z",
+   "pushed_at": "2018-12-04T14:44:09Z",
    "git_url": "git://github.com/se38/abapFaker.git",
    "ssh_url": "git@github.com:se38/abapFaker.git",
    "clone_url": "https://github.com/se38/abapFaker.git",
    "svn_url": "https://github.com/se38/abapFaker",
    "homepage": null,
-   "size": 92,
+   "size": 96,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
@@ -9663,7 +9663,7 @@
    "forks_count": 3,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 2,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9672,7 +9672,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 3,
-   "open_issues": 2,
+   "open_issues": 1,
    "watchers": 7,
    "default_branch": "master",
    "permissions": {
@@ -9894,7 +9894,7 @@
    "clone_url": "https://github.com/pixelbaker/ABAP-RayTracer.git",
    "svn_url": "https://github.com/pixelbaker/ABAP-RayTracer",
    "homepage": null,
-   "size": 1911,
+   "size": 1919,
    "stargazers_count": 17,
    "watchers_count": 17,
    "language": "ABAP",
