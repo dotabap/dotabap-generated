@@ -74,7 +74,7 @@
    "deployments_url": "https://api.github.com/repos/flaiker/abap-log/deployments",
    "created_at": "2017-02-09T10:32:15Z",
    "updated_at": "2018-12-05T20:28:21Z",
-   "pushed_at": "2018-12-05T17:47:43Z",
+   "pushed_at": "2018-12-06T20:09:55Z",
    "git_url": "git://github.com/flaiker/abap-log.git",
    "ssh_url": "git@github.com:flaiker/abap-log.git",
    "clone_url": "https://github.com/flaiker/abap-log.git",
@@ -92,7 +92,7 @@
    "forks_count": 6,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -101,7 +101,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 6,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 12,
    "default_branch": "master",
    "permissions": {
@@ -437,7 +437,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2gapps/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2gapps/deployments",
    "created_at": "2014-01-05T00:16:42Z",
-   "updated_at": "2018-12-02T08:59:41Z",
+   "updated_at": "2018-12-06T07:47:34Z",
    "pushed_at": "2018-08-30T17:16:02Z",
    "git_url": "git://github.com/ivanfemia/abap2gapps.git",
    "ssh_url": "git@github.com:ivanfemia/abap2gapps.git",
@@ -445,8 +445,8 @@
    "svn_url": "https://github.com/ivanfemia/abap2gapps",
    "homepage": null,
    "size": 71,
-   "stargazers_count": 6,
-   "watchers_count": 6,
+   "stargazers_count": 7,
+   "watchers_count": 7,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -466,7 +466,7 @@
    },
    "forks": 3,
    "open_issues": 0,
-   "watchers": 6,
+   "watchers": 7,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -558,7 +558,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2oauth2/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2oauth2/deployments",
    "created_at": "2014-01-05T00:52:01Z",
-   "updated_at": "2018-12-02T09:00:04Z",
+   "updated_at": "2018-12-06T07:47:57Z",
    "pushed_at": "2018-08-30T17:19:17Z",
    "git_url": "git://github.com/ivanfemia/abap2oauth2.git",
    "ssh_url": "git@github.com:ivanfemia/abap2oauth2.git",
@@ -566,8 +566,8 @@
    "svn_url": "https://github.com/ivanfemia/abap2oauth2",
    "homepage": null,
    "size": 31,
-   "stargazers_count": 4,
-   "watchers_count": 4,
+   "stargazers_count": 5,
+   "watchers_count": 5,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -587,7 +587,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 4,
+   "watchers": 5,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1597,7 +1597,7 @@
   }
  },
  "SAP2Moose/SAP2Moose": {
-  "lines": 21667,
+  "lines": 21661,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -1612,7 +1612,7 @@
   ],
   "parsing": {
    "version": "1.5.0",
-   "cloud": 1031
+   "cloud": 1030
   },
   "repo": {
    "id": 50174079,
@@ -1681,14 +1681,14 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2018-12-04T21:10:35Z",
-   "pushed_at": "2018-12-04T21:10:34Z",
+   "updated_at": "2018-12-06T06:41:07Z",
+   "pushed_at": "2018-12-06T06:41:05Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
    "clone_url": "https://github.com/SAP2Moose/SAP2Moose.git",
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
-   "size": 4435,
+   "size": 4488,
    "stargazers_count": 20,
    "watchers_count": 20,
    "language": "ABAP",
@@ -3897,26 +3897,26 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-12-05T11:08:34Z",
-   "pushed_at": "2018-12-04T16:20:31Z",
+   "updated_at": "2018-12-06T11:06:31Z",
+   "pushed_at": "2018-12-06T07:12:59Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9933,
-   "stargazers_count": 432,
-   "watchers_count": 432,
+   "size": 9929,
+   "stargazers_count": 433,
+   "watchers_count": 433,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 172,
+   "forks_count": 173,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 137,
+   "open_issues_count": 134,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3924,16 +3924,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 172,
-   "open_issues": 137,
-   "watchers": 432,
+   "forks": 173,
+   "open_issues": 134,
+   "watchers": 433,
    "default_branch": "master",
    "permissions": {
     "admin": true,
     "push": true,
     "pull": true
    },
-   "network_count": 172,
+   "network_count": 173,
    "subscribers_count": 92
   }
  },
@@ -7497,7 +7497,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 36724,
+  "lines": 36741,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -7508,7 +7508,7 @@
   ],
   "parsing": {
    "version": "1.5.0",
-   "cloud": 2279
+   "cloud": 2283
   },
   "repo": {
    "id": 21558384,
@@ -7577,16 +7577,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-12-05T13:13:25Z",
-   "pushed_at": "2018-12-05T13:13:51Z",
+   "updated_at": "2018-12-06T11:22:38Z",
+   "pushed_at": "2018-12-06T11:22:37Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1549,
-   "stargazers_count": 67,
-   "watchers_count": 67,
+   "size": 1565,
+   "stargazers_count": 68,
+   "watchers_count": 68,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7596,7 +7596,7 @@
    "forks_count": 21,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 267,
+   "open_issues_count": 266,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7605,8 +7605,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 21,
-   "open_issues": 267,
-   "watchers": 67,
+   "open_issues": 266,
+   "watchers": 68,
    "default_branch": "master",
    "permissions": {
     "admin": true,
