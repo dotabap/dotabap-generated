@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:25:59.024Z",
+  "time": "2018-12-07T13:22:16.363Z",
   "totals": {
     "objects": 2,
     "files": 2,
@@ -139,6 +139,260 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 1
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "Comment",
+      "count": 163
+    },
+    {
+      "type": "Type",
+      "count": 50
+    },
+    {
+      "type": "TypeBegin",
+      "count": 10
+    },
+    {
+      "type": "TypeEnd",
+      "count": 10
+    },
+    {
+      "type": "Constant",
+      "count": 10
+    },
+    {
+      "type": "MethodDef",
+      "count": 55
+    },
+    {
+      "type": "ClassDefinitionLoad",
+      "count": 1
+    },
+    {
+      "type": "Protected",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 123
+    },
+    {
+      "type": "TypePools",
+      "count": 1
+    },
+    {
+      "type": "Events",
+      "count": 6
+    },
+    {
+      "type": "Private",
+      "count": 1
+    },
+    {
+      "type": "EndClass",
+      "count": 2
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 1
+    },
+    {
+      "type": "Method",
+      "count": 55
+    },
+    {
+      "type": "Move",
+      "count": 176
+    },
+    {
+      "type": "InsertInternal",
+      "count": 4
+    },
+    {
+      "type": "Call",
+      "count": 123
+    },
+    {
+      "type": "RaiseEvent",
+      "count": 6
+    },
+    {
+      "type": "EndMethod",
+      "count": 55
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 44
+    },
+    {
+      "type": "Loop",
+      "count": 16
+    },
+    {
+      "type": "Split",
+      "count": 4
+    },
+    {
+      "type": "If",
+      "count": 52
+    },
+    {
+      "type": "Read",
+      "count": 26
+    },
+    {
+      "type": "Else",
+      "count": 21
+    },
+    {
+      "type": "Clear",
+      "count": 12
+    },
+    {
+      "type": "EndIf",
+      "count": 52
+    },
+    {
+      "type": "EndLoop",
+      "count": 16
+    },
+    {
+      "type": "Append",
+      "count": 25
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 1
+    },
+    {
+      "type": "At",
+      "count": 2
+    },
+    {
+      "type": "Endat",
+      "count": 2
+    },
+    {
+      "type": "Concatenate",
+      "count": 7
+    },
+    {
+      "type": "Case",
+      "count": 5
+    },
+    {
+      "type": "When",
+      "count": 14
+    },
+    {
+      "type": "EndCase",
+      "count": 5
+    },
+    {
+      "type": "Translate",
+      "count": 1
+    },
+    {
+      "type": "Replace",
+      "count": 8
+    },
+    {
+      "type": "Assign",
+      "count": 4
+    },
+    {
+      "type": "Do",
+      "count": 4
+    },
+    {
+      "type": "GetReference",
+      "count": 3
+    },
+    {
+      "type": "EndDo",
+      "count": 4
+    },
+    {
+      "type": "Return",
+      "count": 1
+    },
+    {
+      "type": "Exit",
+      "count": 3
+    },
+    {
+      "type": "CallTransformation",
+      "count": 2
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
+    },
+    {
+      "type": "GetTime",
+      "count": 1
+    },
+    {
+      "type": "Unassign",
+      "count": 1
+    },
+    {
+      "type": "Condense",
+      "count": 1
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Perform",
+      "count": 2
+    },
+    {
+      "type": "Form",
+      "count": 3
+    },
+    {
+      "type": "CreateObject",
+      "count": 3
+    },
+    {
+      "type": "Endform",
+      "count": 3
+    },
+    {
+      "type": "CallScreen",
+      "count": 1
+    },
+    {
+      "type": "Write",
+      "count": 1
+    },
+    {
+      "type": "Module",
+      "count": 2
+    },
+    {
+      "type": "SetPFStatus",
+      "count": 1
+    },
+    {
+      "type": "EndModule",
+      "count": 2
+    },
+    {
+      "type": "Leave",
+      "count": 1
+    }
   ],
   "statements": [
     {

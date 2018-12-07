@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:57:56.410Z",
+  "time": "2018-12-07T13:46:38.525Z",
   "totals": {
     "objects": 4,
     "files": 4,
@@ -121,6 +121,268 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 264
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Include",
+      "count": 3
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "TypeBegin",
+      "count": 12
+    },
+    {
+      "type": "Type",
+      "count": 59
+    },
+    {
+      "type": "TypeEnd",
+      "count": 12
+    },
+    {
+      "type": "Data",
+      "count": 112
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 35
+    },
+    {
+      "type": "Append",
+      "count": 70
+    },
+    {
+      "type": "Move",
+      "count": 184
+    },
+    {
+      "type": "If",
+      "count": 52
+    },
+    {
+      "type": "Else",
+      "count": 13
+    },
+    {
+      "type": "EndIf",
+      "count": 52
+    },
+    {
+      "type": "Write",
+      "count": 15
+    },
+    {
+      "type": "Uline",
+      "count": 1
+    },
+    {
+      "type": "Call",
+      "count": 68
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 6
+    },
+    {
+      "type": "Public",
+      "count": 4
+    },
+    {
+      "type": "MethodDef",
+      "count": 36
+    },
+    {
+      "type": "EndClass",
+      "count": 12
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 6
+    },
+    {
+      "type": "Method",
+      "count": 36
+    },
+    {
+      "type": "EndMethod",
+      "count": 36
+    },
+    {
+      "type": "Split",
+      "count": 4
+    },
+    {
+      "type": "Find",
+      "count": 4
+    },
+    {
+      "type": "Concatenate",
+      "count": 1
+    },
+    {
+      "type": "ClassOther",
+      "count": 1
+    },
+    {
+      "type": "Constant",
+      "count": 18
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 3
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 3
+    },
+    {
+      "type": "Private",
+      "count": 4
+    },
+    {
+      "type": "ClassData",
+      "count": 2
+    },
+    {
+      "type": "CreateObject",
+      "count": 2
+    },
+    {
+      "type": "Assert",
+      "count": 11
+    },
+    {
+      "type": "Loop",
+      "count": 9
+    },
+    {
+      "type": "EndLoop",
+      "count": 9
+    },
+    {
+      "type": "Clear",
+      "count": 17
+    },
+    {
+      "type": "Raise",
+      "count": 20
+    },
+    {
+      "type": "Read",
+      "count": 6
+    },
+    {
+      "type": "Do",
+      "count": 7
+    },
+    {
+      "type": "Exit",
+      "count": 3
+    },
+    {
+      "type": "EndDo",
+      "count": 7
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 5
+    },
+    {
+      "type": "Shift",
+      "count": 3
+    },
+    {
+      "type": "Case",
+      "count": 4
+    },
+    {
+      "type": "When",
+      "count": 22
+    },
+    {
+      "type": "Condense",
+      "count": 1
+    },
+    {
+      "type": "EndCase",
+      "count": 4
+    },
+    {
+      "type": "Describe",
+      "count": 3
+    },
+    {
+      "type": "GetReference",
+      "count": 8
+    },
+    {
+      "type": "ElseIf",
+      "count": 3
+    },
+    {
+      "type": "Assign",
+      "count": 10
+    },
+    {
+      "type": "Continue",
+      "count": 1
+    },
+    {
+      "type": "Unassign",
+      "count": 1
+    },
+    {
+      "type": "CreateData",
+      "count": 3
+    },
+    {
+      "type": "Try",
+      "count": 17
+    },
+    {
+      "type": "GetTime",
+      "count": 6
+    },
+    {
+      "type": "Catch",
+      "count": 17
+    },
+    {
+      "type": "EndTry",
+      "count": 17
+    },
+    {
+      "type": "Define",
+      "count": 2
+    },
+    {
+      "type": "MacroContent",
+      "count": 8
+    },
+    {
+      "type": "EndOfDefinition",
+      "count": 2
+    },
+    {
+      "type": "MacroCall",
+      "count": 87
+    },
+    {
+      "type": "Return",
+      "count": 1
+    }
   ],
   "statements": [
     {

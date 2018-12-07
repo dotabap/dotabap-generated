@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T08:02:04.434Z",
+  "time": "2018-12-07T13:50:09.097Z",
   "totals": {
     "objects": 1,
     "files": 1,
@@ -154,6 +154,168 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 1
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "MethodDef",
+      "count": 5
+    },
+    {
+      "type": "Protected",
+      "count": 1
+    },
+    {
+      "type": "Private",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 27
+    },
+    {
+      "type": "ClassData",
+      "count": 2
+    },
+    {
+      "type": "EndClass",
+      "count": 2
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 1
+    },
+    {
+      "type": "Method",
+      "count": 5
+    },
+    {
+      "type": "Comment",
+      "count": 27
+    },
+    {
+      "type": "Move",
+      "count": 74
+    },
+    {
+      "type": "Append",
+      "count": 15
+    },
+    {
+      "type": "EndMethod",
+      "count": 5
+    },
+    {
+      "type": "Loop",
+      "count": 7
+    },
+    {
+      "type": "If",
+      "count": 15
+    },
+    {
+      "type": "EndIf",
+      "count": 15
+    },
+    {
+      "type": "Try",
+      "count": 3
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "Catch",
+      "count": 3
+    },
+    {
+      "type": "EndTry",
+      "count": 3
+    },
+    {
+      "type": "EndLoop",
+      "count": 7
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 8
+    },
+    {
+      "type": "Select",
+      "count": 4
+    },
+    {
+      "type": "CreateObject",
+      "count": 1
+    },
+    {
+      "type": "TypeBegin",
+      "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 2
+    },
+    {
+      "type": "TypeEnd",
+      "count": 1
+    },
+    {
+      "type": "Constant",
+      "count": 2
+    },
+    {
+      "type": "ElseIf",
+      "count": 2
+    },
+    {
+      "type": "Return",
+      "count": 2
+    },
+    {
+      "type": "Check",
+      "count": 1
+    },
+    {
+      "type": "Call",
+      "count": 1
+    },
+    {
+      "type": "Assign",
+      "count": 5
+    },
+    {
+      "type": "Clear",
+      "count": 1
+    },
+    {
+      "type": "Continue",
+      "count": 2
+    },
+    {
+      "type": "Else",
+      "count": 3
+    },
+    {
+      "type": "CreateData",
+      "count": 1
+    },
+    {
+      "type": "InsertInternal",
+      "count": 1
+    },
+    {
+      "type": "Refresh",
+      "count": 1
+    }
   ],
   "statements": [
     {

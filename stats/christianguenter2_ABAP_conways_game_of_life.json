@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:04:48.594Z",
+  "time": "2018-12-07T13:06:45.705Z",
   "totals": {
     "objects": 4,
     "files": 5,
@@ -76,6 +76,252 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 13
+    },
+    {
+      "type": "Report",
+      "count": 2
+    },
+    {
+      "type": "Parameter",
+      "count": 7
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 7
+    },
+    {
+      "type": "Public",
+      "count": 6
+    },
+    {
+      "type": "MethodDef",
+      "count": 63
+    },
+    {
+      "type": "Private",
+      "count": 6
+    },
+    {
+      "type": "Data",
+      "count": 32
+    },
+    {
+      "type": "EndClass",
+      "count": 14
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 7
+    },
+    {
+      "type": "Method",
+      "count": 63
+    },
+    {
+      "type": "Move",
+      "count": 57
+    },
+    {
+      "type": "EndMethod",
+      "count": 63
+    },
+    {
+      "type": "Do",
+      "count": 6
+    },
+    {
+      "type": "Call",
+      "count": 146
+    },
+    {
+      "type": "EndDo",
+      "count": 6
+    },
+    {
+      "type": "GetTime",
+      "count": 2
+    },
+    {
+      "type": "If",
+      "count": 18
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "EndIf",
+      "count": 18
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 2
+    },
+    {
+      "type": "Try",
+      "count": 6
+    },
+    {
+      "type": "Catch",
+      "count": 6
+    },
+    {
+      "type": "Message",
+      "count": 5
+    },
+    {
+      "type": "EndTry",
+      "count": 6
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 7
+    },
+    {
+      "type": "ClassData",
+      "count": 2
+    },
+    {
+      "type": "Events",
+      "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 9
+    },
+    {
+      "type": "Raise",
+      "count": 3
+    },
+    {
+      "type": "CreateData",
+      "count": 2
+    },
+    {
+      "type": "Assert",
+      "count": 3
+    },
+    {
+      "type": "CallScreen",
+      "count": 1
+    },
+    {
+      "type": "Clear",
+      "count": 3
+    },
+    {
+      "type": "Assign",
+      "count": 4
+    },
+    {
+      "type": "InsertInternal",
+      "count": 3
+    },
+    {
+      "type": "Else",
+      "count": 2
+    },
+    {
+      "type": "SetTitlebar",
+      "count": 1
+    },
+    {
+      "type": "RaiseEvent",
+      "count": 2
+    },
+    {
+      "type": "SetPFStatus",
+      "count": 1
+    },
+    {
+      "type": "Check",
+      "count": 5
+    },
+    {
+      "type": "SetHandler",
+      "count": 3
+    },
+    {
+      "type": "CallSelectionScreen",
+      "count": 3
+    },
+    {
+      "type": "Case",
+      "count": 2
+    },
+    {
+      "type": "When",
+      "count": 9
+    },
+    {
+      "type": "CallFunction",
+      "count": 1
+    },
+    {
+      "type": "EndCase",
+      "count": 2
+    },
+    {
+      "type": "SetScreen",
+      "count": 1
+    },
+    {
+      "type": "Module",
+      "count": 2
+    },
+    {
+      "type": "EndModule",
+      "count": 2
+    },
+    {
+      "type": "TypeBegin",
+      "count": 3
+    },
+    {
+      "type": "TypeEnd",
+      "count": 3
+    },
+    {
+      "type": "IncludeType",
+      "count": 2
+    },
+    {
+      "type": "Loop",
+      "count": 3
+    },
+    {
+      "type": "EndLoop",
+      "count": 3
+    },
+    {
+      "type": "ClassOther",
+      "count": 2
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 1
+    },
+    {
+      "type": "Constant",
+      "count": 2
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 1
+    },
+    {
+      "type": "Split",
+      "count": 1
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 1
+    }
   ],
   "statements": [
     {

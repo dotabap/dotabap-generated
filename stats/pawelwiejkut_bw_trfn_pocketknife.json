@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T08:05:01.024Z",
+  "time": "2018-12-07T13:52:36.113Z",
   "totals": {
     "objects": 3,
     "files": 4,
@@ -105,6 +105,128 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 49
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 2
+    },
+    {
+      "type": "Parameter",
+      "count": 2
+    },
+    {
+      "type": "EndOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Call",
+      "count": 18
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 2
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "MethodDef",
+      "count": 8
+    },
+    {
+      "type": "Protected",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 14
+    },
+    {
+      "type": "Private",
+      "count": 2
+    },
+    {
+      "type": "EndClass",
+      "count": 4
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 2
+    },
+    {
+      "type": "Method",
+      "count": 7
+    },
+    {
+      "type": "If",
+      "count": 2
+    },
+    {
+      "type": "EndIf",
+      "count": 2
+    },
+    {
+      "type": "EndMethod",
+      "count": 7
+    },
+    {
+      "type": "Move",
+      "count": 18
+    },
+    {
+      "type": "Append",
+      "count": 20
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
+    },
+    {
+      "type": "Message",
+      "count": 1
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "Select",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 4
+    },
+    {
+      "type": "Catch",
+      "count": 8
+    },
+    {
+      "type": "EndTry",
+      "count": 4
+    },
+    {
+      "type": "Split",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 1
+    },
+    {
+      "type": "EndInterface",
+      "count": 1
+    }
   ],
   "statements": [
     {

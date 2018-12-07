@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T08:03:43.018Z",
+  "time": "2018-12-07T13:51:34.298Z",
   "totals": {
     "objects": 16,
     "files": 16,
@@ -119,6 +119,164 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 14
+    },
+    {
+      "type": "Public",
+      "count": 14
+    },
+    {
+      "type": "MethodDef",
+      "count": 13
+    },
+    {
+      "type": "Protected",
+      "count": 14
+    },
+    {
+      "type": "Private",
+      "count": 14
+    },
+    {
+      "type": "EndClass",
+      "count": 28
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 14
+    },
+    {
+      "type": "Method",
+      "count": 20
+    },
+    {
+      "type": "Call",
+      "count": 24
+    },
+    {
+      "type": "EndMethod",
+      "count": 20
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 14
+    },
+    {
+      "type": "Clear",
+      "count": 3
+    },
+    {
+      "type": "If",
+      "count": 22
+    },
+    {
+      "type": "Move",
+      "count": 91
+    },
+    {
+      "type": "Else",
+      "count": 9
+    },
+    {
+      "type": "EndIf",
+      "count": 22
+    },
+    {
+      "type": "Do",
+      "count": 8
+    },
+    {
+      "type": "EndDo",
+      "count": 8
+    },
+    {
+      "type": "Return",
+      "count": 4
+    },
+    {
+      "type": "Data",
+      "count": 11
+    },
+    {
+      "type": "Replace",
+      "count": 5
+    },
+    {
+      "type": "Split",
+      "count": 1
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 1
+    },
+    {
+      "type": "Comment",
+      "count": 9
+    },
+    {
+      "type": "Find",
+      "count": 4
+    },
+    {
+      "type": "Try",
+      "count": 5
+    },
+    {
+      "type": "Catch",
+      "count": 5
+    },
+    {
+      "type": "EndTry",
+      "count": 5
+    },
+    {
+      "type": "ElseIf",
+      "count": 1
+    },
+    {
+      "type": "While",
+      "count": 1
+    },
+    {
+      "type": "EndWhile",
+      "count": 1
+    },
+    {
+      "type": "InsertInternal",
+      "count": 1
+    },
+    {
+      "type": "Raise",
+      "count": 8
+    },
+    {
+      "type": "Interface",
+      "count": 1
+    },
+    {
+      "type": "EndInterface",
+      "count": 1
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Parameter",
+      "count": 1
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Write",
+      "count": 9
+    }
   ],
   "statements": [
     {

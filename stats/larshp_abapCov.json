@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:33:49.005Z",
+  "time": "2018-12-07T13:28:34.136Z",
   "totals": {
     "objects": 1,
     "files": 1,
@@ -54,6 +54,228 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Comment",
+      "count": 32
+    },
+    {
+      "type": "Tables",
+      "count": 2
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 6
+    },
+    {
+      "type": "Parameter",
+      "count": 7
+    },
+    {
+      "type": "SelectOption",
+      "count": 2
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 6
+    },
+    {
+      "type": "Public",
+      "count": 6
+    },
+    {
+      "type": "MethodDef",
+      "count": 21
+    },
+    {
+      "type": "Private",
+      "count": 5
+    },
+    {
+      "type": "TypeBegin",
+      "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 2
+    },
+    {
+      "type": "TypeEnd",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 28
+    },
+    {
+      "type": "EndClass",
+      "count": 12
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 6
+    },
+    {
+      "type": "Method",
+      "count": 21
+    },
+    {
+      "type": "Append",
+      "count": 7
+    },
+    {
+      "type": "EndMethod",
+      "count": 21
+    },
+    {
+      "type": "Move",
+      "count": 49
+    },
+    {
+      "type": "If",
+      "count": 15
+    },
+    {
+      "type": "Translate",
+      "count": 1
+    },
+    {
+      "type": "EndIf",
+      "count": 15
+    },
+    {
+      "type": "Case",
+      "count": 4
+    },
+    {
+      "type": "When",
+      "count": 8
+    },
+    {
+      "type": "Concatenate",
+      "count": 7
+    },
+    {
+      "type": "EndCase",
+      "count": 4
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 3
+    },
+    {
+      "type": "Assert",
+      "count": 5
+    },
+    {
+      "type": "Call",
+      "count": 20
+    },
+    {
+      "type": "Write",
+      "count": 4
+    },
+    {
+      "type": "While",
+      "count": 1
+    },
+    {
+      "type": "EndWhile",
+      "count": 1
+    },
+    {
+      "type": "Constant",
+      "count": 1
+    },
+    {
+      "type": "Loop",
+      "count": 7
+    },
+    {
+      "type": "EndLoop",
+      "count": 7
+    },
+    {
+      "type": "Do",
+      "count": 3
+    },
+    {
+      "type": "Read",
+      "count": 2
+    },
+    {
+      "type": "ElseIf",
+      "count": 1
+    },
+    {
+      "type": "Else",
+      "count": 2
+    },
+    {
+      "type": "EndDo",
+      "count": 3
+    },
+    {
+      "type": "Continue",
+      "count": 2
+    },
+    {
+      "type": "CreateObject",
+      "count": 1
+    },
+    {
+      "type": "ReadReport",
+      "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 3
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "Clear",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 1
+    },
+    {
+      "type": "Catch",
+      "count": 1
+    },
+    {
+      "type": "EndTry",
+      "count": 1
+    },
+    {
+      "type": "Sort",
+      "count": 1
+    },
+    {
+      "type": "CallFunction",
+      "count": 1
+    },
+    {
+      "type": "Select",
+      "count": 3
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Initialization",
+      "count": 1
+    }
   ],
   "statements": [
     {

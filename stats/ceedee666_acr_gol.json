@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:27:49.034Z",
+  "time": "2018-12-07T13:23:37.906Z",
   "totals": {
     "objects": 6,
     "files": 11,
@@ -77,6 +77,168 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 48
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 16
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 2
+    },
+    {
+      "type": "Parameter",
+      "count": 2
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Move",
+      "count": 59
+    },
+    {
+      "type": "Call",
+      "count": 171
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 8
+    },
+    {
+      "type": "Public",
+      "count": 4
+    },
+    {
+      "type": "MethodDef",
+      "count": 45
+    },
+    {
+      "type": "Protected",
+      "count": 4
+    },
+    {
+      "type": "Private",
+      "count": 8
+    },
+    {
+      "type": "EndClass",
+      "count": 16
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 8
+    },
+    {
+      "type": "Method",
+      "count": 45
+    },
+    {
+      "type": "Loop",
+      "count": 4
+    },
+    {
+      "type": "EndLoop",
+      "count": 4
+    },
+    {
+      "type": "EndMethod",
+      "count": 45
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 1
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 4
+    },
+    {
+      "type": "Do",
+      "count": 6
+    },
+    {
+      "type": "Append",
+      "count": 2
+    },
+    {
+      "type": "EndDo",
+      "count": 6
+    },
+    {
+      "type": "CreateData",
+      "count": 1
+    },
+    {
+      "type": "Assign",
+      "count": 8
+    },
+    {
+      "type": "SetHandler",
+      "count": 2
+    },
+    {
+      "type": "Read",
+      "count": 2
+    },
+    {
+      "type": "If",
+      "count": 5
+    },
+    {
+      "type": "Else",
+      "count": 3
+    },
+    {
+      "type": "EndIf",
+      "count": 5
+    },
+    {
+      "type": "Case",
+      "count": 2
+    },
+    {
+      "type": "When",
+      "count": 6
+    },
+    {
+      "type": "EndCase",
+      "count": 2
+    },
+    {
+      "type": "ClassOther",
+      "count": 2
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "ElseIf",
+      "count": 2
+    },
+    {
+      "type": "Interface",
+      "count": 1
+    },
+    {
+      "type": "Constant",
+      "count": 3
+    },
+    {
+      "type": "EndInterface",
+      "count": 1
+    }
   ],
   "statements": [
     {

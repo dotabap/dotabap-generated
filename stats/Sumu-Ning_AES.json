@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:30:37.203Z",
+  "time": "2018-12-07T13:25:57.550Z",
   "totals": {
     "objects": 14,
     "files": 14,
@@ -1590,6 +1590,188 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 291
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 13
+    },
+    {
+      "type": "Public",
+      "count": 13
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 6
+    },
+    {
+      "type": "Protected",
+      "count": 13
+    },
+    {
+      "type": "Private",
+      "count": 13
+    },
+    {
+      "type": "EndClass",
+      "count": 26
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 13
+    },
+    {
+      "type": "Method",
+      "count": 112
+    },
+    {
+      "type": "Data",
+      "count": 177
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 25
+    },
+    {
+      "type": "Clear",
+      "count": 27
+    },
+    {
+      "type": "Move",
+      "count": 503
+    },
+    {
+      "type": "Loop",
+      "count": 20
+    },
+    {
+      "type": "Call",
+      "count": 217
+    },
+    {
+      "type": "Append",
+      "count": 2575
+    },
+    {
+      "type": "EndLoop",
+      "count": 20
+    },
+    {
+      "type": "EndMethod",
+      "count": 112
+    },
+    {
+      "type": "MethodDef",
+      "count": 102
+    },
+    {
+      "type": "Constant",
+      "count": 39
+    },
+    {
+      "type": "While",
+      "count": 19
+    },
+    {
+      "type": "If",
+      "count": 52
+    },
+    {
+      "type": "Exit",
+      "count": 2
+    },
+    {
+      "type": "EndIf",
+      "count": 52
+    },
+    {
+      "type": "EndWhile",
+      "count": 19
+    },
+    {
+      "type": "ClassData",
+      "count": 34
+    },
+    {
+      "type": "Else",
+      "count": 7
+    },
+    {
+      "type": "Read",
+      "count": 27
+    },
+    {
+      "type": "Return",
+      "count": 2
+    },
+    {
+      "type": "At",
+      "count": 1
+    },
+    {
+      "type": "Endat",
+      "count": 1
+    },
+    {
+      "type": "Case",
+      "count": 5
+    },
+    {
+      "type": "When",
+      "count": 22
+    },
+    {
+      "type": "CreateObject",
+      "count": 12
+    },
+    {
+      "type": "EndCase",
+      "count": 5
+    },
+    {
+      "type": "ElseIf",
+      "count": 6
+    },
+    {
+      "type": "Raise",
+      "count": 14
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 2
+    },
+    {
+      "type": "Assert",
+      "count": 2
+    },
+    {
+      "type": "Do",
+      "count": 2
+    },
+    {
+      "type": "EndDo",
+      "count": 2
+    },
+    {
+      "type": "InsertInternal",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 1
+    },
+    {
+      "type": "EndInterface",
+      "count": 1
+    }
   ],
   "statements": [
     {

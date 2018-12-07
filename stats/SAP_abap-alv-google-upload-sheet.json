@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T06:29:20.592Z",
+  "time": "2018-12-07T12:47:14.914Z",
   "totals": {
     "objects": 13,
     "files": 13,
@@ -73,6 +73,200 @@
     2,
     0,
     2
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 587
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Parameter",
+      "count": 1
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 10
+    },
+    {
+      "type": "Public",
+      "count": 10
+    },
+    {
+      "type": "Constant",
+      "count": 33
+    },
+    {
+      "type": "MethodDef",
+      "count": 41
+    },
+    {
+      "type": "Private",
+      "count": 7
+    },
+    {
+      "type": "Data",
+      "count": 17
+    },
+    {
+      "type": "EndClass",
+      "count": 20
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 10
+    },
+    {
+      "type": "Method",
+      "count": 52
+    },
+    {
+      "type": "Move",
+      "count": 117
+    },
+    {
+      "type": "EndMethod",
+      "count": 52
+    },
+    {
+      "type": "Write",
+      "count": 21
+    },
+    {
+      "type": "NewLine",
+      "count": 18
+    },
+    {
+      "type": "Call",
+      "count": 56
+    },
+    {
+      "type": "Skip",
+      "count": 3
+    },
+    {
+      "type": "If",
+      "count": 44
+    },
+    {
+      "type": "Else",
+      "count": 8
+    },
+    {
+      "type": "EndIf",
+      "count": 44
+    },
+    {
+      "type": "Clear",
+      "count": 6
+    },
+    {
+      "type": "Loop",
+      "count": 5
+    },
+    {
+      "type": "EndLoop",
+      "count": 5
+    },
+    {
+      "type": "AtSelectionScreen",
+      "count": 1
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 9
+    },
+    {
+      "type": "Catch",
+      "count": 10
+    },
+    {
+      "type": "EndTry",
+      "count": 9
+    },
+    {
+      "type": "Exit",
+      "count": 2
+    },
+    {
+      "type": "Read",
+      "count": 1
+    },
+    {
+      "type": "ElseIf",
+      "count": 1
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 7
+    },
+    {
+      "type": "Aliases",
+      "count": 13
+    },
+    {
+      "type": "TypeBegin",
+      "count": 5
+    },
+    {
+      "type": "Type",
+      "count": 24
+    },
+    {
+      "type": "TypeEnd",
+      "count": 5
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 7
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 7
+    },
+    {
+      "type": "Return",
+      "count": 5
+    },
+    {
+      "type": "Append",
+      "count": 2
+    },
+    {
+      "type": "GetTime",
+      "count": 1
+    },
+    {
+      "type": "Raise",
+      "count": 2
+    },
+    {
+      "type": "Case",
+      "count": 1
+    },
+    {
+      "type": "When",
+      "count": 2
+    },
+    {
+      "type": "EndCase",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 3
+    },
+    {
+      "type": "EndInterface",
+      "count": 3
+    }
   ],
   "statements": [
     {

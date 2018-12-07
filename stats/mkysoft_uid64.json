@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T08:04:13.611Z",
+  "time": "2018-12-07T13:51:59.949Z",
   "totals": {
     "objects": 2,
     "files": 2,
@@ -86,6 +86,144 @@
     2,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 2
+    },
+    {
+      "type": "Public",
+      "count": 2
+    },
+    {
+      "type": "MethodDef",
+      "count": 17
+    },
+    {
+      "type": "Protected",
+      "count": 2
+    },
+    {
+      "type": "Private",
+      "count": 2
+    },
+    {
+      "type": "Constant",
+      "count": 11
+    },
+    {
+      "type": "Comment",
+      "count": 17
+    },
+    {
+      "type": "ClassData",
+      "count": 3
+    },
+    {
+      "type": "EndClass",
+      "count": 4
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 2
+    },
+    {
+      "type": "Method",
+      "count": 17
+    },
+    {
+      "type": "Data",
+      "count": 51
+    },
+    {
+      "type": "Move",
+      "count": 88
+    },
+    {
+      "type": "EndMethod",
+      "count": 17
+    },
+    {
+      "type": "Try",
+      "count": 4
+    },
+    {
+      "type": "Catch",
+      "count": 4
+    },
+    {
+      "type": "While",
+      "count": 4
+    },
+    {
+      "type": "EndWhile",
+      "count": 4
+    },
+    {
+      "type": "EndTry",
+      "count": 4
+    },
+    {
+      "type": "Append",
+      "count": 30
+    },
+    {
+      "type": "If",
+      "count": 16
+    },
+    {
+      "type": "Return",
+      "count": 14
+    },
+    {
+      "type": "EndIf",
+      "count": 16
+    },
+    {
+      "type": "Read",
+      "count": 2
+    },
+    {
+      "type": "Do",
+      "count": 1
+    },
+    {
+      "type": "EndDo",
+      "count": 1
+    },
+    {
+      "type": "Else",
+      "count": 6
+    },
+    {
+      "type": "ElseIf",
+      "count": 1
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
+    },
+    {
+      "type": "Concatenate",
+      "count": 8
+    },
+    {
+      "type": "Add",
+      "count": 3
+    },
+    {
+      "type": "Subtract",
+      "count": 1
+    },
+    {
+      "type": "GetTime",
+      "count": 1
+    },
+    {
+      "type": "Call",
+      "count": 2
+    }
   ],
   "statements": [
     {

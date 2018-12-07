@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T08:00:15.037Z",
+  "time": "2018-12-07T13:48:26.292Z",
   "totals": {
     "objects": 2,
     "files": 3,
@@ -166,6 +166,276 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 3
+    },
+    {
+      "type": "Public",
+      "count": 2
+    },
+    {
+      "type": "TypePools",
+      "count": 1
+    },
+    {
+      "type": "MethodDef",
+      "count": 66
+    },
+    {
+      "type": "Protected",
+      "count": 2
+    },
+    {
+      "type": "Private",
+      "count": 3
+    },
+    {
+      "type": "Constant",
+      "count": 21
+    },
+    {
+      "type": "Data",
+      "count": 170
+    },
+    {
+      "type": "EndClass",
+      "count": 6
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 3
+    },
+    {
+      "type": "Method",
+      "count": 66
+    },
+    {
+      "type": "If",
+      "count": 78
+    },
+    {
+      "type": "Concatenate",
+      "count": 44
+    },
+    {
+      "type": "Else",
+      "count": 29
+    },
+    {
+      "type": "EndIf",
+      "count": 78
+    },
+    {
+      "type": "EndMethod",
+      "count": 66
+    },
+    {
+      "type": "Move",
+      "count": 274
+    },
+    {
+      "type": "Case",
+      "count": 7
+    },
+    {
+      "type": "When",
+      "count": 32
+    },
+    {
+      "type": "Comment",
+      "count": 265
+    },
+    {
+      "type": "Call",
+      "count": 178
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 25
+    },
+    {
+      "type": "Assign",
+      "count": 8
+    },
+    {
+      "type": "Try",
+      "count": 3
+    },
+    {
+      "type": "Write",
+      "count": 6
+    },
+    {
+      "type": "Catch",
+      "count": 3
+    },
+    {
+      "type": "EndTry",
+      "count": 3
+    },
+    {
+      "type": "EndCase",
+      "count": 7
+    },
+    {
+      "type": "Shift",
+      "count": 18
+    },
+    {
+      "type": "Condense",
+      "count": 2
+    },
+    {
+      "type": "Replace",
+      "count": 18
+    },
+    {
+      "type": "Loop",
+      "count": 14
+    },
+    {
+      "type": "Translate",
+      "count": 6
+    },
+    {
+      "type": "Continue",
+      "count": 1
+    },
+    {
+      "type": "ElseIf",
+      "count": 4
+    },
+    {
+      "type": "Clear",
+      "count": 21
+    },
+    {
+      "type": "EndLoop",
+      "count": 14
+    },
+    {
+      "type": "SystemCall",
+      "count": 2
+    },
+    {
+      "type": "Find",
+      "count": 9
+    },
+    {
+      "type": "CreateObject",
+      "count": 3
+    },
+    {
+      "type": "InsertInternal",
+      "count": 15
+    },
+    {
+      "type": "Do",
+      "count": 6
+    },
+    {
+      "type": "EndDo",
+      "count": 6
+    },
+    {
+      "type": "Add",
+      "count": 8
+    },
+    {
+      "type": "Read",
+      "count": 9
+    },
+    {
+      "type": "Subtract",
+      "count": 4
+    },
+    {
+      "type": "Return",
+      "count": 3
+    },
+    {
+      "type": "Check",
+      "count": 12
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 2
+    },
+    {
+      "type": "While",
+      "count": 6
+    },
+    {
+      "type": "EndWhile",
+      "count": 6
+    },
+    {
+      "type": "Raise",
+      "count": 3
+    },
+    {
+      "type": "CreateData",
+      "count": 2
+    },
+    {
+      "type": "GetReference",
+      "count": 3
+    },
+    {
+      "type": "TypeBegin",
+      "count": 8
+    },
+    {
+      "type": "Type",
+      "count": 17
+    },
+    {
+      "type": "TypeEnd",
+      "count": 8
+    },
+    {
+      "type": "CallKernel",
+      "count": 1
+    },
+    {
+      "type": "Exit",
+      "count": 2
+    },
+    {
+      "type": "Split",
+      "count": 2
+    },
+    {
+      "type": "CallTransformation",
+      "count": 3
+    },
+    {
+      "type": "DataBegin",
+      "count": 3
+    },
+    {
+      "type": "DataEnd",
+      "count": 3
+    },
+    {
+      "type": "Append",
+      "count": 9
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 1
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 3
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 3
+    }
   ],
   "statements": [
     {

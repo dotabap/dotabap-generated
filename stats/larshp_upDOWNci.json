@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:44:53.664Z",
+  "time": "2018-12-07T13:36:51.348Z",
   "totals": {
     "objects": 8,
     "files": 8,
@@ -71,6 +71,264 @@
     1,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 8
+    },
+    {
+      "type": "Public",
+      "count": 8
+    },
+    {
+      "type": "Type",
+      "count": 20
+    },
+    {
+      "type": "TypeBegin",
+      "count": 4
+    },
+    {
+      "type": "Comment",
+      "count": 65
+    },
+    {
+      "type": "TypeEnd",
+      "count": 4
+    },
+    {
+      "type": "MethodDef",
+      "count": 37
+    },
+    {
+      "type": "Private",
+      "count": 5
+    },
+    {
+      "type": "ClassData",
+      "count": 2
+    },
+    {
+      "type": "EndClass",
+      "count": 16
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 8
+    },
+    {
+      "type": "Method",
+      "count": 37
+    },
+    {
+      "type": "Data",
+      "count": 103
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 23
+    },
+    {
+      "type": "Clear",
+      "count": 9
+    },
+    {
+      "type": "Move",
+      "count": 118
+    },
+    {
+      "type": "Loop",
+      "count": 9
+    },
+    {
+      "type": "Append",
+      "count": 9
+    },
+    {
+      "type": "If",
+      "count": 46
+    },
+    {
+      "type": "Concatenate",
+      "count": 6
+    },
+    {
+      "type": "Else",
+      "count": 15
+    },
+    {
+      "type": "EndIf",
+      "count": 46
+    },
+    {
+      "type": "EndLoop",
+      "count": 9
+    },
+    {
+      "type": "EndMethod",
+      "count": 37
+    },
+    {
+      "type": "CreateObject",
+      "count": 3
+    },
+    {
+      "type": "Call",
+      "count": 57
+    },
+    {
+      "type": "While",
+      "count": 3
+    },
+    {
+      "type": "Write",
+      "count": 11
+    },
+    {
+      "type": "Try",
+      "count": 4
+    },
+    {
+      "type": "Catch",
+      "count": 5
+    },
+    {
+      "type": "EndTry",
+      "count": 4
+    },
+    {
+      "type": "EndWhile",
+      "count": 3
+    },
+    {
+      "type": "Return",
+      "count": 6
+    },
+    {
+      "type": "Sort",
+      "count": 1
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 2
+    },
+    {
+      "type": "CreateData",
+      "count": 1
+    },
+    {
+      "type": "Raise",
+      "count": 17
+    },
+    {
+      "type": "Assign",
+      "count": 7
+    },
+    {
+      "type": "Import",
+      "count": 2
+    },
+    {
+      "type": "Split",
+      "count": 2
+    },
+    {
+      "type": "Read",
+      "count": 6
+    },
+    {
+      "type": "Find",
+      "count": 3
+    },
+    {
+      "type": "Continue",
+      "count": 2
+    },
+    {
+      "type": "Replace",
+      "count": 2
+    },
+    {
+      "type": "Translate",
+      "count": 2
+    },
+    {
+      "type": "Unassign",
+      "count": 1
+    },
+    {
+      "type": "CallFunction",
+      "count": 3
+    },
+    {
+      "type": "Assert",
+      "count": 10
+    },
+    {
+      "type": "InsertInternal",
+      "count": 1
+    },
+    {
+      "type": "Export",
+      "count": 1
+    },
+    {
+      "type": "ElseIf",
+      "count": 2
+    },
+    {
+      "type": "Do",
+      "count": 1
+    },
+    {
+      "type": "EndDo",
+      "count": 1
+    },
+    {
+      "type": "Case",
+      "count": 4
+    },
+    {
+      "type": "When",
+      "count": 16
+    },
+    {
+      "type": "EndCase",
+      "count": 4
+    },
+    {
+      "type": "Protected",
+      "count": 2
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Tables",
+      "count": 1
+    },
+    {
+      "type": "Parameter",
+      "count": 5
+    },
+    {
+      "type": "SelectOption",
+      "count": 1
+    },
+    {
+      "type": "Message",
+      "count": 2
+    },
+    {
+      "type": "Initialization",
+      "count": 1
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    }
   ],
   "statements": [
     {

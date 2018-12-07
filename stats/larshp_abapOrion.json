@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:43:29.820Z",
+  "time": "2018-12-07T13:35:48.104Z",
   "totals": {
     "objects": 8,
     "files": 8,
@@ -68,6 +68,236 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 8
+    },
+    {
+      "type": "Public",
+      "count": 8
+    },
+    {
+      "type": "MethodDef",
+      "count": 50
+    },
+    {
+      "type": "Protected",
+      "count": 5
+    },
+    {
+      "type": "Data",
+      "count": 53
+    },
+    {
+      "type": "Private",
+      "count": 6
+    },
+    {
+      "type": "EndClass",
+      "count": 16
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 8
+    },
+    {
+      "type": "Method",
+      "count": 50
+    },
+    {
+      "type": "Move",
+      "count": 122
+    },
+    {
+      "type": "EndMethod",
+      "count": 50
+    },
+    {
+      "type": "Call",
+      "count": 108
+    },
+    {
+      "type": "While",
+      "count": 8
+    },
+    {
+      "type": "EndWhile",
+      "count": 8
+    },
+    {
+      "type": "If",
+      "count": 26
+    },
+    {
+      "type": "EndIf",
+      "count": 26
+    },
+    {
+      "type": "Assert",
+      "count": 12
+    },
+    {
+      "type": "Concatenate",
+      "count": 4
+    },
+    {
+      "type": "Return",
+      "count": 5
+    },
+    {
+      "type": "Comment",
+      "count": 137
+    },
+    {
+      "type": "CreateObject",
+      "count": 8
+    },
+    {
+      "type": "TypeBegin",
+      "count": 5
+    },
+    {
+      "type": "Type",
+      "count": 13
+    },
+    {
+      "type": "TypeEnd",
+      "count": 5
+    },
+    {
+      "type": "Else",
+      "count": 6
+    },
+    {
+      "type": "Append",
+      "count": 15
+    },
+    {
+      "type": "Clear",
+      "count": 6
+    },
+    {
+      "type": "Sort",
+      "count": 1
+    },
+    {
+      "type": "Report",
+      "count": 3
+    },
+    {
+      "type": "Parameter",
+      "count": 13
+    },
+    {
+      "type": "Read",
+      "count": 4
+    },
+    {
+      "type": "Case",
+      "count": 3
+    },
+    {
+      "type": "When",
+      "count": 5
+    },
+    {
+      "type": "EndCase",
+      "count": 3
+    },
+    {
+      "type": "Loop",
+      "count": 13
+    },
+    {
+      "type": "EndLoop",
+      "count": 13
+    },
+    {
+      "type": "Message",
+      "count": 2
+    },
+    {
+      "type": "SetPFStatus",
+      "count": 2
+    },
+    {
+      "type": "SetTitlebar",
+      "count": 1
+    },
+    {
+      "type": "Modify",
+      "count": 3
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
+    },
+    {
+      "type": "CallScreen",
+      "count": 1
+    },
+    {
+      "type": "SetHandler",
+      "count": 4
+    },
+    {
+      "type": "AtSelectionScreen",
+      "count": 3
+    },
+    {
+      "type": "Initialization",
+      "count": 2
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 3
+    },
+    {
+      "type": "Module",
+      "count": 2
+    },
+    {
+      "type": "EndModule",
+      "count": 2
+    },
+    {
+      "type": "Leave",
+      "count": 1
+    },
+    {
+      "type": "Perform",
+      "count": 9
+    },
+    {
+      "type": "Form",
+      "count": 9
+    },
+    {
+      "type": "ElseIf",
+      "count": 3
+    },
+    {
+      "type": "Write",
+      "count": 27
+    },
+    {
+      "type": "Endform",
+      "count": 9
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 7
+    },
+    {
+      "type": "Find",
+      "count": 4
+    },
+    {
+      "type": "Replace",
+      "count": 6
+    }
   ],
   "statements": [
     {

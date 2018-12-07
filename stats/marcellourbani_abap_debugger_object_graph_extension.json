@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T06:37:23.832Z",
+  "time": "2018-12-07T12:52:26.735Z",
   "totals": {
     "objects": 2,
     "files": 4,
@@ -116,6 +116,180 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 3
+    },
+    {
+      "type": "Public",
+      "count": 3
+    },
+    {
+      "type": "MethodDef",
+      "count": 26
+    },
+    {
+      "type": "Data",
+      "count": 58
+    },
+    {
+      "type": "Private",
+      "count": 2
+    },
+    {
+      "type": "Constant",
+      "count": 8
+    },
+    {
+      "type": "TypeBegin",
+      "count": 3
+    },
+    {
+      "type": "Type",
+      "count": 17
+    },
+    {
+      "type": "TypeEnd",
+      "count": 3
+    },
+    {
+      "type": "EndClass",
+      "count": 6
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 3
+    },
+    {
+      "type": "Method",
+      "count": 26
+    },
+    {
+      "type": "Move",
+      "count": 126
+    },
+    {
+      "type": "If",
+      "count": 45
+    },
+    {
+      "type": "Else",
+      "count": 15
+    },
+    {
+      "type": "EndIf",
+      "count": 45
+    },
+    {
+      "type": "EndMethod",
+      "count": 26
+    },
+    {
+      "type": "Call",
+      "count": 25
+    },
+    {
+      "type": "Concatenate",
+      "count": 10
+    },
+    {
+      "type": "CreateObject",
+      "count": 1
+    },
+    {
+      "type": "Message",
+      "count": 4
+    },
+    {
+      "type": "ElseIf",
+      "count": 1
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 7
+    },
+    {
+      "type": "Try",
+      "count": 5
+    },
+    {
+      "type": "Loop",
+      "count": 5
+    },
+    {
+      "type": "EndLoop",
+      "count": 5
+    },
+    {
+      "type": "Catch",
+      "count": 6
+    },
+    {
+      "type": "EndTry",
+      "count": 5
+    },
+    {
+      "type": "Do",
+      "count": 1
+    },
+    {
+      "type": "Comment",
+      "count": 35
+    },
+    {
+      "type": "EndDo",
+      "count": 1
+    },
+    {
+      "type": "Find",
+      "count": 6
+    },
+    {
+      "type": "Case",
+      "count": 5
+    },
+    {
+      "type": "When",
+      "count": 18
+    },
+    {
+      "type": "EndCase",
+      "count": 5
+    },
+    {
+      "type": "Return",
+      "count": 5
+    },
+    {
+      "type": "Append",
+      "count": 2
+    },
+    {
+      "type": "Sort",
+      "count": 1
+    },
+    {
+      "type": "Assign",
+      "count": 2
+    },
+    {
+      "type": "Clear",
+      "count": 2
+    },
+    {
+      "type": "Protected",
+      "count": 1
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
+    },
+    {
+      "type": "Translate",
+      "count": 1
+    }
   ],
   "statements": [
     {

@@ -1,12 +1,12 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T08:01:09.261Z",
+  "time": "2018-12-07T13:49:07.695Z",
   "totals": {
-    "objects": 24,
-    "files": 24,
-    "statements": 1152,
-    "tokens": 23302
+    "objects": 29,
+    "files": 29,
+    "statements": 1338,
+    "tokens": 27400
   },
   "objects": [
     {
@@ -15,13 +15,13 @@
     },
     {
       "type": "CLAS",
-      "count": 23
+      "count": 28
     }
   ],
   "issues": [
     {
       "type": "line_only_punc",
-      "count": 56
+      "count": 73
     },
     {
       "type": "definitions_top",
@@ -29,7 +29,7 @@
     },
     {
       "type": "method_parameter_names",
-      "count": 61
+      "count": 66
     },
     {
       "type": "local_variable_names",
@@ -37,15 +37,15 @@
     },
     {
       "type": "class_attribute_names",
-      "count": 35
+      "count": 36
     },
     {
       "type": "7bit_ascii",
-      "count": 234
+      "count": 536
     },
     {
       "type": "keywords_upper",
-      "count": 4
+      "count": 5
     },
     {
       "type": "line_length",
@@ -53,22 +53,22 @@
     }
   ],
   "objectOrientation": {
-    "oo": 556,
-    "non": 2
+    "oo": 618,
+    "non": 4
   },
   "methodLength": [
     0,
-    31,
+    32,
     6,
-    1,
-    1,
-    2,
-    2,
-    1,
-    2,
-    1,
     3,
     1,
+    4,
+    2,
+    1,
+    2,
+    1,
+    4,
+    0,
     0,
     0,
     0,
@@ -96,46 +96,192 @@
     0,
     1
   ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 716
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 29
+    },
+    {
+      "type": "Public",
+      "count": 29
+    },
+    {
+      "type": "MethodDef",
+      "count": 58
+    },
+    {
+      "type": "EndClass",
+      "count": 58
+    },
+    {
+      "type": "Parameter",
+      "count": 2
+    },
+    {
+      "type": "Call",
+      "count": 23
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 29
+    },
+    {
+      "type": "Method",
+      "count": 58
+    },
+    {
+      "type": "EndMethod",
+      "count": 58
+    },
+    {
+      "type": "Data",
+      "count": 40
+    },
+    {
+      "type": "Private",
+      "count": 27
+    },
+    {
+      "type": "Move",
+      "count": 139
+    },
+    {
+      "type": "CallFunction",
+      "count": 1
+    },
+    {
+      "type": "Write",
+      "count": 1
+    },
+    {
+      "type": "If",
+      "count": 13
+    },
+    {
+      "type": "EndIf",
+      "count": 13
+    },
+    {
+      "type": "Constant",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 3
+    },
+    {
+      "type": "CreateObject",
+      "count": 2
+    },
+    {
+      "type": "Catch",
+      "count": 3
+    },
+    {
+      "type": "EndTry",
+      "count": 3
+    },
+    {
+      "type": "Protected",
+      "count": 6
+    },
+    {
+      "type": "GetTime",
+      "count": 1
+    },
+    {
+      "type": "Else",
+      "count": 4
+    },
+    {
+      "type": "Do",
+      "count": 2
+    },
+    {
+      "type": "Replace",
+      "count": 5
+    },
+    {
+      "type": "Exit",
+      "count": 2
+    },
+    {
+      "type": "EndDo",
+      "count": 2
+    },
+    {
+      "type": "Find",
+      "count": 1
+    },
+    {
+      "type": "Clear",
+      "count": 1
+    },
+    {
+      "type": "Case",
+      "count": 1
+    },
+    {
+      "type": "When",
+      "count": 4
+    },
+    {
+      "type": "EndCase",
+      "count": 1
+    },
+    {
+      "type": "ElseIf",
+      "count": 1
+    }
+  ],
   "statements": [
     {
       "type": "v700",
-      "count": 1060
+      "count": 1227
     },
     {
       "type": "v702",
-      "count": 1070
+      "count": 1238
     },
     {
       "type": "v740sp02",
-      "count": 1152
+      "count": 1337
     },
     {
       "type": "v740sp05",
-      "count": 1152
+      "count": 1338
     },
     {
       "type": "v740sp08",
-      "count": 1152
+      "count": 1338
     },
     {
       "type": "v750",
-      "count": 1152
+      "count": 1338
     },
     {
       "type": "v751",
-      "count": 1152
+      "count": 1338
     },
     {
       "type": "v752",
-      "count": 1152
+      "count": 1338
     },
     {
       "type": "v753",
-      "count": 1152
+      "count": 1338
     },
     {
       "type": "Cloud",
-      "count": 1150
+      "count": 1334
     }
   ]
 }

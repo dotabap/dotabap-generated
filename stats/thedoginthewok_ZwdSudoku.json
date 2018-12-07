@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:04:21.620Z",
+  "time": "2018-12-07T13:06:23.501Z",
   "totals": {
     "objects": 1,
     "files": 1,
@@ -356,6 +356,280 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 96
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 1
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 26
+    },
+    {
+      "type": "Constant",
+      "count": 13
+    },
+    {
+      "type": "MethodDef",
+      "count": 17
+    },
+    {
+      "type": "Protected",
+      "count": 1
+    },
+    {
+      "type": "Private",
+      "count": 1
+    },
+    {
+      "type": "TypeBegin",
+      "count": 2
+    },
+    {
+      "type": "TypeEnd",
+      "count": 2
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 3
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 3
+    },
+    {
+      "type": "Data",
+      "count": 83
+    },
+    {
+      "type": "EndClass",
+      "count": 2
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 11
+    },
+    {
+      "type": "Parameter",
+      "count": 6
+    },
+    {
+      "type": "Initialization",
+      "count": 1
+    },
+    {
+      "type": "Move",
+      "count": 141
+    },
+    {
+      "type": "AtSelectionScreen",
+      "count": 3
+    },
+    {
+      "type": "If",
+      "count": 56
+    },
+    {
+      "type": "Call",
+      "count": 27
+    },
+    {
+      "type": "EndIf",
+      "count": 56
+    },
+    {
+      "type": "Loop",
+      "count": 8
+    },
+    {
+      "type": "Case",
+      "count": 12
+    },
+    {
+      "type": "When",
+      "count": 34
+    },
+    {
+      "type": "EndCase",
+      "count": 12
+    },
+    {
+      "type": "Modify",
+      "count": 3
+    },
+    {
+      "type": "EndLoop",
+      "count": 8
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "CallSelectionScreen",
+      "count": 2
+    },
+    {
+      "type": "ElseIf",
+      "count": 2
+    },
+    {
+      "type": "Module",
+      "count": 2
+    },
+    {
+      "type": "EndModule",
+      "count": 2
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 1
+    },
+    {
+      "type": "Method",
+      "count": 17
+    },
+    {
+      "type": "Select",
+      "count": 4
+    },
+    {
+      "type": "CallTransformation",
+      "count": 2
+    },
+    {
+      "type": "Else",
+      "count": 8
+    },
+    {
+      "type": "Message",
+      "count": 11
+    },
+    {
+      "type": "EndMethod",
+      "count": 17
+    },
+    {
+      "type": "Append",
+      "count": 13
+    },
+    {
+      "type": "CallFunction",
+      "count": 3
+    },
+    {
+      "type": "Read",
+      "count": 9
+    },
+    {
+      "type": "Return",
+      "count": 3
+    },
+    {
+      "type": "Do",
+      "count": 17
+    },
+    {
+      "type": "DeleteDatabase",
+      "count": 1
+    },
+    {
+      "type": "Continue",
+      "count": 2
+    },
+    {
+      "type": "InsertDatabase",
+      "count": 1
+    },
+    {
+      "type": "Exit",
+      "count": 25
+    },
+    {
+      "type": "EndDo",
+      "count": 17
+    },
+    {
+      "type": "Commit",
+      "count": 1
+    },
+    {
+      "type": "Assign",
+      "count": 11
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 3
+    },
+    {
+      "type": "InsertInternal",
+      "count": 37
+    },
+    {
+      "type": "Leave",
+      "count": 1
+    },
+    {
+      "type": "SetHandler",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 1
+    },
+    {
+      "type": "Catch",
+      "count": 1
+    },
+    {
+      "type": "EndTry",
+      "count": 1
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 3
+    },
+    {
+      "type": "Free",
+      "count": 49
+    },
+    {
+      "type": "Unassign",
+      "count": 2
+    },
+    {
+      "type": "CallKernel",
+      "count": 1
+    },
+    {
+      "type": "GetTime",
+      "count": 1
+    },
+    {
+      "type": "SetPFStatus",
+      "count": 1
+    },
+    {
+      "type": "SetTitlebar",
+      "count": 1
+    }
   ],
   "statements": [
     {

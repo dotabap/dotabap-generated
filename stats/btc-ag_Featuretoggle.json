@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T08:03:58.636Z",
+  "time": "2018-12-07T13:51:46.904Z",
   "totals": {
     "objects": 9,
     "files": 10,
@@ -97,6 +97,244 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 11
+    },
+    {
+      "type": "Public",
+      "count": 10
+    },
+    {
+      "type": "Constant",
+      "count": 6
+    },
+    {
+      "type": "MethodDef",
+      "count": 36
+    },
+    {
+      "type": "Protected",
+      "count": 10
+    },
+    {
+      "type": "Private",
+      "count": 11
+    },
+    {
+      "type": "EndClass",
+      "count": 22
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 11
+    },
+    {
+      "type": "Method",
+      "count": 36
+    },
+    {
+      "type": "Call",
+      "count": 33
+    },
+    {
+      "type": "If",
+      "count": 20
+    },
+    {
+      "type": "Move",
+      "count": 45
+    },
+    {
+      "type": "EndIf",
+      "count": 20
+    },
+    {
+      "type": "EndMethod",
+      "count": 36
+    },
+    {
+      "type": "TypeBegin",
+      "count": 3
+    },
+    {
+      "type": "Type",
+      "count": 13
+    },
+    {
+      "type": "TypeEnd",
+      "count": 3
+    },
+    {
+      "type": "Data",
+      "count": 19
+    },
+    {
+      "type": "Loop",
+      "count": 9
+    },
+    {
+      "type": "InsertInternal",
+      "count": 7
+    },
+    {
+      "type": "EndLoop",
+      "count": 9
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
+    },
+    {
+      "type": "Raise",
+      "count": 5
+    },
+    {
+      "type": "Clear",
+      "count": 2
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 1
+    },
+    {
+      "type": "Sort",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 6
+    },
+    {
+      "type": "Continue",
+      "count": 1
+    },
+    {
+      "type": "Catch",
+      "count": 6
+    },
+    {
+      "type": "EndTry",
+      "count": 6
+    },
+    {
+      "type": "Comment",
+      "count": 41
+    },
+    {
+      "type": "Else",
+      "count": 3
+    },
+    {
+      "type": "UpdateDatabase",
+      "count": 1
+    },
+    {
+      "type": "InsertDatabase",
+      "count": 1
+    },
+    {
+      "type": "CreateObject",
+      "count": 1
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 6
+    },
+    {
+      "type": "Assign",
+      "count": 5
+    },
+    {
+      "type": "Select",
+      "count": 2
+    },
+    {
+      "type": "ClassData",
+      "count": 5
+    },
+    {
+      "type": "Read",
+      "count": 1
+    },
+    {
+      "type": "Translate",
+      "count": 1
+    },
+    {
+      "type": "Split",
+      "count": 2
+    },
+    {
+      "type": "Shift",
+      "count": 1
+    },
+    {
+      "type": "CallTransformation",
+      "count": 2
+    },
+    {
+      "type": "Message",
+      "count": 1
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 4
+    },
+    {
+      "type": "SelectOption",
+      "count": 3
+    },
+    {
+      "type": "Parameter",
+      "count": 2
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Perform",
+      "count": 3
+    },
+    {
+      "type": "Form",
+      "count": 3
+    },
+    {
+      "type": "Refresh",
+      "count": 1
+    },
+    {
+      "type": "Endform",
+      "count": 3
+    },
+    {
+      "type": "Assert",
+      "count": 1
+    },
+    {
+      "type": "Write",
+      "count": 7
+    },
+    {
+      "type": "DeleteDatabase",
+      "count": 1
+    },
+    {
+      "type": "Commit",
+      "count": 1
+    },
+    {
+      "type": "Rollback",
+      "count": 1
+    }
   ],
   "statements": [
     {

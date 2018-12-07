@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:28:48.611Z",
+  "time": "2018-12-07T13:24:29.708Z",
   "totals": {
     "objects": 10,
     "files": 10,
@@ -162,6 +162,292 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 9
+    },
+    {
+      "type": "Public",
+      "count": 9
+    },
+    {
+      "type": "TypeBegin",
+      "count": 11
+    },
+    {
+      "type": "Type",
+      "count": 58
+    },
+    {
+      "type": "TypeEnd",
+      "count": 11
+    },
+    {
+      "type": "Data",
+      "count": 155
+    },
+    {
+      "type": "MethodDef",
+      "count": 48
+    },
+    {
+      "type": "Protected",
+      "count": 9
+    },
+    {
+      "type": "Private",
+      "count": 9
+    },
+    {
+      "type": "ClassData",
+      "count": 5
+    },
+    {
+      "type": "EndClass",
+      "count": 18
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 9
+    },
+    {
+      "type": "Method",
+      "count": 48
+    },
+    {
+      "type": "Move",
+      "count": 138
+    },
+    {
+      "type": "Comment",
+      "count": 178
+    },
+    {
+      "type": "Assert",
+      "count": 6
+    },
+    {
+      "type": "Call",
+      "count": 149
+    },
+    {
+      "type": "If",
+      "count": 71
+    },
+    {
+      "type": "EndIf",
+      "count": 71
+    },
+    {
+      "type": "EndMethod",
+      "count": 48
+    },
+    {
+      "type": "CreateObject",
+      "count": 14
+    },
+    {
+      "type": "Constant",
+      "count": 2
+    },
+    {
+      "type": "Else",
+      "count": 21
+    },
+    {
+      "type": "Concatenate",
+      "count": 27
+    },
+    {
+      "type": "Try",
+      "count": 15
+    },
+    {
+      "type": "Catch",
+      "count": 15
+    },
+    {
+      "type": "EndTry",
+      "count": 15
+    },
+    {
+      "type": "Replace",
+      "count": 8
+    },
+    {
+      "type": "Case",
+      "count": 14
+    },
+    {
+      "type": "When",
+      "count": 66
+    },
+    {
+      "type": "EndCase",
+      "count": 14
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 11
+    },
+    {
+      "type": "Loop",
+      "count": 10
+    },
+    {
+      "type": "Assign",
+      "count": 13
+    },
+    {
+      "type": "Check",
+      "count": 4
+    },
+    {
+      "type": "EndLoop",
+      "count": 10
+    },
+    {
+      "type": "DataBegin",
+      "count": 3
+    },
+    {
+      "type": "DataEnd",
+      "count": 3
+    },
+    {
+      "type": "Translate",
+      "count": 3
+    },
+    {
+      "type": "Split",
+      "count": 1
+    },
+    {
+      "type": "Define",
+      "count": 2
+    },
+    {
+      "type": "MacroContent",
+      "count": 4
+    },
+    {
+      "type": "EndOfDefinition",
+      "count": 2
+    },
+    {
+      "type": "MacroCall",
+      "count": 4
+    },
+    {
+      "type": "Find",
+      "count": 8
+    },
+    {
+      "type": "Return",
+      "count": 1
+    },
+    {
+      "type": "ElseIf",
+      "count": 6
+    },
+    {
+      "type": "Shift",
+      "count": 2
+    },
+    {
+      "type": "Condense",
+      "count": 1
+    },
+    {
+      "type": "CallFunction",
+      "count": 3
+    },
+    {
+      "type": "Add",
+      "count": 8
+    },
+    {
+      "type": "While",
+      "count": 2
+    },
+    {
+      "type": "EndWhile",
+      "count": 2
+    },
+    {
+      "type": "Clear",
+      "count": 6
+    },
+    {
+      "type": "CreateData",
+      "count": 2
+    },
+    {
+      "type": "InsertInternal",
+      "count": 2
+    },
+    {
+      "type": "Describe",
+      "count": 1
+    },
+    {
+      "type": "Read",
+      "count": 2
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 1
+    },
+    {
+      "type": "Append",
+      "count": 13
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "TypePools",
+      "count": 1
+    },
+    {
+      "type": "Parameter",
+      "count": 7
+    },
+    {
+      "type": "AtSelectionScreen",
+      "count": 1
+    },
+    {
+      "type": "Modify",
+      "count": 1
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Message",
+      "count": 6
+    },
+    {
+      "type": "Exit",
+      "count": 6
+    },
+    {
+      "type": "Select",
+      "count": 1
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 2
+    },
+    {
+      "type": "Raise",
+      "count": 2
+    }
   ],
   "statements": [
     {

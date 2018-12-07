@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T06:26:39.654Z",
+  "time": "2018-12-07T12:45:11.358Z",
   "totals": {
     "objects": 9,
     "files": 15,
@@ -154,6 +154,236 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 104
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "ClassOther",
+      "count": 7
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 17
+    },
+    {
+      "type": "Public",
+      "count": 17
+    },
+    {
+      "type": "MethodDef",
+      "count": 67
+    },
+    {
+      "type": "Protected",
+      "count": 15
+    },
+    {
+      "type": "Private",
+      "count": 16
+    },
+    {
+      "type": "Data",
+      "count": 66
+    },
+    {
+      "type": "EndClass",
+      "count": 34
+    },
+    {
+      "type": "ClassData",
+      "count": 11
+    },
+    {
+      "type": "Parameter",
+      "count": 1
+    },
+    {
+      "type": "Initialization",
+      "count": 1
+    },
+    {
+      "type": "Call",
+      "count": 157
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "EndOfSelection",
+      "count": 1
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 17
+    },
+    {
+      "type": "Method",
+      "count": 74
+    },
+    {
+      "type": "Try",
+      "count": 28
+    },
+    {
+      "type": "Move",
+      "count": 174
+    },
+    {
+      "type": "Message",
+      "count": 5
+    },
+    {
+      "type": "Catch",
+      "count": 22
+    },
+    {
+      "type": "If",
+      "count": 60
+    },
+    {
+      "type": "Else",
+      "count": 10
+    },
+    {
+      "type": "EndIf",
+      "count": 60
+    },
+    {
+      "type": "EndTry",
+      "count": 28
+    },
+    {
+      "type": "EndMethod",
+      "count": 74
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 6
+    },
+    {
+      "type": "Empty",
+      "count": 1
+    },
+    {
+      "type": "Constant",
+      "count": 15
+    },
+    {
+      "type": "Append",
+      "count": 1
+    },
+    {
+      "type": "Wait",
+      "count": 6
+    },
+    {
+      "type": "Raise",
+      "count": 11
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
+    },
+    {
+      "type": "Convert",
+      "count": 1
+    },
+    {
+      "type": "Clear",
+      "count": 2
+    },
+    {
+      "type": "Replace",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 3
+    },
+    {
+      "type": "EndInterface",
+      "count": 3
+    },
+    {
+      "type": "GetTime",
+      "count": 1
+    },
+    {
+      "type": "MacroCall",
+      "count": 9
+    },
+    {
+      "type": "CreateObject",
+      "count": 7
+    },
+    {
+      "type": "Cleanup",
+      "count": 6
+    },
+    {
+      "type": "ElseIf",
+      "count": 4
+    },
+    {
+      "type": "While",
+      "count": 4
+    },
+    {
+      "type": "EndWhile",
+      "count": 4
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 1
+    },
+    {
+      "type": "Define",
+      "count": 2
+    },
+    {
+      "type": "MacroContent",
+      "count": 7
+    },
+    {
+      "type": "EndOfDefinition",
+      "count": 2
+    },
+    {
+      "type": "FunctionPool",
+      "count": 1
+    },
+    {
+      "type": "Include",
+      "count": 2
+    },
+    {
+      "type": "FunctionModule",
+      "count": 1
+    },
+    {
+      "type": "EndFunction",
+      "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 9
+    },
+    {
+      "type": "TypeBegin",
+      "count": 1
+    },
+    {
+      "type": "TypeEnd",
+      "count": 1
+    }
   ],
   "statements": [
     {

@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:28:13.427Z",
+  "time": "2018-12-07T13:24:00.175Z",
   "totals": {
     "objects": 8,
     "files": 8,
@@ -93,6 +93,136 @@
     0,
     0,
     2
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 8
+    },
+    {
+      "type": "Public",
+      "count": 8
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 8
+    },
+    {
+      "type": "MethodDef",
+      "count": 101
+    },
+    {
+      "type": "Protected",
+      "count": 8
+    },
+    {
+      "type": "Data",
+      "count": 80
+    },
+    {
+      "type": "Private",
+      "count": 8
+    },
+    {
+      "type": "EndClass",
+      "count": 16
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 8
+    },
+    {
+      "type": "Method",
+      "count": 117
+    },
+    {
+      "type": "Call",
+      "count": 227
+    },
+    {
+      "type": "EndMethod",
+      "count": 117
+    },
+    {
+      "type": "Comment",
+      "count": 464
+    },
+    {
+      "type": "Move",
+      "count": 74
+    },
+    {
+      "type": "Case",
+      "count": 10
+    },
+    {
+      "type": "When",
+      "count": 65
+    },
+    {
+      "type": "EndCase",
+      "count": 10
+    },
+    {
+      "type": "If",
+      "count": 34
+    },
+    {
+      "type": "Else",
+      "count": 26
+    },
+    {
+      "type": "EndIf",
+      "count": 34
+    },
+    {
+      "type": "CallFunction",
+      "count": 4
+    },
+    {
+      "type": "Exit",
+      "count": 2
+    },
+    {
+      "type": "Message",
+      "count": 2
+    },
+    {
+      "type": "Raise",
+      "count": 4
+    },
+    {
+      "type": "Type",
+      "count": 33
+    },
+    {
+      "type": "Constant",
+      "count": 17
+    },
+    {
+      "type": "Try",
+      "count": 4
+    },
+    {
+      "type": "Catch",
+      "count": 4
+    },
+    {
+      "type": "EndTry",
+      "count": 4
+    },
+    {
+      "type": "TypeBegin",
+      "count": 1
+    },
+    {
+      "type": "IncludeType",
+      "count": 1
+    },
+    {
+      "type": "TypeEnd",
+      "count": 1
+    }
   ],
   "statements": [
     {

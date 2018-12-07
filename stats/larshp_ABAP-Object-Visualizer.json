@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:27:36.429Z",
+  "time": "2018-12-07T13:23:27.708Z",
   "totals": {
     "objects": 1,
     "files": 1,
@@ -57,6 +57,172 @@
     1,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 50
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 1
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "MethodDef",
+      "count": 12
+    },
+    {
+      "type": "Private",
+      "count": 1
+    },
+    {
+      "type": "Constant",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 34
+    },
+    {
+      "type": "EndClass",
+      "count": 2
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 1
+    },
+    {
+      "type": "Method",
+      "count": 12
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 5
+    },
+    {
+      "type": "Append",
+      "count": 2
+    },
+    {
+      "type": "Move",
+      "count": 48
+    },
+    {
+      "type": "CallFunction",
+      "count": 1
+    },
+    {
+      "type": "If",
+      "count": 7
+    },
+    {
+      "type": "Return",
+      "count": 3
+    },
+    {
+      "type": "EndIf",
+      "count": 7
+    },
+    {
+      "type": "Read",
+      "count": 2
+    },
+    {
+      "type": "Assert",
+      "count": 4
+    },
+    {
+      "type": "Translate",
+      "count": 1
+    },
+    {
+      "type": "EndMethod",
+      "count": 12
+    },
+    {
+      "type": "Replace",
+      "count": 4
+    },
+    {
+      "type": "Call",
+      "count": 16
+    },
+    {
+      "type": "Find",
+      "count": 2
+    },
+    {
+      "type": "Loop",
+      "count": 2
+    },
+    {
+      "type": "Else",
+      "count": 2
+    },
+    {
+      "type": "EndLoop",
+      "count": 2
+    },
+    {
+      "type": "Do",
+      "count": 1
+    },
+    {
+      "type": "EndDo",
+      "count": 1
+    },
+    {
+      "type": "Concatenate",
+      "count": 1
+    },
+    {
+      "type": "Case",
+      "count": 2
+    },
+    {
+      "type": "When",
+      "count": 11
+    },
+    {
+      "type": "EndCase",
+      "count": 2
+    },
+    {
+      "type": "Assign",
+      "count": 2
+    },
+    {
+      "type": "Try",
+      "count": 2
+    },
+    {
+      "type": "Clear",
+      "count": 1
+    },
+    {
+      "type": "Catch",
+      "count": 3
+    },
+    {
+      "type": "Message",
+      "count": 3
+    },
+    {
+      "type": "EndTry",
+      "count": 2
+    },
+    {
+      "type": "Split",
+      "count": 1
+    }
   ],
   "statements": [
     {

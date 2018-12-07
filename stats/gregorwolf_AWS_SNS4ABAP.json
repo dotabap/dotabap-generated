@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:27:29.842Z",
+  "time": "2018-12-07T13:23:21.544Z",
   "totals": {
     "objects": 1,
     "files": 2,
@@ -69,6 +69,92 @@
     1,
     0,
     2
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 2
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 1
+    },
+    {
+      "type": "MethodDef",
+      "count": 5
+    },
+    {
+      "type": "Protected",
+      "count": 1
+    },
+    {
+      "type": "Private",
+      "count": 2
+    },
+    {
+      "type": "EndClass",
+      "count": 4
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 2
+    },
+    {
+      "type": "Method",
+      "count": 6
+    },
+    {
+      "type": "Data",
+      "count": 7
+    },
+    {
+      "type": "Comment",
+      "count": 28
+    },
+    {
+      "type": "Call",
+      "count": 13
+    },
+    {
+      "type": "If",
+      "count": 6
+    },
+    {
+      "type": "Message",
+      "count": 3
+    },
+    {
+      "type": "Exit",
+      "count": 3
+    },
+    {
+      "type": "EndIf",
+      "count": 6
+    },
+    {
+      "type": "EndMethod",
+      "count": 6
+    },
+    {
+      "type": "Move",
+      "count": 22
+    },
+    {
+      "type": "LogPoint",
+      "count": 3
+    },
+    {
+      "type": "ElseIf",
+      "count": 1
+    },
+    {
+      "type": "CreateObject",
+      "count": 2
+    }
   ],
   "statements": [
     {

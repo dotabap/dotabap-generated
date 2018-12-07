@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:26:50.867Z",
+  "time": "2018-12-07T13:22:55.720Z",
   "totals": {
     "objects": 6,
     "files": 7,
@@ -338,6 +338,176 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 7
+    },
+    {
+      "type": "Public",
+      "count": 6
+    },
+    {
+      "type": "MethodDef",
+      "count": 51
+    },
+    {
+      "type": "Protected",
+      "count": 6
+    },
+    {
+      "type": "Private",
+      "count": 7
+    },
+    {
+      "type": "Constant",
+      "count": 18
+    },
+    {
+      "type": "Data",
+      "count": 91
+    },
+    {
+      "type": "EndClass",
+      "count": 14
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 7
+    },
+    {
+      "type": "Method",
+      "count": 58
+    },
+    {
+      "type": "Move",
+      "count": 352
+    },
+    {
+      "type": "EndMethod",
+      "count": 58
+    },
+    {
+      "type": "Comment",
+      "count": 649
+    },
+    {
+      "type": "Call",
+      "count": 419
+    },
+    {
+      "type": "If",
+      "count": 23
+    },
+    {
+      "type": "Raise",
+      "count": 20
+    },
+    {
+      "type": "EndIf",
+      "count": 23
+    },
+    {
+      "type": "CallFunction",
+      "count": 3
+    },
+    {
+      "type": "Translate",
+      "count": 1
+    },
+    {
+      "type": "Concatenate",
+      "count": 1
+    },
+    {
+      "type": "Clear",
+      "count": 54
+    },
+    {
+      "type": "Message",
+      "count": 2
+    },
+    {
+      "type": "CreateObject",
+      "count": 10
+    },
+    {
+      "type": "Else",
+      "count": 10
+    },
+    {
+      "type": "Try",
+      "count": 4
+    },
+    {
+      "type": "Catch",
+      "count": 4
+    },
+    {
+      "type": "EndTry",
+      "count": 4
+    },
+    {
+      "type": "Describe",
+      "count": 2
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 4
+    },
+    {
+      "type": "Case",
+      "count": 8
+    },
+    {
+      "type": "When",
+      "count": 31
+    },
+    {
+      "type": "EndCase",
+      "count": 8
+    },
+    {
+      "type": "Loop",
+      "count": 9
+    },
+    {
+      "type": "Append",
+      "count": 47
+    },
+    {
+      "type": "EndLoop",
+      "count": 9
+    },
+    {
+      "type": "Read",
+      "count": 4
+    },
+    {
+      "type": "Type",
+      "count": 17
+    },
+    {
+      "type": "Empty",
+      "count": 9
+    },
+    {
+      "type": "TypeBegin",
+      "count": 3
+    },
+    {
+      "type": "TypeEnd",
+      "count": 3
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 1
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 1
+    }
   ],
   "statements": [
     {

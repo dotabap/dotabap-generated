@@ -1,12 +1,12 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T06:23:44.810Z",
+  "time": "2018-12-07T12:42:52.509Z",
   "totals": {
-    "objects": 34,
-    "files": 43,
-    "statements": 2320,
-    "tokens": 12801
+    "objects": 35,
+    "files": 44,
+    "statements": 2337,
+    "tokens": 12911
   },
   "objects": [
     {
@@ -19,19 +19,19 @@
     },
     {
       "type": "INTF",
-      "count": 3
+      "count": 4
     }
   ],
   "issues": [],
   "objectOrientation": {
-    "oo": 1526,
+    "oo": 1543,
     "non": 102
   },
   "methodLength": [
     1,
-    53,
+    54,
     19,
-    9,
+    10,
     10,
     9,
     4,
@@ -96,46 +96,356 @@
     0,
     1
   ],
+  "statementTypes": [
+    {
+      "type": "Program",
+      "count": 1
+    },
+    {
+      "type": "Call",
+      "count": 246
+    },
+    {
+      "type": "Leave",
+      "count": 1
+    },
+    {
+      "type": "Comment",
+      "count": 692
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 33
+    },
+    {
+      "type": "Public",
+      "count": 33
+    },
+    {
+      "type": "MethodDef",
+      "count": 140
+    },
+    {
+      "type": "Protected",
+      "count": 33
+    },
+    {
+      "type": "Private",
+      "count": 33
+    },
+    {
+      "type": "Data",
+      "count": 66
+    },
+    {
+      "type": "EndClass",
+      "count": 66
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 33
+    },
+    {
+      "type": "Method",
+      "count": 138
+    },
+    {
+      "type": "Move",
+      "count": 147
+    },
+    {
+      "type": "EndMethod",
+      "count": 138
+    },
+    {
+      "type": "Assert",
+      "count": 11
+    },
+    {
+      "type": "GetTime",
+      "count": 4
+    },
+    {
+      "type": "Constant",
+      "count": 78
+    },
+    {
+      "type": "If",
+      "count": 50
+    },
+    {
+      "type": "Raise",
+      "count": 29
+    },
+    {
+      "type": "EndIf",
+      "count": 50
+    },
+    {
+      "type": "CallFunction",
+      "count": 19
+    },
+    {
+      "type": "Clear",
+      "count": 10
+    },
+    {
+      "type": "Return",
+      "count": 1
+    },
+    {
+      "type": "Else",
+      "count": 6
+    },
+    {
+      "type": "TypeBegin",
+      "count": 4
+    },
+    {
+      "type": "Type",
+      "count": 18
+    },
+    {
+      "type": "TypeEnd",
+      "count": 4
+    },
+    {
+      "type": "ClassData",
+      "count": 14
+    },
+    {
+      "type": "InsertDatabase",
+      "count": 4
+    },
+    {
+      "type": "Commit",
+      "count": 5
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 3
+    },
+    {
+      "type": "Free",
+      "count": 9
+    },
+    {
+      "type": "Do",
+      "count": 6
+    },
+    {
+      "type": "Append",
+      "count": 6
+    },
+    {
+      "type": "EndDo",
+      "count": 6
+    },
+    {
+      "type": "Loop",
+      "count": 8
+    },
+    {
+      "type": "EndLoop",
+      "count": 8
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 2
+    },
+    {
+      "type": "CreateData",
+      "count": 2
+    },
+    {
+      "type": "Assign",
+      "count": 4
+    },
+    {
+      "type": "Unassign",
+      "count": 1
+    },
+    {
+      "type": "Define",
+      "count": 2
+    },
+    {
+      "type": "MacroContent",
+      "count": 2
+    },
+    {
+      "type": "EndOfDefinition",
+      "count": 2
+    },
+    {
+      "type": "MacroCall",
+      "count": 7
+    },
+    {
+      "type": "Case",
+      "count": 2
+    },
+    {
+      "type": "When",
+      "count": 9
+    },
+    {
+      "type": "EndCase",
+      "count": 2
+    },
+    {
+      "type": "Message",
+      "count": 15
+    },
+    {
+      "type": "Try",
+      "count": 10
+    },
+    {
+      "type": "OpenDataset",
+      "count": 3
+    },
+    {
+      "type": "Transfer",
+      "count": 1
+    },
+    {
+      "type": "CloseDataset",
+      "count": 1
+    },
+    {
+      "type": "Catch",
+      "count": 10
+    },
+    {
+      "type": "EndTry",
+      "count": 10
+    },
+    {
+      "type": "DeleteDataset",
+      "count": 1
+    },
+    {
+      "type": "ReadDataset",
+      "count": 2
+    },
+    {
+      "type": "Exit",
+      "count": 3
+    },
+    {
+      "type": "ElseIf",
+      "count": 3
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 14
+    },
+    {
+      "type": "Aliases",
+      "count": 21
+    },
+    {
+      "type": "InsertInternal",
+      "count": 1
+    },
+    {
+      "type": "ClassOther",
+      "count": 2
+    },
+    {
+      "type": "Split",
+      "count": 2
+    },
+    {
+      "type": "While",
+      "count": 1
+    },
+    {
+      "type": "EndWhile",
+      "count": 1
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 11
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 11
+    },
+    {
+      "type": "Interface",
+      "count": 4
+    },
+    {
+      "type": "EndInterface",
+      "count": 4
+    },
+    {
+      "type": "Report",
+      "count": 7
+    },
+    {
+      "type": "Initialization",
+      "count": 4
+    },
+    {
+      "type": "Select",
+      "count": 1
+    },
+    {
+      "type": "Parameter",
+      "count": 2
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 2
+    },
+    {
+      "type": "Static",
+      "count": 2
+    }
+  ],
   "statements": [
     {
       "type": "v700",
-      "count": 2199
+      "count": 2216
     },
     {
       "type": "v702",
-      "count": 2221
+      "count": 2238
     },
     {
       "type": "v740sp02",
-      "count": 2309
+      "count": 2327
     },
     {
       "type": "v740sp05",
-      "count": 2316
+      "count": 2333
     },
     {
       "type": "v740sp08",
-      "count": 2320
+      "count": 2337
     },
     {
       "type": "v750",
-      "count": 2320
+      "count": 2337
     },
     {
       "type": "v751",
-      "count": 2320
+      "count": 2337
     },
     {
       "type": "v752",
-      "count": 2320
+      "count": 2337
     },
     {
       "type": "v753",
-      "count": 2320
+      "count": 2337
     },
     {
       "type": "Cloud",
-      "count": 2250
+      "count": 2267
     }
   ]
 }

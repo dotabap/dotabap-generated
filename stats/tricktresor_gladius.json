@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T06:24:19.131Z",
+  "time": "2018-12-07T12:43:21.097Z",
   "totals": {
     "objects": 9,
     "files": 12,
@@ -139,6 +139,240 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 14
+    },
+    {
+      "type": "Public",
+      "count": 11
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 4
+    },
+    {
+      "type": "Protected",
+      "count": 7
+    },
+    {
+      "type": "Private",
+      "count": 9
+    },
+    {
+      "type": "EndClass",
+      "count": 25
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 11
+    },
+    {
+      "type": "Method",
+      "count": 32
+    },
+    {
+      "type": "EndMethod",
+      "count": 32
+    },
+    {
+      "type": "Comment",
+      "count": 64
+    },
+    {
+      "type": "MethodDef",
+      "count": 29
+    },
+    {
+      "type": "Data",
+      "count": 40
+    },
+    {
+      "type": "Call",
+      "count": 41
+    },
+    {
+      "type": "Move",
+      "count": 50
+    },
+    {
+      "type": "Try",
+      "count": 4
+    },
+    {
+      "type": "If",
+      "count": 31
+    },
+    {
+      "type": "Find",
+      "count": 3
+    },
+    {
+      "type": "Else",
+      "count": 4
+    },
+    {
+      "type": "Replace",
+      "count": 4
+    },
+    {
+      "type": "EndIf",
+      "count": 31
+    },
+    {
+      "type": "CreateObject",
+      "count": 6
+    },
+    {
+      "type": "Catch",
+      "count": 4
+    },
+    {
+      "type": "EndTry",
+      "count": 4
+    },
+    {
+      "type": "Message",
+      "count": 16
+    },
+    {
+      "type": "Return",
+      "count": 13
+    },
+    {
+      "type": "Report",
+      "count": 2
+    },
+    {
+      "type": "Loop",
+      "count": 9
+    },
+    {
+      "type": "Case",
+      "count": 5
+    },
+    {
+      "type": "When",
+      "count": 15
+    },
+    {
+      "type": "Continue",
+      "count": 1
+    },
+    {
+      "type": "EndCase",
+      "count": 5
+    },
+    {
+      "type": "EndLoop",
+      "count": 9
+    },
+    {
+      "type": "Type",
+      "count": 2
+    },
+    {
+      "type": "ClassData",
+      "count": 5
+    },
+    {
+      "type": "Parameter",
+      "count": 1
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 1
+    },
+    {
+      "type": "Assign",
+      "count": 1
+    },
+    {
+      "type": "InsertReport",
+      "count": 1
+    },
+    {
+      "type": "Commit",
+      "count": 2
+    },
+    {
+      "type": "DeleteReport",
+      "count": 1
+    },
+    {
+      "type": "Clear",
+      "count": 6
+    },
+    {
+      "type": "CallFunction",
+      "count": 4
+    },
+    {
+      "type": "Append",
+      "count": 2
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "ReadReport",
+      "count": 1
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 2
+    },
+    {
+      "type": "InsertInternal",
+      "count": 3
+    },
+    {
+      "type": "Leave",
+      "count": 2
+    },
+    {
+      "type": "SyntaxCheck",
+      "count": 3
+    },
+    {
+      "type": "AuthorityCheck",
+      "count": 1
+    },
+    {
+      "type": "CallScreen",
+      "count": 1
+    },
+    {
+      "type": "Module",
+      "count": 3
+    },
+    {
+      "type": "SetPFStatus",
+      "count": 1
+    },
+    {
+      "type": "SetTitlebar",
+      "count": 1
+    },
+    {
+      "type": "EndModule",
+      "count": 3
+    },
+    {
+      "type": "Interface",
+      "count": 1
+    },
+    {
+      "type": "EndInterface",
+      "count": 1
+    }
   ],
   "statements": [
     {

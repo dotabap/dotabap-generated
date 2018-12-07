@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:32:05.394Z",
+  "time": "2018-12-07T13:27:10.515Z",
   "totals": {
     "objects": 27,
     "files": 36,
@@ -159,6 +159,372 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 15
+    },
+    {
+      "type": "Public",
+      "count": 15
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 2
+    },
+    {
+      "type": "TypeBegin",
+      "count": 9
+    },
+    {
+      "type": "Type",
+      "count": 57
+    },
+    {
+      "type": "TypeEnd",
+      "count": 9
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 2
+    },
+    {
+      "type": "Constant",
+      "count": 144
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 2
+    },
+    {
+      "type": "Data",
+      "count": 161
+    },
+    {
+      "type": "MethodDef",
+      "count": 410
+    },
+    {
+      "type": "Comment",
+      "count": 390
+    },
+    {
+      "type": "Protected",
+      "count": 15
+    },
+    {
+      "type": "Events",
+      "count": 2
+    },
+    {
+      "type": "Private",
+      "count": 15
+    },
+    {
+      "type": "EndClass",
+      "count": 30
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 15
+    },
+    {
+      "type": "Method",
+      "count": 411
+    },
+    {
+      "type": "If",
+      "count": 162
+    },
+    {
+      "type": "InsertInternal",
+      "count": 14
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 10
+    },
+    {
+      "type": "Call",
+      "count": 567
+    },
+    {
+      "type": "EndIf",
+      "count": 162
+    },
+    {
+      "type": "Move",
+      "count": 455
+    },
+    {
+      "type": "EndMethod",
+      "count": 411
+    },
+    {
+      "type": "Loop",
+      "count": 15
+    },
+    {
+      "type": "EndLoop",
+      "count": 15
+    },
+    {
+      "type": "CallFunction",
+      "count": 19
+    },
+    {
+      "type": "Assign",
+      "count": 53
+    },
+    {
+      "type": "Check",
+      "count": 18
+    },
+    {
+      "type": "ReadReport",
+      "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 14
+    },
+    {
+      "type": "Do",
+      "count": 4
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "EndDo",
+      "count": 4
+    },
+    {
+      "type": "Else",
+      "count": 24
+    },
+    {
+      "type": "Try",
+      "count": 24
+    },
+    {
+      "type": "Catch",
+      "count": 24
+    },
+    {
+      "type": "EndTry",
+      "count": 24
+    },
+    {
+      "type": "Case",
+      "count": 15
+    },
+    {
+      "type": "When",
+      "count": 35
+    },
+    {
+      "type": "Raise",
+      "count": 18
+    },
+    {
+      "type": "EndCase",
+      "count": 15
+    },
+    {
+      "type": "CreateObject",
+      "count": 4
+    },
+    {
+      "type": "SetHandler",
+      "count": 41
+    },
+    {
+      "type": "Append",
+      "count": 6
+    },
+    {
+      "type": "Refresh",
+      "count": 2
+    },
+    {
+      "type": "Clear",
+      "count": 58
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 35
+    },
+    {
+      "type": "Empty",
+      "count": 2
+    },
+    {
+      "type": "Leave",
+      "count": 5
+    },
+    {
+      "type": "ElseIf",
+      "count": 5
+    },
+    {
+      "type": "CreateData",
+      "count": 1
+    },
+    {
+      "type": "RaiseEvent",
+      "count": 3
+    },
+    {
+      "type": "Export",
+      "count": 2
+    },
+    {
+      "type": "Commit",
+      "count": 1
+    },
+    {
+      "type": "GetReference",
+      "count": 1
+    },
+    {
+      "type": "SystemCall",
+      "count": 1
+    },
+    {
+      "type": "SetPFStatus",
+      "count": 5
+    },
+    {
+      "type": "SetTitlebar",
+      "count": 2
+    },
+    {
+      "type": "Report",
+      "count": 21
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 19
+    },
+    {
+      "type": "Select",
+      "count": 23
+    },
+    {
+      "type": "IncludeType",
+      "count": 5
+    },
+    {
+      "type": "Parameter",
+      "count": 15
+    },
+    {
+      "type": "CallScreen",
+      "count": 4
+    },
+    {
+      "type": "Module",
+      "count": 6
+    },
+    {
+      "type": "EndModule",
+      "count": 6
+    },
+    {
+      "type": "Initialization",
+      "count": 1
+    },
+    {
+      "type": "ClassData",
+      "count": 2
+    },
+    {
+      "type": "Receive",
+      "count": 1
+    },
+    {
+      "type": "FunctionPool",
+      "count": 1
+    },
+    {
+      "type": "ClassOther",
+      "count": 1
+    },
+    {
+      "type": "Include",
+      "count": 5
+    },
+    {
+      "type": "Define",
+      "count": 3
+    },
+    {
+      "type": "MacroContent",
+      "count": 30
+    },
+    {
+      "type": "EndOfDefinition",
+      "count": 3
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 2
+    },
+    {
+      "type": "MacroCall",
+      "count": 12
+    },
+    {
+      "type": "AtSelectionScreen",
+      "count": 1
+    },
+    {
+      "type": "Modify",
+      "count": 12
+    },
+    {
+      "type": "Concatenate",
+      "count": 4
+    },
+    {
+      "type": "FunctionModule",
+      "count": 5
+    },
+    {
+      "type": "EndFunction",
+      "count": 5
+    },
+    {
+      "type": "Read",
+      "count": 10
+    },
+    {
+      "type": "Add",
+      "count": 2
+    },
+    {
+      "type": "CallSelectionScreen",
+      "count": 1
+    },
+    {
+      "type": "Message",
+      "count": 6
+    },
+    {
+      "type": "Sort",
+      "count": 5
+    },
+    {
+      "type": "Wait",
+      "count": 1
+    },
+    {
+      "type": "Continue",
+      "count": 3
+    }
   ],
   "statements": [
     {

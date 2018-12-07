@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:59:12.793Z",
+  "time": "2018-12-07T13:47:39.724Z",
   "totals": {
     "objects": 28,
     "files": 28,
@@ -74,6 +74,176 @@
     0,
     1,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 636
+    },
+    {
+      "type": "Data",
+      "count": 197
+    },
+    {
+      "type": "Move",
+      "count": 487
+    },
+    {
+      "type": "Translate",
+      "count": 2
+    },
+    {
+      "type": "Check",
+      "count": 12
+    },
+    {
+      "type": "Loop",
+      "count": 3
+    },
+    {
+      "type": "Clear",
+      "count": 3
+    },
+    {
+      "type": "InsertInternal",
+      "count": 8
+    },
+    {
+      "type": "Try",
+      "count": 4
+    },
+    {
+      "type": "Call",
+      "count": 17
+    },
+    {
+      "type": "Catch",
+      "count": 4
+    },
+    {
+      "type": "Continue",
+      "count": 2
+    },
+    {
+      "type": "EndTry",
+      "count": 4
+    },
+    {
+      "type": "Case",
+      "count": 1
+    },
+    {
+      "type": "When",
+      "count": 5
+    },
+    {
+      "type": "If",
+      "count": 11
+    },
+    {
+      "type": "EndIf",
+      "count": 11
+    },
+    {
+      "type": "EndLoop",
+      "count": 3
+    },
+    {
+      "type": "EndCase",
+      "count": 1
+    },
+    {
+      "type": "Include",
+      "count": 46
+    },
+    {
+      "type": "Replace",
+      "count": 4
+    },
+    {
+      "type": "Else",
+      "count": 1
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 23
+    },
+    {
+      "type": "Public",
+      "count": 23
+    },
+    {
+      "type": "MethodDef",
+      "count": 483
+    },
+    {
+      "type": "Protected",
+      "count": 23
+    },
+    {
+      "type": "Private",
+      "count": 23
+    },
+    {
+      "type": "ClassData",
+      "count": 21
+    },
+    {
+      "type": "EndClass",
+      "count": 46
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 23
+    },
+    {
+      "type": "Method",
+      "count": 483
+    },
+    {
+      "type": "EndMethod",
+      "count": 483
+    },
+    {
+      "type": "While",
+      "count": 2
+    },
+    {
+      "type": "CreateObject",
+      "count": 2
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "EndWhile",
+      "count": 2
+    },
+    {
+      "type": "Constant",
+      "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 1
+    },
+    {
+      "type": "Shift",
+      "count": 2
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 1
+    },
+    {
+      "type": "Assign",
+      "count": 1
+    }
   ],
   "statements": [
     {

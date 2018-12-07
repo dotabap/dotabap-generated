@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T06:25:59.692Z",
+  "time": "2018-12-07T12:44:39.722Z",
   "totals": {
     "objects": 19,
     "files": 21,
@@ -281,6 +281,308 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 562
+    },
+    {
+      "type": "Report",
+      "count": 5
+    },
+    {
+      "type": "Constant",
+      "count": 80
+    },
+    {
+      "type": "Data",
+      "count": 352
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 6
+    },
+    {
+      "type": "Parameter",
+      "count": 10
+    },
+    {
+      "type": "Initialization",
+      "count": 1
+    },
+    {
+      "type": "Move",
+      "count": 460
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 39
+    },
+    {
+      "type": "If",
+      "count": 191
+    },
+    {
+      "type": "Else",
+      "count": 31
+    },
+    {
+      "type": "EndIf",
+      "count": 191
+    },
+    {
+      "type": "Do",
+      "count": 2
+    },
+    {
+      "type": "Clear",
+      "count": 60
+    },
+    {
+      "type": "Add",
+      "count": 44
+    },
+    {
+      "type": "CreateObject",
+      "count": 7
+    },
+    {
+      "type": "Call",
+      "count": 262
+    },
+    {
+      "type": "Append",
+      "count": 148
+    },
+    {
+      "type": "CallFunction",
+      "count": 4
+    },
+    {
+      "type": "ElseIf",
+      "count": 2
+    },
+    {
+      "type": "EndDo",
+      "count": 2
+    },
+    {
+      "type": "Catch",
+      "count": 43
+    },
+    {
+      "type": "Write",
+      "count": 29
+    },
+    {
+      "type": "EndTry",
+      "count": 39
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 12
+    },
+    {
+      "type": "Public",
+      "count": 9
+    },
+    {
+      "type": "MethodDef",
+      "count": 106
+    },
+    {
+      "type": "Protected",
+      "count": 11
+    },
+    {
+      "type": "Private",
+      "count": 11
+    },
+    {
+      "type": "EndClass",
+      "count": 24
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 12
+    },
+    {
+      "type": "Method",
+      "count": 99
+    },
+    {
+      "type": "EndMethod",
+      "count": 99
+    },
+    {
+      "type": "Free",
+      "count": 7
+    },
+    {
+      "type": "CatchSystemExceptions",
+      "count": 1
+    },
+    {
+      "type": "GenerateSubroutine",
+      "count": 1
+    },
+    {
+      "type": "EndCatch",
+      "count": 1
+    },
+    {
+      "type": "TypePools",
+      "count": 13
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 5
+    },
+    {
+      "type": "TypeBegin",
+      "count": 8
+    },
+    {
+      "type": "Type",
+      "count": 37
+    },
+    {
+      "type": "TypeEnd",
+      "count": 8
+    },
+    {
+      "type": "ClassData",
+      "count": 2
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 13
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 13
+    },
+    {
+      "type": "Raise",
+      "count": 24
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 78
+    },
+    {
+      "type": "Assign",
+      "count": 16
+    },
+    {
+      "type": "CreateData",
+      "count": 4
+    },
+    {
+      "type": "Loop",
+      "count": 40
+    },
+    {
+      "type": "Concatenate",
+      "count": 33
+    },
+    {
+      "type": "EndLoop",
+      "count": 40
+    },
+    {
+      "type": "Read",
+      "count": 41
+    },
+    {
+      "type": "Continue",
+      "count": 9
+    },
+    {
+      "type": "Find",
+      "count": 1
+    },
+    {
+      "type": "Split",
+      "count": 1
+    },
+    {
+      "type": "Message",
+      "count": 1
+    },
+    {
+      "type": "GetReference",
+      "count": 62
+    },
+    {
+      "type": "InsertInternal",
+      "count": 22
+    },
+    {
+      "type": "Return",
+      "count": 4
+    },
+    {
+      "type": "Translate",
+      "count": 7
+    },
+    {
+      "type": "Check",
+      "count": 4
+    },
+    {
+      "type": "Case",
+      "count": 5
+    },
+    {
+      "type": "When",
+      "count": 40
+    },
+    {
+      "type": "EndCase",
+      "count": 5
+    },
+    {
+      "type": "Exit",
+      "count": 6
+    },
+    {
+      "type": "Describe",
+      "count": 1
+    },
+    {
+      "type": "Define",
+      "count": 1
+    },
+    {
+      "type": "MacroContent",
+      "count": 1
+    },
+    {
+      "type": "EndOfDefinition",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 6
+    },
+    {
+      "type": "EndInterface",
+      "count": 6
+    },
+    {
+      "type": "NewLine",
+      "count": 6
+    },
+    {
+      "type": "Unknown",
+      "count": 1
+    }
   ],
   "statements": [
     {

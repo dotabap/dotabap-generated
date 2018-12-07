@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T07:56:27.616Z",
+  "time": "2018-12-07T13:45:31.922Z",
   "totals": {
     "objects": 6,
     "files": 10,
@@ -134,6 +134,320 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 12
+    },
+    {
+      "type": "Public",
+      "count": 10
+    },
+    {
+      "type": "TypePools",
+      "count": 5
+    },
+    {
+      "type": "TypeBegin",
+      "count": 9
+    },
+    {
+      "type": "Type",
+      "count": 50
+    },
+    {
+      "type": "TypeEnd",
+      "count": 9
+    },
+    {
+      "type": "Constant",
+      "count": 28
+    },
+    {
+      "type": "Comment",
+      "count": 338
+    },
+    {
+      "type": "MethodDef",
+      "count": 78
+    },
+    {
+      "type": "Protected",
+      "count": 4
+    },
+    {
+      "type": "Private",
+      "count": 10
+    },
+    {
+      "type": "Data",
+      "count": 242
+    },
+    {
+      "type": "ClassDefinitionLoad",
+      "count": 3
+    },
+    {
+      "type": "EndClass",
+      "count": 24
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 12
+    },
+    {
+      "type": "Method",
+      "count": 78
+    },
+    {
+      "type": "If",
+      "count": 91
+    },
+    {
+      "type": "Return",
+      "count": 6
+    },
+    {
+      "type": "EndIf",
+      "count": 91
+    },
+    {
+      "type": "Move",
+      "count": 284
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 27
+    },
+    {
+      "type": "Assign",
+      "count": 10
+    },
+    {
+      "type": "Loop",
+      "count": 15
+    },
+    {
+      "type": "Append",
+      "count": 28
+    },
+    {
+      "type": "EndLoop",
+      "count": 15
+    },
+    {
+      "type": "ElseIf",
+      "count": 2
+    },
+    {
+      "type": "Split",
+      "count": 12
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 9
+    },
+    {
+      "type": "Clear",
+      "count": 40
+    },
+    {
+      "type": "Call",
+      "count": 260
+    },
+    {
+      "type": "Else",
+      "count": 23
+    },
+    {
+      "type": "EndMethod",
+      "count": 78
+    },
+    {
+      "type": "Replace",
+      "count": 22
+    },
+    {
+      "type": "CallFunction",
+      "count": 5
+    },
+    {
+      "type": "Try",
+      "count": 53
+    },
+    {
+      "type": "Catch",
+      "count": 53
+    },
+    {
+      "type": "EndTry",
+      "count": 53
+    },
+    {
+      "type": "CreateObject",
+      "count": 6
+    },
+    {
+      "type": "Case",
+      "count": 12
+    },
+    {
+      "type": "When",
+      "count": 51
+    },
+    {
+      "type": "Raise",
+      "count": 7
+    },
+    {
+      "type": "EndCase",
+      "count": 12
+    },
+    {
+      "type": "Assert",
+      "count": 1
+    },
+    {
+      "type": "Find",
+      "count": 6
+    },
+    {
+      "type": "Read",
+      "count": 13
+    },
+    {
+      "type": "Sort",
+      "count": 2
+    },
+    {
+      "type": "Check",
+      "count": 3
+    },
+    {
+      "type": "CreateData",
+      "count": 3
+    },
+    {
+      "type": "InsertInternal",
+      "count": 6
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "Do",
+      "count": 9
+    },
+    {
+      "type": "EndDo",
+      "count": 9
+    },
+    {
+      "type": "Condense",
+      "count": 1
+    },
+    {
+      "type": "Unassign",
+      "count": 1
+    },
+    {
+      "type": "Shift",
+      "count": 10
+    },
+    {
+      "type": "Define",
+      "count": 7
+    },
+    {
+      "type": "MacroContent",
+      "count": 55
+    },
+    {
+      "type": "EndOfDefinition",
+      "count": 7
+    },
+    {
+      "type": "ClassOther",
+      "count": 2
+    },
+    {
+      "type": "Concatenate",
+      "count": 1
+    },
+    {
+      "type": "DataBegin",
+      "count": 2
+    },
+    {
+      "type": "DataEnd",
+      "count": 2
+    },
+    {
+      "type": "MacroCall",
+      "count": 80
+    },
+    {
+      "type": "Write",
+      "count": 17
+    },
+    {
+      "type": "IncludeType",
+      "count": 1
+    },
+    {
+      "type": "ClassData",
+      "count": 2
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 2
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 2
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 2
+    },
+    {
+      "type": "Report",
+      "count": 2
+    },
+    {
+      "type": "Select",
+      "count": 1
+    },
+    {
+      "type": "Form",
+      "count": 1
+    },
+    {
+      "type": "Endform",
+      "count": 1
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 5
+    },
+    {
+      "type": "Parameter",
+      "count": 1
+    },
+    {
+      "type": "Initialization",
+      "count": 1
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 2
+    },
+    {
+      "type": "Perform",
+      "count": 1
+    }
   ],
   "statements": [
     {

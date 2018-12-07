@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "target": "v753",
-  "time": "2018-11-30T06:34:02.223Z",
+  "time": "2018-12-07T12:50:55.339Z",
   "totals": {
     "objects": 8,
     "files": 9,
@@ -85,6 +85,192 @@
     0,
     0,
     1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 9
+    },
+    {
+      "type": "Public",
+      "count": 8
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 8
+    },
+    {
+      "type": "Protected",
+      "count": 6
+    },
+    {
+      "type": "Private",
+      "count": 9
+    },
+    {
+      "type": "EndClass",
+      "count": 18
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 9
+    },
+    {
+      "type": "Method",
+      "count": 36
+    },
+    {
+      "type": "Move",
+      "count": 50
+    },
+    {
+      "type": "EndMethod",
+      "count": 36
+    },
+    {
+      "type": "Return",
+      "count": 4
+    },
+    {
+      "type": "Comment",
+      "count": 17
+    },
+    {
+      "type": "TypeBegin",
+      "count": 4
+    },
+    {
+      "type": "Type",
+      "count": 14
+    },
+    {
+      "type": "TypeEnd",
+      "count": 4
+    },
+    {
+      "type": "Data",
+      "count": 9
+    },
+    {
+      "type": "MethodDef",
+      "count": 24
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 1
+    },
+    {
+      "type": "Loop",
+      "count": 9
+    },
+    {
+      "type": "If",
+      "count": 16
+    },
+    {
+      "type": "Continue",
+      "count": 3
+    },
+    {
+      "type": "EndIf",
+      "count": 16
+    },
+    {
+      "type": "Try",
+      "count": 1
+    },
+    {
+      "type": "Catch",
+      "count": 1
+    },
+    {
+      "type": "EndTry",
+      "count": 1
+    },
+    {
+      "type": "Append",
+      "count": 7
+    },
+    {
+      "type": "InsertInternal",
+      "count": 1
+    },
+    {
+      "type": "Unassign",
+      "count": 2
+    },
+    {
+      "type": "Clear",
+      "count": 1
+    },
+    {
+      "type": "EndLoop",
+      "count": 9
+    },
+    {
+      "type": "Read",
+      "count": 2
+    },
+    {
+      "type": "Case",
+      "count": 1
+    },
+    {
+      "type": "When",
+      "count": 3
+    },
+    {
+      "type": "Call",
+      "count": 27
+    },
+    {
+      "type": "EndCase",
+      "count": 1
+    },
+    {
+      "type": "Else",
+      "count": 2
+    },
+    {
+      "type": "ClassData",
+      "count": 4
+    },
+    {
+      "type": "ClassOther",
+      "count": 4
+    },
+    {
+      "type": "CreateObject",
+      "count": 2
+    },
+    {
+      "type": "Sort",
+      "count": 1
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 1
+    },
+    {
+      "type": "Select",
+      "count": 6
+    },
+    {
+      "type": "Raise",
+      "count": 3
+    },
+    {
+      "type": "Assert",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 2
+    },
+    {
+      "type": "EndInterface",
+      "count": 2
+    }
   ],
   "statements": [
     {
