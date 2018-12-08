@@ -3809,11 +3809,11 @@
     "site_admin": false
    },
    "network_count": 11,
-   "subscribers_count": 29
+   "subscribers_count": 28
   }
  },
  "larshp/abapGit": {
-  "lines": 78370,
+  "lines": 78403,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -3897,14 +3897,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-12-07T10:12:58Z",
-   "pushed_at": "2018-12-07T19:30:55Z",
+   "updated_at": "2018-12-08T12:26:12Z",
+   "pushed_at": "2018-12-08T18:45:07Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 9929,
+   "size": 9949,
    "stargazers_count": 435,
    "watchers_count": 435,
    "language": "ABAP",
@@ -3916,7 +3916,7 @@
    "forks_count": 174,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 138,
+   "open_issues_count": 139,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3925,7 +3925,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 174,
-   "open_issues": 138,
+   "open_issues": 139,
    "watchers": 435,
    "default_branch": "master",
    "permissions": {
@@ -5356,14 +5356,14 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-12-07T11:32:07Z",
-   "pushed_at": "2018-12-05T11:34:14Z",
+   "updated_at": "2018-12-07T23:11:57Z",
+   "pushed_at": "2018-12-07T23:11:55Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
    "clone_url": "https://github.com/ivanfemia/abap2xlsx.git",
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
-   "size": 23009,
+   "size": 23154,
    "stargazers_count": 176,
    "watchers_count": 176,
    "language": "ABAP",
@@ -5375,7 +5375,7 @@
    "forks_count": 97,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 84,
+   "open_issues_count": 82,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -5384,7 +5384,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 97,
-   "open_issues": 84,
+   "open_issues": 82,
    "watchers": 176,
    "default_branch": "master",
    "permissions": {
@@ -7497,7 +7497,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 36741,
+  "lines": 36756,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -7577,14 +7577,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-12-06T11:22:38Z",
-   "pushed_at": "2018-12-06T11:22:37Z",
+   "updated_at": "2018-12-08T17:18:15Z",
+   "pushed_at": "2018-12-08T17:18:14Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1565,
+   "size": 1572,
    "stargazers_count": 68,
    "watchers_count": 68,
    "language": "ABAP",
@@ -7593,7 +7593,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 21,
+   "forks_count": 22,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 266,
@@ -7604,7 +7604,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 21,
+   "forks": 22,
    "open_issues": 266,
    "watchers": 68,
    "default_branch": "master",
@@ -7613,7 +7613,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 21,
+   "network_count": 22,
    "subscribers_count": 23
   }
  },
@@ -8794,7 +8794,7 @@
    "deployments_url": "https://api.github.com/repos/sbcgua/mockup_loader/deployments",
    "created_at": "2015-11-03T17:02:54Z",
    "updated_at": "2018-11-23T11:54:59Z",
-   "pushed_at": "2018-11-23T11:54:57Z",
+   "pushed_at": "2018-12-08T17:20:54Z",
    "git_url": "git://github.com/sbcgua/mockup_loader.git",
    "ssh_url": "git@github.com:sbcgua/mockup_loader.git",
    "clone_url": "https://github.com/sbcgua/mockup_loader.git",
@@ -8812,7 +8812,7 @@
    "forks_count": 6,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 3,
+   "open_issues_count": 4,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8821,7 +8821,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 6,
-   "open_issues": 3,
+   "open_issues": 4,
    "watchers": 31,
    "default_branch": "master",
    "permissions": {
@@ -8834,7 +8834,7 @@
   }
  },
  "sbcgua/abap_data_parser": {
-  "lines": 3646,
+  "lines": 3647,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -8916,14 +8916,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/abap_data_parser/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/abap_data_parser/deployments",
    "created_at": "2016-08-13T09:37:35Z",
-   "updated_at": "2018-11-26T15:59:49Z",
-   "pushed_at": "2018-11-27T08:09:25Z",
+   "updated_at": "2018-12-08T16:19:09Z",
+   "pushed_at": "2018-12-08T16:19:07Z",
    "git_url": "git://github.com/sbcgua/abap_data_parser.git",
    "ssh_url": "git@github.com:sbcgua/abap_data_parser.git",
    "clone_url": "https://github.com/sbcgua/abap_data_parser.git",
    "svn_url": "https://github.com/sbcgua/abap_data_parser",
    "homepage": null,
-   "size": 257,
+   "size": 264,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -9681,7 +9681,7 @@
     "pull": true
    },
    "network_count": 3,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "VishnAndr/zuiddlb": {
