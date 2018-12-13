@@ -1,0 +1,477 @@
+{
+  "version": "1.5.1",
+  "target": "v753",
+  "time": "2018-12-13T09:01:48.449Z",
+  "totals": {
+    "objects": 20,
+    "files": 33,
+    "statements": 1769,
+    "tokens": 10498
+  },
+  "objects": [
+    {
+      "type": "FUGR",
+      "count": 1
+    },
+    {
+      "type": "CLAS",
+      "count": 15
+    },
+    {
+      "type": "INTF",
+      "count": 4
+    }
+  ],
+  "issues": [
+    {
+      "type": "start_at_tab",
+      "count": 1
+    },
+    {
+      "type": "line_length",
+      "count": 4
+    },
+    {
+      "type": "keywords_upper",
+      "count": 21
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 106
+    },
+    {
+      "type": "local_variable_names",
+      "count": 94
+    },
+    {
+      "type": "class_attribute_names",
+      "count": 24
+    },
+    {
+      "type": "line_only_punc",
+      "count": 30
+    }
+  ],
+  "objectOrientation": {
+    "oo": 1513,
+    "non": 25
+  },
+  "methodLength": [
+    0,
+    25,
+    17,
+    5,
+    9,
+    10,
+    13,
+    4,
+    7,
+    7,
+    3,
+    2,
+    0,
+    1,
+    2,
+    1,
+    0,
+    1,
+    1,
+    3,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "statementTypes": [
+    {
+      "type": "Comment",
+      "count": 231
+    },
+    {
+      "type": "Include",
+      "count": 12
+    },
+    {
+      "type": "DataBegin",
+      "count": 1
+    },
+    {
+      "type": "IncludeType",
+      "count": 1
+    },
+    {
+      "type": "DataEnd",
+      "count": 1
+    },
+    {
+      "type": "Controls",
+      "count": 1
+    },
+    {
+      "type": "Tables",
+      "count": 2
+    },
+    {
+      "type": "FunctionPool",
+      "count": 1
+    },
+    {
+      "type": "FunctionModule",
+      "count": 2
+    },
+    {
+      "type": "Perform",
+      "count": 2
+    },
+    {
+      "type": "EndFunction",
+      "count": 2
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 22
+    },
+    {
+      "type": "Public",
+      "count": 16
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 10
+    },
+    {
+      "type": "MethodDef",
+      "count": 108
+    },
+    {
+      "type": "Protected",
+      "count": 15
+    },
+    {
+      "type": "Private",
+      "count": 21
+    },
+    {
+      "type": "Data",
+      "count": 115
+    },
+    {
+      "type": "EndClass",
+      "count": 44
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 22
+    },
+    {
+      "type": "Method",
+      "count": 118
+    },
+    {
+      "type": "Move",
+      "count": 226
+    },
+    {
+      "type": "If",
+      "count": 85
+    },
+    {
+      "type": "Return",
+      "count": 13
+    },
+    {
+      "type": "ElseIf",
+      "count": 5
+    },
+    {
+      "type": "EndIf",
+      "count": 85
+    },
+    {
+      "type": "EndMethod",
+      "count": 118
+    },
+    {
+      "type": "Raise",
+      "count": 33
+    },
+    {
+      "type": "CreateObject",
+      "count": 43
+    },
+    {
+      "type": "Write",
+      "count": 1
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 15
+    },
+    {
+      "type": "Loop",
+      "count": 6
+    },
+    {
+      "type": "Clear",
+      "count": 9
+    },
+    {
+      "type": "InsertInternal",
+      "count": 13
+    },
+    {
+      "type": "EndLoop",
+      "count": 6
+    },
+    {
+      "type": "Read",
+      "count": 12
+    },
+    {
+      "type": "Else",
+      "count": 13
+    },
+    {
+      "type": "LogPoint",
+      "count": 17
+    },
+    {
+      "type": "Try",
+      "count": 28
+    },
+    {
+      "type": "Catch",
+      "count": 23
+    },
+    {
+      "type": "EndTry",
+      "count": 28
+    },
+    {
+      "type": "Call",
+      "count": 119
+    },
+    {
+      "type": "ClassOther",
+      "count": 10
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 7
+    },
+    {
+      "type": "Constant",
+      "count": 37
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 7
+    },
+    {
+      "type": "Case",
+      "count": 3
+    },
+    {
+      "type": "When",
+      "count": 10
+    },
+    {
+      "type": "EndCase",
+      "count": 3
+    },
+    {
+      "type": "TypeBegin",
+      "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 3
+    },
+    {
+      "type": "TypeEnd",
+      "count": 1
+    },
+    {
+      "type": "ClassData",
+      "count": 3
+    },
+    {
+      "type": "Select",
+      "count": 2
+    },
+    {
+      "type": "OpenDataset",
+      "count": 1
+    },
+    {
+      "type": "ReadDataset",
+      "count": 1
+    },
+    {
+      "type": "CloseDataset",
+      "count": 1
+    },
+    {
+      "type": "Cleanup",
+      "count": 6
+    },
+    {
+      "type": "While",
+      "count": 4
+    },
+    {
+      "type": "Wait",
+      "count": 4
+    },
+    {
+      "type": "EndWhile",
+      "count": 4
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 1
+    },
+    {
+      "type": "Do",
+      "count": 1
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "EndDo",
+      "count": 1
+    },
+    {
+      "type": "CallFunction",
+      "count": 1
+    },
+    {
+      "type": "CallTransformation",
+      "count": 1
+    },
+    {
+      "type": "DeleteDatabase",
+      "count": 1
+    },
+    {
+      "type": "InsertDatabase",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 4
+    },
+    {
+      "type": "EndInterface",
+      "count": 4
+    }
+  ],
+  "statements": [
+    {
+      "type": "v700",
+      "count": 1757
+    },
+    {
+      "type": "v702",
+      "count": 1769
+    },
+    {
+      "type": "v740sp02",
+      "count": 1769
+    },
+    {
+      "type": "v740sp05",
+      "count": 1769
+    },
+    {
+      "type": "v740sp08",
+      "count": 1769
+    },
+    {
+      "type": "v750",
+      "count": 1769
+    },
+    {
+      "type": "v751",
+      "count": 1769
+    },
+    {
+      "type": "v752",
+      "count": 1769
+    },
+    {
+      "type": "v753",
+      "count": 1769
+    },
+    {
+      "type": "Cloud",
+      "count": 1693
+    }
+  ]
+}
