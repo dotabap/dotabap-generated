@@ -3752,14 +3752,14 @@
    "releases_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2018-12-12T07:08:36Z",
-   "pushed_at": "2018-12-04T12:11:02Z",
+   "updated_at": "2018-12-13T10:55:37Z",
+   "pushed_at": "2018-12-13T10:55:35Z",
    "git_url": "git://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:Microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "svn_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
-   "size": 11602,
+   "size": 11611,
    "stargazers_count": 41,
    "watchers_count": 41,
    "language": "ABAP",
@@ -3771,7 +3771,7 @@
    "forks_count": 12,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 9,
+   "open_issues_count": 8,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3780,7 +3780,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 12,
-   "open_issues": 9,
+   "open_issues": 8,
    "watchers": 41,
    "default_branch": "master",
    "permissions": {
@@ -10432,7 +10432,7 @@
   }
  },
  "abapinho/abaK": {
-  "lines": 3619,
+  "lines": 3685,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -10513,16 +10513,16 @@
    "releases_url": "https://api.github.com/repos/abapinho/abaK/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abaK/deployments",
    "created_at": "2018-12-08T10:17:39Z",
-   "updated_at": "2018-12-13T08:13:37Z",
-   "pushed_at": "2018-12-12T18:31:31Z",
+   "updated_at": "2018-12-13T17:20:00Z",
+   "pushed_at": "2018-12-13T17:08:26Z",
    "git_url": "git://github.com/abapinho/abaK.git",
    "ssh_url": "git@github.com:abapinho/abaK.git",
    "clone_url": "https://github.com/abapinho/abaK.git",
    "svn_url": "https://github.com/abapinho/abaK",
    "homepage": "",
-   "size": 213,
-   "stargazers_count": 0,
-   "watchers_count": 0,
+   "size": 231,
+   "stargazers_count": 6,
+   "watchers_count": 6,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10532,7 +10532,7 @@
    "forks_count": 0,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 4,
+   "open_issues_count": 6,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10541,8 +10541,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 0,
-   "open_issues": 4,
-   "watchers": 0,
+   "open_issues": 6,
+   "watchers": 6,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -10570,7 +10570,7 @@
     "site_admin": false
    },
    "network_count": 0,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  }
 }
