@@ -1,12 +1,12 @@
 {
   "version": "1.5.1",
   "target": "v753",
-  "time": "2018-12-07T13:29:29.563Z",
+  "time": "2018-12-13T09:56:04.279Z",
   "totals": {
     "objects": 109,
     "files": 207,
-    "statements": 22180,
-    "tokens": 109536
+    "statements": 22204,
+    "tokens": 109609
   },
   "objects": [
     {
@@ -28,8 +28,8 @@
   ],
   "issues": [],
   "objectOrientation": {
-    "oo": 18416,
-    "non": 710
+    "oo": 18423,
+    "non": 727
   },
   "methodLength": [
     4,
@@ -43,21 +43,21 @@
     73,
     49,
     24,
-    34,
+    33,
     16,
-    22,
+    23,
     9,
     14,
     10,
     6,
     7,
     7,
-    19,
+    18,
     6,
     2,
     8,
     4,
-    3,
+    4,
     6,
     9,
     6,
@@ -155,7 +155,7 @@
     },
     {
       "type": "Move",
-      "count": 2626
+      "count": 2637
     },
     {
       "type": "EndMethod",
@@ -163,7 +163,7 @@
     },
     {
       "type": "Data",
-      "count": 1424
+      "count": 1432
     },
     {
       "type": "CallFunction",
@@ -195,7 +195,7 @@
     },
     {
       "type": "Clear",
-      "count": 187
+      "count": 190
     },
     {
       "type": "Case",
@@ -239,7 +239,7 @@
     },
     {
       "type": "FieldSymbol",
-      "count": 269
+      "count": 271
     },
     {
       "type": "ElseIf",
@@ -553,43 +553,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 22146
+      "count": 22176
     },
     {
       "type": "v702",
-      "count": 22173
+      "count": 22203
     },
     {
       "type": "v740sp02",
-      "count": 22179
+      "count": 22204
     },
     {
       "type": "v740sp05",
-      "count": 22180
+      "count": 22204
     },
     {
       "type": "v740sp08",
-      "count": 22180
+      "count": 22204
     },
     {
       "type": "v750",
-      "count": 22180
+      "count": 22204
     },
     {
       "type": "v751",
-      "count": 22180
+      "count": 22204
     },
     {
       "type": "v752",
-      "count": 22180
+      "count": 22204
     },
     {
       "type": "v753",
-      "count": 22180
+      "count": 22204
     },
     {
       "type": "Cloud",
-      "count": 21614
+      "count": 21638
     }
   ]
 }
