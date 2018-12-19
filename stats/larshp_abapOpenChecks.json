@@ -1,17 +1,17 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-13T09:56:04.279Z",
+  "time": "2018-12-19T11:51:59.382Z",
   "totals": {
-    "objects": 109,
-    "files": 207,
-    "statements": 22204,
-    "tokens": 109609
+    "objects": 110,
+    "files": 209,
+    "statements": 22319,
+    "tokens": 110126
   },
   "objects": [
     {
       "type": "CLAS",
-      "count": 94
+      "count": 95
     },
     {
       "type": "TYPE",
@@ -28,25 +28,25 @@
   ],
   "issues": [],
   "objectOrientation": {
-    "oo": 18423,
+    "oo": 18519,
     "non": 727
   },
   "methodLength": [
     4,
-    213,
-    221,
-    293,
-    68,
+    214,
+    222,
+    295,
+    69,
     103,
     75,
-    124,
+    126,
     73,
     49,
     24,
     33,
     16,
     23,
-    9,
+    10,
     14,
     10,
     6,
@@ -71,11 +71,11 @@
     6,
     2,
     5,
-    4,
+    3,
     4,
     4,
     3,
-    3,
+    4,
     4,
     2,
     0,
@@ -84,19 +84,19 @@
     0,
     0,
     1,
-    1,
-    1,
-    0,
-    0,
-    1,
-    0,
-    1,
     0,
     1,
     0,
     0,
     1,
     0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
     0,
     1,
     1,
@@ -115,55 +115,55 @@
   "statementTypes": [
     {
       "type": "ClassDefinition",
-      "count": 214
+      "count": 216
     },
     {
       "type": "Public",
-      "count": 117
+      "count": 118
     },
     {
       "type": "MethodDef",
-      "count": 1526
+      "count": 1534
     },
     {
       "type": "Protected",
-      "count": 94
+      "count": 95
     },
     {
       "type": "Private",
-      "count": 208
+      "count": 210
     },
     {
       "type": "EndClass",
-      "count": 428
+      "count": 432
     },
     {
       "type": "ClassImplementation",
-      "count": 214
+      "count": 216
     },
     {
       "type": "Method",
-      "count": 1526
+      "count": 1534
     },
     {
       "type": "Comment",
-      "count": 3054
+      "count": 3073
     },
     {
       "type": "Call",
-      "count": 1443
+      "count": 1451
     },
     {
       "type": "Move",
-      "count": 2637
+      "count": 2652
     },
     {
       "type": "EndMethod",
-      "count": 1526
+      "count": 1534
     },
     {
       "type": "Data",
-      "count": 1432
+      "count": 1436
     },
     {
       "type": "CallFunction",
@@ -171,15 +171,15 @@
     },
     {
       "type": "CreateObject",
-      "count": 127
+      "count": 128
     },
     {
       "type": "Loop",
-      "count": 281
+      "count": 284
     },
     {
       "type": "If",
-      "count": 750
+      "count": 755
     },
     {
       "type": "Return",
@@ -187,27 +187,27 @@
     },
     {
       "type": "EndIf",
-      "count": 750
+      "count": 755
     },
     {
       "type": "EndLoop",
-      "count": 281
+      "count": 284
     },
     {
       "type": "Clear",
-      "count": 190
+      "count": 191
     },
     {
       "type": "Case",
-      "count": 143
+      "count": 144
     },
     {
       "type": "When",
-      "count": 492
+      "count": 496
     },
     {
       "type": "EndCase",
-      "count": 143
+      "count": 144
     },
     {
       "type": "Read",
@@ -239,7 +239,7 @@
     },
     {
       "type": "FieldSymbol",
-      "count": 271
+      "count": 274
     },
     {
       "type": "ElseIf",
@@ -319,7 +319,7 @@
     },
     {
       "type": "Append",
-      "count": 151
+      "count": 155
     },
     {
       "type": "TypePools",
@@ -335,7 +335,7 @@
     },
     {
       "type": "Find",
-      "count": 49
+      "count": 51
     },
     {
       "type": "ClassDefinitionLoad",
@@ -553,43 +553,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 22176
+      "count": 22291
     },
     {
       "type": "v702",
-      "count": 22203
+      "count": 22318
     },
     {
       "type": "v740sp02",
-      "count": 22204
+      "count": 22319
     },
     {
       "type": "v740sp05",
-      "count": 22204
+      "count": 22319
     },
     {
       "type": "v740sp08",
-      "count": 22204
+      "count": 22319
     },
     {
       "type": "v750",
-      "count": 22204
+      "count": 22319
     },
     {
       "type": "v751",
-      "count": 22204
+      "count": 22319
     },
     {
       "type": "v752",
-      "count": 22204
+      "count": 22319
     },
     {
       "type": "v753",
-      "count": 22204
+      "count": 22319
     },
     {
       "type": "Cloud",
-      "count": 21638
+      "count": 21753
     }
   ]
 }

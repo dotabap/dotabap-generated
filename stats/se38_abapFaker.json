@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-13T10:15:09.034Z",
+  "time": "2018-12-19T12:09:55.525Z",
   "totals": {
     "objects": 29,
     "files": 29,
@@ -19,6 +19,10 @@
     }
   ],
   "issues": [
+    {
+      "type": "local_class_naming",
+      "count": 1
+    },
     {
       "type": "line_only_punc",
       "count": 73

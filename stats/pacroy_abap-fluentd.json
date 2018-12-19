@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-13T09:06:21.643Z",
+  "time": "2018-12-19T11:03:42.979Z",
   "totals": {
     "objects": 9,
     "files": 15,
@@ -50,6 +50,10 @@
     {
       "type": "class_attribute_names",
       "count": 9
+    },
+    {
+      "type": "local_class_naming",
+      "count": 3
     },
     {
       "type": "method_parameter_names",

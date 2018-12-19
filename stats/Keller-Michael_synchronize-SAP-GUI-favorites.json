@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-13T09:31:24.811Z",
+  "time": "2018-12-19T11:28:37.092Z",
   "totals": {
     "objects": 2,
     "files": 2,
@@ -26,6 +26,10 @@
     {
       "type": "exporting",
       "count": 4
+    },
+    {
+      "type": "local_class_naming",
+      "count": 1
     }
   ],
   "objectOrientation": {

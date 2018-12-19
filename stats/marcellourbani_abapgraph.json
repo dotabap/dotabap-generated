@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-13T10:18:10.217Z",
+  "time": "2018-12-19T12:12:43.714Z",
   "totals": {
     "objects": 11,
     "files": 16,
@@ -46,6 +46,10 @@
     {
       "type": "colon_missing_space",
       "count": 1
+    },
+    {
+      "type": "local_class_naming",
+      "count": 3
     }
   ],
   "objectOrientation": {
