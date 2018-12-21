@@ -1,20 +1,32 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:39:07.296Z",
+  "time": "2018-12-21T08:28:27.607Z",
   "totals": {
-    "objects": 2,
-    "files": 4,
+    "objects": 5,
+    "files": 9,
     "statements": 576,
     "tokens": 3298
   },
   "objects": [
     {
+      "type": "DEVC",
+      "count": 1
+    },
+    {
       "type": "CLAS",
+      "count": 2
+    },
+    {
+      "type": "ENHO",
       "count": 2
     }
   ],
   "issues": [
+    {
+      "type": "registry_add",
+      "count": 1
+    },
     {
       "type": "colon_missing_space",
       "count": 1

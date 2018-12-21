@@ -1,24 +1,24 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:28:36.933Z",
+  "time": "2018-12-21T08:19:00.571Z",
   "totals": {
-    "objects": 1,
-    "files": 4,
+    "objects": 2,
+    "files": 6,
     "statements": 2738,
     "tokens": 18473
   },
   "objects": [
+    {
+      "type": "DEVC",
+      "count": 1
+    },
     {
       "type": "CLAS",
       "count": 1
     }
   ],
   "issues": [
-    {
-      "type": "registry_add",
-      "count": 3
-    },
     {
       "type": "line_length",
       "count": 1

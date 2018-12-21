@@ -1,14 +1,18 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:30:29.395Z",
+  "time": "2018-12-21T08:23:35.133Z",
   "totals": {
-    "objects": 75,
-    "files": 99,
+    "objects": 79,
+    "files": 205,
     "statements": 9634,
     "tokens": 53036
   },
   "objects": [
+    {
+      "type": "DEVC",
+      "count": 1
+    },
     {
       "type": "CLAS",
       "count": 61
@@ -18,8 +22,16 @@
       "count": 9
     },
     {
+      "type": "TABL",
+      "count": 2
+    },
+    {
       "type": "FUGR",
       "count": 4
+    },
+    {
+      "type": "WDYN",
+      "count": 1
     },
     {
       "type": "INTF",
@@ -27,10 +39,6 @@
     }
   ],
   "issues": [
-    {
-      "type": "registry_add",
-      "count": 1
-    },
     {
       "type": "keywords_upper",
       "count": 22

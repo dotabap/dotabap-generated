@@ -1,28 +1,36 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:31:43.695Z",
+  "time": "2018-12-21T08:24:27.925Z",
   "totals": {
-    "objects": 20,
-    "files": 25,
+    "objects": 21,
+    "files": 49,
     "statements": 859,
     "tokens": 4463
   },
   "objects": [
     {
+      "type": "DEVC",
+      "count": 1
+    },
+    {
       "type": "CLAS",
       "count": 15
     },
     {
-      "type": "PROG",
-      "count": 1
-    },
-    {
       "type": "INTF",
       "count": 4
+    },
+    {
+      "type": "PROG",
+      "count": 1
     }
   ],
   "issues": [
+    {
+      "type": "registry_add",
+      "count": 1
+    },
     {
       "type": "line_only_punc",
       "count": 19
@@ -303,10 +311,6 @@
       "count": 7
     },
     {
-      "type": "Report",
-      "count": 1
-    },
-    {
       "type": "Write",
       "count": 3
     },
@@ -317,6 +321,10 @@
     {
       "type": "EndInterface",
       "count": 4
+    },
+    {
+      "type": "Report",
+      "count": 1
     }
   ],
   "statements": [

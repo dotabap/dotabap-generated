@@ -1,17 +1,25 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:54:17.738Z",
+  "time": "2018-12-21T08:34:20.620Z",
   "totals": {
-    "objects": 5,
-    "files": 8,
+    "objects": 7,
+    "files": 15,
     "statements": 800,
     "tokens": 5470
   },
   "objects": [
     {
+      "type": "DEVC",
+      "count": 1
+    },
+    {
       "type": "CLAS",
       "count": 4
+    },
+    {
+      "type": "SHMA",
+      "count": 1
     },
     {
       "type": "INTF",

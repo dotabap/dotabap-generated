@@ -1,17 +1,45 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:33:01.398Z",
+  "time": "2018-12-21T08:25:31.303Z",
   "totals": {
-    "objects": 6,
-    "files": 19,
+    "objects": 96,
+    "files": 121,
     "statements": 5658,
     "tokens": 59787
   },
   "objects": [
     {
+      "type": "DEVC",
+      "count": 1
+    },
+    {
+      "type": "DOMA",
+      "count": 29
+    },
+    {
+      "type": "DTEL",
+      "count": 42
+    },
+    {
+      "type": "TABL",
+      "count": 15
+    },
+    {
       "type": "CLAS",
       "count": 4
+    },
+    {
+      "type": "MSAG",
+      "count": 1
+    },
+    {
+      "type": "DDLS",
+      "count": 1
+    },
+    {
+      "type": "ENQU",
+      "count": 1
     },
     {
       "type": "FUGR",

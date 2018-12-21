@@ -1,10 +1,10 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:56:30.893Z",
+  "time": "2018-12-21T08:35:23.213Z",
   "totals": {
     "objects": 5,
-    "files": 5,
+    "files": 10,
     "statements": 874,
     "tokens": 4904
   },
@@ -15,6 +15,10 @@
     }
   ],
   "issues": [
+    {
+      "type": "registry_add",
+      "count": 1
+    },
     {
       "type": "structure",
       "count": 1

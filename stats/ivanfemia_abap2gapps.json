@@ -1,0 +1,492 @@
+{
+  "version": "1.5.2",
+  "target": "v753",
+  "time": "2018-12-21T08:18:44.438Z",
+  "totals": {
+    "objects": 37,
+    "files": 51,
+    "statements": 1367,
+    "tokens": 6447
+  },
+  "objects": [
+    {
+      "type": "DEVC",
+      "count": 1
+    },
+    {
+      "type": "CLAS",
+      "count": 6
+    },
+    {
+      "type": "PROG",
+      "count": 6
+    },
+    {
+      "type": "TABL",
+      "count": 6
+    },
+    {
+      "type": "DTEL",
+      "count": 16
+    },
+    {
+      "type": "INTF",
+      "count": 2
+    }
+  ],
+  "issues": [
+    {
+      "type": "keywords_upper",
+      "count": 10
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 36
+    },
+    {
+      "type": "class_attribute_names",
+      "count": 16
+    },
+    {
+      "type": "7bit_ascii",
+      "count": 1
+    },
+    {
+      "type": "functional_writing",
+      "count": 18
+    },
+    {
+      "type": "line_only_punc",
+      "count": 23
+    },
+    {
+      "type": "obsolete_statement",
+      "count": 1
+    },
+    {
+      "type": "sequential_blank",
+      "count": 2
+    },
+    {
+      "type": "local_variable_names",
+      "count": 36
+    },
+    {
+      "type": "line_length",
+      "count": 2
+    },
+    {
+      "type": "start_at_tab",
+      "count": 2
+    },
+    {
+      "type": "colon_missing_space",
+      "count": 2
+    },
+    {
+      "type": "local_class_naming",
+      "count": 1
+    }
+  ],
+  "objectOrientation": {
+    "oo": 728,
+    "non": 248
+  },
+  "methodLength": [
+    11,
+    14,
+    3,
+    0,
+    0,
+    0,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "statementTypes": [
+    {
+      "type": "ClassDefinition",
+      "count": 8
+    },
+    {
+      "type": "Comment",
+      "count": 391
+    },
+    {
+      "type": "Public",
+      "count": 8
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 2
+    },
+    {
+      "type": "MethodDef",
+      "count": 51
+    },
+    {
+      "type": "Protected",
+      "count": 6
+    },
+    {
+      "type": "Data",
+      "count": 156
+    },
+    {
+      "type": "Private",
+      "count": 7
+    },
+    {
+      "type": "EndClass",
+      "count": 16
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 8
+    },
+    {
+      "type": "Method",
+      "count": 46
+    },
+    {
+      "type": "Move",
+      "count": 191
+    },
+    {
+      "type": "CreateObject",
+      "count": 14
+    },
+    {
+      "type": "EndMethod",
+      "count": 46
+    },
+    {
+      "type": "Replace",
+      "count": 4
+    },
+    {
+      "type": "While",
+      "count": 5
+    },
+    {
+      "type": "EndWhile",
+      "count": 5
+    },
+    {
+      "type": "Case",
+      "count": 7
+    },
+    {
+      "type": "When",
+      "count": 19
+    },
+    {
+      "type": "EndCase",
+      "count": 7
+    },
+    {
+      "type": "Clear",
+      "count": 4
+    },
+    {
+      "type": "Call",
+      "count": 75
+    },
+    {
+      "type": "Constant",
+      "count": 19
+    },
+    {
+      "type": "Concatenate",
+      "count": 10
+    },
+    {
+      "type": "Append",
+      "count": 7
+    },
+    {
+      "type": "If",
+      "count": 36
+    },
+    {
+      "type": "EndIf",
+      "count": 36
+    },
+    {
+      "type": "Loop",
+      "count": 5
+    },
+    {
+      "type": "EndLoop",
+      "count": 5
+    },
+    {
+      "type": "ElseIf",
+      "count": 4
+    },
+    {
+      "type": "Read",
+      "count": 3
+    },
+    {
+      "type": "Raise",
+      "count": 2
+    },
+    {
+      "type": "Select",
+      "count": 2
+    },
+    {
+      "type": "Try",
+      "count": 6
+    },
+    {
+      "type": "Catch",
+      "count": 6
+    },
+    {
+      "type": "EndTry",
+      "count": 6
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 7
+    },
+    {
+      "type": "Assign",
+      "count": 4
+    },
+    {
+      "type": "Report",
+      "count": 6
+    },
+    {
+      "type": "Parameter",
+      "count": 36
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 5
+    },
+    {
+      "type": "Write",
+      "count": 8
+    },
+    {
+      "type": "Skip",
+      "count": 1
+    },
+    {
+      "type": "AtSelectionScreen",
+      "count": 1
+    },
+    {
+      "type": "Initialization",
+      "count": 2
+    },
+    {
+      "type": "Else",
+      "count": 4
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
+    },
+    {
+      "type": "Interface",
+      "count": 2
+    },
+    {
+      "type": "EndInterface",
+      "count": 2
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 19
+    },
+    {
+      "type": "Message",
+      "count": 7
+    },
+    {
+      "type": "ClassData",
+      "count": 1
+    },
+    {
+      "type": "CallSelectionScreen",
+      "count": 1
+    },
+    {
+      "type": "CallScreen",
+      "count": 1
+    },
+    {
+      "type": "InsertInternal",
+      "count": 15
+    },
+    {
+      "type": "Split",
+      "count": 7
+    },
+    {
+      "type": "Return",
+      "count": 2
+    },
+    {
+      "type": "SetPFStatus",
+      "count": 1
+    },
+    {
+      "type": "SetTitlebar",
+      "count": 1
+    },
+    {
+      "type": "Leave",
+      "count": 2
+    },
+    {
+      "type": "Module",
+      "count": 3
+    },
+    {
+      "type": "EndModule",
+      "count": 3
+    },
+    {
+      "type": "TypePools",
+      "count": 1
+    }
+  ],
+  "statements": [
+    {
+      "type": "v700",
+      "count": 1367
+    },
+    {
+      "type": "v702",
+      "count": 1367
+    },
+    {
+      "type": "v740sp02",
+      "count": 1367
+    },
+    {
+      "type": "v740sp05",
+      "count": 1367
+    },
+    {
+      "type": "v740sp08",
+      "count": 1367
+    },
+    {
+      "type": "v750",
+      "count": 1367
+    },
+    {
+      "type": "v751",
+      "count": 1367
+    },
+    {
+      "type": "v752",
+      "count": 1367
+    },
+    {
+      "type": "v753",
+      "count": 1367
+    },
+    {
+      "type": "Cloud",
+      "count": 1273
+    }
+  ]
+}

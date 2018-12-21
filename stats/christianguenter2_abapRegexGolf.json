@@ -1,20 +1,20 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:54:02.698Z",
+  "time": "2018-12-21T08:34:13.368Z",
   "totals": {
-    "objects": 13,
-    "files": 16,
+    "objects": 16,
+    "files": 36,
     "statements": 664,
     "tokens": 3899
   },
   "objects": [
     {
-      "type": "FUGR",
+      "type": "SMIM",
       "count": 1
     },
     {
-      "type": "PROG",
+      "type": "XSLT",
       "count": 1
     },
     {
@@ -24,28 +24,28 @@
     {
       "type": "INTF",
       "count": 1
+    },
+    {
+      "type": "SHLP",
+      "count": 1
+    },
+    {
+      "type": "FUGR",
+      "count": 1
+    },
+    {
+      "type": "PROG",
+      "count": 1
     }
   ],
   "issues": [
     {
-      "type": "exit_or_check",
-      "count": 8
-    },
-    {
-      "type": "exporting",
+      "type": "registry_add",
       "count": 2
     },
     {
       "type": "local_variable_names",
       "count": 12
-    },
-    {
-      "type": "line_length",
-      "count": 1
-    },
-    {
-      "type": "local_class_naming",
-      "count": 2
     },
     {
       "type": "contains_tab",
@@ -56,8 +56,24 @@
       "count": 24
     },
     {
+      "type": "exit_or_check",
+      "count": 8
+    },
+    {
       "type": "class_attribute_names",
       "count": 2
+    },
+    {
+      "type": "local_class_naming",
+      "count": 2
+    },
+    {
+      "type": "exporting",
+      "count": 2
+    },
+    {
+      "type": "line_length",
+      "count": 1
     }
   ],
   "objectOrientation": {
@@ -86,66 +102,6 @@
   ],
   "statementTypes": [
     {
-      "type": "FunctionPool",
-      "count": 1
-    },
-    {
-      "type": "Comment",
-      "count": 92
-    },
-    {
-      "type": "Include",
-      "count": 2
-    },
-    {
-      "type": "FunctionModule",
-      "count": 1
-    },
-    {
-      "type": "If",
-      "count": 14
-    },
-    {
-      "type": "Exit",
-      "count": 6
-    },
-    {
-      "type": "EndIf",
-      "count": 14
-    },
-    {
-      "type": "Data",
-      "count": 38
-    },
-    {
-      "type": "Try",
-      "count": 8
-    },
-    {
-      "type": "Move",
-      "count": 57
-    },
-    {
-      "type": "Call",
-      "count": 52
-    },
-    {
-      "type": "Catch",
-      "count": 8
-    },
-    {
-      "type": "EndTry",
-      "count": 8
-    },
-    {
-      "type": "EndFunction",
-      "count": 1
-    },
-    {
-      "type": "Report",
-      "count": 1
-    },
-    {
       "type": "ClassDefinition",
       "count": 12
     },
@@ -162,32 +118,12 @@
       "count": 64
     },
     {
-      "type": "Private",
-      "count": 6
-    },
-    {
-      "type": "ClassData",
+      "type": "Protected",
       "count": 1
     },
     {
-      "type": "DataBegin",
-      "count": 2
-    },
-    {
-      "type": "DataEnd",
-      "count": 2
-    },
-    {
-      "type": "ConstantBegin",
-      "count": 3
-    },
-    {
-      "type": "Constant",
-      "count": 15
-    },
-    {
-      "type": "ConstantEnd",
-      "count": 3
+      "type": "Data",
+      "count": 38
     },
     {
       "type": "EndClass",
@@ -202,72 +138,36 @@
       "count": 57
     },
     {
-      "type": "Message",
-      "count": 7
+      "type": "Move",
+      "count": 57
     },
     {
       "type": "EndMethod",
       "count": 57
     },
     {
-      "type": "Clear",
-      "count": 3
+      "type": "Call",
+      "count": 52
     },
     {
-      "type": "SetPFStatus",
-      "count": 1
+      "type": "Try",
+      "count": 8
     },
     {
-      "type": "SetTitlebar",
-      "count": 1
+      "type": "Catch",
+      "count": 8
     },
     {
-      "type": "Assert",
-      "count": 2
-    },
-    {
-      "type": "Case",
-      "count": 1
-    },
-    {
-      "type": "When",
+      "type": "Message",
       "count": 7
-    },
-    {
-      "type": "SetScreen",
-      "count": 1
     },
     {
       "type": "Return",
       "count": 4
     },
     {
-      "type": "EndCase",
-      "count": 1
-    },
-    {
-      "type": "SetParameter",
-      "count": 1
-    },
-    {
-      "type": "StartOfSelection",
-      "count": 1
-    },
-    {
-      "type": "CallScreen",
-      "count": 1
-    },
-    {
-      "type": "Module",
-      "count": 2
-    },
-    {
-      "type": "EndModule",
-      "count": 2
-    },
-    {
-      "type": "Protected",
-      "count": 1
+      "type": "EndTry",
+      "count": 8
     },
     {
       "type": "Type",
@@ -278,8 +178,20 @@
       "count": 9
     },
     {
+      "type": "Private",
+      "count": 6
+    },
+    {
+      "type": "If",
+      "count": 14
+    },
+    {
       "type": "Raise",
       "count": 7
+    },
+    {
+      "type": "EndIf",
+      "count": 14
     },
     {
       "type": "Loop",
@@ -288,6 +200,22 @@
     {
       "type": "EndLoop",
       "count": 2
+    },
+    {
+      "type": "Clear",
+      "count": 3
+    },
+    {
+      "type": "Constant",
+      "count": 15
+    },
+    {
+      "type": "ConstantBegin",
+      "count": 3
+    },
+    {
+      "type": "ConstantEnd",
+      "count": 3
     },
     {
       "type": "TypeBegin",
@@ -318,8 +246,16 @@
       "count": 1
     },
     {
+      "type": "Exit",
+      "count": 6
+    },
+    {
       "type": "EndDo",
       "count": 1
+    },
+    {
+      "type": "Comment",
+      "count": 92
     },
     {
       "type": "CallTransformation",
@@ -344,6 +280,86 @@
     {
       "type": "EndInterface",
       "count": 1
+    },
+    {
+      "type": "FunctionPool",
+      "count": 1
+    },
+    {
+      "type": "Include",
+      "count": 2
+    },
+    {
+      "type": "FunctionModule",
+      "count": 1
+    },
+    {
+      "type": "EndFunction",
+      "count": 1
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "ClassData",
+      "count": 1
+    },
+    {
+      "type": "DataBegin",
+      "count": 2
+    },
+    {
+      "type": "DataEnd",
+      "count": 2
+    },
+    {
+      "type": "SetPFStatus",
+      "count": 1
+    },
+    {
+      "type": "SetTitlebar",
+      "count": 1
+    },
+    {
+      "type": "Assert",
+      "count": 2
+    },
+    {
+      "type": "Case",
+      "count": 1
+    },
+    {
+      "type": "When",
+      "count": 7
+    },
+    {
+      "type": "SetScreen",
+      "count": 1
+    },
+    {
+      "type": "EndCase",
+      "count": 1
+    },
+    {
+      "type": "SetParameter",
+      "count": 1
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "CallScreen",
+      "count": 1
+    },
+    {
+      "type": "Module",
+      "count": 2
+    },
+    {
+      "type": "EndModule",
+      "count": 2
     }
   ],
   "statements": [

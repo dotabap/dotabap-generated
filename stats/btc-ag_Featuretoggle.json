@@ -1,14 +1,18 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T09:37:39.890Z",
+  "time": "2018-12-21T08:52:06.012Z",
   "totals": {
-    "objects": 9,
-    "files": 10,
+    "objects": 18,
+    "files": 28,
     "statements": 505,
     "tokens": 3153
   },
   "objects": [
+    {
+      "type": "TABL",
+      "count": 2
+    },
     {
       "type": "CLAS",
       "count": 8
@@ -16,13 +20,25 @@
     {
       "type": "PROG",
       "count": 1
+    },
+    {
+      "type": "SICF",
+      "count": 1
+    },
+    {
+      "type": "TRAN",
+      "count": 1
+    },
+    {
+      "type": "DTEL",
+      "count": 3
+    },
+    {
+      "type": "TTYP",
+      "count": 2
     }
   ],
   "issues": [
-    {
-      "type": "registry_add",
-      "count": 2
-    },
     {
       "type": "functional_writing",
       "count": 1
@@ -32,8 +48,8 @@
       "count": 5
     },
     {
-      "type": "mix_returning",
-      "count": 1
+      "type": "definitions_top",
+      "count": 6
     },
     {
       "type": "method_parameter_names",
@@ -48,16 +64,16 @@
       "count": 6
     },
     {
+      "type": "mix_returning",
+      "count": 1
+    },
+    {
       "type": "line_only_punc",
       "count": 2
     },
     {
       "type": "start_at_tab",
       "count": 9
-    },
-    {
-      "type": "definitions_top",
-      "count": 6
     },
     {
       "type": "keywords_upper",
@@ -160,6 +176,46 @@
       "count": 36
     },
     {
+      "type": "Data",
+      "count": 19
+    },
+    {
+      "type": "Comment",
+      "count": 41
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 6
+    },
+    {
+      "type": "Assign",
+      "count": 5
+    },
+    {
+      "type": "Translate",
+      "count": 1
+    },
+    {
+      "type": "Split",
+      "count": 2
+    },
+    {
+      "type": "Loop",
+      "count": 9
+    },
+    {
+      "type": "Shift",
+      "count": 1
+    },
+    {
+      "type": "InsertInternal",
+      "count": 7
+    },
+    {
+      "type": "EndLoop",
+      "count": 9
+    },
+    {
       "type": "TypeBegin",
       "count": 3
     },
@@ -172,28 +228,16 @@
       "count": 3
     },
     {
-      "type": "Data",
-      "count": 19
-    },
-    {
-      "type": "Loop",
-      "count": 9
-    },
-    {
-      "type": "InsertInternal",
-      "count": 7
-    },
-    {
-      "type": "EndLoop",
-      "count": 9
-    },
-    {
-      "type": "CallFunction",
+      "type": "CallTransformation",
       "count": 2
     },
     {
       "type": "Raise",
       "count": 5
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
     },
     {
       "type": "Clear",
@@ -224,10 +268,6 @@
       "count": 6
     },
     {
-      "type": "Comment",
-      "count": 41
-    },
-    {
       "type": "Else",
       "count": 3
     },
@@ -244,14 +284,6 @@
       "count": 1
     },
     {
-      "type": "FieldSymbol",
-      "count": 6
-    },
-    {
-      "type": "Assign",
-      "count": 5
-    },
-    {
       "type": "Select",
       "count": 2
     },
@@ -262,22 +294,6 @@
     {
       "type": "Read",
       "count": 1
-    },
-    {
-      "type": "Translate",
-      "count": 1
-    },
-    {
-      "type": "Split",
-      "count": 2
-    },
-    {
-      "type": "Shift",
-      "count": 1
-    },
-    {
-      "type": "CallTransformation",
-      "count": 2
     },
     {
       "type": "Message",

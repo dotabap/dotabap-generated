@@ -1,17 +1,29 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T09:09:27.735Z",
+  "time": "2018-12-21T08:40:28.962Z",
   "totals": {
-    "objects": 9,
-    "files": 12,
+    "objects": 39,
+    "files": 56,
     "statements": 1413,
     "tokens": 7904
   },
   "objects": [
     {
+      "type": "SICF",
+      "count": 1
+    },
+    {
+      "type": "MSAG",
+      "count": 1
+    },
+    {
       "type": "CLAS",
       "count": 7
+    },
+    {
+      "type": "DTEL",
+      "count": 4
     },
     {
       "type": "PROG",
@@ -20,6 +32,18 @@
     {
       "type": "INTF",
       "count": 1
+    },
+    {
+      "type": "TABL",
+      "count": 10
+    },
+    {
+      "type": "TTYP",
+      "count": 9
+    },
+    {
+      "type": "XSLT",
+      "count": 5
     }
   ],
   "issues": [

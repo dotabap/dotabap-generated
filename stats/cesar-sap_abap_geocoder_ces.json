@@ -1,17 +1,29 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:31:54.939Z",
+  "time": "2018-12-21T08:24:38.334Z",
   "totals": {
-    "objects": 1,
-    "files": 3,
+    "objects": 10,
+    "files": 13,
     "statements": 748,
     "tokens": 4001
   },
   "objects": [
     {
+      "type": "DEVC",
+      "count": 1
+    },
+    {
       "type": "CLAS",
       "count": 1
+    },
+    {
+      "type": "TABL",
+      "count": 6
+    },
+    {
+      "type": "TTYP",
+      "count": 2
     }
   ],
   "issues": [

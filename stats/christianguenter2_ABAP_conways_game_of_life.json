@@ -1,14 +1,26 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:56:15.539Z",
+  "time": "2018-12-21T08:35:15.917Z",
   "totals": {
-    "objects": 4,
-    "files": 5,
+    "objects": 11,
+    "files": 16,
     "statements": 658,
     "tokens": 4025
   },
   "objects": [
+    {
+      "type": "SMIM",
+      "count": 1
+    },
+    {
+      "type": "DEVC",
+      "count": 1
+    },
+    {
+      "type": "SICF",
+      "count": 4
+    },
     {
       "type": "PROG",
       "count": 2
@@ -16,9 +28,17 @@
     {
       "type": "CLAS",
       "count": 2
+    },
+    {
+      "type": "TRAN",
+      "count": 1
     }
   ],
   "issues": [
+    {
+      "type": "registry_add",
+      "count": 9
+    },
     {
       "type": "local_variable_names",
       "count": 6

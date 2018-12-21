@@ -1,14 +1,18 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:32:14.345Z",
+  "time": "2018-12-21T08:24:57.485Z",
   "totals": {
-    "objects": 68,
-    "files": 91,
+    "objects": 278,
+    "files": 398,
     "statements": 5438,
     "tokens": 26760
   },
   "objects": [
+    {
+      "type": "DEVC",
+      "count": 1
+    },
     {
       "type": "CLAS",
       "count": 35
@@ -18,15 +22,71 @@
       "count": 20
     },
     {
+      "type": "MSAG",
+      "count": 1
+    },
+    {
+      "type": "SHI3",
+      "count": 1
+    },
+    {
+      "type": "ACID",
+      "count": 5
+    },
+    {
+      "type": "TABL",
+      "count": 49
+    },
+    {
+      "type": "TTYP",
+      "count": 16
+    },
+    {
+      "type": "DTEL",
+      "count": 84
+    },
+    {
+      "type": "TRAN",
+      "count": 13
+    },
+    {
+      "type": "DOMA",
+      "count": 25
+    },
+    {
       "type": "PROG",
       "count": 8
     },
     {
+      "type": "SICF",
+      "count": 2
+    },
+    {
+      "type": "SHLP",
+      "count": 1
+    },
+    {
       "type": "FUGR",
       "count": 5
+    },
+    {
+      "type": "TOBJ",
+      "count": 7
+    },
+    {
+      "type": "DDLS",
+      "count": 4
+    },
+    {
+      "type": "SHMA",
+      "count": 1
     }
   ],
   "issues": [
+    {
+      "type": "registry_add",
+      "count": 4
+    },
     {
       "type": "keywords_upper",
       "count": 55

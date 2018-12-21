@@ -1,14 +1,58 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T09:38:39.901Z",
+  "time": "2018-12-21T08:52:30.307Z",
   "totals": {
-    "objects": 28,
-    "files": 46,
+    "objects": 63,
+    "files": 115,
     "statements": 2196,
     "tokens": 12735
   },
   "objects": [
+    {
+      "type": "DEVC",
+      "count": 1
+    },
+    {
+      "type": "TOBJ",
+      "count": 1
+    },
+    {
+      "type": "ACID",
+      "count": 1
+    },
+    {
+      "type": "MSAG",
+      "count": 1
+    },
+    {
+      "type": "TABL",
+      "count": 9
+    },
+    {
+      "type": "PINF",
+      "count": 1
+    },
+    {
+      "type": "DOMA",
+      "count": 4
+    },
+    {
+      "type": "DTEL",
+      "count": 9
+    },
+    {
+      "type": "ENHO",
+      "count": 1
+    },
+    {
+      "type": "TTYP",
+      "count": 5
+    },
+    {
+      "type": "XSLT",
+      "count": 1
+    },
     {
       "type": "FUGR",
       "count": 1
@@ -16,6 +60,10 @@
     {
       "type": "CLAS",
       "count": 22
+    },
+    {
+      "type": "SHMA",
+      "count": 1
     },
     {
       "type": "INTF",

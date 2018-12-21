@@ -1,32 +1,84 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T08:40:44.893Z",
+  "time": "2018-12-21T08:29:10.575Z",
   "totals": {
-    "objects": 34,
-    "files": 74,
+    "objects": 194,
+    "files": 304,
     "statements": 6184,
     "tokens": 30825
   },
   "objects": [
     {
+      "type": "DEVC",
+      "count": 1
+    },
+    {
+      "type": "SUSC",
+      "count": 2
+    },
+    {
+      "type": "TABL",
+      "count": 22
+    },
+    {
+      "type": "TOBJ",
+      "count": 8
+    },
+    {
       "type": "FUGR",
       "count": 5
+    },
+    {
+      "type": "DOMA",
+      "count": 46
+    },
+    {
+      "type": "DTEL",
+      "count": 60
+    },
+    {
+      "type": "TTYP",
+      "count": 11
     },
     {
       "type": "CLAS",
       "count": 18
     },
     {
+      "type": "SUSO",
+      "count": 4
+    },
+    {
       "type": "PROG",
       "count": 10
     },
     {
+      "type": "ENQU",
+      "count": 3
+    },
+    {
+      "type": "AUTH",
+      "count": 1
+    },
+    {
       "type": "INTF",
+      "count": 1
+    },
+    {
+      "type": "TRAN",
+      "count": 1
+    },
+    {
+      "type": "MSAG",
       "count": 1
     }
   ],
   "issues": [
+    {
+      "type": "registry_add",
+      "count": 1
+    },
     {
       "type": "space_before_colon",
       "count": 84
@@ -80,10 +132,6 @@
       "count": 81
     },
     {
-      "type": "obsolete_statement",
-      "count": 41
-    },
-    {
       "type": "colon_missing_space",
       "count": 26
     },
@@ -94,6 +142,10 @@
     {
       "type": "line_only_punc",
       "count": 5
+    },
+    {
+      "type": "obsolete_statement",
+      "count": 41
     },
     {
       "type": "method_length",
@@ -680,10 +732,6 @@
       "count": 4
     },
     {
-      "type": "Refresh",
-      "count": 5
-    },
-    {
       "type": "InterfaceDef",
       "count": 5
     },
@@ -694,6 +742,10 @@
     {
       "type": "ClassData",
       "count": 20
+    },
+    {
+      "type": "Refresh",
+      "count": 5
     },
     {
       "type": "Check",
@@ -760,6 +812,18 @@
       "count": 1
     },
     {
+      "type": "SelectionScreen",
+      "count": 20
+    },
+    {
+      "type": "SelectOption",
+      "count": 23
+    },
+    {
+      "type": "Initialization",
+      "count": 2
+    },
+    {
       "type": "Describe",
       "count": 2
     },
@@ -772,24 +836,12 @@
       "count": 1
     },
     {
-      "type": "SelectionScreen",
-      "count": 20
-    },
-    {
-      "type": "SelectOption",
-      "count": 23
-    },
-    {
       "type": "Parameter",
       "count": 5
     },
     {
       "type": "AtSelectionScreen",
       "count": 5
-    },
-    {
-      "type": "Initialization",
-      "count": 2
     },
     {
       "type": "ClassOther",

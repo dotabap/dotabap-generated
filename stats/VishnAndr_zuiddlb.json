@@ -1,10 +1,10 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-20T09:36:10.337Z",
+  "time": "2018-12-21T08:51:22.991Z",
   "totals": {
-    "objects": 1,
-    "files": 1,
+    "objects": 21,
+    "files": 22,
     "statements": 260,
     "tokens": 1410
   },
@@ -12,9 +12,33 @@
     {
       "type": "CLAS",
       "count": 1
+    },
+    {
+      "type": "DTEL",
+      "count": 6
+    },
+    {
+      "type": "TABL",
+      "count": 8
+    },
+    {
+      "type": "TTYP",
+      "count": 4
+    },
+    {
+      "type": "DOMA",
+      "count": 1
+    },
+    {
+      "type": "ENHO",
+      "count": 1
     }
   ],
   "issues": [
+    {
+      "type": "registry_add",
+      "count": 1
+    },
     {
       "type": "contains_tab",
       "count": 1
