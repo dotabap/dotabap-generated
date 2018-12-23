@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:50:23.410Z",
+  "time": "2018-12-23T19:44:23.549Z",
   "totals": {
     "objects": 28,
     "files": 56,
@@ -10,18 +10,26 @@
   },
   "objects": [
     {
-      "type": "CLAS",
-      "count": 23
-    },
-    {
       "type": "PROG",
       "count": 5
+    },
+    {
+      "type": "CLAS",
+      "count": 23
     }
   ],
   "issues": [
     {
       "type": "registry_add",
       "count": 1
+    },
+    {
+      "type": "exit_or_check",
+      "count": 3
+    },
+    {
+      "type": "line_only_punc",
+      "count": 5
     },
     {
       "type": "method_parameter_names",
@@ -40,19 +48,11 @@
       "count": 1
     },
     {
-      "type": "line_only_punc",
-      "count": 5
-    },
-    {
       "type": "definitions_top",
       "count": 1
     },
     {
       "type": "local_variable_names",
-      "count": 3
-    },
-    {
-      "type": "exit_or_check",
       "count": 3
     }
   ],
@@ -85,6 +85,94 @@
       "count": 636
     },
     {
+      "type": "Data",
+      "count": 197
+    },
+    {
+      "type": "Move",
+      "count": 487
+    },
+    {
+      "type": "Translate",
+      "count": 2
+    },
+    {
+      "type": "Check",
+      "count": 12
+    },
+    {
+      "type": "Loop",
+      "count": 3
+    },
+    {
+      "type": "Clear",
+      "count": 3
+    },
+    {
+      "type": "InsertInternal",
+      "count": 8
+    },
+    {
+      "type": "Try",
+      "count": 4
+    },
+    {
+      "type": "Call",
+      "count": 17
+    },
+    {
+      "type": "Catch",
+      "count": 4
+    },
+    {
+      "type": "Continue",
+      "count": 2
+    },
+    {
+      "type": "EndTry",
+      "count": 4
+    },
+    {
+      "type": "Case",
+      "count": 1
+    },
+    {
+      "type": "When",
+      "count": 5
+    },
+    {
+      "type": "If",
+      "count": 11
+    },
+    {
+      "type": "EndIf",
+      "count": 11
+    },
+    {
+      "type": "EndLoop",
+      "count": 3
+    },
+    {
+      "type": "EndCase",
+      "count": 1
+    },
+    {
+      "type": "Include",
+      "count": 46
+    },
+    {
+      "type": "Replace",
+      "count": 4
+    },
+    {
+      "type": "Else",
+      "count": 1
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
       "type": "ClassDefinition",
       "count": 23
     },
@@ -109,10 +197,6 @@
       "count": 21
     },
     {
-      "type": "Data",
-      "count": 197
-    },
-    {
       "type": "EndClass",
       "count": 46
     },
@@ -125,44 +209,16 @@
       "count": 483
     },
     {
-      "type": "Include",
-      "count": 46
-    },
-    {
       "type": "EndMethod",
       "count": 483
-    },
-    {
-      "type": "Move",
-      "count": 487
     },
     {
       "type": "While",
       "count": 2
     },
     {
-      "type": "Check",
-      "count": 12
-    },
-    {
-      "type": "Try",
-      "count": 4
-    },
-    {
       "type": "CreateObject",
       "count": 2
-    },
-    {
-      "type": "Catch",
-      "count": 4
-    },
-    {
-      "type": "Continue",
-      "count": 2
-    },
-    {
-      "type": "EndTry",
-      "count": 4
     },
     {
       "type": "Exit",
@@ -173,32 +229,12 @@
       "count": 2
     },
     {
-      "type": "If",
-      "count": 11
-    },
-    {
-      "type": "EndIf",
-      "count": 11
-    },
-    {
-      "type": "Replace",
-      "count": 4
-    },
-    {
       "type": "Constant",
       "count": 1
     },
     {
       "type": "Type",
       "count": 1
-    },
-    {
-      "type": "InsertInternal",
-      "count": 8
-    },
-    {
-      "type": "Call",
-      "count": 17
     },
     {
       "type": "Shift",
@@ -210,42 +246,6 @@
     },
     {
       "type": "Assign",
-      "count": 1
-    },
-    {
-      "type": "Translate",
-      "count": 2
-    },
-    {
-      "type": "Loop",
-      "count": 3
-    },
-    {
-      "type": "Clear",
-      "count": 3
-    },
-    {
-      "type": "Case",
-      "count": 1
-    },
-    {
-      "type": "When",
-      "count": 5
-    },
-    {
-      "type": "EndLoop",
-      "count": 3
-    },
-    {
-      "type": "EndCase",
-      "count": 1
-    },
-    {
-      "type": "Else",
-      "count": 1
-    },
-    {
-      "type": "Report",
       "count": 1
     }
   ],

@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:50:57.680Z",
+  "time": "2018-12-23T19:45:45.810Z",
   "totals": {
     "objects": 30,
     "files": 65,
@@ -14,15 +14,19 @@
       "count": 1
     },
     {
-      "type": "CLAS",
-      "count": 28
-    },
-    {
       "type": "PROG",
       "count": 1
+    },
+    {
+      "type": "CLAS",
+      "count": 28
     }
   ],
   "issues": [
+    {
+      "type": "local_class_naming",
+      "count": 1
+    },
     {
       "type": "line_only_punc",
       "count": 73
@@ -42,10 +46,6 @@
     {
       "type": "class_attribute_names",
       "count": 36
-    },
-    {
-      "type": "local_class_naming",
-      "count": 1
     },
     {
       "type": "7bit_ascii",
@@ -110,6 +110,10 @@
       "count": 716
     },
     {
+      "type": "Report",
+      "count": 1
+    },
+    {
       "type": "ClassDefinition",
       "count": 29
     },
@@ -118,20 +122,20 @@
       "count": 29
     },
     {
-      "type": "Data",
-      "count": 40
-    },
-    {
       "type": "MethodDef",
       "count": 58
     },
     {
-      "type": "Private",
-      "count": 27
-    },
-    {
       "type": "EndClass",
       "count": 58
+    },
+    {
+      "type": "Parameter",
+      "count": 2
+    },
+    {
+      "type": "Call",
+      "count": 23
     },
     {
       "type": "ClassImplementation",
@@ -142,12 +146,20 @@
       "count": 58
     },
     {
-      "type": "Move",
-      "count": 139
-    },
-    {
       "type": "EndMethod",
       "count": 58
+    },
+    {
+      "type": "Data",
+      "count": 40
+    },
+    {
+      "type": "Private",
+      "count": 27
+    },
+    {
+      "type": "Move",
+      "count": 139
     },
     {
       "type": "CallFunction",
@@ -184,18 +196,6 @@
     {
       "type": "EndTry",
       "count": 3
-    },
-    {
-      "type": "Report",
-      "count": 1
-    },
-    {
-      "type": "Parameter",
-      "count": 2
-    },
-    {
-      "type": "Call",
-      "count": 23
     },
     {
       "type": "Protected",

@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:40:28.962Z",
+  "time": "2018-12-23T19:19:34.301Z",
   "totals": {
     "objects": 39,
     "files": 56,
@@ -16,6 +16,10 @@
     {
       "type": "MSAG",
       "count": 1
+    },
+    {
+      "type": "XSLT",
+      "count": 5
     },
     {
       "type": "CLAS",
@@ -40,10 +44,6 @@
     {
       "type": "TTYP",
       "count": 9
-    },
-    {
-      "type": "XSLT",
-      "count": 5
     }
   ],
   "issues": [

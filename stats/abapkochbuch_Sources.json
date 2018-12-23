@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:26:30.478Z",
+  "time": "2018-12-23T18:43:16.332Z",
   "totals": {
     "objects": 222,
     "files": 447,
@@ -120,12 +120,12 @@
       "count": 135
     },
     {
-      "type": "parser_error",
-      "count": 10
-    },
-    {
       "type": "nesting",
       "count": 1
+    },
+    {
+      "type": "parser_error",
+      "count": 10
     },
     {
       "type": "sequential_blank",
@@ -446,6 +446,46 @@
       "count": 44
     },
     {
+      "type": "SetScreen",
+      "count": 14
+    },
+    {
+      "type": "Leave",
+      "count": 24
+    },
+    {
+      "type": "SetPFStatus",
+      "count": 17
+    },
+    {
+      "type": "SetTitlebar",
+      "count": 13
+    },
+    {
+      "type": "Tables",
+      "count": 8
+    },
+    {
+      "type": "NewLine",
+      "count": 1
+    },
+    {
+      "type": "Do",
+      "count": 21
+    },
+    {
+      "type": "Write",
+      "count": 63
+    },
+    {
+      "type": "EndDo",
+      "count": 21
+    },
+    {
+      "type": "SetCursor",
+      "count": 7
+    },
+    {
       "type": "Describe",
       "count": 1
     },
@@ -478,54 +518,6 @@
       "count": 10
     },
     {
-      "type": "Tables",
-      "count": 8
-    },
-    {
-      "type": "SetScreen",
-      "count": 14
-    },
-    {
-      "type": "Leave",
-      "count": 24
-    },
-    {
-      "type": "SetPFStatus",
-      "count": 17
-    },
-    {
-      "type": "SetTitlebar",
-      "count": 13
-    },
-    {
-      "type": "NewLine",
-      "count": 1
-    },
-    {
-      "type": "Do",
-      "count": 21
-    },
-    {
-      "type": "Write",
-      "count": 63
-    },
-    {
-      "type": "EndDo",
-      "count": 21
-    },
-    {
-      "type": "SetCursor",
-      "count": 7
-    },
-    {
-      "type": "TypePools",
-      "count": 6
-    },
-    {
-      "type": "ClassOther",
-      "count": 4
-    },
-    {
       "type": "SetHandler",
       "count": 26
     },
@@ -552,6 +544,14 @@
     {
       "type": "Modify",
       "count": 16
+    },
+    {
+      "type": "TypePools",
+      "count": 6
+    },
+    {
+      "type": "ClassOther",
+      "count": 4
     },
     {
       "type": "Break",

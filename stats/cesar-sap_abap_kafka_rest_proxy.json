@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:34:29.737Z",
+  "time": "2018-12-23T19:04:06.316Z",
   "totals": {
     "objects": 27,
     "files": 34,
@@ -14,6 +14,10 @@
       "count": 1
     },
     {
+      "type": "PROG",
+      "count": 4
+    },
+    {
       "type": "CLAS",
       "count": 2
     },
@@ -24,20 +28,24 @@
     {
       "type": "TTYP",
       "count": 8
-    },
-    {
-      "type": "PROG",
-      "count": 4
     }
   ],
   "issues": [
     {
-      "type": "7bit_ascii",
-      "count": 4
+      "type": "colon_missing_space",
+      "count": 8
     },
     {
-      "type": "functional_writing",
-      "count": 12
+      "type": "line_only_punc",
+      "count": 5
+    },
+    {
+      "type": "obsolete_statement",
+      "count": 5
+    },
+    {
+      "type": "keywords_upper",
+      "count": 4
     },
     {
       "type": "line_length",
@@ -48,6 +56,14 @@
       "count": 4
     },
     {
+      "type": "7bit_ascii",
+      "count": 4
+    },
+    {
+      "type": "functional_writing",
+      "count": 12
+    },
+    {
       "type": "parser_error",
       "count": 1
     },
@@ -56,16 +72,8 @@
       "count": 7
     },
     {
-      "type": "obsolete_statement",
-      "count": 5
-    },
-    {
       "type": "definitions_top",
       "count": 6
-    },
-    {
-      "type": "keywords_upper",
-      "count": 4
     },
     {
       "type": "method_length",
@@ -74,14 +82,6 @@
     {
       "type": "start_at_tab",
       "count": 3
-    },
-    {
-      "type": "colon_missing_space",
-      "count": 8
-    },
-    {
-      "type": "line_only_punc",
-      "count": 5
     }
   ],
   "objectOrientation": {
@@ -232,16 +232,92 @@
   ],
   "statementTypes": [
     {
+      "type": "Comment",
+      "count": 270
+    },
+    {
+      "type": "Report",
+      "count": 4
+    },
+    {
+      "type": "Data",
+      "count": 160
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 21
+    },
+    {
+      "type": "Parameter",
+      "count": 12
+    },
+    {
+      "type": "Translate",
+      "count": 4
+    },
+    {
+      "type": "SelectOption",
+      "count": 4
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
+    },
+    {
+      "type": "CreateObject",
+      "count": 3
+    },
+    {
+      "type": "Move",
+      "count": 132
+    },
+    {
+      "type": "Loop",
+      "count": 9
+    },
+    {
+      "type": "Add",
+      "count": 5
+    },
+    {
+      "type": "Call",
+      "count": 55
+    },
+    {
+      "type": "If",
+      "count": 76
+    },
+    {
+      "type": "Write",
+      "count": 12
+    },
+    {
+      "type": "EndIf",
+      "count": 76
+    },
+    {
+      "type": "EndLoop",
+      "count": 9
+    },
+    {
+      "type": "Uline",
+      "count": 3
+    },
+    {
+      "type": "Append",
+      "count": 24
+    },
+    {
+      "type": "Wait",
+      "count": 1
+    },
+    {
       "type": "ClassDefinition",
       "count": 2
     },
     {
       "type": "Public",
       "count": 2
-    },
-    {
-      "type": "Data",
-      "count": 160
     },
     {
       "type": "Constant",
@@ -254,10 +330,6 @@
     {
       "type": "Protected",
       "count": 2
-    },
-    {
-      "type": "Comment",
-      "count": 270
     },
     {
       "type": "Private",
@@ -280,10 +352,6 @@
       "count": 5
     },
     {
-      "type": "FieldSymbol",
-      "count": 21
-    },
-    {
       "type": "Define",
       "count": 2
     },
@@ -294,18 +362,6 @@
     {
       "type": "EndOfDefinition",
       "count": 2
-    },
-    {
-      "type": "If",
-      "count": 76
-    },
-    {
-      "type": "Append",
-      "count": 24
-    },
-    {
-      "type": "EndIf",
-      "count": 76
     },
     {
       "type": "Concatenate",
@@ -330,22 +386,6 @@
     {
       "type": "Else",
       "count": 23
-    },
-    {
-      "type": "Move",
-      "count": 132
-    },
-    {
-      "type": "Loop",
-      "count": 9
-    },
-    {
-      "type": "Add",
-      "count": 5
-    },
-    {
-      "type": "EndLoop",
-      "count": 9
     },
     {
       "type": "MacroCall",
@@ -388,10 +428,6 @@
       "count": 11
     },
     {
-      "type": "Call",
-      "count": 55
-    },
-    {
       "type": "Raise",
       "count": 17
     },
@@ -412,47 +448,11 @@
       "count": 3
     },
     {
-      "type": "Translate",
-      "count": 4
-    },
-    {
       "type": "Free",
       "count": 1
     },
     {
       "type": "Unknown",
-      "count": 1
-    },
-    {
-      "type": "Report",
-      "count": 4
-    },
-    {
-      "type": "Parameter",
-      "count": 12
-    },
-    {
-      "type": "SelectOption",
-      "count": 4
-    },
-    {
-      "type": "CallFunction",
-      "count": 2
-    },
-    {
-      "type": "CreateObject",
-      "count": 3
-    },
-    {
-      "type": "Write",
-      "count": 12
-    },
-    {
-      "type": "Uline",
-      "count": 3
-    },
-    {
-      "type": "Wait",
       "count": 1
     }
   ],

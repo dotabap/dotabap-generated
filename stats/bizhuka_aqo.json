@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:28:37.921Z",
+  "time": "2018-12-23T18:48:30.923Z",
   "totals": {
     "objects": 42,
     "files": 71,
@@ -16,6 +16,10 @@
     {
       "type": "DEVC",
       "count": 1
+    },
+    {
+      "type": "W3MI",
+      "count": 8
     },
     {
       "type": "PROG",
@@ -44,10 +48,6 @@
     {
       "type": "TABL",
       "count": 1
-    },
-    {
-      "type": "W3MI",
-      "count": 8
     }
   ],
   "issues": [

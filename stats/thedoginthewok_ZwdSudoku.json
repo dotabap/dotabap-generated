@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:35:06.385Z",
+  "time": "2018-12-23T19:05:26.751Z",
   "totals": {
     "objects": 5,
     "files": 6,
@@ -14,6 +14,10 @@
       "count": 1
     },
     {
+      "type": "PROG",
+      "count": 1
+    },
+    {
       "type": "DOMA",
       "count": 1
     },
@@ -23,10 +27,6 @@
     },
     {
       "type": "TABL",
-      "count": 1
-    },
-    {
-      "type": "PROG",
       "count": 1
     }
   ],

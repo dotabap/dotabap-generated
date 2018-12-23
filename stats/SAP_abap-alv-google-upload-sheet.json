@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:24:44.499Z",
+  "time": "2018-12-23T18:39:08.739Z",
   "totals": {
     "objects": 18,
     "files": 31,
@@ -9,6 +9,14 @@
     "tokens": 5069
   },
   "objects": [
+    {
+      "type": "ENHO",
+      "count": 3
+    },
+    {
+      "type": "PROG",
+      "count": 1
+    },
     {
       "type": "CLAS",
       "count": 9
@@ -23,14 +31,6 @@
     },
     {
       "type": "WDYN",
-      "count": 1
-    },
-    {
-      "type": "ENHO",
-      "count": 3
-    },
-    {
-      "type": "PROG",
       "count": 1
     }
   ],
@@ -92,6 +92,14 @@
       "count": 587
     },
     {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Parameter",
+      "count": 1
+    },
+    {
       "type": "ClassDefinition",
       "count": 10
     },
@@ -100,16 +108,16 @@
       "count": 10
     },
     {
+      "type": "Constant",
+      "count": 33
+    },
+    {
       "type": "MethodDef",
       "count": 41
     },
     {
       "type": "Private",
       "count": 7
-    },
-    {
-      "type": "Constant",
-      "count": 33
     },
     {
       "type": "Data",
@@ -128,44 +136,64 @@
       "count": 52
     },
     {
-      "type": "If",
-      "count": 44
-    },
-    {
       "type": "Move",
       "count": 117
-    },
-    {
-      "type": "EndIf",
-      "count": 44
     },
     {
       "type": "EndMethod",
       "count": 52
     },
     {
-      "type": "Try",
-      "count": 9
+      "type": "Write",
+      "count": 21
+    },
+    {
+      "type": "NewLine",
+      "count": 18
     },
     {
       "type": "Call",
       "count": 56
     },
     {
-      "type": "Loop",
-      "count": 5
+      "type": "Skip",
+      "count": 3
     },
     {
-      "type": "Exit",
-      "count": 2
+      "type": "If",
+      "count": 44
+    },
+    {
+      "type": "Else",
+      "count": 8
+    },
+    {
+      "type": "EndIf",
+      "count": 44
+    },
+    {
+      "type": "Clear",
+      "count": 6
+    },
+    {
+      "type": "Loop",
+      "count": 5
     },
     {
       "type": "EndLoop",
       "count": 5
     },
     {
-      "type": "Read",
+      "type": "AtSelectionScreen",
       "count": 1
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 9
     },
     {
       "type": "Catch",
@@ -174,6 +202,14 @@
     {
       "type": "EndTry",
       "count": 9
+    },
+    {
+      "type": "Exit",
+      "count": 2
+    },
+    {
+      "type": "Read",
+      "count": 1
     },
     {
       "type": "ElseIf",
@@ -206,14 +242,6 @@
     {
       "type": "ConstantEnd",
       "count": 7
-    },
-    {
-      "type": "Clear",
-      "count": 6
-    },
-    {
-      "type": "Else",
-      "count": 8
     },
     {
       "type": "Return",
@@ -250,34 +278,6 @@
     {
       "type": "EndInterface",
       "count": 3
-    },
-    {
-      "type": "Report",
-      "count": 1
-    },
-    {
-      "type": "Parameter",
-      "count": 1
-    },
-    {
-      "type": "Write",
-      "count": 21
-    },
-    {
-      "type": "NewLine",
-      "count": 18
-    },
-    {
-      "type": "Skip",
-      "count": 3
-    },
-    {
-      "type": "AtSelectionScreen",
-      "count": 1
-    },
-    {
-      "type": "StartOfSelection",
-      "count": 1
     }
   ],
   "statements": [

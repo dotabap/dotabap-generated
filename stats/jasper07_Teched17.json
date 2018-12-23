@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:41:39.496Z",
+  "time": "2018-12-23T19:22:00.160Z",
   "totals": {
     "objects": 20,
     "files": 40,
@@ -10,12 +10,12 @@
   },
   "objects": [
     {
-      "type": "CLAS",
-      "count": 8
-    },
-    {
       "type": "DDLS",
       "count": 12
+    },
+    {
+      "type": "CLAS",
+      "count": 8
     }
   ],
   "issues": [
@@ -200,18 +200,6 @@
       "count": 33
     },
     {
-      "type": "TypeBegin",
-      "count": 1
-    },
-    {
-      "type": "IncludeType",
-      "count": 1
-    },
-    {
-      "type": "TypeEnd",
-      "count": 1
-    },
-    {
       "type": "Constant",
       "count": 17
     },
@@ -226,6 +214,18 @@
     {
       "type": "EndTry",
       "count": 4
+    },
+    {
+      "type": "TypeBegin",
+      "count": 1
+    },
+    {
+      "type": "IncludeType",
+      "count": 1
+    },
+    {
+      "type": "TypeEnd",
+      "count": 1
     }
   ],
   "statements": [

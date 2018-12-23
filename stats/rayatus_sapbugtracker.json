@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:20:28.924Z",
+  "time": "2018-12-23T18:33:04.200Z",
   "totals": {
     "objects": 356,
     "files": 566,
@@ -112,6 +112,10 @@
       "count": 24
     },
     {
+      "type": "parser_error",
+      "count": 2
+    },
+    {
       "type": "max_one_statement",
       "count": 34
     },
@@ -120,24 +124,16 @@
       "count": 20
     },
     {
-      "type": "parser_error",
-      "count": 2
-    },
-    {
       "type": "method_parameter_names",
       "count": 508
-    },
-    {
-      "type": "functional_writing",
-      "count": 36
     },
     {
       "type": "7bit_ascii",
       "count": 24
     },
     {
-      "type": "sequential_blank",
-      "count": 6
+      "type": "functional_writing",
+      "count": 36
     },
     {
       "type": "obsolete_statement",
@@ -162,6 +158,10 @@
     {
       "type": "exporting",
       "count": 5
+    },
+    {
+      "type": "sequential_blank",
+      "count": 6
     },
     {
       "type": "contains_tab",
@@ -442,6 +442,10 @@
       "count": 45
     },
     {
+      "type": "Unknown",
+      "count": 155
+    },
+    {
       "type": "FunctionPool",
       "count": 6
     },
@@ -464,10 +468,6 @@
     {
       "type": "EndFunction",
       "count": 10
-    },
-    {
-      "type": "Unknown",
-      "count": 155
     },
     {
       "type": "MethodDef",
@@ -498,28 +498,20 @@
       "count": 297
     },
     {
-      "type": "Constant",
-      "count": 90
-    },
-    {
-      "type": "Raise",
-      "count": 547
-    },
-    {
-      "type": "ElseIf",
-      "count": 4
-    },
-    {
-      "type": "Else",
-      "count": 241
-    },
-    {
       "type": "ClassData",
       "count": 25
     },
     {
       "type": "GetTime",
       "count": 12
+    },
+    {
+      "type": "Raise",
+      "count": 547
+    },
+    {
+      "type": "Else",
+      "count": 241
     },
     {
       "type": "Sort",
@@ -554,6 +546,10 @@
       "count": 47
     },
     {
+      "type": "ElseIf",
+      "count": 4
+    },
+    {
       "type": "Write",
       "count": 2
     },
@@ -568,6 +564,10 @@
     {
       "type": "TypePools",
       "count": 17
+    },
+    {
+      "type": "Constant",
+      "count": 90
     },
     {
       "type": "TypeBegin",

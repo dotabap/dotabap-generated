@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:26:14.566Z",
+  "time": "2018-12-23T18:42:43.695Z",
   "totals": {
     "objects": 6,
     "files": 8,
@@ -14,6 +14,10 @@
       "count": 1
     },
     {
+      "type": "SUSO",
+      "count": 1
+    },
+    {
       "type": "SUSC",
       "count": 1
     },
@@ -23,10 +27,6 @@
     },
     {
       "type": "TABL",
-      "count": 1
-    },
-    {
-      "type": "SUSO",
       "count": 1
     }
   ],

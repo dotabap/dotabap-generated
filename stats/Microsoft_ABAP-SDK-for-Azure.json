@@ -1,7 +1,7 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-21T08:29:10.575Z",
+  "time": "2018-12-23T18:49:46.937Z",
   "totals": {
     "objects": 194,
     "files": 304,
@@ -58,6 +58,10 @@
       "count": 3
     },
     {
+      "type": "MSAG",
+      "count": 1
+    },
+    {
       "type": "AUTH",
       "count": 1
     },
@@ -67,10 +71,6 @@
     },
     {
       "type": "TRAN",
-      "count": 1
-    },
-    {
-      "type": "MSAG",
       "count": 1
     }
   ],
@@ -132,6 +132,10 @@
       "count": 81
     },
     {
+      "type": "obsolete_statement",
+      "count": 41
+    },
+    {
       "type": "colon_missing_space",
       "count": 26
     },
@@ -142,10 +146,6 @@
     {
       "type": "line_only_punc",
       "count": 5
-    },
-    {
-      "type": "obsolete_statement",
-      "count": 41
     },
     {
       "type": "method_length",
@@ -732,6 +732,10 @@
       "count": 4
     },
     {
+      "type": "Refresh",
+      "count": 5
+    },
+    {
       "type": "InterfaceDef",
       "count": 5
     },
@@ -742,10 +746,6 @@
     {
       "type": "ClassData",
       "count": 20
-    },
-    {
-      "type": "Refresh",
-      "count": 5
     },
     {
       "type": "Check",
@@ -812,18 +812,6 @@
       "count": 1
     },
     {
-      "type": "SelectionScreen",
-      "count": 20
-    },
-    {
-      "type": "SelectOption",
-      "count": 23
-    },
-    {
-      "type": "Initialization",
-      "count": 2
-    },
-    {
       "type": "Describe",
       "count": 2
     },
@@ -836,12 +824,24 @@
       "count": 1
     },
     {
+      "type": "SelectionScreen",
+      "count": 20
+    },
+    {
+      "type": "SelectOption",
+      "count": 23
+    },
+    {
       "type": "Parameter",
       "count": 5
     },
     {
       "type": "AtSelectionScreen",
       "count": 5
+    },
+    {
+      "type": "Initialization",
+      "count": 2
     },
     {
       "type": "ClassOther",
