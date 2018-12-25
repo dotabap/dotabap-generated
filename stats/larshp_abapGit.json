@@ -1,12 +1,12 @@
 {
   "version": "1.5.2",
   "target": "v753",
-  "time": "2018-12-23T18:52:40.183Z",
+  "time": "2018-12-24T14:12:37.702Z",
   "totals": {
     "objects": 310,
     "files": 674,
     "statements": 40807,
-    "tokens": 256328
+    "tokens": 256330
   },
   "objects": [
     {
@@ -38,12 +38,7 @@
       "count": 33
     }
   ],
-  "issues": [
-    {
-      "type": "local_class_naming",
-      "count": 2
-    }
-  ],
+  "issues": [],
   "objectOrientation": {
     "oo": 38235,
     "non": 150
