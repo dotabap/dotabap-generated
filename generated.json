@@ -194,7 +194,7 @@
    "releases_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2018-12-20T15:10:05Z",
+   "updated_at": "2018-12-25T07:32:58Z",
    "pushed_at": "2018-12-20T15:10:03Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
@@ -202,8 +202,8 @@
    "svn_url": "https://github.com/epeterson320/ABAP-Logger",
    "homepage": null,
    "size": 101,
-   "stargazers_count": 96,
-   "watchers_count": 96,
+   "stargazers_count": 97,
+   "watchers_count": 97,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -223,7 +223,7 @@
    },
    "forks": 24,
    "open_issues": 6,
-   "watchers": 96,
+   "watchers": 97,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -843,7 +843,7 @@
   }
  },
  "flaiker/ci-lib": {
-  "lines": 2766,
+  "lines": 3819,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -854,7 +854,7 @@
   ],
   "parsing": {
    "version": "1.5.7",
-   "cloud": 144
+   "cloud": 217
   },
   "repo": {
    "id": 161787064,
@@ -923,14 +923,14 @@
    "releases_url": "https://api.github.com/repos/flaiker/ci-lib/releases{/id}",
    "deployments_url": "https://api.github.com/repos/flaiker/ci-lib/deployments",
    "created_at": "2018-12-14T13:18:46Z",
-   "updated_at": "2018-12-23T20:06:08Z",
-   "pushed_at": "2018-12-23T12:43:52Z",
+   "updated_at": "2018-12-25T19:36:13Z",
+   "pushed_at": "2018-12-25T19:36:15Z",
    "git_url": "git://github.com/flaiker/ci-lib.git",
    "ssh_url": "git@github.com:flaiker/ci-lib.git",
    "clone_url": "https://github.com/flaiker/ci-lib.git",
    "svn_url": "https://github.com/flaiker/ci-lib",
    "homepage": null,
-   "size": 121,
+   "size": 174,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -942,7 +942,7 @@
    "forks_count": 0,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 2,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -951,7 +951,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 0,
-   "open_issues": 2,
+   "open_issues": 1,
    "watchers": 2,
    "default_branch": "master",
    "permissions": {
@@ -4260,14 +4260,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-12-24T08:19:05Z",
-   "pushed_at": "2018-12-24T08:19:05Z",
+   "updated_at": "2018-12-25T09:10:51Z",
+   "pushed_at": "2018-12-25T15:30:38Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 10025,
+   "size": 10058,
    "stargazers_count": 441,
    "watchers_count": 441,
    "language": "ABAP",
@@ -4276,10 +4276,10 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 175,
+   "forks_count": 177,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 136,
+   "open_issues_count": 139,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4287,8 +4287,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 175,
-   "open_issues": 136,
+   "forks": 177,
+   "open_issues": 139,
    "watchers": 441,
    "default_branch": "master",
    "permissions": {
@@ -4296,7 +4296,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 175,
+   "network_count": 177,
    "subscribers_count": 90
   }
  },
@@ -7940,14 +7940,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2018-12-19T13:03:17Z",
-   "pushed_at": "2018-12-19T13:03:16Z",
+   "updated_at": "2018-12-25T14:46:57Z",
+   "pushed_at": "2018-12-25T14:46:56Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1670,
+   "size": 1679,
    "stargazers_count": 68,
    "watchers_count": 68,
    "language": "ABAP",
