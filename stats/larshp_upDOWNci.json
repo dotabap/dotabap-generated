@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:24:50.110Z",
+  "time": "2018-12-26T15:08:31.107Z",
   "totals": {
     "objects": 9,
     "files": 17,
@@ -25,6 +25,10 @@
   "issues": [
     {
       "type": "keywords_upper",
+      "count": 2
+    },
+    {
+      "type": "indentation",
       "count": 2
     },
     {
@@ -373,7 +377,7 @@
     },
     {
       "type": "Cloud",
-      "count": 805
+      "count": 845
     }
   ]
 }

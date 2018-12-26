@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T14:38:27.897Z",
+  "time": "2018-12-26T15:06:32.263Z",
   "totals": {
     "objects": 327,
     "files": 476,
@@ -60,28 +60,32 @@
   ],
   "issues": [
     {
-      "type": "line_length",
-      "count": 415
-    },
-    {
-      "type": "colon_missing_space",
-      "count": 7
-    },
-    {
       "type": "exit_or_check",
       "count": 71
-    },
-    {
-      "type": "obsolete_statement",
-      "count": 223
     },
     {
       "type": "exporting",
       "count": 42
     },
     {
+      "type": "line_length",
+      "count": 415
+    },
+    {
       "type": "local_variable_names",
       "count": 506
+    },
+    {
+      "type": "indentation",
+      "count": 75
+    },
+    {
+      "type": "obsolete_statement",
+      "count": 223
+    },
+    {
+      "type": "colon_missing_space",
+      "count": 7
     },
     {
       "type": "max_one_statement",
@@ -92,8 +96,8 @@
       "count": 108
     },
     {
-      "type": "line_only_punc",
-      "count": 180
+      "type": "class_attribute_names",
+      "count": 364
     },
     {
       "type": "definitions_top",
@@ -104,44 +108,44 @@
       "count": 87
     },
     {
-      "type": "method_parameter_names",
-      "count": 356
-    },
-    {
-      "type": "class_attribute_names",
-      "count": 364
+      "type": "line_only_punc",
+      "count": 180
     },
     {
       "type": "local_class_naming",
       "count": 8
     },
     {
+      "type": "method_parameter_names",
+      "count": 399
+    },
+    {
       "type": "functional_writing",
       "count": 98
-    },
-    {
-      "type": "start_at_tab",
-      "count": 30
-    },
-    {
-      "type": "nesting",
-      "count": 6
     },
     {
       "type": "method_length",
       "count": 28
     },
     {
+      "type": "nesting",
+      "count": 6
+    },
+    {
+      "type": "start_at_tab",
+      "count": 30
+    },
+    {
       "type": "empty_statement",
       "count": 8
     },
     {
-      "type": "sequential_blank",
-      "count": 11
-    },
-    {
       "type": "breakpoint",
       "count": 1
+    },
+    {
+      "type": "sequential_blank",
+      "count": 11
     },
     {
       "type": "space_before_colon",
@@ -1688,7 +1692,7 @@
       "count": 14
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 14
     },
     {
@@ -1708,7 +1712,7 @@
       "count": 1
     },
     {
-      "type": "Endat",
+      "type": "EndAt",
       "count": 1
     },
     {
@@ -1731,7 +1735,7 @@
   "statements": [
     {
       "type": "v700",
-      "count": 32643
+      "count": 32648
     },
     {
       "type": "v702",
@@ -1767,7 +1771,7 @@
     },
     {
       "type": "Cloud",
-      "count": 31830
+      "count": 32648
     }
   ]
 }

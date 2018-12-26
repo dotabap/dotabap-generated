@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:42:45.134Z",
+  "time": "2018-12-26T15:09:33.537Z",
   "totals": {
     "objects": 28,
     "files": 56,
@@ -32,12 +32,16 @@
       "count": 5
     },
     {
-      "type": "method_parameter_names",
-      "count": 466
+      "type": "indentation",
+      "count": 5
     },
     {
       "type": "class_attribute_names",
       "count": 203
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 466
     },
     {
       "type": "line_length",
@@ -252,11 +256,11 @@
   "statements": [
     {
       "type": "v700",
-      "count": 3010
+      "count": 3107
     },
     {
       "type": "v702",
-      "count": 3022
+      "count": 3107
     },
     {
       "type": "v740sp02",
@@ -288,7 +292,7 @@
     },
     {
       "type": "Cloud",
-      "count": 3060
+      "count": 3107
     }
   ]
 }

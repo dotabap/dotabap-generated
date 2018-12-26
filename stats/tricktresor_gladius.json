@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T13:19:43.718Z",
+  "time": "2018-12-26T15:01:53.422Z",
   "totals": {
     "objects": 10,
     "files": 22,
@@ -40,11 +40,11 @@
       "count": 7
     },
     {
-      "type": "line_length",
-      "count": 3
+      "type": "indentation",
+      "count": 7
     },
     {
-      "type": "max_one_statement",
+      "type": "line_length",
       "count": 3
     },
     {
@@ -56,8 +56,12 @@
       "count": 30
     },
     {
+      "type": "max_one_statement",
+      "count": 3
+    },
+    {
       "type": "method_parameter_names",
-      "count": 2
+      "count": 19
     }
   ],
   "objectOrientation": {
@@ -389,23 +393,23 @@
   "statements": [
     {
       "type": "v700",
-      "count": 567
+      "count": 586
     },
     {
       "type": "v702",
-      "count": 571
+      "count": 586
     },
     {
       "type": "v740sp02",
-      "count": 585
+      "count": 586
     },
     {
       "type": "v740sp05",
-      "count": 585
+      "count": 586
     },
     {
       "type": "v740sp08",
-      "count": 585
+      "count": 586
     },
     {
       "type": "v750",
@@ -425,7 +429,7 @@
     },
     {
       "type": "Cloud",
-      "count": 564
+      "count": 586
     }
   ]
 }

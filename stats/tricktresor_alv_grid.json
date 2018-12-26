@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T14:35:59.890Z",
+  "time": "2018-12-26T15:05:53.103Z",
   "totals": {
     "objects": 5,
     "files": 10,
@@ -28,12 +28,16 @@
       "count": 5
     },
     {
+      "type": "local_variable_names",
+      "count": 14
+    },
+    {
       "type": "obsolete_statement",
       "count": 1
     },
     {
-      "type": "local_variable_names",
-      "count": 14
+      "type": "method_parameter_names",
+      "count": 6
     },
     {
       "type": "7bit_ascii",
@@ -222,7 +226,7 @@
       "count": 1
     },
     {
-      "type": "Endat",
+      "type": "EndAt",
       "count": 1
     },
     {
@@ -338,7 +342,7 @@
       "count": 5
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 5
     },
     {
@@ -353,11 +357,11 @@
   "statements": [
     {
       "type": "v700",
-      "count": 849
+      "count": 874
     },
     {
       "type": "v702",
-      "count": 849
+      "count": 874
     },
     {
       "type": "v740sp02",
@@ -389,7 +393,7 @@
     },
     {
       "type": "Cloud",
-      "count": 829
+      "count": 874
     }
   ]
 }

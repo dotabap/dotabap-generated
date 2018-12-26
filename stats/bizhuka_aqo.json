@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T14:05:27.106Z",
+  "time": "2018-12-26T15:04:30.900Z",
   "totals": {
     "objects": 42,
     "files": 71,
@@ -56,16 +56,16 @@
       "count": 4
     },
     {
-      "type": "contains_tab",
-      "count": 1
+      "type": "breakpoint",
+      "count": 2
     },
     {
       "type": "exit_or_check",
       "count": 50
     },
     {
-      "type": "breakpoint",
-      "count": 2
+      "type": "contains_tab",
+      "count": 1
     },
     {
       "type": "keywords_upper",
@@ -76,12 +76,16 @@
       "count": 7
     },
     {
+      "type": "method_length",
+      "count": 3
+    },
+    {
       "type": "space_before_colon",
       "count": 3
     },
     {
-      "type": "method_length",
-      "count": 3
+      "type": "indentation",
+      "count": 4
     },
     {
       "type": "7bit_ascii",
@@ -96,16 +100,16 @@
       "count": 6
     },
     {
+      "type": "local_variable_names",
+      "count": 17
+    },
+    {
       "type": "max_one_statement",
       "count": 1
     },
     {
       "type": "obsolete_statement",
       "count": 2
-    },
-    {
-      "type": "local_variable_names",
-      "count": 17
     }
   ],
   "objectOrientation": {
@@ -551,7 +555,7 @@
       "count": 5
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 5
     },
     {
@@ -690,7 +694,7 @@
     },
     {
       "type": "Cloud",
-      "count": 3478
+      "count": 3665
     }
   ]
 }

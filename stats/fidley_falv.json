@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:09:08.903Z",
+  "time": "2018-12-26T15:07:51.160Z",
   "totals": {
     "objects": 28,
     "files": 69,
@@ -28,39 +28,23 @@
   ],
   "issues": [
     {
-      "type": "functional_writing",
-      "count": 2
-    },
-    {
-      "type": "line_length",
-      "count": 8
-    },
-    {
-      "type": "exit_or_check",
-      "count": 18
-    },
-    {
-      "type": "line_only_punc",
-      "count": 51
-    },
-    {
-      "type": "obsolete_statement",
-      "count": 4
-    },
-    {
-      "type": "empty_statement",
-      "count": 2
-    },
-    {
-      "type": "sequential_blank",
-      "count": 5
+      "type": "class_attribute_names",
+      "count": 48
     },
     {
       "type": "definitions_top",
       "count": 5
     },
     {
-      "type": "nesting",
+      "type": "empty_statement",
+      "count": 2
+    },
+    {
+      "type": "exit_or_check",
+      "count": 18
+    },
+    {
+      "type": "functional_writing",
       "count": 2
     },
     {
@@ -68,20 +52,40 @@
       "count": 36
     },
     {
-      "type": "mix_returning",
-      "count": 1
+      "type": "line_length",
+      "count": 8
     },
     {
-      "type": "method_parameter_names",
-      "count": 251
+      "type": "line_only_punc",
+      "count": 51
     },
     {
       "type": "local_variable_names",
       "count": 68
     },
     {
-      "type": "class_attribute_names",
-      "count": 48
+      "type": "method_parameter_names",
+      "count": 252
+    },
+    {
+      "type": "mix_returning",
+      "count": 1
+    },
+    {
+      "type": "nesting",
+      "count": 2
+    },
+    {
+      "type": "obsolete_statement",
+      "count": 4
+    },
+    {
+      "type": "sequential_blank",
+      "count": 5
+    },
+    {
+      "type": "indentation",
+      "count": 8
     },
     {
       "type": "start_at_tab",
@@ -533,19 +537,19 @@
   "statements": [
     {
       "type": "v700",
-      "count": 4079
+      "count": 4197
     },
     {
       "type": "v702",
-      "count": 4087
+      "count": 4197
     },
     {
       "type": "v740sp02",
-      "count": 4165
+      "count": 4197
     },
     {
       "type": "v740sp05",
-      "count": 4188
+      "count": 4197
     },
     {
       "type": "v740sp08",
@@ -569,7 +573,7 @@
     },
     {
       "type": "Cloud",
-      "count": 4052
+      "count": 4197
     }
   ]
 }

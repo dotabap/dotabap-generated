@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:47:07.117Z",
+  "time": "2018-12-26T15:09:54.354Z",
   "totals": {
     "objects": 53,
     "files": 121,
@@ -28,10 +28,6 @@
   ],
   "issues": [
     {
-      "type": "obsolete_statement",
-      "count": 52
-    },
-    {
       "type": "definitions_top",
       "count": 24
     },
@@ -40,8 +36,20 @@
       "count": 147
     },
     {
+      "type": "indentation",
+      "count": 4
+    },
+    {
+      "type": "obsolete_statement",
+      "count": 52
+    },
+    {
       "type": "line_only_punc",
       "count": 1
+    },
+    {
+      "type": "class_attribute_names",
+      "count": 78
     },
     {
       "type": "exit_or_check",
@@ -49,11 +57,7 @@
     },
     {
       "type": "method_parameter_names",
-      "count": 355
-    },
-    {
-      "type": "class_attribute_names",
-      "count": 78
+      "count": 375
     },
     {
       "type": "line_length",
@@ -242,7 +246,7 @@
       "count": 455
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 3
     },
     {
@@ -401,15 +405,15 @@
   "statements": [
     {
       "type": "v700",
-      "count": 3562
+      "count": 3852
     },
     {
       "type": "v702",
-      "count": 3570
+      "count": 3852
     },
     {
       "type": "v740sp02",
-      "count": 3847
+      "count": 3852
     },
     {
       "type": "v740sp05",
@@ -437,7 +441,7 @@
     },
     {
       "type": "Cloud",
-      "count": 3731
+      "count": 3852
     }
   ]
 }

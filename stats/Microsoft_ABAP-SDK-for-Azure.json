@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T14:07:39.290Z",
+  "time": "2018-12-26T15:04:40.371Z",
   "totals": {
     "objects": 194,
     "files": 304,
@@ -80,64 +80,60 @@
       "count": 1
     },
     {
-      "type": "space_before_colon",
-      "count": 84
+      "type": "class_attribute_names",
+      "count": 81
     },
     {
-      "type": "start_at_tab",
-      "count": 18
-    },
-    {
-      "type": "nesting",
-      "count": 4
-    },
-    {
-      "type": "local_variable_names",
-      "count": 170
-    },
-    {
-      "type": "functional_writing",
-      "count": 65
-    },
-    {
-      "type": "line_length",
-      "count": 35
-    },
-    {
-      "type": "max_one_statement",
-      "count": 44
-    },
-    {
-      "type": "exporting",
-      "count": 14
+      "type": "definitions_top",
+      "count": 13
     },
     {
       "type": "empty_statement",
       "count": 2
     },
     {
-      "type": "definitions_top",
+      "type": "exporting",
       "count": 14
     },
     {
+      "type": "functional_writing",
+      "count": 62
+    },
+    {
       "type": "keywords_upper",
-      "count": 15
+      "count": 14
+    },
+    {
+      "type": "line_length",
+      "count": 35
+    },
+    {
+      "type": "local_variable_names",
+      "count": 165
+    },
+    {
+      "type": "max_one_statement",
+      "count": 44
     },
     {
       "type": "method_parameter_names",
       "count": 71
     },
     {
-      "type": "class_attribute_names",
-      "count": 81
+      "type": "indentation",
+      "count": 20
+    },
+    {
+      "type": "space_before_colon",
+      "count": 70
+    },
+    {
+      "type": "start_at_tab",
+      "count": 10
     },
     {
       "type": "obsolete_statement",
       "count": 41
-    },
-    {
-      "type": "colon_missing_space",
-      "count": 26
     },
     {
       "type": "exit_or_check",
@@ -148,7 +144,15 @@
       "count": 5
     },
     {
+      "type": "colon_missing_space",
+      "count": 26
+    },
+    {
       "type": "method_length",
+      "count": 3
+    },
+    {
+      "type": "nesting",
       "count": 3
     }
   ],
@@ -492,7 +496,7 @@
       "count": 2
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 23
     },
     {
@@ -792,7 +796,7 @@
       "count": 5
     },
     {
-      "type": "Endat",
+      "type": "EndAt",
       "count": 5
     },
     {
@@ -927,7 +931,7 @@
     },
     {
       "type": "Cloud",
-      "count": 5689
+      "count": 6184
     }
   ]
 }

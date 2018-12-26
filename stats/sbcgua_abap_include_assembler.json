@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:40:35.529Z",
+  "time": "2018-12-26T15:09:21.740Z",
   "totals": {
     "objects": 6,
     "files": 12,
@@ -20,32 +20,40 @@
       "count": 3
     },
     {
-      "type": "functional_writing",
-      "count": 1
-    },
-    {
-      "type": "max_one_statement",
-      "count": 1
-    },
-    {
-      "type": "obsolete_statement",
-      "count": 2
-    },
-    {
       "type": "definitions_top",
       "count": 8
+    },
+    {
+      "type": "functional_writing",
+      "count": 1
     },
     {
       "type": "keywords_upper",
       "count": 5
     },
     {
+      "type": "local_class_naming",
+      "count": 1
+    },
+    {
       "type": "local_variable_names",
       "count": 27
     },
     {
-      "type": "local_class_naming",
+      "type": "max_one_statement",
       "count": 1
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 14
+    },
+    {
+      "type": "indentation",
+      "count": 3
+    },
+    {
+      "type": "obsolete_statement",
+      "count": 2
     }
   ],
   "objectOrientation": {
@@ -358,14 +366,14 @@
       "count": 2
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 2
     }
   ],
   "statements": [
     {
       "type": "v700",
-      "count": 792
+      "count": 803
     },
     {
       "type": "v702",
@@ -401,7 +409,7 @@
     },
     {
       "type": "Cloud",
-      "count": 726
+      "count": 803
     }
   ]
 }

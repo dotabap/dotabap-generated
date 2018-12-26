@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:23:50.513Z",
+  "time": "2018-12-26T15:08:27.931Z",
   "totals": {
     "objects": 34,
     "files": 48,
@@ -417,7 +417,7 @@
       "count": 2
     },
     {
-      "type": "Endat",
+      "type": "EndAt",
       "count": 2
     },
     {
@@ -441,7 +441,7 @@
       "count": 1
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 1
     }
   ],
@@ -484,7 +484,7 @@
     },
     {
       "type": "Cloud",
-      "count": 1811
+      "count": 1848
     }
   ]
 }

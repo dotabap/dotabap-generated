@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:49:43.111Z",
+  "time": "2018-12-26T15:10:02.354Z",
   "totals": {
     "objects": 2,
     "files": 4,
@@ -16,6 +16,10 @@
   ],
   "issues": [
     {
+      "type": "class_attribute_names",
+      "count": 3
+    },
+    {
       "type": "definitions_top",
       "count": 9
     },
@@ -24,16 +28,16 @@
       "count": 2
     },
     {
-      "type": "method_parameter_names",
-      "count": 41
-    },
-    {
       "type": "local_variable_names",
       "count": 34
     },
     {
-      "type": "class_attribute_names",
-      "count": 3
+      "type": "method_parameter_names",
+      "count": 41
+    },
+    {
+      "type": "indentation",
+      "count": 2
     },
     {
       "type": "functional_writing",
@@ -264,7 +268,7 @@
     },
     {
       "type": "Cloud",
-      "count": 351
+      "count": 359
     }
   ]
 }

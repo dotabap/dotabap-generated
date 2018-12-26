@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T13:52:21.301Z",
+  "time": "2018-12-26T15:03:46.899Z",
   "totals": {
     "objects": 96,
     "files": 121,
@@ -56,44 +56,52 @@
       "count": 14
     },
     {
-      "type": "line_length",
-      "count": 827
-    },
-    {
-      "type": "max_one_statement",
-      "count": 38
-    },
-    {
-      "type": "parser_error",
-      "count": 5
+      "type": "definitions_top",
+      "count": 100
     },
     {
       "type": "exit_or_check",
       "count": 21
     },
     {
-      "type": "line_only_punc",
-      "count": 22
+      "type": "line_length",
+      "count": 827
     },
     {
-      "type": "definitions_top",
-      "count": 100
+      "type": "line_only_punc",
+      "count": 22
     },
     {
       "type": "local_class_naming",
       "count": 8
     },
     {
-      "type": "mix_returning",
-      "count": 18
+      "type": "max_one_statement",
+      "count": 38
+    },
+    {
+      "type": "global_class",
+      "count": 8
+    },
+    {
+      "type": "parser_error",
+      "count": 5
+    },
+    {
+      "type": "local_variable_names",
+      "count": 68
     },
     {
       "type": "method_parameter_names",
       "count": 1
     },
     {
-      "type": "local_variable_names",
-      "count": 68
+      "type": "mix_returning",
+      "count": 18
+    },
+    {
+      "type": "indentation",
+      "count": 1
     }
   ],
   "objectOrientation": {
@@ -479,27 +487,27 @@
   "statements": [
     {
       "type": "v700",
-      "count": 4841
+      "count": 5653
     },
     {
       "type": "v702",
-      "count": 4857
+      "count": 5653
     },
     {
       "type": "v740sp02",
-      "count": 5353
+      "count": 5653
     },
     {
       "type": "v740sp05",
-      "count": 5545
+      "count": 5653
     },
     {
       "type": "v740sp08",
-      "count": 5575
+      "count": 5653
     },
     {
       "type": "v750",
-      "count": 5651
+      "count": 5653
     },
     {
       "type": "v751",
@@ -515,7 +523,7 @@
     },
     {
       "type": "Cloud",
-      "count": 5630
+      "count": 5653
     }
   ]
 }

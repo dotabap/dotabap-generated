@@ -1,10 +1,10 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:12:47.332Z",
+  "time": "2018-12-26T15:08:20.264Z",
   "totals": {
-    "objects": 123,
-    "files": 342,
+    "objects": 129,
+    "files": 348,
     "statements": 22314,
     "tokens": 110106
   },
@@ -12,6 +12,14 @@
     {
       "type": "DEVC",
       "count": 1
+    },
+    {
+      "type": "AVAS",
+      "count": 3
+    },
+    {
+      "type": "CHAR",
+      "count": 3
     },
     {
       "type": "TABL",
@@ -44,20 +52,12 @@
   ],
   "issues": [
     {
-      "type": "registry_add",
-      "count": 6
-    },
-    {
       "type": "method_parameter_names",
       "count": 2
     },
     {
       "type": "nesting",
       "count": 2
-    },
-    {
-      "type": "keywords_upper",
-      "count": 1
     }
   ],
   "objectOrientation": {
@@ -547,7 +547,7 @@
       "count": 15
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 15
     },
     {
@@ -586,11 +586,11 @@
   "statements": [
     {
       "type": "v700",
-      "count": 22286
+      "count": 22314
     },
     {
       "type": "v702",
-      "count": 22313
+      "count": 22314
     },
     {
       "type": "v740sp02",
@@ -622,7 +622,7 @@
     },
     {
       "type": "Cloud",
-      "count": 21748
+      "count": 22314
     }
   ]
 }

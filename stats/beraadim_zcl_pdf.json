@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:01:31.106Z",
+  "time": "2018-12-26T15:07:05.583Z",
   "totals": {
     "objects": 2,
     "files": 4,
@@ -24,16 +24,8 @@
       "count": 3
     },
     {
-      "type": "line_length",
-      "count": 5
-    },
-    {
-      "type": "start_at_tab",
-      "count": 6
-    },
-    {
-      "type": "sequential_blank",
-      "count": 2
+      "type": "class_attribute_names",
+      "count": 29
     },
     {
       "type": "definitions_top",
@@ -44,28 +36,40 @@
       "count": 2
     },
     {
-      "type": "method_parameter_names",
-      "count": 2
+      "type": "line_length",
+      "count": 5
     },
     {
       "type": "local_variable_names",
       "count": 34
     },
     {
-      "type": "class_attribute_names",
-      "count": 29
+      "type": "method_parameter_names",
+      "count": 2
+    },
+    {
+      "type": "indentation",
+      "count": 2
+    },
+    {
+      "type": "sequential_blank",
+      "count": 2
+    },
+    {
+      "type": "start_at_tab",
+      "count": 6
     },
     {
       "type": "functional_writing",
       "count": 4
     },
     {
-      "type": "space_before_colon",
-      "count": 3
-    },
-    {
       "type": "colon_missing_space",
       "count": 1
+    },
+    {
+      "type": "space_before_colon",
+      "count": 3
     }
   ],
   "objectOrientation": {
@@ -278,7 +282,7 @@
       "count": 2
     },
     {
-      "type": "Endat",
+      "type": "EndAt",
       "count": 2
     },
     {
@@ -366,7 +370,7 @@
       "count": 3
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 3
     },
     {
@@ -397,7 +401,7 @@
   "statements": [
     {
       "type": "v700",
-      "count": 1135
+      "count": 1214
     },
     {
       "type": "v702",
@@ -433,7 +437,7 @@
     },
     {
       "type": "Cloud",
-      "count": 1189
+      "count": 1214
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:51:56.702Z",
+  "time": "2018-12-26T15:10:12.703Z",
   "totals": {
     "objects": 2,
     "files": 3,
@@ -20,16 +20,16 @@
   ],
   "issues": [
     {
-      "type": "parser_error",
-      "count": 16
+      "type": "exporting",
+      "count": 3
     },
     {
       "type": "line_only_punc",
       "count": 3
     },
     {
-      "type": "exporting",
-      "count": 3
+      "type": "parser_error",
+      "count": 16
     }
   ],
   "objectOrientation": {
@@ -234,19 +234,19 @@
   "statements": [
     {
       "type": "v700",
-      "count": 272
+      "count": 274
     },
     {
       "type": "v702",
-      "count": 272
+      "count": 274
     },
     {
       "type": "v740sp02",
-      "count": 273
+      "count": 274
     },
     {
       "type": "v740sp05",
-      "count": 273
+      "count": 274
     },
     {
       "type": "v740sp08",
@@ -270,7 +270,7 @@
     },
     {
       "type": "Cloud",
-      "count": 244
+      "count": 274
     }
   ]
 }

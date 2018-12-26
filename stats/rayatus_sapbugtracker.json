@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T13:29:00.491Z",
+  "time": "2018-12-26T15:02:53.114Z",
   "totals": {
     "objects": 356,
     "files": 566,
@@ -108,6 +108,10 @@
       "count": 500
     },
     {
+      "type": "indentation",
+      "count": 61
+    },
+    {
       "type": "line_only_punc",
       "count": 24
     },
@@ -121,7 +125,7 @@
     },
     {
       "type": "start_at_tab",
-      "count": 20
+      "count": 10
     },
     {
       "type": "method_parameter_names",
@@ -132,24 +136,24 @@
       "count": 24
     },
     {
+      "type": "class_attribute_names",
+      "count": 167
+    },
+    {
       "type": "functional_writing",
       "count": 36
     },
     {
-      "type": "obsolete_statement",
-      "count": 35
+      "type": "local_class_naming",
+      "count": 2
     },
     {
       "type": "method_length",
       "count": 3
     },
     {
-      "type": "class_attribute_names",
-      "count": 167
-    },
-    {
-      "type": "local_class_naming",
-      "count": 2
+      "type": "obsolete_statement",
+      "count": 35
     },
     {
       "type": "line_length",
@@ -164,12 +168,12 @@
       "count": 6
     },
     {
-      "type": "contains_tab",
-      "count": 1
-    },
-    {
       "type": "exit_or_check",
       "count": 3
+    },
+    {
+      "type": "contains_tab",
+      "count": 1
     },
     {
       "type": "definitions_top",
@@ -434,7 +438,7 @@
       "count": 959
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 72
     },
     {
@@ -586,7 +590,7 @@
       "count": 9
     },
     {
-      "type": "Endat",
+      "type": "EndAt",
       "count": 9
     },
     {
@@ -853,7 +857,7 @@
     },
     {
       "type": "Cloud",
-      "count": 47858
+      "count": 49093
     }
   ]
 }

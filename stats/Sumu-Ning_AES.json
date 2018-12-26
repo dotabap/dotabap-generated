@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:07:15.508Z",
+  "time": "2018-12-26T15:07:43.103Z",
   "totals": {
     "objects": 14,
     "files": 28,
@@ -38,6 +38,10 @@
     {
       "type": "line_length",
       "count": 68
+    },
+    {
+      "type": "indentation",
+      "count": 2
     },
     {
       "type": "line_only_punc",
@@ -1713,7 +1717,7 @@
       "count": 1
     },
     {
-      "type": "Endat",
+      "type": "EndAt",
       "count": 1
     },
     {
@@ -1812,7 +1816,7 @@
     },
     {
       "type": "Cloud",
-      "count": 4593
+      "count": 4609
     }
   ]
 }

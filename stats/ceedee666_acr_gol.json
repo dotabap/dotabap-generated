@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:03:37.905Z",
+  "time": "2018-12-26T15:07:18.111Z",
   "totals": {
     "objects": 8,
     "files": 19,
@@ -40,20 +40,20 @@
       "count": 102
     },
     {
-      "type": "sequential_blank",
-      "count": 1
-    },
-    {
       "type": "method_parameter_names",
-      "count": 25
+      "count": 32
     },
     {
-      "type": "keywords_upper",
+      "type": "sequential_blank",
       "count": 1
     },
     {
       "type": "class_attribute_names",
       "count": 8
+    },
+    {
+      "type": "keywords_upper",
+      "count": 1
     },
     {
       "type": "exporting",
@@ -255,19 +255,19 @@
   "statements": [
     {
       "type": "v700",
-      "count": 406
+      "count": 556
     },
     {
       "type": "v702",
-      "count": 415
+      "count": 556
     },
     {
       "type": "v740sp02",
-      "count": 549
+      "count": 556
     },
     {
       "type": "v740sp05",
-      "count": 555
+      "count": 556
     },
     {
       "type": "v740sp08",
@@ -291,7 +291,7 @@
     },
     {
       "type": "Cloud",
-      "count": 550
+      "count": 556
     }
   ]
 }

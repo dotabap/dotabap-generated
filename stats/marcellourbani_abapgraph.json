@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:50:02.496Z",
+  "time": "2018-12-26T15:10:05.530Z",
   "totals": {
     "objects": 12,
     "files": 29,
@@ -32,28 +32,28 @@
       "count": 15
     },
     {
-      "type": "method_parameter_names",
-      "count": 87
+      "type": "class_attribute_names",
+      "count": 27
     },
     {
       "type": "local_variable_names",
       "count": 97
     },
     {
-      "type": "class_attribute_names",
-      "count": 27
+      "type": "method_parameter_names",
+      "count": 87
     },
     {
       "type": "line_length",
       "count": 4
     },
     {
-      "type": "colon_missing_space",
-      "count": 1
-    },
-    {
       "type": "local_class_naming",
       "count": 3
+    },
+    {
+      "type": "colon_missing_space",
+      "count": 1
     }
   ],
   "objectOrientation": {
@@ -404,7 +404,7 @@
       "count": 1
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 1
     }
   ],
@@ -447,7 +447,7 @@
     },
     {
       "type": "Cloud",
-      "count": 1020
+      "count": 1049
     }
   ]
 }

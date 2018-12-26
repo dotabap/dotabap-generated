@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.11",
   "target": "v753",
-  "time": "2018-12-24T15:41:58.508Z",
+  "time": "2018-12-26T15:09:28.500Z",
   "totals": {
     "objects": 12,
     "files": 25,
@@ -36,20 +36,24 @@
   ],
   "issues": [
     {
-      "type": "keywords_upper",
-      "count": 10
+      "type": "class_attribute_names",
+      "count": 1
     },
     {
-      "type": "method_parameter_names",
-      "count": 4
+      "type": "keywords_upper",
+      "count": 10
     },
     {
       "type": "local_variable_names",
       "count": 24
     },
     {
-      "type": "class_attribute_names",
-      "count": 1
+      "type": "method_parameter_names",
+      "count": 6
+    },
+    {
+      "type": "indentation",
+      "count": 9
     },
     {
       "type": "definitions_top",
@@ -374,14 +378,14 @@
       "count": 2
     },
     {
-      "type": "Endform",
+      "type": "EndForm",
       "count": 2
     }
   ],
   "statements": [
     {
       "type": "v700",
-      "count": 1084
+      "count": 1090
     },
     {
       "type": "v702",
@@ -417,7 +421,7 @@
     },
     {
       "type": "Cloud",
-      "count": 1012
+      "count": 1090
     }
   ]
 }
