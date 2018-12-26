@@ -1,7 +1,7 @@
 {
-  "version": "1.5.11",
+  "version": "1.5.13",
   "target": "v753",
-  "time": "2018-12-26T15:07:51.160Z",
+  "time": "2018-12-26T16:59:22.116Z",
   "totals": {
     "objects": 28,
     "files": 69,
@@ -537,19 +537,19 @@
   "statements": [
     {
       "type": "v700",
-      "count": 4197
+      "count": 4079
     },
     {
       "type": "v702",
-      "count": 4197
+      "count": 4087
     },
     {
       "type": "v740sp02",
-      "count": 4197
+      "count": 4165
     },
     {
       "type": "v740sp05",
-      "count": 4197
+      "count": 4188
     },
     {
       "type": "v740sp08",
@@ -573,7 +573,7 @@
     },
     {
       "type": "Cloud",
-      "count": 4197
+      "count": 4052
     }
   ]
 }
