@@ -923,16 +923,16 @@
    "releases_url": "https://api.github.com/repos/flaiker/ci-lib/releases{/id}",
    "deployments_url": "https://api.github.com/repos/flaiker/ci-lib/deployments",
    "created_at": "2018-12-14T13:18:46Z",
-   "updated_at": "2018-12-26T21:03:49Z",
-   "pushed_at": "2018-12-26T21:04:18Z",
+   "updated_at": "2018-12-27T10:17:54Z",
+   "pushed_at": "2018-12-27T12:53:12Z",
    "git_url": "git://github.com/flaiker/ci-lib.git",
    "ssh_url": "git@github.com:flaiker/ci-lib.git",
    "clone_url": "https://github.com/flaiker/ci-lib.git",
    "svn_url": "https://github.com/flaiker/ci-lib",
    "homepage": null,
-   "size": 186,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "size": 104,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -952,7 +952,7 @@
    },
    "forks": 0,
    "open_issues": 1,
-   "watchers": 2,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -960,22 +960,23 @@
     "pull": true
    },
    "network_count": 0,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "sbcgua/abap_gui_boilerplate": {
-  "lines": 465,
+  "lines": 383,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
    "/LICENSE",
    "/README.md",
    "/package.json",
-   "/.travis.yml"
+   "/.travis.yml",
+   "/abaplint.json"
   ],
   "parsing": {
    "version": "1.5.13",
-   "cloud": 42
+   "cloud": 44
   },
   "repo": {
    "id": 162828013,
@@ -1044,14 +1045,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/abap_gui_boilerplate/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/abap_gui_boilerplate/deployments",
    "created_at": "2018-12-22T16:54:13Z",
-   "updated_at": "2018-12-23T19:52:12Z",
-   "pushed_at": "2018-12-22T17:14:53Z",
+   "updated_at": "2018-12-27T20:04:59Z",
+   "pushed_at": "2018-12-27T20:04:58Z",
    "git_url": "git://github.com/sbcgua/abap_gui_boilerplate.git",
    "ssh_url": "git@github.com:sbcgua/abap_gui_boilerplate.git",
    "clone_url": "https://github.com/sbcgua/abap_gui_boilerplate.git",
    "svn_url": "https://github.com/sbcgua/abap_gui_boilerplate",
    "homepage": null,
-   "size": 12,
+   "size": 39,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -4260,14 +4261,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-12-26T05:36:19Z",
-   "pushed_at": "2018-12-26T12:29:32Z",
+   "updated_at": "2018-12-27T19:40:40Z",
+   "pushed_at": "2018-12-27T17:37:06Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 10067,
+   "size": 10025,
    "stargazers_count": 442,
    "watchers_count": 442,
    "language": "ABAP",
@@ -4297,7 +4298,7 @@
     "pull": true
    },
    "network_count": 177,
-   "subscribers_count": 90
+   "subscribers_count": 89
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -5719,7 +5720,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2018-12-20T13:05:47Z",
+   "updated_at": "2018-12-27T15:35:50Z",
    "pushed_at": "2018-12-14T16:59:15Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
@@ -5727,8 +5728,8 @@
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
    "size": 23204,
-   "stargazers_count": 179,
-   "watchers_count": 179,
+   "stargazers_count": 180,
+   "watchers_count": 180,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -5748,7 +5749,7 @@
    },
    "forks": 101,
    "open_issues": 83,
-   "watchers": 179,
+   "watchers": 180,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7614,7 +7615,7 @@
     "pull": true
    },
    "network_count": 19,
-   "subscribers_count": 18
+   "subscribers_count": 19
   }
  },
  "larshp/Datamatrix": {
@@ -8456,7 +8457,7 @@
     "pull": true
    },
    "network_count": 4,
-   "subscribers_count": 6
+   "subscribers_count": 7
   }
  },
  "larshp/ABAP-Swagger": {
@@ -11055,6 +11056,128 @@
    },
    "network_count": 1,
    "subscribers_count": 1
+  }
+ },
+ "peterlangner/zrss": {
+  "lines": 272,
+  "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml",
+   "/abaplint.json"
+  ],
+  "parsing": {
+   "version": "1.5.13",
+   "cloud": 5
+  },
+  "repo": {
+   "id": 32987270,
+   "node_id": "MDEwOlJlcG9zaXRvcnkzMjk4NzI3MA==",
+   "name": "zrss",
+   "full_name": "peterlangner/zrss",
+   "private": false,
+   "owner": {
+    "login": "peterlangner",
+    "id": 6450874,
+    "node_id": "MDQ6VXNlcjY0NTA4NzQ=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6450874?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/peterlangner",
+    "html_url": "https://github.com/peterlangner",
+    "followers_url": "https://api.github.com/users/peterlangner/followers",
+    "following_url": "https://api.github.com/users/peterlangner/following{/other_user}",
+    "gists_url": "https://api.github.com/users/peterlangner/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/peterlangner/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/peterlangner/subscriptions",
+    "organizations_url": "https://api.github.com/users/peterlangner/orgs",
+    "repos_url": "https://api.github.com/users/peterlangner/repos",
+    "events_url": "https://api.github.com/users/peterlangner/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/peterlangner/received_events",
+    "type": "User",
+    "site_admin": false
+   },
+   "html_url": "https://github.com/peterlangner/zrss",
+   "description": "Publishing Content from the SAP NetWeaver Application Server ABAP to ADT and other RSS Readers",
+   "fork": false,
+   "url": "https://api.github.com/repos/peterlangner/zrss",
+   "forks_url": "https://api.github.com/repos/peterlangner/zrss/forks",
+   "keys_url": "https://api.github.com/repos/peterlangner/zrss/keys{/key_id}",
+   "collaborators_url": "https://api.github.com/repos/peterlangner/zrss/collaborators{/collaborator}",
+   "teams_url": "https://api.github.com/repos/peterlangner/zrss/teams",
+   "hooks_url": "https://api.github.com/repos/peterlangner/zrss/hooks",
+   "issue_events_url": "https://api.github.com/repos/peterlangner/zrss/issues/events{/number}",
+   "events_url": "https://api.github.com/repos/peterlangner/zrss/events",
+   "assignees_url": "https://api.github.com/repos/peterlangner/zrss/assignees{/user}",
+   "branches_url": "https://api.github.com/repos/peterlangner/zrss/branches{/branch}",
+   "tags_url": "https://api.github.com/repos/peterlangner/zrss/tags",
+   "blobs_url": "https://api.github.com/repos/peterlangner/zrss/git/blobs{/sha}",
+   "git_tags_url": "https://api.github.com/repos/peterlangner/zrss/git/tags{/sha}",
+   "git_refs_url": "https://api.github.com/repos/peterlangner/zrss/git/refs{/sha}",
+   "trees_url": "https://api.github.com/repos/peterlangner/zrss/git/trees{/sha}",
+   "statuses_url": "https://api.github.com/repos/peterlangner/zrss/statuses/{sha}",
+   "languages_url": "https://api.github.com/repos/peterlangner/zrss/languages",
+   "stargazers_url": "https://api.github.com/repos/peterlangner/zrss/stargazers",
+   "contributors_url": "https://api.github.com/repos/peterlangner/zrss/contributors",
+   "subscribers_url": "https://api.github.com/repos/peterlangner/zrss/subscribers",
+   "subscription_url": "https://api.github.com/repos/peterlangner/zrss/subscription",
+   "commits_url": "https://api.github.com/repos/peterlangner/zrss/commits{/sha}",
+   "git_commits_url": "https://api.github.com/repos/peterlangner/zrss/git/commits{/sha}",
+   "comments_url": "https://api.github.com/repos/peterlangner/zrss/comments{/number}",
+   "issue_comment_url": "https://api.github.com/repos/peterlangner/zrss/issues/comments{/number}",
+   "contents_url": "https://api.github.com/repos/peterlangner/zrss/contents/{+path}",
+   "compare_url": "https://api.github.com/repos/peterlangner/zrss/compare/{base}...{head}",
+   "merges_url": "https://api.github.com/repos/peterlangner/zrss/merges",
+   "archive_url": "https://api.github.com/repos/peterlangner/zrss/{archive_format}{/ref}",
+   "downloads_url": "https://api.github.com/repos/peterlangner/zrss/downloads",
+   "issues_url": "https://api.github.com/repos/peterlangner/zrss/issues{/number}",
+   "pulls_url": "https://api.github.com/repos/peterlangner/zrss/pulls{/number}",
+   "milestones_url": "https://api.github.com/repos/peterlangner/zrss/milestones{/number}",
+   "notifications_url": "https://api.github.com/repos/peterlangner/zrss/notifications{?since,all,participating}",
+   "labels_url": "https://api.github.com/repos/peterlangner/zrss/labels{/name}",
+   "releases_url": "https://api.github.com/repos/peterlangner/zrss/releases{/id}",
+   "deployments_url": "https://api.github.com/repos/peterlangner/zrss/deployments",
+   "created_at": "2015-03-27T13:22:13Z",
+   "updated_at": "2018-12-27T20:07:27Z",
+   "pushed_at": "2018-12-27T20:07:25Z",
+   "git_url": "git://github.com/peterlangner/zrss.git",
+   "ssh_url": "git@github.com:peterlangner/zrss.git",
+   "clone_url": "https://github.com/peterlangner/zrss.git",
+   "svn_url": "https://github.com/peterlangner/zrss",
+   "homepage": null,
+   "size": 72,
+   "stargazers_count": 3,
+   "watchers_count": 3,
+   "language": "ABAP",
+   "has_issues": true,
+   "has_projects": true,
+   "has_downloads": true,
+   "has_wiki": true,
+   "has_pages": false,
+   "forks_count": 0,
+   "mirror_url": null,
+   "archived": false,
+   "open_issues_count": 1,
+   "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+   },
+   "forks": 0,
+   "open_issues": 1,
+   "watchers": 3,
+   "default_branch": "master",
+   "permissions": {
+    "admin": false,
+    "push": false,
+    "pull": true
+   },
+   "network_count": 0,
+   "subscribers_count": 3
   }
  }
 }
