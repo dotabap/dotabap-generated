@@ -1,12 +1,12 @@
 {
   "version": "1.5.14",
   "target": "v753",
-  "time": "2018-12-28T07:46:23.229Z",
+  "time": "2018-12-29T11:14:15.021Z",
   "totals": {
     "objects": 12,
     "files": 25,
-    "statements": 1090,
-    "tokens": 6865
+    "statements": 1142,
+    "tokens": 7261
   },
   "objects": [
     {
@@ -57,11 +57,11 @@
     },
     {
       "type": "definitions_top",
-      "count": 6
+      "count": 7
     }
   ],
   "objectOrientation": {
-    "oo": 836,
+    "oo": 883,
     "non": 113
   },
   "methodLength": [
@@ -70,27 +70,27 @@
     3,
     7,
     11,
-    3,
+    4,
     3,
     3,
     4,
     1,
     2,
-    1,
-    3,
     2,
     3,
     2,
+    3,
     2,
+    3,
     0,
     0,
-    2,
+    1,
     0,
     2,
     0,
     1,
     0,
-    2
+    3
   ],
   "statementTypes": [
     {
@@ -111,7 +111,7 @@
     },
     {
       "type": "MethodDef",
-      "count": 61
+      "count": 64
     },
     {
       "type": "Protected",
@@ -131,31 +131,31 @@
     },
     {
       "type": "Method",
-      "count": 61
+      "count": 64
     },
     {
       "type": "Data",
-      "count": 88
+      "count": 93
     },
     {
       "type": "Call",
-      "count": 123
+      "count": 130
     },
     {
       "type": "If",
-      "count": 48
+      "count": 54
     },
     {
       "type": "Move",
-      "count": 102
+      "count": 109
     },
     {
       "type": "EndIf",
-      "count": 48
+      "count": 54
     },
     {
       "type": "EndMethod",
-      "count": 61
+      "count": 64
     },
     {
       "type": "FieldSymbol",
@@ -167,7 +167,7 @@
     },
     {
       "type": "Comment",
-      "count": 141
+      "count": 146
     },
     {
       "type": "Read",
@@ -175,7 +175,7 @@
     },
     {
       "type": "Clear",
-      "count": 8
+      "count": 9
     },
     {
       "type": "Find",
@@ -191,19 +191,19 @@
     },
     {
       "type": "CallFunction",
-      "count": 9
+      "count": 10
     },
     {
       "type": "Try",
-      "count": 8
+      "count": 9
     },
     {
       "type": "Catch",
-      "count": 8
+      "count": 9
     },
     {
       "type": "EndTry",
-      "count": 8
+      "count": 9
     },
     {
       "type": "TypeBegin",
@@ -274,6 +274,10 @@
       "count": 3
     },
     {
+      "type": "Assert",
+      "count": 3
+    },
+    {
       "type": "Condense",
       "count": 1
     },
@@ -330,10 +334,6 @@
       "count": 1
     },
     {
-      "type": "Assert",
-      "count": 1
-    },
-    {
       "type": "Message",
       "count": 4
     },
@@ -385,43 +385,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 1084
+      "count": 1134
     },
     {
       "type": "v702",
-      "count": 1090
+      "count": 1142
     },
     {
       "type": "v740sp02",
-      "count": 1090
+      "count": 1142
     },
     {
       "type": "v740sp05",
-      "count": 1090
+      "count": 1142
     },
     {
       "type": "v740sp08",
-      "count": 1090
+      "count": 1142
     },
     {
       "type": "v750",
-      "count": 1090
+      "count": 1142
     },
     {
       "type": "v751",
-      "count": 1090
+      "count": 1142
     },
     {
       "type": "v752",
-      "count": 1090
+      "count": 1142
     },
     {
       "type": "v753",
-      "count": 1090
+      "count": 1142
     },
     {
       "type": "Cloud",
-      "count": 1012
+      "count": 1064
     }
   ]
 }
