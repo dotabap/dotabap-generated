@@ -1046,13 +1046,13 @@
    "deployments_url": "https://api.github.com/repos/sbcgua/abap_gui_boilerplate/deployments",
    "created_at": "2018-12-22T16:54:13Z",
    "updated_at": "2018-12-28T11:05:08Z",
-   "pushed_at": "2018-12-28T21:15:30Z",
+   "pushed_at": "2018-12-30T18:38:23Z",
    "git_url": "git://github.com/sbcgua/abap_gui_boilerplate.git",
    "ssh_url": "git@github.com:sbcgua/abap_gui_boilerplate.git",
    "clone_url": "https://github.com/sbcgua/abap_gui_boilerplate.git",
    "svn_url": "https://github.com/sbcgua/abap_gui_boilerplate",
    "homepage": null,
-   "size": 45,
+   "size": 47,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -4177,7 +4177,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 78859,
+  "lines": 78854,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -4188,7 +4188,8 @@
    "/changelog.txt",
    "/.gitignore",
    "/CODE_OF_CONDUCT.md",
-   "/abaplint.json"
+   "/abaplint.json",
+   "/.eslintrc.yaml"
   ],
   "parsing": {
    "version": "1.5.15",
@@ -4261,14 +4262,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2018-12-28T10:19:37Z",
-   "pushed_at": "2018-12-29T21:33:13Z",
+   "updated_at": "2018-12-30T07:07:22Z",
+   "pushed_at": "2018-12-30T18:06:08Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 10051,
+   "size": 10045,
    "stargazers_count": 443,
    "watchers_count": 443,
    "language": "ABAP",
@@ -4277,10 +4278,10 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 177,
+   "forks_count": 178,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 144,
+   "open_issues_count": 142,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4288,8 +4289,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 177,
-   "open_issues": 144,
+   "forks": 178,
+   "open_issues": 142,
    "watchers": 443,
    "default_branch": "master",
    "permissions": {
@@ -4297,8 +4298,8 @@
     "push": true,
     "pull": true
    },
-   "network_count": 177,
-   "subscribers_count": 89
+   "network_count": 178,
+   "subscribers_count": 88
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
