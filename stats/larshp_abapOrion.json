@@ -1,7 +1,7 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T11:03:12.020Z",
+  "time": "2019-01-02T18:32:39.994Z",
   "totals": {
     "objects": 10,
     "files": 18,
@@ -29,10 +29,6 @@
   "issues": [
     {
       "type": "keywords_upper",
-      "count": 1
-    },
-    {
-      "type": "indentation",
       "count": 1
     }
   ],
@@ -203,7 +199,7 @@
       "count": 13
     },
     {
-      "type": "Read",
+      "type": "ReadTable",
       "count": 4
     },
     {
@@ -239,7 +235,7 @@
       "count": 1
     },
     {
-      "type": "Modify",
+      "type": "ModifyInternal",
       "count": 3
     },
     {

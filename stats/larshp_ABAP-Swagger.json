@@ -1,7 +1,7 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T11:04:47.040Z",
+  "time": "2019-01-02T18:34:14.015Z",
   "totals": {
     "objects": 8,
     "files": 18,
@@ -246,7 +246,7 @@
       "count": 1
     },
     {
-      "type": "Read",
+      "type": "ReadTable",
       "count": 11
     },
     {

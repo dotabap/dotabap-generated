@@ -1,7 +1,7 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T09:58:52.242Z",
+  "time": "2019-01-02T17:31:08.558Z",
   "totals": {
     "objects": 2,
     "files": 6,
@@ -61,7 +61,7 @@
     },
     {
       "type": "method_parameter_names",
-      "count": 150
+      "count": 151
     },
     {
       "type": "indentation",
@@ -425,7 +425,7 @@
       "count": 4
     },
     {
-      "type": "Read",
+      "type": "ReadTable",
       "count": 16
     },
     {

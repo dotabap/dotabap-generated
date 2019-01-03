@@ -1,7 +1,7 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T10:12:34.834Z",
+  "time": "2019-01-02T17:42:15.242Z",
   "totals": {
     "objects": 222,
     "files": 447,
@@ -80,10 +80,6 @@
       "count": 1
     },
     {
-      "type": "indentation",
-      "count": 55
-    },
-    {
       "type": "7bit_ascii",
       "count": 164
     },
@@ -122,6 +118,10 @@
     {
       "type": "method_parameter_names",
       "count": 168
+    },
+    {
+      "type": "indentation",
+      "count": 52
     },
     {
       "type": "nesting",
@@ -378,7 +378,7 @@
       "count": 79
     },
     {
-      "type": "Read",
+      "type": "ReadTable",
       "count": 35
     },
     {
@@ -546,8 +546,8 @@
       "count": 27
     },
     {
-      "type": "Modify",
-      "count": 16
+      "type": "ModifyInternal",
+      "count": 14
     },
     {
       "type": "TypePools",
@@ -624,6 +624,10 @@
     {
       "type": "GetTime",
       "count": 1
+    },
+    {
+      "type": "ModifyDatabase",
+      "count": 2
     },
     {
       "type": "SetParameter",

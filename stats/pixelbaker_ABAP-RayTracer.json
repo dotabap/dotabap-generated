@@ -1,7 +1,7 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T11:17:18.624Z",
+  "time": "2019-01-02T18:47:33.605Z",
   "totals": {
     "objects": 53,
     "files": 121,
@@ -34,10 +34,6 @@
     {
       "type": "local_variable_names",
       "count": 147
-    },
-    {
-      "type": "indentation",
-      "count": 4
     },
     {
       "type": "obsolete_statement",
@@ -74,6 +70,10 @@
     {
       "type": "max_one_statement",
       "count": 13
+    },
+    {
+      "type": "indentation",
+      "count": 2
     }
   ],
   "objectOrientation": {

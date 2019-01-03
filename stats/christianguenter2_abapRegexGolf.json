@@ -1,10 +1,10 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T10:33:04.041Z",
+  "time": "2019-01-02T18:02:32.015Z",
   "totals": {
-    "objects": 16,
-    "files": 36,
+    "objects": 17,
+    "files": 37,
     "statements": 664,
     "tokens": 3899
   },
@@ -26,6 +26,10 @@
       "count": 1
     },
     {
+      "type": "SAMC",
+      "count": 1
+    },
+    {
       "type": "CLAS",
       "count": 10
     },
@@ -41,7 +45,7 @@
   "issues": [
     {
       "type": "registry_add",
-      "count": 2
+      "count": 1
     },
     {
       "type": "exit_or_check",
@@ -57,7 +61,7 @@
     },
     {
       "type": "indentation",
-      "count": 2
+      "count": 1
     },
     {
       "type": "line_length",

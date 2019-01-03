@@ -1,10 +1,10 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T10:08:43.640Z",
+  "time": "2019-01-02T17:40:10.221Z",
   "totals": {
-    "objects": 278,
-    "files": 398,
+    "objects": 282,
+    "files": 402,
     "statements": 5438,
     "tokens": 26760
   },
@@ -62,6 +62,14 @@
       "count": 2
     },
     {
+      "type": "SAMC",
+      "count": 2
+    },
+    {
+      "type": "SAPC",
+      "count": 2
+    },
+    {
       "type": "SHLP",
       "count": 1
     },
@@ -84,10 +92,6 @@
   ],
   "issues": [
     {
-      "type": "registry_add",
-      "count": 4
-    },
-    {
       "type": "class_attribute_names",
       "count": 67
     },
@@ -97,7 +101,7 @@
     },
     {
       "type": "indentation",
-      "count": 41
+      "count": 37
     },
     {
       "type": "method_parameter_names",
@@ -573,7 +577,7 @@
       "count": 6
     },
     {
-      "type": "Read",
+      "type": "ReadTable",
       "count": 11
     },
     {

@@ -1,10 +1,10 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T10:19:19.802Z",
+  "time": "2019-01-02T17:48:34.829Z",
   "totals": {
-    "objects": 194,
-    "files": 304,
+    "objects": 195,
+    "files": 305,
     "statements": 6184,
     "tokens": 30825
   },
@@ -70,15 +70,15 @@
       "count": 1
     },
     {
+      "type": "SUCU",
+      "count": 1
+    },
+    {
       "type": "TRAN",
       "count": 1
     }
   ],
   "issues": [
-    {
-      "type": "registry_add",
-      "count": 1
-    },
     {
       "type": "class_attribute_names",
       "count": 81
@@ -508,7 +508,7 @@
       "count": 43
     },
     {
-      "type": "Read",
+      "type": "ReadTable",
       "count": 28
     },
     {
@@ -804,8 +804,8 @@
       "count": 1
     },
     {
-      "type": "Modify",
-      "count": 11
+      "type": "ModifyDatabase",
+      "count": 8
     },
     {
       "type": "Interface",
@@ -842,6 +842,10 @@
     {
       "type": "AtSelectionScreen",
       "count": 5
+    },
+    {
+      "type": "ModifyInternal",
+      "count": 3
     },
     {
       "type": "Initialization",

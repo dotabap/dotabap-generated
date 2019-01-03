@@ -1,7 +1,7 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T10:18:03.226Z",
+  "time": "2019-01-02T17:47:17.003Z",
   "totals": {
     "objects": 42,
     "files": 71,
@@ -84,16 +84,16 @@
       "count": 3
     },
     {
-      "type": "indentation",
-      "count": 4
-    },
-    {
       "type": "7bit_ascii",
       "count": 18
     },
     {
       "type": "definitions_top",
       "count": 1
+    },
+    {
+      "type": "indentation",
+      "count": 3
     },
     {
       "type": "class_attribute_names",
@@ -351,7 +351,7 @@
       "count": 93
     },
     {
-      "type": "Read",
+      "type": "ReadTable",
       "count": 27
     },
     {
@@ -535,7 +535,7 @@
       "count": 10
     },
     {
-      "type": "Modify",
+      "type": "ModifyInternal",
       "count": 3
     },
     {

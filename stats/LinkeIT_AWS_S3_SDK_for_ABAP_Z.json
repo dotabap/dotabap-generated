@@ -1,7 +1,7 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T11:10:13.418Z",
+  "time": "2019-01-02T18:39:33.827Z",
   "totals": {
     "objects": 73,
     "files": 99,
@@ -325,8 +325,8 @@
       "count": 30
     },
     {
-      "type": "Modify",
-      "count": 11
+      "type": "ModifyInternal",
+      "count": 3
     },
     {
       "type": "EndLoop",
@@ -373,7 +373,7 @@
       "count": 36
     },
     {
-      "type": "Read",
+      "type": "ReadTable",
       "count": 18
     },
     {
@@ -451,6 +451,10 @@
     {
       "type": "CallFunction",
       "count": 36
+    },
+    {
+      "type": "ModifyDatabase",
+      "count": 8
     },
     {
       "type": "Exit",

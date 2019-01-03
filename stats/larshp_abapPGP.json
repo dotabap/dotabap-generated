@@ -1,12 +1,12 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T11:07:34.658Z",
+  "time": "2019-01-02T18:37:01.061Z",
   "totals": {
     "objects": 91,
     "files": 239,
-    "statements": 8566,
-    "tokens": 48572
+    "statements": 8569,
+    "tokens": 48579
   },
   "objects": [
     {
@@ -48,24 +48,8 @@
   ],
   "issues": [
     {
-      "type": "indentation",
-      "count": 2
-    },
-    {
-      "type": "sequential_blank",
-      "count": 1
-    },
-    {
       "type": "breakpoint",
-      "count": 3
-    },
-    {
-      "type": "local_variable_names",
-      "count": 1
-    },
-    {
-      "type": "keywords_upper",
-      "count": 3
+      "count": 2
     },
     {
       "type": "method_length",
@@ -74,7 +58,7 @@
   ],
   "objectOrientation": {
     "oo": 7947,
-    "non": 213
+    "non": 215
   },
   "methodLength": [
     2,
@@ -259,7 +243,7 @@
     },
     {
       "type": "Comment",
-      "count": 406
+      "count": 407
     },
     {
       "type": "Include",
@@ -268,6 +252,10 @@
     {
       "type": "FunctionModule",
       "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 51
     },
     {
       "type": "EndFunction",
@@ -339,15 +327,15 @@
     },
     {
       "type": "Write",
-      "count": 11
+      "count": 13
     },
     {
       "type": "Clear",
       "count": 42
     },
     {
-      "type": "Modify",
-      "count": 13
+      "type": "ModifyDatabase",
+      "count": 2
     },
     {
       "type": "EndForm",
@@ -422,6 +410,10 @@
       "count": 30
     },
     {
+      "type": "ModifyInternal",
+      "count": 11
+    },
+    {
       "type": "EndLoop",
       "count": 30
     },
@@ -470,10 +462,6 @@
       "count": 6
     },
     {
-      "type": "Break",
-      "count": 3
-    },
-    {
       "type": "Protected",
       "count": 70
     },
@@ -498,6 +486,10 @@
       "count": 52
     },
     {
+      "type": "Break",
+      "count": 2
+    },
+    {
       "type": "Type",
       "count": 22
     },
@@ -506,7 +498,7 @@
       "count": 142
     },
     {
-      "type": "Read",
+      "type": "ReadTable",
       "count": 53
     },
     {
@@ -548,10 +540,6 @@
     {
       "type": "Append",
       "count": 42
-    },
-    {
-      "type": "Return",
-      "count": 50
     },
     {
       "type": "Continue",
@@ -625,43 +613,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 8492
+      "count": 8495
     },
     {
       "type": "v702",
-      "count": 8566
+      "count": 8569
     },
     {
       "type": "v740sp02",
-      "count": 8566
+      "count": 8569
     },
     {
       "type": "v740sp05",
-      "count": 8566
+      "count": 8569
     },
     {
       "type": "v740sp08",
-      "count": 8566
+      "count": 8569
     },
     {
       "type": "v750",
-      "count": 8566
+      "count": 8569
     },
     {
       "type": "v751",
-      "count": 8566
+      "count": 8569
     },
     {
       "type": "v752",
-      "count": 8566
+      "count": 8569
     },
     {
       "type": "v753",
-      "count": 8566
+      "count": 8569
     },
     {
       "type": "Cloud",
-      "count": 8438
+      "count": 8440
     }
   ]
 }

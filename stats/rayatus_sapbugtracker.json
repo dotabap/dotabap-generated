@@ -1,7 +1,7 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T10:01:30.394Z",
+  "time": "2019-01-02T17:33:43.646Z",
   "totals": {
     "objects": 356,
     "files": 566,
@@ -109,7 +109,7 @@
     },
     {
       "type": "indentation",
-      "count": 61
+      "count": 58
     },
     {
       "type": "line_only_punc",
@@ -534,7 +534,7 @@
       "count": 61
     },
     {
-      "type": "Read",
+      "type": "ReadTable",
       "count": 453
     },
     {
@@ -602,8 +602,8 @@
       "count": 20
     },
     {
-      "type": "Modify",
-      "count": 69
+      "type": "ModifyInternal",
+      "count": 66
     },
     {
       "type": "Assign",
@@ -775,6 +775,10 @@
     },
     {
       "type": "Initialization",
+      "count": 3
+    },
+    {
+      "type": "ModifyDatabase",
       "count": 3
     },
     {

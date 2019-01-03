@@ -1,12 +1,12 @@
 {
-  "version": "1.5.14",
+  "version": "1.6.0",
   "target": "v753",
-  "time": "2018-12-29T11:16:06.516Z",
+  "time": "2019-01-02T18:45:28.263Z",
   "totals": {
     "objects": 30,
     "files": 65,
-    "statements": 1338,
-    "tokens": 27400
+    "statements": 1361,
+    "tokens": 27598
   },
   "objects": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "type": "method_parameter_names",
-      "count": 66
+      "count": 70
     },
     {
       "type": "7bit_ascii",
@@ -53,22 +53,22 @@
     },
     {
       "type": "keywords_upper",
-      "count": 5
+      "count": 6
     },
     {
       "type": "line_length",
-      "count": 1
+      "count": 5
     }
   ],
   "objectOrientation": {
-    "oo": 618,
+    "oo": 637,
     "non": 4
   },
   "methodLength": [
     0,
-    32,
+    33,
     6,
-    3,
+    6,
     1,
     4,
     2,
@@ -107,7 +107,7 @@
   "statementTypes": [
     {
       "type": "Comment",
-      "count": 716
+      "count": 720
     },
     {
       "type": "Report",
@@ -123,7 +123,7 @@
     },
     {
       "type": "MethodDef",
-      "count": 58
+      "count": 62
     },
     {
       "type": "EndClass",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Call",
-      "count": 23
+      "count": 24
     },
     {
       "type": "ClassImplementation",
@@ -143,11 +143,15 @@
     },
     {
       "type": "Method",
-      "count": 58
+      "count": 62
+    },
+    {
+      "type": "Move",
+      "count": 145
     },
     {
       "type": "EndMethod",
-      "count": 58
+      "count": 62
     },
     {
       "type": "Data",
@@ -155,15 +159,11 @@
     },
     {
       "type": "Private",
-      "count": 27
-    },
-    {
-      "type": "Move",
-      "count": 139
+      "count": 24
     },
     {
       "type": "CallFunction",
-      "count": 1
+      "count": 2
     },
     {
       "type": "Write",
@@ -248,48 +248,56 @@
     {
       "type": "ElseIf",
       "count": 1
+    },
+    {
+      "type": "SelectLoop",
+      "count": 1
+    },
+    {
+      "type": "EndSelect",
+      "count": 1
     }
   ],
   "statements": [
     {
       "type": "v700",
-      "count": 1227
+      "count": 1245
     },
     {
       "type": "v702",
-      "count": 1238
+      "count": 1254
     },
     {
       "type": "v740sp02",
-      "count": 1337
+      "count": 1359
     },
     {
       "type": "v740sp05",
-      "count": 1338
+      "count": 1361
     },
     {
       "type": "v740sp08",
-      "count": 1338
+      "count": 1361
     },
     {
       "type": "v750",
-      "count": 1338
+      "count": 1361
     },
     {
       "type": "v751",
-      "count": 1338
+      "count": 1361
     },
     {
       "type": "v752",
-      "count": 1338
+      "count": 1361
     },
     {
       "type": "v753",
-      "count": 1338
+      "count": 1361
     },
     {
       "type": "Cloud",
-      "count": 1334
+      "count": 1357
     }
   ]
 }
