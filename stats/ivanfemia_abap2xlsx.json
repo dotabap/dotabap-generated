@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.3",
   "target": "v753",
-  "time": "2019-01-02T18:06:39.295Z",
+  "time": "2019-01-05T10:28:08.942Z",
   "totals": {
     "objects": 328,
     "files": 478,
@@ -72,6 +72,10 @@
       "count": 415
     },
     {
+      "type": "check_variables",
+      "count": 78
+    },
+    {
       "type": "local_variable_names",
       "count": 506
     },
@@ -97,7 +101,7 @@
     },
     {
       "type": "class_attribute_names",
-      "count": 365
+      "count": 366
     },
     {
       "type": "definitions_top",

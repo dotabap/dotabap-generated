@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.3",
   "target": "v753",
-  "time": "2019-01-02T18:02:08.830Z",
+  "time": "2019-01-05T10:22:56.499Z",
   "totals": {
     "objects": 5,
     "files": 7,
@@ -38,6 +38,10 @@
     {
       "type": "functional_writing",
       "count": 8
+    },
+    {
+      "type": "check_variables",
+      "count": 17
     },
     {
       "type": "local_class_naming",

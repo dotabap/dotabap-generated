@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.3",
   "target": "v753",
-  "time": "2019-01-02T18:49:27.007Z",
+  "time": "2019-01-05T11:12:51.775Z",
   "totals": {
     "objects": 18,
     "files": 34,
@@ -34,6 +34,10 @@
     {
       "type": "registry_add",
       "count": 1
+    },
+    {
+      "type": "check_variables",
+      "count": 10
     },
     {
       "type": "definitions_top",

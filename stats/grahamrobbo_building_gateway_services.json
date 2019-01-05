@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.3",
   "target": "v753",
-  "time": "2019-01-02T18:22:38.611Z",
+  "time": "2019-01-05T10:45:01.576Z",
   "totals": {
     "objects": 24,
     "files": 41,
@@ -58,6 +58,10 @@
     {
       "type": "exporting",
       "count": 11
+    },
+    {
+      "type": "check_variables",
+      "count": 50
     },
     {
       "type": "line_only_punc",

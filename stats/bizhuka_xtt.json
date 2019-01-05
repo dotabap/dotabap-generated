@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.3",
   "target": "v753",
-  "time": "2019-01-02T17:45:46.853Z",
+  "time": "2019-01-05T10:04:35.552Z",
   "totals": {
     "objects": 51,
     "files": 121,
@@ -54,6 +54,10 @@
     {
       "type": "structure",
       "count": 9
+    },
+    {
+      "type": "check_variables",
+      "count": 44
     },
     {
       "type": "local_class_naming",
@@ -690,7 +694,7 @@
     },
     {
       "type": "Cloud",
-      "count": 4416
+      "count": 4415
     }
   ]
 }

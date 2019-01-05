@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.3",
   "target": "v753",
-  "time": "2019-01-02T18:34:14.015Z",
+  "time": "2019-01-05T10:57:39.730Z",
   "totals": {
     "objects": 8,
     "files": 18,
@@ -26,7 +26,12 @@
       "count": 1
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "type": "check_variables",
+      "count": 14
+    }
+  ],
   "objectOrientation": {
     "oo": 778,
     "non": 0
