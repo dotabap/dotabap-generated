@@ -843,7 +843,7 @@
   }
  },
  "flaiker/ci-lib": {
-  "lines": 6665,
+  "lines": 6767,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -854,7 +854,7 @@
   ],
   "parsing": {
    "version": "1.6.6",
-   "cloud": 93
+   "cloud": 96
   },
   "repo": {
    "id": 161787064,
@@ -923,14 +923,14 @@
    "releases_url": "https://api.github.com/repos/flaiker/ci-lib/releases{/id}",
    "deployments_url": "https://api.github.com/repos/flaiker/ci-lib/deployments",
    "created_at": "2018-12-14T13:18:46Z",
-   "updated_at": "2019-01-06T21:04:54Z",
-   "pushed_at": "2019-01-06T21:37:09Z",
+   "updated_at": "2019-01-06T22:15:01Z",
+   "pushed_at": "2019-01-06T22:15:11Z",
    "git_url": "git://github.com/flaiker/ci-lib.git",
    "ssh_url": "git@github.com:flaiker/ci-lib.git",
    "clone_url": "https://github.com/flaiker/ci-lib.git",
    "svn_url": "https://github.com/flaiker/ci-lib",
    "homepage": null,
-   "size": 249,
+   "size": 309,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -2691,13 +2691,13 @@
    "deployments_url": "https://api.github.com/repos/MDJoerg/MQBA/deployments",
    "created_at": "2018-07-13T19:07:01Z",
    "updated_at": "2019-01-04T00:25:52Z",
-   "pushed_at": "2019-01-04T00:25:50Z",
+   "pushed_at": "2019-01-07T09:37:51Z",
    "git_url": "git://github.com/MDJoerg/MQBA.git",
    "ssh_url": "git@github.com:MDJoerg/MQBA.git",
    "clone_url": "https://github.com/MDJoerg/MQBA.git",
    "svn_url": "https://github.com/MDJoerg/MQBA",
    "homepage": "",
-   "size": 583,
+   "size": 595,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -2995,7 +2995,7 @@
   }
  },
  "abapkochbuch/Sources": {
-  "lines": 13163,
+  "lines": 13180,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
@@ -3006,7 +3006,7 @@
   ],
   "parsing": {
    "version": "1.6.6",
-   "cloud": 892
+   "cloud": 893
   },
   "repo": {
    "id": 138191413,
@@ -3075,14 +3075,14 @@
    "releases_url": "https://api.github.com/repos/abapkochbuch/Sources/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapkochbuch/Sources/deployments",
    "created_at": "2018-06-21T15:49:02Z",
-   "updated_at": "2018-09-03T14:44:16Z",
-   "pushed_at": "2018-09-03T14:44:15Z",
+   "updated_at": "2019-01-07T08:39:36Z",
+   "pushed_at": "2019-01-07T08:39:34Z",
    "git_url": "git://github.com/abapkochbuch/Sources.git",
    "ssh_url": "git@github.com:abapkochbuch/Sources.git",
    "clone_url": "https://github.com/abapkochbuch/Sources.git",
    "svn_url": "https://github.com/abapkochbuch/Sources",
    "homepage": "https://www.rheinwerk-verlag.de/das-abap-kochbuch_4103/",
-   "size": 261,
+   "size": 229,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
@@ -3094,7 +3094,7 @@
    "forks_count": 2,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3103,7 +3103,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 7,
    "default_branch": "master",
    "permissions": {
@@ -4278,10 +4278,10 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 179,
+   "forks_count": 180,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 141,
+   "open_issues_count": 143,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4289,8 +4289,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 179,
-   "open_issues": 141,
+   "forks": 180,
+   "open_issues": 143,
    "watchers": 447,
    "default_branch": "master",
    "permissions": {
@@ -4298,7 +4298,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 179,
+   "network_count": 180,
    "subscribers_count": 89
   }
  },
@@ -5966,14 +5966,14 @@
    "releases_url": "https://api.github.com/repos/nomssi/abap_scheme/releases{/id}",
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
-   "updated_at": "2018-12-26T10:14:14Z",
-   "pushed_at": "2018-12-26T10:14:12Z",
+   "updated_at": "2019-01-07T06:00:47Z",
+   "pushed_at": "2019-01-07T06:07:56Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": "",
-   "size": 2378,
+   "size": 2141,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -8682,7 +8682,7 @@
    "forks_count": 13,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 47,
+   "open_issues_count": 48,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8691,7 +8691,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 13,
-   "open_issues": 47,
+   "open_issues": 48,
    "watchers": 32,
    "default_branch": "master",
    "permissions": {
@@ -10798,7 +10798,7 @@
   }
  },
  "abapinho/abaK": {
-  "lines": 4610,
+  "lines": 4603,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -10810,7 +10810,7 @@
   ],
   "parsing": {
    "version": "1.6.6",
-   "cloud": 80
+   "cloud": 85
   },
   "repo": {
    "id": 160927458,
@@ -10879,14 +10879,14 @@
    "releases_url": "https://api.github.com/repos/abapinho/abaK/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abaK/deployments",
    "created_at": "2018-12-08T10:17:39Z",
-   "updated_at": "2019-01-04T18:04:46Z",
-   "pushed_at": "2019-01-04T18:04:45Z",
+   "updated_at": "2019-01-07T17:05:30Z",
+   "pushed_at": "2019-01-07T17:05:30Z",
    "git_url": "git://github.com/abapinho/abaK.git",
    "ssh_url": "git@github.com:abapinho/abaK.git",
    "clone_url": "https://github.com/abapinho/abaK.git",
    "svn_url": "https://github.com/abapinho/abaK",
    "homepage": "",
-   "size": 186,
+   "size": 238,
    "stargazers_count": 10,
    "watchers_count": 10,
    "language": "ABAP",
@@ -10898,7 +10898,7 @@
    "forks_count": 2,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 12,
+   "open_issues_count": 10,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10907,7 +10907,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 12,
+   "open_issues": 10,
    "watchers": 10,
    "default_branch": "master",
    "permissions": {
