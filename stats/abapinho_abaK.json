@@ -1,10 +1,10 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.6",
   "target": "v753",
-  "time": "2019-01-05T11:14:06.933Z",
+  "time": "2019-01-07T12:41:16.470Z",
   "totals": {
-    "objects": 68,
-    "files": 124,
+    "objects": 70,
+    "files": 126,
     "statements": 2304,
     "tokens": 13516
   },
@@ -34,12 +34,12 @@
       "count": 1
     },
     {
-      "type": "DOMA",
-      "count": 4
+      "type": "DTEL",
+      "count": 11
     },
     {
-      "type": "DTEL",
-      "count": 9
+      "type": "DOMA",
+      "count": 4
     },
     {
       "type": "ENHO",
@@ -81,7 +81,7 @@
     },
     {
       "type": "keywords_upper",
-      "count": 24
+      "count": 25
     },
     {
       "type": "line_length",
@@ -101,7 +101,7 @@
     },
     {
       "type": "indentation",
-      "count": 14
+      "count": 17
     },
     {
       "type": "check_variables",

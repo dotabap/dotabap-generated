@@ -1,7 +1,7 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.6",
   "target": "v753",
-  "time": "2019-01-05T11:14:50.701Z",
+  "time": "2019-01-07T12:42:01.236Z",
   "totals": {
     "objects": 2,
     "files": 3,
@@ -24,12 +24,20 @@
       "count": 3
     },
     {
+      "type": "check_variables",
+      "count": 23
+    },
+    {
       "type": "line_only_punc",
       "count": 3
     },
     {
-      "type": "parser_error",
-      "count": 16
+      "type": "local_variable_names",
+      "count": 1
+    },
+    {
+      "type": "indentation",
+      "count": 1
     }
   ],
   "objectOrientation": {
@@ -184,11 +192,7 @@
     },
     {
       "type": "Write",
-      "count": 26
-    },
-    {
-      "type": "Unknown",
-      "count": 16
+      "count": 42
     },
     {
       "type": "ElseIf",
@@ -234,39 +238,39 @@
   "statements": [
     {
       "type": "v700",
-      "count": 272
+      "count": 288
     },
     {
       "type": "v702",
-      "count": 272
+      "count": 288
     },
     {
       "type": "v740sp02",
-      "count": 273
+      "count": 289
     },
     {
       "type": "v740sp05",
-      "count": 273
+      "count": 289
     },
     {
       "type": "v740sp08",
-      "count": 274
+      "count": 290
     },
     {
       "type": "v750",
-      "count": 274
+      "count": 290
     },
     {
       "type": "v751",
-      "count": 274
+      "count": 290
     },
     {
       "type": "v752",
-      "count": 274
+      "count": 290
     },
     {
       "type": "v753",
-      "count": 274
+      "count": 290
     },
     {
       "type": "Cloud",
