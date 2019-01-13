@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T09:51:07.345Z",
+  "time": "2019-01-13T14:17:21.741Z",
   "totals": {
     "objects": 24,
     "files": 42,
@@ -10,15 +10,23 @@
   },
   "objects": [
     {
-      "type": "DEVC",
-      "count": 1
-    },
-    {
       "type": "CLAS",
       "count": 10
     },
     {
+      "type": "DEVC",
+      "count": 1
+    },
+    {
+      "type": "INTF",
+      "count": 6
+    },
+    {
       "type": "MSAG",
+      "count": 1
+    },
+    {
+      "type": "PROG",
       "count": 1
     },
     {
@@ -26,23 +34,19 @@
       "count": 2
     },
     {
-      "type": "TTYP",
-      "count": 2
-    },
-    {
-      "type": "INTF",
-      "count": 6
-    },
-    {
       "type": "TRAN",
       "count": 1
     },
     {
-      "type": "PROG",
-      "count": 1
+      "type": "TTYP",
+      "count": 2
     }
   ],
   "issues": [
+    {
+      "type": "check_variables",
+      "count": 63
+    },
     {
       "type": "class_attribute_names",
       "count": 27
@@ -64,6 +68,10 @@
       "count": 4
     },
     {
+      "type": "local_class_naming",
+      "count": 8
+    },
+    {
       "type": "local_variable_names",
       "count": 16
     },
@@ -72,16 +80,8 @@
       "count": 112
     },
     {
-      "type": "check_variables",
-      "count": 63
-    },
-    {
       "type": "space_before_colon",
       "count": 6
-    },
-    {
-      "type": "local_class_naming",
-      "count": 8
     }
   ],
   "objectOrientation": {
@@ -132,147 +132,103 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 18
-    },
-    {
-      "type": "Public",
-      "count": 18
-    },
-    {
-      "type": "InterfaceDef",
-      "count": 20
-    },
-    {
       "type": "Aliases",
       "count": 40
-    },
-    {
-      "type": "MethodDef",
-      "count": 64
-    },
-    {
-      "type": "Protected",
-      "count": 10
-    },
-    {
-      "type": "Private",
-      "count": 12
-    },
-    {
-      "type": "Data",
-      "count": 45
-    },
-    {
-      "type": "EndClass",
-      "count": 36
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 18
-    },
-    {
-      "type": "Method",
-      "count": 94
     },
     {
       "type": "Append",
       "count": 47
     },
     {
-      "type": "EndMethod",
-      "count": 94
-    },
-    {
-      "type": "Clear",
-      "count": 4
-    },
-    {
-      "type": "Move",
-      "count": 126
-    },
-    {
       "type": "Call",
       "count": 50
-    },
-    {
-      "type": "Try",
-      "count": 13
-    },
-    {
-      "type": "Replace",
-      "count": 3
     },
     {
       "type": "Catch",
       "count": 13
     },
     {
-      "type": "EndTry",
-      "count": 13
+      "type": "ClassDefinition",
+      "count": 18
     },
     {
-      "type": "If",
-      "count": 19
+      "type": "ClassImplementation",
+      "count": 18
     },
     {
-      "type": "Return",
-      "count": 3
-    },
-    {
-      "type": "EndIf",
-      "count": 19
-    },
-    {
-      "type": "ReadTable",
-      "count": 3
-    },
-    {
-      "type": "ElseIf",
-      "count": 3
-    },
-    {
-      "type": "Loop",
-      "count": 14
-    },
-    {
-      "type": "Exit",
-      "count": 1
-    },
-    {
-      "type": "EndLoop",
-      "count": 14
-    },
-    {
-      "type": "Raise",
-      "count": 1
-    },
-    {
-      "type": "Split",
-      "count": 6
+      "type": "Clear",
+      "count": 4
     },
     {
       "type": "Comment",
       "count": 17
     },
     {
+      "type": "Concatenate",
+      "count": 3
+    },
+    {
+      "type": "Constant",
+      "count": 19
+    },
+    {
       "type": "Continue",
       "count": 3
     },
     {
-      "type": "Find",
-      "count": 2
+      "type": "CreateObject",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 45
     },
     {
       "type": "Else",
       "count": 4
     },
     {
-      "type": "Message",
+      "type": "ElseIf",
+      "count": 3
+    },
+    {
+      "type": "EndClass",
+      "count": 36
+    },
+    {
+      "type": "EndIf",
+      "count": 19
+    },
+    {
+      "type": "EndInterface",
+      "count": 6
+    },
+    {
+      "type": "EndLoop",
+      "count": 14
+    },
+    {
+      "type": "EndMethod",
+      "count": 94
+    },
+    {
+      "type": "EndTry",
+      "count": 13
+    },
+    {
+      "type": "Exit",
       "count": 1
     },
     {
-      "type": "Constant",
+      "type": "FieldSymbol",
+      "count": 2
+    },
+    {
+      "type": "Find",
+      "count": 2
+    },
+    {
+      "type": "If",
       "count": 19
     },
     {
@@ -280,40 +236,84 @@
       "count": 6
     },
     {
-      "type": "EndInterface",
-      "count": 6
+      "type": "InterfaceDef",
+      "count": 20
     },
     {
-      "type": "Report",
+      "type": "Loop",
+      "count": 14
+    },
+    {
+      "type": "Message",
       "count": 1
+    },
+    {
+      "type": "Method",
+      "count": 94
+    },
+    {
+      "type": "MethodDef",
+      "count": 64
+    },
+    {
+      "type": "Move",
+      "count": 126
     },
     {
       "type": "Parameter",
       "count": 5
     },
     {
-      "type": "StartOfSelection",
-      "count": 1
+      "type": "Private",
+      "count": 12
     },
     {
-      "type": "CreateObject",
-      "count": 1
-    },
-    {
-      "type": "Write",
+      "type": "Protected",
       "count": 10
     },
     {
-      "type": "FieldSymbol",
-      "count": 2
+      "type": "Public",
+      "count": 18
     },
     {
-      "type": "Concatenate",
+      "type": "Raise",
+      "count": 1
+    },
+    {
+      "type": "ReadTable",
+      "count": 3
+    },
+    {
+      "type": "Replace",
+      "count": 3
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Return",
       "count": 3
     },
     {
       "type": "Select",
       "count": 1
+    },
+    {
+      "type": "Split",
+      "count": 6
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 13
+    },
+    {
+      "type": "Write",
+      "count": 10
     }
   ],
   "statements": [

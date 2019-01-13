@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T11:24:27.344Z",
+  "time": "2019-01-13T15:32:18.763Z",
   "totals": {
     "objects": 30,
     "files": 65,
@@ -10,21 +10,25 @@
   },
   "objects": [
     {
+      "type": "CLAS",
+      "count": 28
+    },
+    {
       "type": "DEVC",
       "count": 1
     },
     {
       "type": "PROG",
       "count": 1
-    },
-    {
-      "type": "CLAS",
-      "count": 28
     }
   ],
   "issues": [
     {
-      "type": "local_class_naming",
+      "type": "7bit_ascii",
+      "count": 536
+    },
+    {
+      "type": "check_variables",
       "count": 1
     },
     {
@@ -32,24 +36,12 @@
       "count": 36
     },
     {
+      "type": "commented_code",
+      "count": 1
+    },
+    {
       "type": "definitions_top",
       "count": 2
-    },
-    {
-      "type": "line_only_punc",
-      "count": 73
-    },
-    {
-      "type": "local_variable_names",
-      "count": 4
-    },
-    {
-      "type": "method_parameter_names",
-      "count": 70
-    },
-    {
-      "type": "7bit_ascii",
-      "count": 536
     },
     {
       "type": "keywords_upper",
@@ -60,12 +52,20 @@
       "count": 5
     },
     {
-      "type": "commented_code",
+      "type": "line_only_punc",
+      "count": 73
+    },
+    {
+      "type": "local_class_naming",
       "count": 1
     },
     {
-      "type": "check_variables",
-      "count": 1
+      "type": "local_variable_names",
+      "count": 4
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 70
     }
   ],
   "objectOrientation": {
@@ -114,59 +114,7 @@
   ],
   "statementTypes": [
     {
-      "type": "Comment",
-      "count": 720
-    },
-    {
-      "type": "Report",
-      "count": 1
-    },
-    {
-      "type": "ClassDefinition",
-      "count": 29
-    },
-    {
-      "type": "Public",
-      "count": 29
-    },
-    {
-      "type": "MethodDef",
-      "count": 62
-    },
-    {
-      "type": "EndClass",
-      "count": 58
-    },
-    {
-      "type": "Parameter",
-      "count": 2
-    },
-    {
       "type": "Call",
-      "count": 24
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 29
-    },
-    {
-      "type": "Method",
-      "count": 62
-    },
-    {
-      "type": "Move",
-      "count": 145
-    },
-    {
-      "type": "EndMethod",
-      "count": 62
-    },
-    {
-      "type": "Data",
-      "count": 40
-    },
-    {
-      "type": "Private",
       "count": 24
     },
     {
@@ -174,63 +122,83 @@
       "count": 2
     },
     {
-      "type": "Write",
+      "type": "Case",
       "count": 1
-    },
-    {
-      "type": "If",
-      "count": 13
-    },
-    {
-      "type": "EndIf",
-      "count": 13
-    },
-    {
-      "type": "Constant",
-      "count": 1
-    },
-    {
-      "type": "Try",
-      "count": 3
-    },
-    {
-      "type": "CreateObject",
-      "count": 2
     },
     {
       "type": "Catch",
       "count": 3
     },
     {
-      "type": "EndTry",
-      "count": 3
+      "type": "ClassDefinition",
+      "count": 29
     },
     {
-      "type": "Protected",
-      "count": 6
+      "type": "ClassImplementation",
+      "count": 29
     },
     {
-      "type": "GetTime",
+      "type": "Clear",
       "count": 1
     },
     {
-      "type": "Else",
-      "count": 4
+      "type": "Comment",
+      "count": 720
+    },
+    {
+      "type": "Constant",
+      "count": 1
+    },
+    {
+      "type": "CreateObject",
+      "count": 2
+    },
+    {
+      "type": "Data",
+      "count": 40
     },
     {
       "type": "Do",
       "count": 2
     },
     {
-      "type": "Replace",
-      "count": 5
+      "type": "Else",
+      "count": 4
     },
     {
-      "type": "Exit",
-      "count": 2
+      "type": "ElseIf",
+      "count": 1
+    },
+    {
+      "type": "EndCase",
+      "count": 1
+    },
+    {
+      "type": "EndClass",
+      "count": 58
     },
     {
       "type": "EndDo",
+      "count": 2
+    },
+    {
+      "type": "EndIf",
+      "count": 13
+    },
+    {
+      "type": "EndMethod",
+      "count": 62
+    },
+    {
+      "type": "EndSelect",
+      "count": 1
+    },
+    {
+      "type": "EndTry",
+      "count": 3
+    },
+    {
+      "type": "Exit",
       "count": 2
     },
     {
@@ -238,23 +206,47 @@
       "count": 1
     },
     {
-      "type": "Clear",
+      "type": "GetTime",
       "count": 1
     },
     {
-      "type": "Case",
-      "count": 1
+      "type": "If",
+      "count": 13
     },
     {
-      "type": "When",
-      "count": 4
+      "type": "Method",
+      "count": 62
     },
     {
-      "type": "EndCase",
-      "count": 1
+      "type": "MethodDef",
+      "count": 62
     },
     {
-      "type": "ElseIf",
+      "type": "Move",
+      "count": 145
+    },
+    {
+      "type": "Parameter",
+      "count": 2
+    },
+    {
+      "type": "Private",
+      "count": 24
+    },
+    {
+      "type": "Protected",
+      "count": 6
+    },
+    {
+      "type": "Public",
+      "count": 29
+    },
+    {
+      "type": "Replace",
+      "count": 5
+    },
+    {
+      "type": "Report",
       "count": 1
     },
     {
@@ -262,7 +254,15 @@
       "count": 1
     },
     {
-      "type": "EndSelect",
+      "type": "Try",
+      "count": 3
+    },
+    {
+      "type": "When",
+      "count": 4
+    },
+    {
+      "type": "Write",
       "count": 1
     }
   ],

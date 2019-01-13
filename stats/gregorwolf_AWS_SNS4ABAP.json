@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T10:33:36.585Z",
+  "time": "2019-01-13T15:01:43.765Z",
   "totals": {
     "objects": 6,
     "files": 8,
@@ -9,6 +9,14 @@
     "tokens": 760
   },
   "objects": [
+    {
+      "type": "ACID",
+      "count": 1
+    },
+    {
+      "type": "CLAS",
+      "count": 1
+    },
     {
       "type": "DEVC",
       "count": 1
@@ -18,22 +26,18 @@
       "count": 1
     },
     {
-      "type": "ACID",
-      "count": 1
-    },
-    {
       "type": "TABL",
       "count": 2
-    },
-    {
-      "type": "CLAS",
-      "count": 1
     }
   ],
   "issues": [
     {
       "type": "7bit_ascii",
       "count": 2
+    },
+    {
+      "type": "check_variables",
+      "count": 4
     },
     {
       "type": "exit_or_check",
@@ -66,10 +70,6 @@
     {
       "type": "local_variable_names",
       "count": 4
-    },
-    {
-      "type": "check_variables",
-      "count": 4
     }
   ],
   "objectOrientation": {
@@ -100,64 +100,36 @@
   ],
   "statementTypes": [
     {
+      "type": "Call",
+      "count": 13
+    },
+    {
       "type": "ClassDefinition",
       "count": 2
-    },
-    {
-      "type": "Public",
-      "count": 1
-    },
-    {
-      "type": "InterfaceDef",
-      "count": 1
-    },
-    {
-      "type": "MethodDef",
-      "count": 5
-    },
-    {
-      "type": "Protected",
-      "count": 1
-    },
-    {
-      "type": "Private",
-      "count": 2
-    },
-    {
-      "type": "EndClass",
-      "count": 4
     },
     {
       "type": "ClassImplementation",
       "count": 2
     },
     {
-      "type": "Method",
-      "count": 6
+      "type": "Comment",
+      "count": 28
+    },
+    {
+      "type": "CreateObject",
+      "count": 2
     },
     {
       "type": "Data",
       "count": 7
     },
     {
-      "type": "Comment",
-      "count": 28
+      "type": "ElseIf",
+      "count": 1
     },
     {
-      "type": "Call",
-      "count": 13
-    },
-    {
-      "type": "If",
-      "count": 6
-    },
-    {
-      "type": "Message",
-      "count": 3
-    },
-    {
-      "type": "Exit",
-      "count": 3
+      "type": "EndClass",
+      "count": 4
     },
     {
       "type": "EndIf",
@@ -168,20 +140,48 @@
       "count": 6
     },
     {
-      "type": "Move",
-      "count": 22
+      "type": "Exit",
+      "count": 3
+    },
+    {
+      "type": "If",
+      "count": 6
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 1
     },
     {
       "type": "LogPoint",
       "count": 3
     },
     {
-      "type": "ElseIf",
+      "type": "Message",
+      "count": 3
+    },
+    {
+      "type": "Method",
+      "count": 6
+    },
+    {
+      "type": "MethodDef",
+      "count": 5
+    },
+    {
+      "type": "Move",
+      "count": 22
+    },
+    {
+      "type": "Private",
+      "count": 2
+    },
+    {
+      "type": "Protected",
       "count": 1
     },
     {
-      "type": "CreateObject",
-      "count": 2
+      "type": "Public",
+      "count": 1
     }
   ],
   "statements": [

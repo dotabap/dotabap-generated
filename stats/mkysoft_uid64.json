@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T11:36:26.533Z",
+  "time": "2019-01-13T15:35:49.211Z",
   "totals": {
     "objects": 2,
     "files": 4,
@@ -24,6 +24,10 @@
       "count": 9
     },
     {
+      "type": "functional_writing",
+      "count": 1
+    },
+    {
       "type": "indentation",
       "count": 2
     },
@@ -32,20 +36,16 @@
       "count": 2
     },
     {
+      "type": "line_only_punc",
+      "count": 1
+    },
+    {
       "type": "local_variable_names",
       "count": 34
     },
     {
       "type": "method_parameter_names",
       "count": 41
-    },
-    {
-      "type": "functional_writing",
-      "count": 1
-    },
-    {
-      "type": "line_only_punc",
-      "count": 1
     },
     {
       "type": "obsolete_statement",
@@ -93,107 +93,55 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 2
-    },
-    {
-      "type": "Public",
-      "count": 2
-    },
-    {
-      "type": "MethodDef",
-      "count": 17
-    },
-    {
-      "type": "Protected",
-      "count": 2
-    },
-    {
-      "type": "Private",
-      "count": 2
-    },
-    {
-      "type": "Constant",
-      "count": 11
-    },
-    {
-      "type": "Comment",
-      "count": 17
-    },
-    {
-      "type": "ClassData",
+      "type": "Add",
       "count": 3
-    },
-    {
-      "type": "EndClass",
-      "count": 4
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 2
-    },
-    {
-      "type": "Method",
-      "count": 17
-    },
-    {
-      "type": "Data",
-      "count": 51
-    },
-    {
-      "type": "Move",
-      "count": 88
-    },
-    {
-      "type": "EndMethod",
-      "count": 17
-    },
-    {
-      "type": "Try",
-      "count": 4
-    },
-    {
-      "type": "Catch",
-      "count": 4
-    },
-    {
-      "type": "While",
-      "count": 4
-    },
-    {
-      "type": "EndWhile",
-      "count": 4
-    },
-    {
-      "type": "EndTry",
-      "count": 4
     },
     {
       "type": "Append",
       "count": 30
     },
     {
-      "type": "If",
-      "count": 16
-    },
-    {
-      "type": "Return",
-      "count": 14
-    },
-    {
-      "type": "EndIf",
-      "count": 16
-    },
-    {
-      "type": "ReadTable",
+      "type": "Call",
       "count": 2
     },
     {
-      "type": "Do",
-      "count": 1
+      "type": "CallFunction",
+      "count": 2
     },
     {
-      "type": "EndDo",
+      "type": "Catch",
+      "count": 4
+    },
+    {
+      "type": "ClassData",
+      "count": 3
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 2
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 2
+    },
+    {
+      "type": "Comment",
+      "count": 17
+    },
+    {
+      "type": "Concatenate",
+      "count": 8
+    },
+    {
+      "type": "Constant",
+      "count": 11
+    },
+    {
+      "type": "Data",
+      "count": 51
+    },
+    {
+      "type": "Do",
       "count": 1
     },
     {
@@ -205,28 +153,80 @@
       "count": 1
     },
     {
-      "type": "CallFunction",
-      "count": 2
+      "type": "EndClass",
+      "count": 4
     },
     {
-      "type": "Concatenate",
-      "count": 8
-    },
-    {
-      "type": "Add",
-      "count": 3
-    },
-    {
-      "type": "Subtract",
+      "type": "EndDo",
       "count": 1
+    },
+    {
+      "type": "EndIf",
+      "count": 16
+    },
+    {
+      "type": "EndMethod",
+      "count": 17
+    },
+    {
+      "type": "EndTry",
+      "count": 4
+    },
+    {
+      "type": "EndWhile",
+      "count": 4
     },
     {
       "type": "GetTime",
       "count": 1
     },
     {
-      "type": "Call",
+      "type": "If",
+      "count": 16
+    },
+    {
+      "type": "Method",
+      "count": 17
+    },
+    {
+      "type": "MethodDef",
+      "count": 17
+    },
+    {
+      "type": "Move",
+      "count": 88
+    },
+    {
+      "type": "Private",
       "count": 2
+    },
+    {
+      "type": "Protected",
+      "count": 2
+    },
+    {
+      "type": "Public",
+      "count": 2
+    },
+    {
+      "type": "ReadTable",
+      "count": 2
+    },
+    {
+      "type": "Return",
+      "count": 14
+    },
+    {
+      "type": "Subtract",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 4
+    },
+    {
+      "type": "While",
+      "count": 4
     }
   ],
   "statements": [

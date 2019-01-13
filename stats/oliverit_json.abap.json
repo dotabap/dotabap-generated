@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T09:50:35.144Z",
+  "time": "2019-01-13T14:16:49.945Z",
   "totals": {
     "objects": 13,
     "files": 25,
@@ -10,12 +10,12 @@
   },
   "objects": [
     {
-      "type": "DEVC",
-      "count": 1
-    },
-    {
       "type": "CLAS",
       "count": 10
+    },
+    {
+      "type": "DEVC",
+      "count": 1
     },
     {
       "type": "INTF",
@@ -34,6 +34,10 @@
     {
       "type": "definitions_top",
       "count": 5
+    },
+    {
+      "type": "exit_or_check",
+      "count": 1
     },
     {
       "type": "indentation",
@@ -56,16 +60,12 @@
       "count": 32
     },
     {
-      "type": "method_parameter_names",
-      "count": 103
-    },
-    {
-      "type": "exit_or_check",
-      "count": 1
-    },
-    {
       "type": "method_length",
       "count": 1
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 103
     },
     {
       "type": "nesting",
@@ -356,128 +356,24 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 11
-    },
-    {
-      "type": "Public",
-      "count": 11
-    },
-    {
-      "type": "InterfaceDef",
-      "count": 6
-    },
-    {
-      "type": "MethodDef",
-      "count": 67
-    },
-    {
-      "type": "Protected",
-      "count": 11
-    },
-    {
-      "type": "Private",
-      "count": 11
-    },
-    {
-      "type": "Type",
-      "count": 4
-    },
-    {
-      "type": "Data",
-      "count": 37
-    },
-    {
-      "type": "EndClass",
-      "count": 22
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 11
-    },
-    {
-      "type": "Method",
-      "count": 77
-    },
-    {
       "type": "Append",
       "count": 6
     },
     {
-      "type": "EndMethod",
-      "count": 77
-    },
-    {
-      "type": "Try",
-      "count": 15
-    },
-    {
-      "type": "Move",
-      "count": 212
-    },
-    {
-      "type": "Catch",
-      "count": 15
-    },
-    {
-      "type": "EndTry",
-      "count": 15
-    },
-    {
-      "type": "DeleteInternal",
-      "count": 6
-    },
-    {
-      "type": "If",
-      "count": 52
-    },
-    {
-      "type": "Return",
-      "count": 20
-    },
-    {
-      "type": "EndIf",
-      "count": 52
-    },
-    {
-      "type": "Do",
+      "type": "Assign",
       "count": 3
-    },
-    {
-      "type": "EndDo",
-      "count": 3
-    },
-    {
-      "type": "Comment",
-      "count": 24
     },
     {
       "type": "Call",
       "count": 88
     },
     {
-      "type": "TypeBegin",
-      "count": 1
+      "type": "Case",
+      "count": 8
     },
     {
-      "type": "TypeEnd",
-      "count": 1
-    },
-    {
-      "type": "InsertInternal",
-      "count": 1
-    },
-    {
-      "type": "ReadTable",
-      "count": 5
-    },
-    {
-      "type": "Loop",
-      "count": 5
-    },
-    {
-      "type": "EndLoop",
-      "count": 5
+      "type": "Catch",
+      "count": 15
     },
     {
       "type": "Check",
@@ -488,76 +384,180 @@
       "count": 1
     },
     {
-      "type": "FieldSymbol",
-      "count": 2
+      "type": "ClassDefinition",
+      "count": 11
     },
     {
-      "type": "ElseIf",
-      "count": 26
-    },
-    {
-      "type": "Replace",
-      "count": 5
-    },
-    {
-      "type": "Assign",
-      "count": 3
-    },
-    {
-      "type": "Translate",
-      "count": 2
-    },
-    {
-      "type": "Continue",
-      "count": 4
-    },
-    {
-      "type": "Else",
-      "count": 8
-    },
-    {
-      "type": "While",
-      "count": 3
-    },
-    {
-      "type": "Case",
-      "count": 8
-    },
-    {
-      "type": "When",
-      "count": 26
+      "type": "ClassImplementation",
+      "count": 11
     },
     {
       "type": "Clear",
       "count": 12
     },
     {
-      "type": "Exit",
-      "count": 4
-    },
-    {
-      "type": "EndWhile",
-      "count": 3
-    },
-    {
-      "type": "EndCase",
-      "count": 8
-    },
-    {
-      "type": "Shift",
-      "count": 2
+      "type": "Comment",
+      "count": 24
     },
     {
       "type": "Constant",
       "count": 13
     },
     {
-      "type": "Interface",
-      "count": 1
+      "type": "Continue",
+      "count": 4
+    },
+    {
+      "type": "Data",
+      "count": 37
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 6
+    },
+    {
+      "type": "Do",
+      "count": 3
+    },
+    {
+      "type": "Else",
+      "count": 8
+    },
+    {
+      "type": "ElseIf",
+      "count": 26
+    },
+    {
+      "type": "EndCase",
+      "count": 8
+    },
+    {
+      "type": "EndClass",
+      "count": 22
+    },
+    {
+      "type": "EndDo",
+      "count": 3
+    },
+    {
+      "type": "EndIf",
+      "count": 52
     },
     {
       "type": "EndInterface",
       "count": 1
+    },
+    {
+      "type": "EndLoop",
+      "count": 5
+    },
+    {
+      "type": "EndMethod",
+      "count": 77
+    },
+    {
+      "type": "EndTry",
+      "count": 15
+    },
+    {
+      "type": "EndWhile",
+      "count": 3
+    },
+    {
+      "type": "Exit",
+      "count": 4
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 2
+    },
+    {
+      "type": "If",
+      "count": 52
+    },
+    {
+      "type": "InsertInternal",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 1
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 6
+    },
+    {
+      "type": "Loop",
+      "count": 5
+    },
+    {
+      "type": "Method",
+      "count": 77
+    },
+    {
+      "type": "MethodDef",
+      "count": 67
+    },
+    {
+      "type": "Move",
+      "count": 212
+    },
+    {
+      "type": "Private",
+      "count": 11
+    },
+    {
+      "type": "Protected",
+      "count": 11
+    },
+    {
+      "type": "Public",
+      "count": 11
+    },
+    {
+      "type": "ReadTable",
+      "count": 5
+    },
+    {
+      "type": "Replace",
+      "count": 5
+    },
+    {
+      "type": "Return",
+      "count": 20
+    },
+    {
+      "type": "Shift",
+      "count": 2
+    },
+    {
+      "type": "Translate",
+      "count": 2
+    },
+    {
+      "type": "Try",
+      "count": 15
+    },
+    {
+      "type": "Type",
+      "count": 4
+    },
+    {
+      "type": "TypeBegin",
+      "count": 1
+    },
+    {
+      "type": "TypeEnd",
+      "count": 1
+    },
+    {
+      "type": "When",
+      "count": 26
+    },
+    {
+      "type": "While",
+      "count": 3
     }
   ],
   "statements": [

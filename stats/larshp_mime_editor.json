@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T10:12:06.210Z",
+  "time": "2019-01-13T14:39:00.153Z",
   "totals": {
     "objects": 6,
     "files": 11,
@@ -65,67 +65,35 @@
   ],
   "statementTypes": [
     {
-      "type": "Report",
-      "count": 1
-    },
-    {
-      "type": "Comment",
-      "count": 49
-    },
-    {
-      "type": "TypeBegin",
-      "count": 4
-    },
-    {
-      "type": "Type",
-      "count": 9
-    },
-    {
-      "type": "TypeEnd",
-      "count": 4
-    },
-    {
-      "type": "Data",
-      "count": 33
-    },
-    {
-      "type": "IncludeType",
-      "count": 1
-    },
-    {
-      "type": "Parameter",
-      "count": 1
-    },
-    {
-      "type": "Include",
-      "count": 4
-    },
-    {
-      "type": "StartOfSelection",
-      "count": 1
-    },
-    {
-      "type": "Perform",
+      "type": "Append",
       "count": 3
     },
     {
-      "type": "ClassDefinition",
+      "type": "Assert",
+      "count": 5
+    },
+    {
+      "type": "Break",
       "count": 4
     },
     {
-      "type": "Public",
-      "count": 4
+      "type": "Call",
+      "count": 25
     },
     {
-      "type": "MethodDef",
-      "count": 11
+      "type": "CallFunction",
+      "count": 1
     },
     {
-      "type": "EndClass",
-      "count": 8
+      "type": "CallScreen",
+      "count": 1
     },
     {
-      "type": "Private",
+      "type": "Case",
+      "count": 1
+    },
+    {
+      "type": "Catch",
       "count": 2
     },
     {
@@ -133,139 +101,39 @@
       "count": 2
     },
     {
+      "type": "ClassDefinition",
+      "count": 4
+    },
+    {
       "type": "ClassImplementation",
       "count": 4
     },
     {
-      "type": "Method",
-      "count": 11
-    },
-    {
-      "type": "ReadTable",
+      "type": "Clear",
       "count": 2
     },
     {
-      "type": "Assert",
-      "count": 5
-    },
-    {
-      "type": "Move",
-      "count": 27
-    },
-    {
-      "type": "EndMethod",
-      "count": 11
-    },
-    {
-      "type": "Append",
-      "count": 3
-    },
-    {
-      "type": "Call",
-      "count": 25
-    },
-    {
-      "type": "Loop",
-      "count": 2
-    },
-    {
-      "type": "EndLoop",
-      "count": 2
-    },
-    {
-      "type": "Select",
-      "count": 2
-    },
-    {
-      "type": "If",
-      "count": 10
-    },
-    {
-      "type": "Continue",
-      "count": 2
-    },
-    {
-      "type": "EndIf",
-      "count": 10
-    },
-    {
-      "type": "Break",
-      "count": 4
-    },
-    {
-      "type": "Try",
-      "count": 2
-    },
-    {
-      "type": "Catch",
-      "count": 2
-    },
-    {
-      "type": "EndTry",
-      "count": 2
-    },
-    {
-      "type": "CallFunction",
-      "count": 1
-    },
-    {
-      "type": "Split",
-      "count": 1
+      "type": "Comment",
+      "count": 49
     },
     {
       "type": "Concatenate",
       "count": 1
     },
     {
-      "type": "Return",
-      "count": 3
-    },
-    {
-      "type": "Else",
+      "type": "Continue",
       "count": 2
-    },
-    {
-      "type": "Message",
-      "count": 4
-    },
-    {
-      "type": "Form",
-      "count": 3
-    },
-    {
-      "type": "CallScreen",
-      "count": 1
-    },
-    {
-      "type": "EndForm",
-      "count": 3
-    },
-    {
-      "type": "Leave",
-      "count": 1
     },
     {
       "type": "CreateObject",
       "count": 4
     },
     {
-      "type": "SetHandler",
-      "count": 1
+      "type": "Data",
+      "count": 33
     },
     {
-      "type": "Module",
-      "count": 3
-    },
-    {
-      "type": "Case",
-      "count": 1
-    },
-    {
-      "type": "When",
-      "count": 2
-    },
-    {
-      "type": "Clear",
+      "type": "Else",
       "count": 2
     },
     {
@@ -273,8 +141,112 @@
       "count": 1
     },
     {
+      "type": "EndClass",
+      "count": 8
+    },
+    {
+      "type": "EndForm",
+      "count": 3
+    },
+    {
+      "type": "EndIf",
+      "count": 10
+    },
+    {
+      "type": "EndLoop",
+      "count": 2
+    },
+    {
+      "type": "EndMethod",
+      "count": 11
+    },
+    {
       "type": "EndModule",
       "count": 3
+    },
+    {
+      "type": "EndTry",
+      "count": 2
+    },
+    {
+      "type": "Form",
+      "count": 3
+    },
+    {
+      "type": "If",
+      "count": 10
+    },
+    {
+      "type": "Include",
+      "count": 4
+    },
+    {
+      "type": "IncludeType",
+      "count": 1
+    },
+    {
+      "type": "Leave",
+      "count": 1
+    },
+    {
+      "type": "Loop",
+      "count": 2
+    },
+    {
+      "type": "Message",
+      "count": 4
+    },
+    {
+      "type": "Method",
+      "count": 11
+    },
+    {
+      "type": "MethodDef",
+      "count": 11
+    },
+    {
+      "type": "Module",
+      "count": 3
+    },
+    {
+      "type": "Move",
+      "count": 27
+    },
+    {
+      "type": "Parameter",
+      "count": 1
+    },
+    {
+      "type": "Perform",
+      "count": 3
+    },
+    {
+      "type": "Private",
+      "count": 2
+    },
+    {
+      "type": "Public",
+      "count": 4
+    },
+    {
+      "type": "ReadTable",
+      "count": 2
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 3
+    },
+    {
+      "type": "Select",
+      "count": 2
+    },
+    {
+      "type": "SetHandler",
+      "count": 1
     },
     {
       "type": "SetPFStatus",
@@ -283,6 +255,34 @@
     {
       "type": "SetTitlebar",
       "count": 1
+    },
+    {
+      "type": "Split",
+      "count": 1
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 2
+    },
+    {
+      "type": "Type",
+      "count": 9
+    },
+    {
+      "type": "TypeBegin",
+      "count": 4
+    },
+    {
+      "type": "TypeEnd",
+      "count": 4
+    },
+    {
+      "type": "When",
+      "count": 2
     }
   ],
   "statements": [

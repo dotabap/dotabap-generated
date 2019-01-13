@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T10:49:37.589Z",
+  "time": "2019-01-13T15:18:11.404Z",
   "totals": {
     "objects": 2,
     "files": 3,
@@ -20,11 +20,11 @@
   ],
   "issues": [
     {
-      "type": "local_class_naming",
+      "type": "check_variables",
       "count": 1
     },
     {
-      "type": "check_variables",
+      "type": "local_class_naming",
       "count": 1
     },
     {
@@ -73,176 +73,64 @@
   ],
   "statementTypes": [
     {
-      "type": "Report",
-      "count": 1
-    },
-    {
-      "type": "Comment",
-      "count": 30
-    },
-    {
-      "type": "Data",
-      "count": 51
-    },
-    {
-      "type": "Constant",
-      "count": 4
-    },
-    {
-      "type": "Define",
-      "count": 1
-    },
-    {
-      "type": "MacroContent",
-      "count": 1
-    },
-    {
-      "type": "EndOfDefinition",
-      "count": 1
-    },
-    {
-      "type": "SelectionScreen",
-      "count": 2
-    },
-    {
-      "type": "Parameter",
-      "count": 1
-    },
-    {
-      "type": "ClassDefinition",
-      "count": 9
-    },
-    {
-      "type": "Public",
-      "count": 9
-    },
-    {
-      "type": "MethodDef",
-      "count": 40
-    },
-    {
-      "type": "EndClass",
-      "count": 18
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 9
-    },
-    {
-      "type": "Method",
-      "count": 40
-    },
-    {
-      "type": "Call",
-      "count": 26
-    },
-    {
-      "type": "Move",
-      "count": 67
-    },
-    {
-      "type": "EndMethod",
-      "count": 40
-    },
-    {
-      "type": "Private",
-      "count": 6
-    },
-    {
-      "type": "If",
-      "count": 19
-    },
-    {
-      "type": "Else",
-      "count": 3
-    },
-    {
-      "type": "Concatenate",
-      "count": 29
-    },
-    {
-      "type": "EndIf",
-      "count": 19
-    },
-    {
-      "type": "ReadTable",
-      "count": 4
+      "type": "Append",
+      "count": 7
     },
     {
       "type": "Assert",
       "count": 6
     },
     {
-      "type": "CreateObject",
-      "count": 9
-    },
-    {
-      "type": "Append",
-      "count": 7
-    },
-    {
-      "type": "Loop",
-      "count": 8
-    },
-    {
-      "type": "EndLoop",
-      "count": 8
-    },
-    {
-      "type": "Do",
-      "count": 2
-    },
-    {
-      "type": "DeleteInternal",
-      "count": 2
-    },
-    {
-      "type": "EndDo",
-      "count": 2
-    },
-    {
-      "type": "MacroCall",
-      "count": 4
+      "type": "Call",
+      "count": 26
     },
     {
       "type": "CallFunction",
       "count": 3
     },
     {
-      "type": "ElseIf",
-      "count": 5
-    },
-    {
-      "type": "Split",
-      "count": 2
-    },
-    {
-      "type": "Message",
-      "count": 2
-    },
-    {
-      "type": "ClassData",
-      "count": 7
-    },
-    {
-      "type": "FieldSymbol",
-      "count": 4
-    },
-    {
-      "type": "Replace",
-      "count": 2
+      "type": "CallScreen",
+      "count": 1
     },
     {
       "type": "Case",
       "count": 3
     },
     {
-      "type": "When",
-      "count": 12
+      "type": "Catch",
+      "count": 1
     },
     {
-      "type": "EndCase",
+      "type": "ClassData",
+      "count": 7
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 9
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 9
+    },
+    {
+      "type": "Clear",
+      "count": 7
+    },
+    {
+      "type": "Comment",
+      "count": 30
+    },
+    {
+      "type": "Concatenate",
+      "count": 29
+    },
+    {
+      "type": "Condense",
       "count": 3
+    },
+    {
+      "type": "Constant",
+      "count": 4
     },
     {
       "type": "ConstantBegin",
@@ -253,39 +141,63 @@
       "count": 1
     },
     {
-      "type": "Condense",
+      "type": "CreateObject",
+      "count": 9
+    },
+    {
+      "type": "Data",
+      "count": 51
+    },
+    {
+      "type": "Define",
+      "count": 1
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 2
+    },
+    {
+      "type": "Do",
+      "count": 2
+    },
+    {
+      "type": "Else",
       "count": 3
     },
     {
-      "type": "Clear",
-      "count": 7
+      "type": "ElseIf",
+      "count": 5
     },
     {
-      "type": "Return",
-      "count": 1
+      "type": "EndCase",
+      "count": 3
     },
     {
-      "type": "SetTitlebar",
-      "count": 1
+      "type": "EndClass",
+      "count": 18
     },
     {
-      "type": "SetPFStatus",
-      "count": 1
+      "type": "EndDo",
+      "count": 2
     },
     {
-      "type": "Leave",
-      "count": 1
+      "type": "EndIf",
+      "count": 19
     },
     {
-      "type": "CallScreen",
-      "count": 1
+      "type": "EndLoop",
+      "count": 8
     },
     {
-      "type": "Try",
-      "count": 1
+      "type": "EndMethod",
+      "count": 40
     },
     {
-      "type": "Catch",
+      "type": "EndModule",
+      "count": 2
+    },
+    {
+      "type": "EndOfDefinition",
       "count": 1
     },
     {
@@ -293,16 +205,104 @@
       "count": 1
     },
     {
-      "type": "StartOfSelection",
+      "type": "FieldSymbol",
+      "count": 4
+    },
+    {
+      "type": "If",
+      "count": 19
+    },
+    {
+      "type": "Leave",
       "count": 1
+    },
+    {
+      "type": "Loop",
+      "count": 8
+    },
+    {
+      "type": "MacroCall",
+      "count": 4
+    },
+    {
+      "type": "MacroContent",
+      "count": 1
+    },
+    {
+      "type": "Message",
+      "count": 2
+    },
+    {
+      "type": "Method",
+      "count": 40
+    },
+    {
+      "type": "MethodDef",
+      "count": 40
     },
     {
       "type": "Module",
       "count": 2
     },
     {
-      "type": "EndModule",
+      "type": "Move",
+      "count": 67
+    },
+    {
+      "type": "Parameter",
+      "count": 1
+    },
+    {
+      "type": "Private",
+      "count": 6
+    },
+    {
+      "type": "Public",
+      "count": 9
+    },
+    {
+      "type": "ReadTable",
+      "count": 4
+    },
+    {
+      "type": "Replace",
       "count": 2
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 1
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 2
+    },
+    {
+      "type": "SetPFStatus",
+      "count": 1
+    },
+    {
+      "type": "SetTitlebar",
+      "count": 1
+    },
+    {
+      "type": "Split",
+      "count": 2
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 1
+    },
+    {
+      "type": "When",
+      "count": 12
     }
   ],
   "statements": [

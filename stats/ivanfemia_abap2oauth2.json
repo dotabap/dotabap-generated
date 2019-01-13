@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T09:28:45.814Z",
+  "time": "2019-01-13T13:52:09.861Z",
   "totals": {
     "objects": 23,
     "files": 35,
@@ -10,28 +10,28 @@
   },
   "objects": [
     {
-      "type": "DEVC",
-      "count": 1
-    },
-    {
       "type": "CLAS",
       "count": 2
     },
     {
-      "type": "INTF",
+      "type": "DEVC",
       "count": 1
     },
     {
-      "type": "FUGR",
-      "count": 1
+      "type": "DOMA",
+      "count": 4
     },
     {
       "type": "DTEL",
       "count": 12
     },
     {
-      "type": "DOMA",
-      "count": 4
+      "type": "FUGR",
+      "count": 1
+    },
+    {
+      "type": "INTF",
+      "count": 1
     },
     {
       "type": "TABL",
@@ -40,8 +40,20 @@
   ],
   "issues": [
     {
+      "type": "check_variables",
+      "count": 1
+    },
+    {
       "type": "class_attribute_names",
       "count": 7
+    },
+    {
+      "type": "commented_code",
+      "count": 8
+    },
+    {
+      "type": "contains_tab",
+      "count": 1
     },
     {
       "type": "definitions_top",
@@ -50,10 +62,6 @@
     {
       "type": "empty_statement",
       "count": 1
-    },
-    {
-      "type": "commented_code",
-      "count": 8
     },
     {
       "type": "functional_writing",
@@ -84,23 +92,15 @@
       "count": 13
     },
     {
+      "type": "sequential_blank",
+      "count": 1
+    },
+    {
       "type": "start_at_tab",
       "count": 4
     },
     {
-      "type": "check_variables",
-      "count": 1
-    },
-    {
       "type": "superclass_final",
-      "count": 1
-    },
-    {
-      "type": "contains_tab",
-      "count": 1
-    },
-    {
-      "type": "sequential_blank",
       "count": 1
     }
   ],
@@ -151,135 +151,11 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 2
-    },
-    {
-      "type": "Comment",
-      "count": 103
-    },
-    {
-      "type": "Public",
-      "count": 2
-    },
-    {
-      "type": "InterfaceDef",
-      "count": 1
-    },
-    {
-      "type": "Data",
-      "count": 35
-    },
-    {
-      "type": "MethodDef",
-      "count": 6
-    },
-    {
-      "type": "Protected",
-      "count": 2
-    },
-    {
-      "type": "ClassData",
-      "count": 3
-    },
-    {
-      "type": "Private",
-      "count": 2
-    },
-    {
-      "type": "EndClass",
-      "count": 4
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 2
-    },
-    {
-      "type": "Method",
-      "count": 6
-    },
-    {
-      "type": "Move",
-      "count": 22
-    },
-    {
-      "type": "Select",
-      "count": 6
-    },
-    {
-      "type": "If",
-      "count": 11
-    },
-    {
       "type": "Call",
       "count": 26
     },
     {
-      "type": "Else",
-      "count": 1
-    },
-    {
-      "type": "EndIf",
-      "count": 11
-    },
-    {
-      "type": "EndMethod",
-      "count": 6
-    },
-    {
-      "type": "Concatenate",
-      "count": 3
-    },
-    {
-      "type": "Empty",
-      "count": 1
-    },
-    {
-      "type": "InsertDatabase",
-      "count": 1
-    },
-    {
       "type": "CallFunction",
-      "count": 1
-    },
-    {
-      "type": "UpdateDatabase",
-      "count": 1
-    },
-    {
-      "type": "Constant",
-      "count": 6
-    },
-    {
-      "type": "Interface",
-      "count": 1
-    },
-    {
-      "type": "EndInterface",
-      "count": 1
-    },
-    {
-      "type": "Module",
-      "count": 1
-    },
-    {
-      "type": "Leave",
-      "count": 1
-    },
-    {
-      "type": "EndModule",
-      "count": 1
-    },
-    {
-      "type": "FunctionPool",
-      "count": 1
-    },
-    {
-      "type": "Include",
-      "count": 4
-    },
-    {
-      "type": "FunctionModule",
       "count": 1
     },
     {
@@ -287,7 +163,131 @@
       "count": 1
     },
     {
+      "type": "ClassData",
+      "count": 3
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 2
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 2
+    },
+    {
+      "type": "Comment",
+      "count": 103
+    },
+    {
+      "type": "Concatenate",
+      "count": 3
+    },
+    {
+      "type": "Constant",
+      "count": 6
+    },
+    {
+      "type": "Data",
+      "count": 35
+    },
+    {
+      "type": "Else",
+      "count": 1
+    },
+    {
+      "type": "Empty",
+      "count": 1
+    },
+    {
+      "type": "EndClass",
+      "count": 4
+    },
+    {
       "type": "EndFunction",
+      "count": 1
+    },
+    {
+      "type": "EndIf",
+      "count": 11
+    },
+    {
+      "type": "EndInterface",
+      "count": 1
+    },
+    {
+      "type": "EndMethod",
+      "count": 6
+    },
+    {
+      "type": "EndModule",
+      "count": 1
+    },
+    {
+      "type": "FunctionModule",
+      "count": 1
+    },
+    {
+      "type": "FunctionPool",
+      "count": 1
+    },
+    {
+      "type": "If",
+      "count": 11
+    },
+    {
+      "type": "Include",
+      "count": 4
+    },
+    {
+      "type": "InsertDatabase",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 1
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 1
+    },
+    {
+      "type": "Leave",
+      "count": 1
+    },
+    {
+      "type": "Method",
+      "count": 6
+    },
+    {
+      "type": "MethodDef",
+      "count": 6
+    },
+    {
+      "type": "Module",
+      "count": 1
+    },
+    {
+      "type": "Move",
+      "count": 22
+    },
+    {
+      "type": "Private",
+      "count": 2
+    },
+    {
+      "type": "Protected",
+      "count": 2
+    },
+    {
+      "type": "Public",
+      "count": 2
+    },
+    {
+      "type": "Select",
+      "count": 6
+    },
+    {
+      "type": "UpdateDatabase",
       "count": 1
     }
   ],

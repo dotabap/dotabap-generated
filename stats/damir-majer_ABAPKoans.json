@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T09:40:30.345Z",
+  "time": "2019-01-13T14:06:33.172Z",
   "totals": {
     "objects": 2,
     "files": 5,
@@ -10,17 +10,21 @@
   },
   "objects": [
     {
-      "type": "DEVC",
+      "type": "CLAS",
       "count": 1
     },
     {
-      "type": "CLAS",
+      "type": "DEVC",
       "count": 1
     }
   ],
   "issues": [
     {
       "type": "7bit_ascii",
+      "count": 6
+    },
+    {
+      "type": "check_variables",
       "count": 6
     },
     {
@@ -38,10 +42,6 @@
     {
       "type": "local_variable_names",
       "count": 4
-    },
-    {
-      "type": "check_variables",
-      "count": 6
     }
   ],
   "objectOrientation": {
@@ -58,24 +58,24 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 3
-    },
-    {
-      "type": "Public",
-      "count": 2
-    },
-    {
-      "type": "Protected",
+      "type": "Append",
       "count": 1
     },
     {
-      "type": "Private",
+      "type": "Assign",
       "count": 2
     },
     {
-      "type": "EndClass",
-      "count": 6
+      "type": "Call",
+      "count": 17
+    },
+    {
+      "type": "Check",
+      "count": 1
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 3
     },
     {
       "type": "ClassImplementation",
@@ -86,6 +86,22 @@
       "count": 37
     },
     {
+      "type": "Constant",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 4
+    },
+    {
+      "type": "EndClass",
+      "count": 6
+    },
+    {
+      "type": "EndMethod",
+      "count": 19
+    },
+    {
       "type": "InterfaceDef",
       "count": 1
     },
@@ -94,43 +110,27 @@
       "count": 19
     },
     {
-      "type": "Data",
-      "count": 4
+      "type": "MethodDef",
+      "count": 17
     },
     {
       "type": "Move",
       "count": 7
     },
     {
-      "type": "Check",
-      "count": 1
-    },
-    {
-      "type": "EndMethod",
-      "count": 19
-    },
-    {
-      "type": "Append",
-      "count": 1
-    },
-    {
-      "type": "MethodDef",
-      "count": 17
-    },
-    {
-      "type": "Constant",
-      "count": 1
-    },
-    {
-      "type": "Call",
-      "count": 17
-    },
-    {
-      "type": "Type",
+      "type": "Private",
       "count": 2
     },
     {
-      "type": "Assign",
+      "type": "Protected",
+      "count": 1
+    },
+    {
+      "type": "Public",
+      "count": 2
+    },
+    {
+      "type": "Type",
       "count": 2
     }
   ],

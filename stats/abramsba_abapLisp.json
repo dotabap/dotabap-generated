@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T11:34:40.737Z",
+  "time": "2019-01-13T15:35:17.350Z",
   "totals": {
     "objects": 18,
     "files": 34,
@@ -36,7 +36,7 @@
       "count": 10
     },
     {
-      "type": "superclass_final",
+      "type": "class_attribute_names",
       "count": 1
     },
     {
@@ -72,12 +72,12 @@
       "count": 1
     },
     {
-      "type": "class_attribute_names",
-      "count": 1
-    },
-    {
       "type": "space_before_colon",
       "count": 6
+    },
+    {
+      "type": "superclass_final",
+      "count": 1
     }
   ],
   "objectOrientation": {
@@ -142,47 +142,19 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 14
-    },
-    {
-      "type": "Public",
-      "count": 14
-    },
-    {
-      "type": "MethodDef",
-      "count": 13
-    },
-    {
-      "type": "Protected",
-      "count": 14
-    },
-    {
-      "type": "Private",
-      "count": 14
-    },
-    {
-      "type": "EndClass",
-      "count": 28
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 14
-    },
-    {
-      "type": "Method",
-      "count": 20
-    },
-    {
       "type": "Call",
       "count": 24
     },
     {
-      "type": "EndMethod",
-      "count": 20
+      "type": "Catch",
+      "count": 5
     },
     {
-      "type": "InterfaceDef",
+      "type": "ClassDefinition",
+      "count": 14
+    },
+    {
+      "type": "ClassImplementation",
       "count": 14
     },
     {
@@ -190,107 +162,135 @@
       "count": 3
     },
     {
-      "type": "If",
-      "count": 22
-    },
-    {
-      "type": "Move",
-      "count": 91
-    },
-    {
-      "type": "Else",
+      "type": "Comment",
       "count": 9
-    },
-    {
-      "type": "EndIf",
-      "count": 22
-    },
-    {
-      "type": "Do",
-      "count": 8
-    },
-    {
-      "type": "EndDo",
-      "count": 8
-    },
-    {
-      "type": "Return",
-      "count": 4
     },
     {
       "type": "Data",
       "count": 11
     },
     {
-      "type": "Replace",
-      "count": 5
-    },
-    {
-      "type": "Split",
-      "count": 1
-    },
-    {
       "type": "DeleteInternal",
       "count": 1
     },
     {
-      "type": "Comment",
+      "type": "Do",
+      "count": 8
+    },
+    {
+      "type": "Else",
       "count": 9
-    },
-    {
-      "type": "Find",
-      "count": 4
-    },
-    {
-      "type": "Try",
-      "count": 5
-    },
-    {
-      "type": "Catch",
-      "count": 5
-    },
-    {
-      "type": "EndTry",
-      "count": 5
     },
     {
       "type": "ElseIf",
       "count": 1
     },
     {
-      "type": "While",
-      "count": 1
+      "type": "EndClass",
+      "count": 28
     },
     {
-      "type": "EndWhile",
-      "count": 1
-    },
-    {
-      "type": "InsertInternal",
-      "count": 1
-    },
-    {
-      "type": "Raise",
+      "type": "EndDo",
       "count": 8
     },
     {
-      "type": "Interface",
-      "count": 1
+      "type": "EndIf",
+      "count": 22
     },
     {
       "type": "EndInterface",
       "count": 1
     },
     {
-      "type": "Report",
+      "type": "EndMethod",
+      "count": 20
+    },
+    {
+      "type": "EndTry",
+      "count": 5
+    },
+    {
+      "type": "EndWhile",
       "count": 1
+    },
+    {
+      "type": "Find",
+      "count": 4
+    },
+    {
+      "type": "If",
+      "count": 22
+    },
+    {
+      "type": "InsertInternal",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 1
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 14
+    },
+    {
+      "type": "Method",
+      "count": 20
+    },
+    {
+      "type": "MethodDef",
+      "count": 13
+    },
+    {
+      "type": "Move",
+      "count": 91
     },
     {
       "type": "Parameter",
       "count": 1
     },
     {
+      "type": "Private",
+      "count": 14
+    },
+    {
+      "type": "Protected",
+      "count": 14
+    },
+    {
+      "type": "Public",
+      "count": 14
+    },
+    {
+      "type": "Raise",
+      "count": 8
+    },
+    {
+      "type": "Replace",
+      "count": 5
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 4
+    },
+    {
+      "type": "Split",
+      "count": 1
+    },
+    {
       "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 5
+    },
+    {
+      "type": "While",
       "count": 1
     },
     {

@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T09:40:37.378Z",
+  "time": "2019-01-13T14:06:40.365Z",
   "totals": {
     "objects": 10,
     "files": 13,
@@ -10,11 +10,11 @@
   },
   "objects": [
     {
-      "type": "DEVC",
+      "type": "CLAS",
       "count": 1
     },
     {
-      "type": "CLAS",
+      "type": "DEVC",
       "count": 1
     },
     {
@@ -28,12 +28,12 @@
   ],
   "issues": [
     {
-      "type": "structure",
-      "count": 1
-    },
-    {
       "type": "7bit_ascii",
       "count": 22
+    },
+    {
+      "type": "commented_code",
+      "count": 3
     },
     {
       "type": "definitions_top",
@@ -42,10 +42,6 @@
     {
       "type": "exit_or_check",
       "count": 2
-    },
-    {
-      "type": "commented_code",
-      "count": 3
     },
     {
       "type": "functional_writing",
@@ -73,6 +69,10 @@
     },
     {
       "type": "start_at_tab",
+      "count": 1
+    },
+    {
+      "type": "structure",
       "count": 1
     }
   ],
@@ -243,91 +243,7 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 1
-    },
-    {
-      "type": "Public",
-      "count": 1
-    },
-    {
-      "type": "InterfaceDef",
-      "count": 1
-    },
-    {
-      "type": "ClassData",
-      "count": 1
-    },
-    {
-      "type": "Data",
-      "count": 86
-    },
-    {
-      "type": "MethodDef",
-      "count": 9
-    },
-    {
-      "type": "Protected",
-      "count": 1
-    },
-    {
-      "type": "Private",
-      "count": 1
-    },
-    {
-      "type": "EndClass",
-      "count": 2
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 1
-    },
-    {
-      "type": "Method",
-      "count": 10
-    },
-    {
-      "type": "TypePools",
-      "count": 1
-    },
-    {
-      "type": "FieldSymbol",
-      "count": 2
-    },
-    {
-      "type": "BreakId",
-      "count": 8
-    },
-    {
-      "type": "Case",
-      "count": 3
-    },
-    {
-      "type": "When",
-      "count": 20
-    },
-    {
-      "type": "Call",
-      "count": 21
-    },
-    {
-      "type": "Comment",
-      "count": 113
-    },
-    {
-      "type": "Move",
-      "count": 150
-    },
-    {
-      "type": "Loop",
-      "count": 6
-    },
-    {
-      "type": "Assign",
-      "count": 1
-    },
-    {
-      "type": "GetReference",
+      "type": "Add",
       "count": 1
     },
     {
@@ -335,83 +251,123 @@
       "count": 51
     },
     {
-      "type": "Clear",
-      "count": 23
-    },
-    {
-      "type": "EndLoop",
-      "count": 6
-    },
-    {
-      "type": "Do",
+      "type": "Assign",
       "count": 1
     },
     {
-      "type": "If",
-      "count": 39
+      "type": "BreakId",
+      "count": 8
     },
     {
-      "type": "Exit",
-      "count": 3
-    },
-    {
-      "type": "EndIf",
-      "count": 39
-    },
-    {
-      "type": "EndDo",
-      "count": 1
-    },
-    {
-      "type": "Try",
-      "count": 3
-    },
-    {
-      "type": "CallTransformation",
-      "count": 1
-    },
-    {
-      "type": "Catch",
-      "count": 3
-    },
-    {
-      "type": "Raise",
-      "count": 9
-    },
-    {
-      "type": "EndTry",
-      "count": 3
-    },
-    {
-      "type": "EndCase",
-      "count": 3
-    },
-    {
-      "type": "EndMethod",
-      "count": 10
-    },
-    {
-      "type": "Else",
-      "count": 5
-    },
-    {
-      "type": "Concatenate",
-      "count": 7
+      "type": "Call",
+      "count": 21
     },
     {
       "type": "CallFunction",
       "count": 5
     },
     {
+      "type": "CallTransformation",
+      "count": 1
+    },
+    {
+      "type": "Case",
+      "count": 3
+    },
+    {
+      "type": "Catch",
+      "count": 3
+    },
+    {
+      "type": "ClassData",
+      "count": 1
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 1
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 1
+    },
+    {
+      "type": "Clear",
+      "count": 23
+    },
+    {
+      "type": "Comment",
+      "count": 113
+    },
+    {
+      "type": "Concatenate",
+      "count": 7
+    },
+    {
+      "type": "Condense",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 86
+    },
+    {
       "type": "Describe",
       "count": 1
+    },
+    {
+      "type": "Do",
+      "count": 1
+    },
+    {
+      "type": "Else",
+      "count": 5
     },
     {
       "type": "ElseIf",
       "count": 2
     },
     {
-      "type": "Add",
+      "type": "EndCase",
+      "count": 3
+    },
+    {
+      "type": "EndClass",
+      "count": 2
+    },
+    {
+      "type": "EndDo",
+      "count": 1
+    },
+    {
+      "type": "EndIf",
+      "count": 39
+    },
+    {
+      "type": "EndLoop",
+      "count": 6
+    },
+    {
+      "type": "EndMethod",
+      "count": 10
+    },
+    {
+      "type": "EndTry",
+      "count": 3
+    },
+    {
+      "type": "Exit",
+      "count": 3
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 2
+    },
+    {
+      "type": "Find",
+      "count": 1
+    },
+    {
+      "type": "GetReference",
       "count": 1
     },
     {
@@ -419,40 +375,84 @@
       "count": 2
     },
     {
+      "type": "If",
+      "count": 39
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 1
+    },
+    {
+      "type": "Loop",
+      "count": 6
+    },
+    {
+      "type": "Method",
+      "count": 10
+    },
+    {
+      "type": "MethodDef",
+      "count": 9
+    },
+    {
       "type": "ModifyInternal",
       "count": 2
     },
     {
-      "type": "TypeBegin",
-      "count": 5
+      "type": "Move",
+      "count": 150
     },
     {
-      "type": "Type",
-      "count": 70
+      "type": "Private",
+      "count": 1
     },
     {
-      "type": "TypeEnd",
-      "count": 5
+      "type": "Protected",
+      "count": 1
     },
     {
-      "type": "Select",
-      "count": 2
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "Raise",
+      "count": 9
     },
     {
       "type": "ReadTable",
       "count": 3
     },
     {
-      "type": "Condense",
-      "count": 1
+      "type": "Select",
+      "count": 2
     },
     {
       "type": "Translate",
       "count": 1
     },
     {
-      "type": "Find",
+      "type": "Try",
+      "count": 3
+    },
+    {
+      "type": "Type",
+      "count": 70
+    },
+    {
+      "type": "TypeBegin",
+      "count": 5
+    },
+    {
+      "type": "TypeEnd",
+      "count": 5
+    },
+    {
+      "type": "TypePools",
       "count": 1
+    },
+    {
+      "type": "When",
+      "count": 20
     }
   ],
   "statements": [

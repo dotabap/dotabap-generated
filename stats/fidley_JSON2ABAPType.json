@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T09:31:53.043Z",
+  "time": "2019-01-13T13:55:24.146Z",
   "totals": {
     "objects": 2,
     "files": 3,
@@ -138,11 +138,59 @@
   ],
   "statementTypes": [
     {
+      "type": "Add",
+      "count": 3
+    },
+    {
+      "type": "Append",
+      "count": 10
+    },
+    {
+      "type": "Assign",
+      "count": 5
+    },
+    {
+      "type": "Call",
+      "count": 23
+    },
+    {
+      "type": "CallFunction",
+      "count": 2
+    },
+    {
+      "type": "CallScreen",
+      "count": 1
+    },
+    {
+      "type": "Case",
+      "count": 1
+    },
+    {
+      "type": "Catch",
+      "count": 5
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 2
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 2
+    },
+    {
+      "type": "ClassOther",
+      "count": 1
+    },
+    {
+      "type": "Clear",
+      "count": 3
+    },
+    {
       "type": "Comment",
       "count": 20
     },
     {
-      "type": "Report",
+      "type": "Constant",
       "count": 1
     },
     {
@@ -150,11 +198,87 @@
       "count": 14
     },
     {
-      "type": "ClassOther",
+      "type": "Else",
+      "count": 8
+    },
+    {
+      "type": "ElseIf",
+      "count": 4
+    },
+    {
+      "type": "EndCase",
       "count": 1
     },
     {
-      "type": "ClassDefinition",
+      "type": "EndClass",
+      "count": 4
+    },
+    {
+      "type": "EndForm",
+      "count": 2
+    },
+    {
+      "type": "EndIf",
+      "count": 17
+    },
+    {
+      "type": "EndLoop",
+      "count": 5
+    },
+    {
+      "type": "EndMethod",
+      "count": 17
+    },
+    {
+      "type": "EndModule",
+      "count": 2
+    },
+    {
+      "type": "EndTry",
+      "count": 5
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 3
+    },
+    {
+      "type": "Form",
+      "count": 2
+    },
+    {
+      "type": "If",
+      "count": 17
+    },
+    {
+      "type": "Leave",
+      "count": 1
+    },
+    {
+      "type": "Loop",
+      "count": 5
+    },
+    {
+      "type": "Message",
+      "count": 2
+    },
+    {
+      "type": "Method",
+      "count": 17
+    },
+    {
+      "type": "MethodDef",
+      "count": 17
+    },
+    {
+      "type": "Module",
+      "count": 2
+    },
+    {
+      "type": "Move",
+      "count": 34
+    },
+    {
+      "type": "Private",
       "count": 2
     },
     {
@@ -162,47 +286,19 @@
       "count": 2
     },
     {
-      "type": "TypeBegin",
-      "count": 2
-    },
-    {
-      "type": "Type",
-      "count": 15
-    },
-    {
-      "type": "TypeEnd",
-      "count": 2
-    },
-    {
-      "type": "MethodDef",
-      "count": 17
-    },
-    {
-      "type": "Private",
-      "count": 2
-    },
-    {
-      "type": "EndClass",
-      "count": 4
-    },
-    {
-      "type": "Constant",
+      "type": "Refresh",
       "count": 1
     },
     {
-      "type": "StartOfSelection",
+      "type": "Replace",
+      "count": 3
+    },
+    {
+      "type": "Report",
       "count": 1
     },
     {
-      "type": "Move",
-      "count": 34
-    },
-    {
-      "type": "CallScreen",
-      "count": 1
-    },
-    {
-      "type": "Module",
+      "type": "Return",
       "count": 2
     },
     {
@@ -214,135 +310,39 @@
       "count": 2
     },
     {
-      "type": "Call",
-      "count": 23
-    },
-    {
-      "type": "EndModule",
-      "count": 2
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 2
-    },
-    {
-      "type": "Method",
-      "count": 17
-    },
-    {
-      "type": "EndMethod",
-      "count": 17
-    },
-    {
-      "type": "If",
-      "count": 17
-    },
-    {
-      "type": "EndIf",
-      "count": 17
-    },
-    {
-      "type": "Message",
-      "count": 2
-    },
-    {
-      "type": "Else",
-      "count": 8
+      "type": "Sort",
+      "count": 1
     },
     {
       "type": "Split",
       "count": 1
     },
     {
-      "type": "CallFunction",
-      "count": 2
-    },
-    {
-      "type": "Clear",
-      "count": 3
-    },
-    {
-      "type": "Case",
+      "type": "StartOfSelection",
       "count": 1
-    },
-    {
-      "type": "When",
-      "count": 2
-    },
-    {
-      "type": "Leave",
-      "count": 1
-    },
-    {
-      "type": "EndCase",
-      "count": 1
-    },
-    {
-      "type": "FieldSymbol",
-      "count": 3
-    },
-    {
-      "type": "Assign",
-      "count": 5
-    },
-    {
-      "type": "Add",
-      "count": 3
-    },
-    {
-      "type": "Append",
-      "count": 10
-    },
-    {
-      "type": "Refresh",
-      "count": 1
-    },
-    {
-      "type": "Loop",
-      "count": 5
-    },
-    {
-      "type": "Unassign",
-      "count": 1
-    },
-    {
-      "type": "EndLoop",
-      "count": 5
     },
     {
       "type": "Try",
       "count": 5
     },
     {
-      "type": "Catch",
-      "count": 5
+      "type": "Type",
+      "count": 15
     },
     {
-      "type": "EndTry",
-      "count": 5
-    },
-    {
-      "type": "Return",
+      "type": "TypeBegin",
       "count": 2
     },
     {
-      "type": "ElseIf",
-      "count": 4
+      "type": "TypeEnd",
+      "count": 2
     },
     {
-      "type": "Replace",
-      "count": 3
-    },
-    {
-      "type": "Sort",
+      "type": "Unassign",
       "count": 1
     },
     {
-      "type": "Form",
-      "count": 2
-    },
-    {
-      "type": "EndForm",
+      "type": "When",
       "count": 2
     }
   ],

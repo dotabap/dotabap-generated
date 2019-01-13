@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T10:33:42.784Z",
+  "time": "2019-01-13T15:01:50.752Z",
   "totals": {
     "objects": 1,
     "files": 2,
@@ -16,16 +16,16 @@
   ],
   "issues": [
     {
+      "type": "check_variables",
+      "count": 2
+    },
+    {
       "type": "indentation",
       "count": 1
     },
     {
       "type": "keywords_upper",
       "count": 1
-    },
-    {
-      "type": "check_variables",
-      "count": 2
     },
     {
       "type": "superclass_final",
@@ -72,27 +72,51 @@
   ],
   "statementTypes": [
     {
-      "type": "Comment",
-      "count": 50
+      "type": "Append",
+      "count": 2
     },
     {
-      "type": "Report",
+      "type": "Assert",
+      "count": 4
+    },
+    {
+      "type": "Assign",
+      "count": 2
+    },
+    {
+      "type": "Call",
+      "count": 16
+    },
+    {
+      "type": "CallFunction",
       "count": 1
+    },
+    {
+      "type": "Case",
+      "count": 2
+    },
+    {
+      "type": "Catch",
+      "count": 3
     },
     {
       "type": "ClassDefinition",
       "count": 1
     },
     {
-      "type": "Public",
+      "type": "ClassImplementation",
       "count": 1
     },
     {
-      "type": "MethodDef",
-      "count": 12
+      "type": "Clear",
+      "count": 1
     },
     {
-      "type": "Private",
+      "type": "Comment",
+      "count": 50
+    },
+    {
+      "type": "Concatenate",
       "count": 1
     },
     {
@@ -104,136 +128,112 @@
       "count": 34
     },
     {
-      "type": "EndClass",
-      "count": 2
-    },
-    {
-      "type": "ClassImplementation",
+      "type": "Do",
       "count": 1
-    },
-    {
-      "type": "Method",
-      "count": 12
-    },
-    {
-      "type": "FieldSymbol",
-      "count": 5
-    },
-    {
-      "type": "Append",
-      "count": 2
-    },
-    {
-      "type": "Move",
-      "count": 48
-    },
-    {
-      "type": "CallFunction",
-      "count": 1
-    },
-    {
-      "type": "If",
-      "count": 7
-    },
-    {
-      "type": "Return",
-      "count": 3
-    },
-    {
-      "type": "EndIf",
-      "count": 7
-    },
-    {
-      "type": "ReadTable",
-      "count": 2
-    },
-    {
-      "type": "Assert",
-      "count": 4
-    },
-    {
-      "type": "Translate",
-      "count": 1
-    },
-    {
-      "type": "EndMethod",
-      "count": 12
-    },
-    {
-      "type": "Replace",
-      "count": 4
-    },
-    {
-      "type": "Call",
-      "count": 16
-    },
-    {
-      "type": "Find",
-      "count": 2
-    },
-    {
-      "type": "Loop",
-      "count": 2
     },
     {
       "type": "Else",
       "count": 2
     },
     {
-      "type": "EndLoop",
+      "type": "EndCase",
       "count": 2
     },
     {
-      "type": "Do",
-      "count": 1
+      "type": "EndClass",
+      "count": 2
     },
     {
       "type": "EndDo",
       "count": 1
     },
     {
-      "type": "Concatenate",
-      "count": 1
+      "type": "EndIf",
+      "count": 7
     },
     {
-      "type": "Case",
+      "type": "EndLoop",
       "count": 2
     },
     {
-      "type": "When",
-      "count": 11
-    },
-    {
-      "type": "EndCase",
-      "count": 2
-    },
-    {
-      "type": "Assign",
-      "count": 2
-    },
-    {
-      "type": "Try",
-      "count": 2
-    },
-    {
-      "type": "Clear",
-      "count": 1
-    },
-    {
-      "type": "Catch",
-      "count": 3
-    },
-    {
-      "type": "Message",
-      "count": 3
+      "type": "EndMethod",
+      "count": 12
     },
     {
       "type": "EndTry",
       "count": 2
     },
     {
+      "type": "FieldSymbol",
+      "count": 5
+    },
+    {
+      "type": "Find",
+      "count": 2
+    },
+    {
+      "type": "If",
+      "count": 7
+    },
+    {
+      "type": "Loop",
+      "count": 2
+    },
+    {
+      "type": "Message",
+      "count": 3
+    },
+    {
+      "type": "Method",
+      "count": 12
+    },
+    {
+      "type": "MethodDef",
+      "count": 12
+    },
+    {
+      "type": "Move",
+      "count": 48
+    },
+    {
+      "type": "Private",
+      "count": 1
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "ReadTable",
+      "count": 2
+    },
+    {
+      "type": "Replace",
+      "count": 4
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 3
+    },
+    {
       "type": "Split",
       "count": 1
+    },
+    {
+      "type": "Translate",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 2
+    },
+    {
+      "type": "When",
+      "count": 11
     }
   ],
   "statements": [

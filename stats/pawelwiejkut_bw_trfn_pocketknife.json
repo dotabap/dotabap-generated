@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T09:37:02.991Z",
+  "time": "2019-01-13T14:01:47.587Z",
   "totals": {
     "objects": 4,
     "files": 8,
@@ -10,34 +10,26 @@
   },
   "objects": [
     {
-      "type": "DEVC",
-      "count": 1
-    },
-    {
-      "type": "PROG",
-      "count": 1
-    },
-    {
       "type": "CLAS",
+      "count": 1
+    },
+    {
+      "type": "DEVC",
       "count": 1
     },
     {
       "type": "INTF",
       "count": 1
+    },
+    {
+      "type": "PROG",
+      "count": 1
     }
   ],
   "issues": [
     {
-      "type": "exporting",
-      "count": 4
-    },
-    {
-      "type": "indentation",
-      "count": 1
-    },
-    {
-      "type": "line_only_punc",
-      "count": 6
+      "type": "check_variables",
+      "count": 11
     },
     {
       "type": "class_attribute_names",
@@ -52,20 +44,28 @@
       "count": 1
     },
     {
+      "type": "exporting",
+      "count": 4
+    },
+    {
       "type": "functional_writing",
       "count": 2
+    },
+    {
+      "type": "indentation",
+      "count": 1
     },
     {
       "type": "line_length",
       "count": 2
     },
     {
-      "type": "local_variable_names",
+      "type": "line_only_punc",
       "count": 6
     },
     {
-      "type": "check_variables",
-      "count": 11
+      "type": "local_variable_names",
+      "count": 6
     }
   ],
   "objectOrientation": {
@@ -120,95 +120,107 @@
   ],
   "statementTypes": [
     {
-      "type": "Comment",
-      "count": 49
-    },
-    {
-      "type": "Report",
-      "count": 1
-    },
-    {
-      "type": "SelectionScreen",
-      "count": 2
-    },
-    {
-      "type": "Parameter",
-      "count": 2
-    },
-    {
-      "type": "EndOfSelection",
-      "count": 1
+      "type": "Append",
+      "count": 20
     },
     {
       "type": "Call",
       "count": 18
     },
     {
-      "type": "ClassDefinition",
+      "type": "CallFunction",
       "count": 2
     },
     {
-      "type": "Public",
-      "count": 1
-    },
-    {
-      "type": "MethodDef",
+      "type": "Catch",
       "count": 8
     },
     {
-      "type": "Protected",
-      "count": 1
-    },
-    {
-      "type": "Data",
-      "count": 14
-    },
-    {
-      "type": "Private",
+      "type": "ClassDefinition",
       "count": 2
-    },
-    {
-      "type": "EndClass",
-      "count": 4
     },
     {
       "type": "ClassImplementation",
       "count": 2
     },
     {
-      "type": "Method",
-      "count": 7
+      "type": "Comment",
+      "count": 49
     },
     {
-      "type": "If",
-      "count": 2
+      "type": "Data",
+      "count": 14
+    },
+    {
+      "type": "EndClass",
+      "count": 4
     },
     {
       "type": "EndIf",
       "count": 2
     },
     {
+      "type": "EndInterface",
+      "count": 1
+    },
+    {
       "type": "EndMethod",
       "count": 7
     },
     {
-      "type": "Move",
-      "count": 18
+      "type": "EndOfSelection",
+      "count": 1
     },
     {
-      "type": "Append",
-      "count": 20
+      "type": "EndTry",
+      "count": 4
     },
     {
-      "type": "CallFunction",
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "If",
       "count": 2
+    },
+    {
+      "type": "Interface",
+      "count": 1
     },
     {
       "type": "Message",
       "count": 1
     },
     {
-      "type": "Exit",
+      "type": "Method",
+      "count": 7
+    },
+    {
+      "type": "MethodDef",
+      "count": 8
+    },
+    {
+      "type": "Move",
+      "count": 18
+    },
+    {
+      "type": "Parameter",
+      "count": 2
+    },
+    {
+      "type": "Private",
+      "count": 2
+    },
+    {
+      "type": "Protected",
+      "count": 1
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "Report",
       "count": 1
     },
     {
@@ -216,28 +228,16 @@
       "count": 1
     },
     {
-      "type": "Try",
-      "count": 4
-    },
-    {
-      "type": "Catch",
-      "count": 8
-    },
-    {
-      "type": "EndTry",
-      "count": 4
+      "type": "SelectionScreen",
+      "count": 2
     },
     {
       "type": "Split",
       "count": 1
     },
     {
-      "type": "Interface",
-      "count": 1
-    },
-    {
-      "type": "EndInterface",
-      "count": 1
+      "type": "Try",
+      "count": 4
     }
   ],
   "statements": [

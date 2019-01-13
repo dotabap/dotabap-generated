@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T11:35:34.335Z",
+  "time": "2019-01-13T15:35:33.378Z",
   "totals": {
     "objects": 18,
     "files": 28,
@@ -14,6 +14,10 @@
       "count": 8
     },
     {
+      "type": "DTEL",
+      "count": 3
+    },
+    {
       "type": "PROG",
       "count": 1
     },
@@ -22,58 +26,38 @@
       "count": 1
     },
     {
+      "type": "TABL",
+      "count": 2
+    },
+    {
       "type": "TRAN",
       "count": 1
     },
     {
-      "type": "DTEL",
-      "count": 3
-    },
-    {
       "type": "TTYP",
-      "count": 2
-    },
-    {
-      "type": "TABL",
       "count": 2
     }
   ],
   "issues": [
     {
-      "type": "functional_writing",
-      "count": 1
+      "type": "7bit_ascii",
+      "count": 8
     },
     {
       "type": "check_variables",
       "count": 27
     },
     {
-      "type": "superclass_final",
-      "count": 3
-    },
-    {
       "type": "class_attribute_names",
       "count": 6
     },
     {
-      "type": "line_length",
-      "count": 5
-    },
-    {
-      "type": "local_variable_names",
-      "count": 8
-    },
-    {
-      "type": "method_parameter_names",
-      "count": 33
-    },
-    {
-      "type": "mix_returning",
-      "count": 1
-    },
-    {
       "type": "definitions_top",
       "count": 6
+    },
+    {
+      "type": "functional_writing",
+      "count": 1
     },
     {
       "type": "indentation",
@@ -84,6 +68,10 @@
       "count": 1
     },
     {
+      "type": "line_length",
+      "count": 5
+    },
+    {
       "type": "line_only_punc",
       "count": 2
     },
@@ -92,20 +80,32 @@
       "count": 1
     },
     {
-      "type": "start_at_tab",
-      "count": 9
+      "type": "local_variable_names",
+      "count": 8
     },
     {
       "type": "message",
       "count": 2
     },
     {
-      "type": "7bit_ascii",
-      "count": 8
+      "type": "method_parameter_names",
+      "count": 33
+    },
+    {
+      "type": "mix_returning",
+      "count": 1
     },
     {
       "type": "obsolete_statement",
       "count": 1
+    },
+    {
+      "type": "start_at_tab",
+      "count": 9
+    },
+    {
+      "type": "superclass_final",
+      "count": 3
     }
   ],
   "objectOrientation": {
@@ -136,111 +136,55 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 11
+      "type": "Assert",
+      "count": 1
     },
     {
-      "type": "Public",
-      "count": 10
-    },
-    {
-      "type": "Constant",
-      "count": 6
-    },
-    {
-      "type": "MethodDef",
-      "count": 36
-    },
-    {
-      "type": "Protected",
-      "count": 10
-    },
-    {
-      "type": "Private",
-      "count": 11
-    },
-    {
-      "type": "EndClass",
-      "count": 22
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 11
-    },
-    {
-      "type": "Method",
-      "count": 36
+      "type": "Assign",
+      "count": 5
     },
     {
       "type": "Call",
       "count": 33
     },
     {
-      "type": "If",
-      "count": 20
-    },
-    {
-      "type": "Move",
-      "count": 45
-    },
-    {
-      "type": "EndIf",
-      "count": 20
-    },
-    {
-      "type": "EndMethod",
-      "count": 36
-    },
-    {
-      "type": "TypeBegin",
-      "count": 3
-    },
-    {
-      "type": "Type",
-      "count": 13
-    },
-    {
-      "type": "TypeEnd",
-      "count": 3
-    },
-    {
-      "type": "Data",
-      "count": 19
-    },
-    {
-      "type": "Loop",
-      "count": 9
-    },
-    {
-      "type": "InsertInternal",
-      "count": 7
-    },
-    {
-      "type": "EndLoop",
-      "count": 9
-    },
-    {
       "type": "CallFunction",
       "count": 2
     },
     {
-      "type": "Raise",
+      "type": "CallTransformation",
+      "count": 2
+    },
+    {
+      "type": "Catch",
+      "count": 6
+    },
+    {
+      "type": "ClassData",
       "count": 5
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 11
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 11
     },
     {
       "type": "Clear",
       "count": 2
     },
     {
-      "type": "DeleteInternal",
+      "type": "Comment",
+      "count": 41
+    },
+    {
+      "type": "Commit",
       "count": 1
     },
     {
-      "type": "Sort",
-      "count": 1
-    },
-    {
-      "type": "Try",
+      "type": "Constant",
       "count": 6
     },
     {
@@ -248,47 +192,111 @@
       "count": 1
     },
     {
-      "type": "Catch",
-      "count": 6
+      "type": "CreateObject",
+      "count": 1
     },
     {
-      "type": "EndTry",
-      "count": 6
+      "type": "Data",
+      "count": 19
     },
     {
-      "type": "Comment",
-      "count": 41
+      "type": "DeleteDatabase",
+      "count": 1
+    },
+    {
+      "type": "DeleteInternal",
+      "count": 1
     },
     {
       "type": "Else",
       "count": 3
     },
     {
-      "type": "UpdateDatabase",
-      "count": 1
+      "type": "EndClass",
+      "count": 22
     },
     {
-      "type": "InsertDatabase",
-      "count": 1
+      "type": "EndForm",
+      "count": 3
     },
     {
-      "type": "CreateObject",
-      "count": 1
+      "type": "EndIf",
+      "count": 20
+    },
+    {
+      "type": "EndLoop",
+      "count": 9
+    },
+    {
+      "type": "EndMethod",
+      "count": 36
+    },
+    {
+      "type": "EndTry",
+      "count": 6
     },
     {
       "type": "FieldSymbol",
       "count": 6
     },
     {
-      "type": "Assign",
-      "count": 5
+      "type": "Form",
+      "count": 3
     },
     {
-      "type": "Select",
+      "type": "If",
+      "count": 20
+    },
+    {
+      "type": "InsertDatabase",
+      "count": 1
+    },
+    {
+      "type": "InsertInternal",
+      "count": 7
+    },
+    {
+      "type": "Loop",
+      "count": 9
+    },
+    {
+      "type": "Message",
+      "count": 1
+    },
+    {
+      "type": "Method",
+      "count": 36
+    },
+    {
+      "type": "MethodDef",
+      "count": 36
+    },
+    {
+      "type": "Move",
+      "count": 45
+    },
+    {
+      "type": "Parameter",
       "count": 2
     },
     {
-      "type": "ClassData",
+      "type": "Perform",
+      "count": 3
+    },
+    {
+      "type": "Private",
+      "count": 11
+    },
+    {
+      "type": "Protected",
+      "count": 10
+    },
+    {
+      "type": "Public",
+      "count": 10
+    },
+    {
+      "type": "Raise",
       "count": 5
     },
     {
@@ -296,28 +304,20 @@
       "count": 1
     },
     {
-      "type": "Translate",
-      "count": 1
-    },
-    {
-      "type": "Split",
-      "count": 2
-    },
-    {
-      "type": "Shift",
-      "count": 1
-    },
-    {
-      "type": "CallTransformation",
-      "count": 2
-    },
-    {
-      "type": "Message",
+      "type": "Refresh",
       "count": 1
     },
     {
       "type": "Report",
       "count": 1
+    },
+    {
+      "type": "Rollback",
+      "count": 1
+    },
+    {
+      "type": "Select",
+      "count": 2
     },
     {
       "type": "SelectionScreen",
@@ -328,7 +328,15 @@
       "count": 3
     },
     {
-      "type": "Parameter",
+      "type": "Shift",
+      "count": 1
+    },
+    {
+      "type": "Sort",
+      "count": 1
+    },
+    {
+      "type": "Split",
       "count": 2
     },
     {
@@ -336,40 +344,32 @@
       "count": 1
     },
     {
-      "type": "Perform",
-      "count": 3
-    },
-    {
-      "type": "Form",
-      "count": 3
-    },
-    {
-      "type": "Refresh",
+      "type": "Translate",
       "count": 1
     },
     {
-      "type": "EndForm",
+      "type": "Try",
+      "count": 6
+    },
+    {
+      "type": "Type",
+      "count": 13
+    },
+    {
+      "type": "TypeBegin",
       "count": 3
     },
     {
-      "type": "Assert",
+      "type": "TypeEnd",
+      "count": 3
+    },
+    {
+      "type": "UpdateDatabase",
       "count": 1
     },
     {
       "type": "Write",
       "count": 7
-    },
-    {
-      "type": "DeleteDatabase",
-      "count": 1
-    },
-    {
-      "type": "Commit",
-      "count": 1
-    },
-    {
-      "type": "Rollback",
-      "count": 1
     }
   ],
   "statements": [

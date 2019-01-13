@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T10:32:54.164Z",
+  "time": "2019-01-13T15:01:01.143Z",
   "totals": {
     "objects": 6,
     "files": 12,
@@ -10,12 +10,12 @@
   },
   "objects": [
     {
-      "type": "DEVC",
-      "count": 1
-    },
-    {
       "type": "CLAS",
       "count": 2
+    },
+    {
+      "type": "DEVC",
+      "count": 1
     },
     {
       "type": "INTF",
@@ -24,8 +24,16 @@
   ],
   "issues": [
     {
+      "type": "check_variables",
+      "count": 3
+    },
+    {
       "type": "exporting",
       "count": 1
+    },
+    {
+      "type": "keywords_upper",
+      "count": 2
     },
     {
       "type": "line_length",
@@ -44,16 +52,8 @@
       "count": 11
     },
     {
-      "type": "check_variables",
-      "count": 3
-    },
-    {
       "type": "superclass_final",
       "count": 1
-    },
-    {
-      "type": "keywords_upper",
-      "count": 2
     }
   ],
   "objectOrientation": {
@@ -91,54 +91,6 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 4
-    },
-    {
-      "type": "Public",
-      "count": 4
-    },
-    {
-      "type": "InterfaceDef",
-      "count": 3
-    },
-    {
-      "type": "Protected",
-      "count": 2
-    },
-    {
-      "type": "Private",
-      "count": 3
-    },
-    {
-      "type": "EndClass",
-      "count": 8
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 4
-    },
-    {
-      "type": "Method",
-      "count": 23
-    },
-    {
-      "type": "EndMethod",
-      "count": 23
-    },
-    {
-      "type": "Comment",
-      "count": 1
-    },
-    {
-      "type": "MethodDef",
-      "count": 27
-    },
-    {
-      "type": "FieldSymbol",
-      "count": 5
-    },
-    {
       "type": "Assign",
       "count": 3
     },
@@ -147,15 +99,23 @@
       "count": 60
     },
     {
-      "type": "TypeBegin",
+      "type": "Catch",
+      "count": 2
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 4
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 4
+    },
+    {
+      "type": "Clear",
       "count": 1
     },
     {
-      "type": "Type",
-      "count": 6
-    },
-    {
-      "type": "TypeEnd",
+      "type": "Comment",
       "count": 1
     },
     {
@@ -163,19 +123,67 @@
       "count": 41
     },
     {
-      "type": "Move",
-      "count": 41
+      "type": "Else",
+      "count": 4
+    },
+    {
+      "type": "EndClass",
+      "count": 8
+    },
+    {
+      "type": "EndIf",
+      "count": 4
+    },
+    {
+      "type": "EndInterface",
+      "count": 3
+    },
+    {
+      "type": "EndMethod",
+      "count": 23
+    },
+    {
+      "type": "EndTry",
+      "count": 2
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 5
     },
     {
       "type": "If",
       "count": 4
     },
     {
-      "type": "Else",
-      "count": 4
+      "type": "Interface",
+      "count": 3
     },
     {
-      "type": "EndIf",
+      "type": "InterfaceDef",
+      "count": 3
+    },
+    {
+      "type": "Method",
+      "count": 23
+    },
+    {
+      "type": "MethodDef",
+      "count": 27
+    },
+    {
+      "type": "Move",
+      "count": 41
+    },
+    {
+      "type": "Private",
+      "count": 3
+    },
+    {
+      "type": "Protected",
+      "count": 2
+    },
+    {
+      "type": "Public",
       "count": 4
     },
     {
@@ -183,24 +191,16 @@
       "count": 2
     },
     {
-      "type": "Catch",
-      "count": 2
+      "type": "Type",
+      "count": 6
     },
     {
-      "type": "EndTry",
-      "count": 2
-    },
-    {
-      "type": "Clear",
+      "type": "TypeBegin",
       "count": 1
     },
     {
-      "type": "Interface",
-      "count": 3
-    },
-    {
-      "type": "EndInterface",
-      "count": 3
+      "type": "TypeEnd",
+      "count": 1
     }
   ],
   "statements": [

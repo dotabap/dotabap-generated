@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T10:31:53.001Z",
+  "time": "2019-01-13T15:00:00.162Z",
   "totals": {
     "objects": 18,
     "files": 49,
@@ -10,11 +10,11 @@
   },
   "objects": [
     {
-      "type": "DEVC",
-      "count": 1
+      "type": "CLAS",
+      "count": 8
     },
     {
-      "type": "PROG",
+      "type": "DEVC",
       "count": 1
     },
     {
@@ -22,16 +22,16 @@
       "count": 3
     },
     {
-      "type": "CLAS",
-      "count": 8
+      "type": "FUGR",
+      "count": 2
     },
     {
       "type": "INTF",
       "count": 1
     },
     {
-      "type": "FUGR",
-      "count": 2
+      "type": "PROG",
+      "count": 1
     },
     {
       "type": "TABL",
@@ -44,56 +44,56 @@
   ],
   "issues": [
     {
-      "type": "keywords_upper",
+      "type": "check_variables",
       "count": 2
-    },
-    {
-      "type": "line_only_punc",
-      "count": 12
-    },
-    {
-      "type": "sequential_blank",
-      "count": 5
-    },
-    {
-      "type": "exit_or_check",
-      "count": 5
-    },
-    {
-      "type": "line_length",
-      "count": 72
-    },
-    {
-      "type": "method_parameter_names",
-      "count": 116
-    },
-    {
-      "type": "definitions_top",
-      "count": 3
-    },
-    {
-      "type": "exporting",
-      "count": 17
-    },
-    {
-      "type": "local_variable_names",
-      "count": 19
     },
     {
       "type": "class_attribute_names",
       "count": 4
     },
     {
-      "type": "local_class_naming",
+      "type": "definitions_top",
       "count": 3
     },
     {
-      "type": "check_variables",
-      "count": 2
+      "type": "exit_or_check",
+      "count": 5
+    },
+    {
+      "type": "exporting",
+      "count": 17
     },
     {
       "type": "indentation",
       "count": 1
+    },
+    {
+      "type": "keywords_upper",
+      "count": 2
+    },
+    {
+      "type": "line_length",
+      "count": 72
+    },
+    {
+      "type": "line_only_punc",
+      "count": 12
+    },
+    {
+      "type": "local_class_naming",
+      "count": 3
+    },
+    {
+      "type": "local_variable_names",
+      "count": 19
+    },
+    {
+      "type": "method_parameter_names",
+      "count": 116
+    },
+    {
+      "type": "sequential_blank",
+      "count": 5
     }
   ],
   "objectOrientation": {
@@ -136,11 +136,79 @@
   ],
   "statementTypes": [
     {
+      "type": "Aliases",
+      "count": 1
+    },
+    {
+      "type": "Append",
+      "count": 8
+    },
+    {
+      "type": "Assign",
+      "count": 2
+    },
+    {
+      "type": "Call",
+      "count": 33
+    },
+    {
+      "type": "CallTransformation",
+      "count": 1
+    },
+    {
+      "type": "Case",
+      "count": 1
+    },
+    {
+      "type": "Catch",
+      "count": 4
+    },
+    {
+      "type": "Check",
+      "count": 7
+    },
+    {
+      "type": "ClassData",
+      "count": 3
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 14
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 14
+    },
+    {
+      "type": "ClassOther",
+      "count": 12
+    },
+    {
+      "type": "Clear",
+      "count": 7
+    },
+    {
       "type": "Comment",
       "count": 190
     },
     {
-      "type": "Report",
+      "type": "Condense",
+      "count": 2
+    },
+    {
+      "type": "Constant",
+      "count": 2
+    },
+    {
+      "type": "Controls",
+      "count": 1
+    },
+    {
+      "type": "CreateData",
+      "count": 3
+    },
+    {
+      "type": "CreateObject",
       "count": 1
     },
     {
@@ -156,156 +224,12 @@
       "count": 2
     },
     {
-      "type": "Move",
-      "count": 158
-    },
-    {
-      "type": "TypeBegin",
-      "count": 27
-    },
-    {
-      "type": "Type",
-      "count": 98
-    },
-    {
-      "type": "TypeEnd",
-      "count": 27
-    },
-    {
-      "type": "ClassDefinition",
-      "count": 14
-    },
-    {
-      "type": "Public",
-      "count": 8
-    },
-    {
-      "type": "MethodDef",
-      "count": 64
-    },
-    {
-      "type": "Protected",
-      "count": 7
-    },
-    {
-      "type": "Private",
-      "count": 14
-    },
-    {
-      "type": "EndClass",
-      "count": 28
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 14
-    },
-    {
-      "type": "Method",
-      "count": 64
-    },
-    {
-      "type": "Check",
-      "count": 7
-    },
-    {
-      "type": "EndMethod",
-      "count": 64
-    },
-    {
-      "type": "Condense",
-      "count": 2
-    },
-    {
-      "type": "Call",
-      "count": 33
-    },
-    {
-      "type": "CreateData",
-      "count": 3
-    },
-    {
-      "type": "Constant",
-      "count": 2
-    },
-    {
-      "type": "If",
-      "count": 19
-    },
-    {
-      "type": "Return",
-      "count": 1
-    },
-    {
-      "type": "EndIf",
-      "count": 19
-    },
-    {
-      "type": "FieldSymbol",
-      "count": 2
-    },
-    {
-      "type": "Append",
-      "count": 8
-    },
-    {
-      "type": "CallTransformation",
+      "type": "DeleteInternal",
       "count": 1
     },
     {
       "type": "Do",
       "count": 4
-    },
-    {
-      "type": "Exit",
-      "count": 6
-    },
-    {
-      "type": "EndDo",
-      "count": 4
-    },
-    {
-      "type": "Clear",
-      "count": 7
-    },
-    {
-      "type": "ClassData",
-      "count": 3
-    },
-    {
-      "type": "CreateObject",
-      "count": 1
-    },
-    {
-      "type": "Select",
-      "count": 1
-    },
-    {
-      "type": "ClassOther",
-      "count": 12
-    },
-    {
-      "type": "Try",
-      "count": 4
-    },
-    {
-      "type": "Catch",
-      "count": 4
-    },
-    {
-      "type": "EndTry",
-      "count": 4
-    },
-    {
-      "type": "Loop",
-      "count": 6
-    },
-    {
-      "type": "Case",
-      "count": 1
-    },
-    {
-      "type": "When",
-      "count": 3
     },
     {
       "type": "Else",
@@ -316,48 +240,60 @@
       "count": 1
     },
     {
+      "type": "EndClass",
+      "count": 28
+    },
+    {
+      "type": "EndDo",
+      "count": 4
+    },
+    {
+      "type": "EndFunction",
+      "count": 2
+    },
+    {
+      "type": "EndIf",
+      "count": 19
+    },
+    {
+      "type": "EndInterface",
+      "count": 1
+    },
+    {
       "type": "EndLoop",
       "count": 6
     },
     {
-      "type": "ReadTable",
-      "count": 1
+      "type": "EndMethod",
+      "count": 64
     },
     {
-      "type": "Assign",
-      "count": 2
-    },
-    {
-      "type": "InterfaceDef",
-      "count": 1
-    },
-    {
-      "type": "Aliases",
-      "count": 1
-    },
-    {
-      "type": "Split",
-      "count": 2
-    },
-    {
-      "type": "DeleteInternal",
-      "count": 1
-    },
-    {
-      "type": "While",
-      "count": 1
+      "type": "EndTry",
+      "count": 4
     },
     {
       "type": "EndWhile",
       "count": 1
     },
     {
-      "type": "Interface",
-      "count": 1
+      "type": "Exit",
+      "count": 6
     },
     {
-      "type": "EndInterface",
-      "count": 1
+      "type": "FieldSymbol",
+      "count": 2
+    },
+    {
+      "type": "FunctionModule",
+      "count": 2
+    },
+    {
+      "type": "FunctionPool",
+      "count": 2
+    },
+    {
+      "type": "If",
+      "count": 19
     },
     {
       "type": "Include",
@@ -368,28 +304,92 @@
       "count": 1
     },
     {
-      "type": "Controls",
+      "type": "Interface",
       "count": 1
     },
     {
-      "type": "Tables",
-      "count": 2
+      "type": "InterfaceDef",
+      "count": 1
     },
     {
-      "type": "FunctionPool",
-      "count": 2
+      "type": "Loop",
+      "count": 6
     },
     {
-      "type": "FunctionModule",
-      "count": 2
+      "type": "Method",
+      "count": 64
+    },
+    {
+      "type": "MethodDef",
+      "count": 64
+    },
+    {
+      "type": "Move",
+      "count": 158
     },
     {
       "type": "Perform",
       "count": 2
     },
     {
-      "type": "EndFunction",
+      "type": "Private",
+      "count": 14
+    },
+    {
+      "type": "Protected",
+      "count": 7
+    },
+    {
+      "type": "Public",
+      "count": 8
+    },
+    {
+      "type": "ReadTable",
+      "count": 1
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 1
+    },
+    {
+      "type": "Select",
+      "count": 1
+    },
+    {
+      "type": "Split",
       "count": 2
+    },
+    {
+      "type": "Tables",
+      "count": 2
+    },
+    {
+      "type": "Try",
+      "count": 4
+    },
+    {
+      "type": "Type",
+      "count": 98
+    },
+    {
+      "type": "TypeBegin",
+      "count": 27
+    },
+    {
+      "type": "TypeEnd",
+      "count": 27
+    },
+    {
+      "type": "When",
+      "count": 3
+    },
+    {
+      "type": "While",
+      "count": 1
     }
   ],
   "statements": [

@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T11:42:21.544Z",
+  "time": "2019-01-13T15:37:33.591Z",
   "totals": {
     "objects": 2,
     "files": 3,
@@ -19,6 +19,10 @@
     }
   ],
   "issues": [
+    {
+      "type": "check_variables",
+      "count": 23
+    },
     {
       "type": "commented_code",
       "count": 2
@@ -38,10 +42,6 @@
     {
       "type": "local_variable_names",
       "count": 1
-    },
-    {
-      "type": "check_variables",
-      "count": 23
     }
   ],
   "objectOrientation": {
@@ -99,135 +99,7 @@
   ],
   "statementTypes": [
     {
-      "type": "Comment",
-      "count": 28
-    },
-    {
-      "type": "Report",
-      "count": 1
-    },
-    {
-      "type": "ClassDefinition",
-      "count": 1
-    },
-    {
-      "type": "Public",
-      "count": 1
-    },
-    {
-      "type": "MethodDef",
-      "count": 14
-    },
-    {
-      "type": "Private",
-      "count": 1
-    },
-    {
-      "type": "Constant",
-      "count": 4
-    },
-    {
-      "type": "TypeBegin",
-      "count": 1
-    },
-    {
-      "type": "Type",
-      "count": 2
-    },
-    {
-      "type": "TypeEnd",
-      "count": 1
-    },
-    {
-      "type": "Data",
-      "count": 4
-    },
-    {
-      "type": "EndClass",
-      "count": 2
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 1
-    },
-    {
-      "type": "Method",
-      "count": 14
-    },
-    {
-      "type": "CreateObject",
-      "count": 1
-    },
-    {
-      "type": "SetHandler",
-      "count": 1
-    },
-    {
-      "type": "Move",
-      "count": 62
-    },
-    {
-      "type": "Call",
-      "count": 14
-    },
-    {
-      "type": "EndMethod",
-      "count": 14
-    },
-    {
-      "type": "Do",
-      "count": 9
-    },
-    {
-      "type": "If",
-      "count": 18
-    },
-    {
-      "type": "EndIf",
-      "count": 18
-    },
-    {
-      "type": "NewLine",
-      "count": 1
-    },
-    {
-      "type": "EndDo",
-      "count": 9
-    },
-    {
-      "type": "Write",
-      "count": 42
-    },
-    {
-      "type": "ElseIf",
-      "count": 12
-    },
-    {
-      "type": "Else",
-      "count": 4
-    },
-    {
-      "type": "FieldSymbol",
-      "count": 1
-    },
-    {
-      "type": "Return",
-      "count": 3
-    },
-    {
-      "type": "Loop",
-      "count": 1
-    },
-    {
-      "type": "EndLoop",
-      "count": 1
-    },
-    {
       "type": "Append",
-      "count": 1
-    },
-    {
-      "type": "CallFunction",
       "count": 1
     },
     {
@@ -235,8 +107,136 @@
       "count": 1
     },
     {
+      "type": "Call",
+      "count": 14
+    },
+    {
+      "type": "CallFunction",
+      "count": 1
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 1
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 1
+    },
+    {
+      "type": "Comment",
+      "count": 28
+    },
+    {
+      "type": "Constant",
+      "count": 4
+    },
+    {
+      "type": "CreateObject",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 4
+    },
+    {
+      "type": "Do",
+      "count": 9
+    },
+    {
+      "type": "Else",
+      "count": 4
+    },
+    {
+      "type": "ElseIf",
+      "count": 12
+    },
+    {
+      "type": "EndClass",
+      "count": 2
+    },
+    {
+      "type": "EndDo",
+      "count": 9
+    },
+    {
+      "type": "EndIf",
+      "count": 18
+    },
+    {
+      "type": "EndLoop",
+      "count": 1
+    },
+    {
+      "type": "EndMethod",
+      "count": 14
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 1
+    },
+    {
+      "type": "If",
+      "count": 18
+    },
+    {
+      "type": "Loop",
+      "count": 1
+    },
+    {
+      "type": "Method",
+      "count": 14
+    },
+    {
+      "type": "MethodDef",
+      "count": 14
+    },
+    {
+      "type": "Move",
+      "count": 62
+    },
+    {
+      "type": "NewLine",
+      "count": 1
+    },
+    {
+      "type": "Private",
+      "count": 1
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 3
+    },
+    {
+      "type": "SetHandler",
+      "count": 1
+    },
+    {
       "type": "StartOfSelection",
       "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 2
+    },
+    {
+      "type": "TypeBegin",
+      "count": 1
+    },
+    {
+      "type": "TypeEnd",
+      "count": 1
+    },
+    {
+      "type": "Write",
+      "count": 42
     }
   ],
   "statements": [

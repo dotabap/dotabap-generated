@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T09:31:07.385Z",
+  "time": "2019-01-13T13:54:38.493Z",
   "totals": {
     "objects": 9,
     "files": 17,
@@ -24,16 +24,16 @@
   ],
   "issues": [
     {
-      "type": "keywords_upper",
-      "count": 5
+      "type": "check_variables",
+      "count": 22
     },
     {
       "type": "indentation",
       "count": 1
     },
     {
-      "type": "check_variables",
-      "count": 22
+      "type": "keywords_upper",
+      "count": 5
     }
   ],
   "objectOrientation": {
@@ -61,47 +61,55 @@
   ],
   "statementTypes": [
     {
-      "type": "SelectionScreen",
-      "count": 7
-    },
-    {
-      "type": "Comment",
-      "count": 39
-    },
-    {
       "type": "AtSelectionScreen",
       "count": 1
     },
     {
-      "type": "Perform",
-      "count": 5
+      "type": "Call",
+      "count": 26
     },
     {
-      "type": "Include",
-      "count": 4
+      "type": "CallFunction",
+      "count": 2
     },
     {
-      "type": "Report",
+      "type": "CallSelectionScreen",
       "count": 1
+    },
+    {
+      "type": "Case",
+      "count": 3
+    },
+    {
+      "type": "Catch",
+      "count": 1
+    },
+    {
+      "type": "ClassData",
+      "count": 2
     },
     {
       "type": "ClassDefinition",
       "count": 6
     },
     {
-      "type": "Public",
+      "type": "ClassImplementation",
       "count": 6
     },
     {
-      "type": "InterfaceDef",
+      "type": "Clear",
       "count": 3
     },
     {
-      "type": "ConstantBegin",
-      "count": 1
+      "type": "Comment",
+      "count": 39
     },
     {
       "type": "Constant",
+      "count": 1
+    },
+    {
+      "type": "ConstantBegin",
       "count": 1
     },
     {
@@ -109,75 +117,39 @@
       "count": 1
     },
     {
-      "type": "MethodDef",
-      "count": 8
-    },
-    {
-      "type": "EndClass",
-      "count": 12
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 6
-    },
-    {
-      "type": "Method",
-      "count": 13
-    },
-    {
       "type": "CreateObject",
       "count": 8
-    },
-    {
-      "type": "Call",
-      "count": 26
-    },
-    {
-      "type": "EndMethod",
-      "count": 13
-    },
-    {
-      "type": "Move",
-      "count": 13
-    },
-    {
-      "type": "Case",
-      "count": 3
-    },
-    {
-      "type": "When",
-      "count": 3
-    },
-    {
-      "type": "Message",
-      "count": 2
-    },
-    {
-      "type": "EndCase",
-      "count": 3
-    },
-    {
-      "type": "Parameter",
-      "count": 1
-    },
-    {
-      "type": "Form",
-      "count": 5
-    },
-    {
-      "type": "EndForm",
-      "count": 5
     },
     {
       "type": "Data",
       "count": 10
     },
     {
-      "type": "Try",
+      "type": "Define",
       "count": 1
     },
     {
-      "type": "Catch",
+      "type": "EndCase",
+      "count": 3
+    },
+    {
+      "type": "EndClass",
+      "count": 12
+    },
+    {
+      "type": "EndForm",
+      "count": 5
+    },
+    {
+      "type": "EndIf",
+      "count": 4
+    },
+    {
+      "type": "EndMethod",
+      "count": 13
+    },
+    {
+      "type": "EndOfDefinition",
       "count": 1
     },
     {
@@ -185,15 +157,27 @@
       "count": 1
     },
     {
+      "type": "Form",
+      "count": 5
+    },
+    {
+      "type": "If",
+      "count": 4
+    },
+    {
+      "type": "Include",
+      "count": 4
+    },
+    {
       "type": "Initialization",
       "count": 1
     },
     {
-      "type": "StartOfSelection",
-      "count": 1
+      "type": "InterfaceDef",
+      "count": 3
     },
     {
-      "type": "Define",
+      "type": "Leave",
       "count": 1
     },
     {
@@ -201,44 +185,60 @@
       "count": 1
     },
     {
-      "type": "EndOfDefinition",
-      "count": 1
-    },
-    {
-      "type": "Clear",
-      "count": 3
-    },
-    {
-      "type": "If",
-      "count": 4
-    },
-    {
-      "type": "Leave",
-      "count": 1
-    },
-    {
-      "type": "EndIf",
-      "count": 4
-    },
-    {
-      "type": "CallFunction",
+      "type": "Message",
       "count": 2
     },
     {
-      "type": "Return",
-      "count": 3
+      "type": "Method",
+      "count": 13
+    },
+    {
+      "type": "MethodDef",
+      "count": 8
+    },
+    {
+      "type": "Move",
+      "count": 13
+    },
+    {
+      "type": "Parameter",
+      "count": 1
+    },
+    {
+      "type": "Perform",
+      "count": 5
     },
     {
       "type": "Private",
       "count": 2
     },
     {
-      "type": "ClassData",
-      "count": 2
+      "type": "Public",
+      "count": 6
     },
     {
-      "type": "CallSelectionScreen",
+      "type": "Report",
       "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 3
+    },
+    {
+      "type": "SelectionScreen",
+      "count": 7
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 1
+    },
+    {
+      "type": "When",
+      "count": 3
     }
   ],
   "statements": [

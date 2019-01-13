@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T10:15:32.002Z",
+  "time": "2019-01-13T14:42:33.338Z",
   "totals": {
     "objects": 5,
     "files": 10,
@@ -16,16 +16,28 @@
   ],
   "issues": [
     {
-      "type": "structure",
-      "count": 1
+      "type": "7bit_ascii",
+      "count": 4
+    },
+    {
+      "type": "check_variables",
+      "count": 23
+    },
+    {
+      "type": "commented_code",
+      "count": 7
     },
     {
       "type": "exit_or_check",
       "count": 5
     },
     {
-      "type": "commented_code",
-      "count": 7
+      "type": "functional_writing",
+      "count": 11
+    },
+    {
+      "type": "local_class_naming",
+      "count": 1
     },
     {
       "type": "local_variable_names",
@@ -36,27 +48,15 @@
       "count": 1
     },
     {
-      "type": "obsolete_statement",
-      "count": 1
-    },
-    {
-      "type": "check_variables",
-      "count": 23
-    },
-    {
       "type": "method_parameter_names",
       "count": 6
     },
     {
-      "type": "7bit_ascii",
-      "count": 4
+      "type": "obsolete_statement",
+      "count": 1
     },
     {
-      "type": "functional_writing",
-      "count": 11
-    },
-    {
-      "type": "local_class_naming",
+      "type": "structure",
       "count": 1
     }
   ],
@@ -126,51 +126,23 @@
   ],
   "statementTypes": [
     {
-      "type": "Comment",
-      "count": 171
-    },
-    {
-      "type": "Report",
-      "count": 5
-    },
-    {
-      "type": "Parameter",
-      "count": 4
-    },
-    {
-      "type": "ClassDefinition",
-      "count": 6
-    },
-    {
-      "type": "Public",
-      "count": 6
-    },
-    {
-      "type": "InterfaceDef",
+      "type": "Add",
       "count": 1
     },
     {
-      "type": "MethodDef",
-      "count": 24
+      "type": "Append",
+      "count": 36
     },
     {
-      "type": "Protected",
-      "count": 5
+      "type": "Assign",
+      "count": 9
     },
     {
-      "type": "EndClass",
-      "count": 12
+      "type": "At",
+      "count": 1
     },
     {
-      "type": "ClassImplementation",
-      "count": 6
-    },
-    {
-      "type": "Method",
-      "count": 24
-    },
-    {
-      "type": "SetHandler",
+      "type": "AtSelectionScreen",
       "count": 4
     },
     {
@@ -178,143 +150,7 @@
       "count": 54
     },
     {
-      "type": "EndMethod",
-      "count": 24
-    },
-    {
-      "type": "Data",
-      "count": 85
-    },
-    {
-      "type": "FieldSymbol",
-      "count": 14
-    },
-    {
-      "type": "Check",
-      "count": 4
-    },
-    {
-      "type": "Loop",
-      "count": 7
-    },
-    {
-      "type": "Case",
-      "count": 6
-    },
-    {
-      "type": "When",
-      "count": 13
-    },
-    {
-      "type": "Assign",
-      "count": 9
-    },
-    {
-      "type": "Move",
-      "count": 150
-    },
-    {
-      "type": "ReadTable",
-      "count": 14
-    },
-    {
-      "type": "If",
-      "count": 26
-    },
-    {
-      "type": "EndIf",
-      "count": 26
-    },
-    {
-      "type": "EndCase",
-      "count": 6
-    },
-    {
-      "type": "At",
-      "count": 1
-    },
-    {
-      "type": "EndAt",
-      "count": 1
-    },
-    {
-      "type": "Describe",
-      "count": 1
-    },
-    {
-      "type": "Add",
-      "count": 1
-    },
-    {
-      "type": "EndLoop",
-      "count": 7
-    },
-    {
-      "type": "Message",
-      "count": 1
-    },
-    {
-      "type": "CreateObject",
-      "count": 10
-    },
-    {
-      "type": "Select",
-      "count": 5
-    },
-    {
-      "type": "Initialization",
-      "count": 5
-    },
-    {
-      "type": "TypeBegin",
-      "count": 7
-    },
-    {
-      "type": "Type",
-      "count": 27
-    },
-    {
-      "type": "TypeEnd",
-      "count": 7
-    },
-    {
-      "type": "ClassData",
-      "count": 4
-    },
-    {
-      "type": "Append",
-      "count": 36
-    },
-    {
-      "type": "Do",
-      "count": 1
-    },
-    {
-      "type": "EndDo",
-      "count": 1
-    },
-    {
-      "type": "Else",
-      "count": 4
-    },
-    {
-      "type": "Clear",
-      "count": 12
-    },
-    {
-      "type": "AtSelectionScreen",
-      "count": 4
-    },
-    {
-      "type": "ClassOther",
-      "count": 2
-    },
-    {
-      "type": "SelectOption",
-      "count": 2
-    },
-    {
-      "type": "SetParameter",
+      "type": "CallFunction",
       "count": 1
     },
     {
@@ -322,44 +158,208 @@
       "count": 1
     },
     {
-      "type": "Shift",
-      "count": 1
+      "type": "Case",
+      "count": 6
     },
     {
-      "type": "CallFunction",
-      "count": 1
+      "type": "Check",
+      "count": 4
     },
     {
-      "type": "Exit",
-      "count": 1
+      "type": "ClassData",
+      "count": 4
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 6
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 6
+    },
+    {
+      "type": "ClassOther",
+      "count": 2
+    },
+    {
+      "type": "Clear",
+      "count": 12
+    },
+    {
+      "type": "Comment",
+      "count": 171
+    },
+    {
+      "type": "Constant",
+      "count": 4
+    },
+    {
+      "type": "CreateObject",
+      "count": 10
+    },
+    {
+      "type": "Data",
+      "count": 85
     },
     {
       "type": "DeleteInternal",
       "count": 1
     },
     {
-      "type": "Perform",
-      "count": 7
-    },
-    {
-      "type": "StartOfSelection",
+      "type": "Describe",
       "count": 1
     },
     {
-      "type": "Form",
-      "count": 5
+      "type": "Do",
+      "count": 1
+    },
+    {
+      "type": "Else",
+      "count": 4
+    },
+    {
+      "type": "EndAt",
+      "count": 1
+    },
+    {
+      "type": "EndCase",
+      "count": 6
+    },
+    {
+      "type": "EndClass",
+      "count": 12
+    },
+    {
+      "type": "EndDo",
+      "count": 1
     },
     {
       "type": "EndForm",
       "count": 5
     },
     {
+      "type": "EndIf",
+      "count": 26
+    },
+    {
+      "type": "EndLoop",
+      "count": 7
+    },
+    {
+      "type": "EndMethod",
+      "count": 24
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 14
+    },
+    {
+      "type": "Form",
+      "count": 5
+    },
+    {
+      "type": "If",
+      "count": 26
+    },
+    {
       "type": "Include",
       "count": 1
     },
     {
-      "type": "Constant",
+      "type": "Initialization",
+      "count": 5
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 1
+    },
+    {
+      "type": "Loop",
+      "count": 7
+    },
+    {
+      "type": "Message",
+      "count": 1
+    },
+    {
+      "type": "Method",
+      "count": 24
+    },
+    {
+      "type": "MethodDef",
+      "count": 24
+    },
+    {
+      "type": "Move",
+      "count": 150
+    },
+    {
+      "type": "Parameter",
       "count": 4
+    },
+    {
+      "type": "Perform",
+      "count": 7
+    },
+    {
+      "type": "Protected",
+      "count": 5
+    },
+    {
+      "type": "Public",
+      "count": 6
+    },
+    {
+      "type": "ReadTable",
+      "count": 14
+    },
+    {
+      "type": "Report",
+      "count": 5
+    },
+    {
+      "type": "Select",
+      "count": 5
+    },
+    {
+      "type": "SelectOption",
+      "count": 2
+    },
+    {
+      "type": "SetHandler",
+      "count": 4
+    },
+    {
+      "type": "SetParameter",
+      "count": 1
+    },
+    {
+      "type": "Shift",
+      "count": 1
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 27
+    },
+    {
+      "type": "TypeBegin",
+      "count": 7
+    },
+    {
+      "type": "TypeEnd",
+      "count": 7
+    },
+    {
+      "type": "When",
+      "count": 13
     }
   ],
   "statements": [

@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T10:27:07.977Z",
+  "time": "2019-01-13T14:55:04.177Z",
   "totals": {
     "objects": 8,
     "files": 16,
@@ -16,20 +16,24 @@
   ],
   "issues": [
     {
-      "type": "local_class_naming",
-      "count": 16
+      "type": "definitions_top",
+      "count": 3
     },
     {
-      "type": "method_parameter_names",
-      "count": 31
-    },
-    {
-      "type": "obsolete_statement",
-      "count": 29
+      "type": "exit_or_check",
+      "count": 5
     },
     {
       "type": "indentation",
       "count": 1
+    },
+    {
+      "type": "keywords_upper",
+      "count": 1
+    },
+    {
+      "type": "local_class_naming",
+      "count": 16
     },
     {
       "type": "local_variable_names",
@@ -40,16 +44,12 @@
       "count": 1
     },
     {
-      "type": "definitions_top",
-      "count": 3
+      "type": "method_parameter_names",
+      "count": 31
     },
     {
-      "type": "exit_or_check",
-      "count": 5
-    },
-    {
-      "type": "keywords_upper",
-      "count": 1
+      "type": "obsolete_statement",
+      "count": 29
     }
   ],
   "objectOrientation": {
@@ -126,127 +126,47 @@
   ],
   "statementTypes": [
     {
-      "type": "Comment",
-      "count": 46
-    },
-    {
-      "type": "Report",
-      "count": 8
-    },
-    {
-      "type": "ClassDefinition",
-      "count": 16
-    },
-    {
-      "type": "Public",
-      "count": 8
-    },
-    {
-      "type": "MethodDef",
-      "count": 49
-    },
-    {
-      "type": "EndClass",
-      "count": 32
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 16
-    },
-    {
-      "type": "Method",
-      "count": 49
-    },
-    {
-      "type": "Move",
-      "count": 202
-    },
-    {
-      "type": "While",
-      "count": 2
-    },
-    {
-      "type": "If",
-      "count": 19
-    },
-    {
       "type": "Add",
       "count": 27
     },
     {
-      "type": "EndIf",
-      "count": 19
+      "type": "Append",
+      "count": 39
     },
     {
-      "type": "Exit",
-      "count": 10
-    },
-    {
-      "type": "EndWhile",
-      "count": 2
-    },
-    {
-      "type": "EndMethod",
-      "count": 49
-    },
-    {
-      "type": "Private",
-      "count": 11
-    },
-    {
-      "type": "Data",
-      "count": 40
-    },
-    {
-      "type": "CreateObject",
-      "count": 10
+      "type": "At",
+      "count": 3
     },
     {
       "type": "Call",
       "count": 26
     },
     {
-      "type": "StartOfSelection",
-      "count": 8
-    },
-    {
-      "type": "Concatenate",
-      "count": 3
-    },
-    {
-      "type": "Write",
-      "count": 10
-    },
-    {
-      "type": "TypeBegin",
-      "count": 3
-    },
-    {
-      "type": "Type",
-      "count": 13
-    },
-    {
-      "type": "TypeEnd",
-      "count": 3
-    },
-    {
-      "type": "FieldSymbol",
-      "count": 6
-    },
-    {
-      "type": "Sort",
+      "type": "CallFunction",
       "count": 4
     },
     {
-      "type": "Do",
-      "count": 7
+      "type": "Case",
+      "count": 2
     },
     {
-      "type": "Loop",
-      "count": 9
+      "type": "Check",
+      "count": 3
     },
     {
-      "type": "At",
+      "type": "ClassDefinition",
+      "count": 16
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 16
+    },
+    {
+      "type": "Comment",
+      "count": 46
+    },
+    {
+      "type": "Concatenate",
       "count": 3
     },
     {
@@ -254,31 +174,111 @@
       "count": 1
     },
     {
-      "type": "EndAt",
-      "count": 3
+      "type": "CreateObject",
+      "count": 10
     },
     {
-      "type": "EndLoop",
-      "count": 9
+      "type": "Data",
+      "count": 40
     },
     {
       "type": "DeleteInternal",
       "count": 4
     },
     {
+      "type": "Do",
+      "count": 7
+    },
+    {
+      "type": "Else",
+      "count": 4
+    },
+    {
+      "type": "ElseIf",
+      "count": 3
+    },
+    {
+      "type": "EndAt",
+      "count": 3
+    },
+    {
+      "type": "EndCase",
+      "count": 2
+    },
+    {
+      "type": "EndClass",
+      "count": 32
+    },
+    {
       "type": "EndDo",
       "count": 7
+    },
+    {
+      "type": "EndIf",
+      "count": 19
+    },
+    {
+      "type": "EndLoop",
+      "count": 9
+    },
+    {
+      "type": "EndMethod",
+      "count": 49
+    },
+    {
+      "type": "EndWhile",
+      "count": 2
+    },
+    {
+      "type": "Exit",
+      "count": 10
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 6
     },
     {
       "type": "Free",
       "count": 2
     },
     {
-      "type": "Append",
-      "count": 39
+      "type": "If",
+      "count": 19
     },
     {
-      "type": "CallFunction",
+      "type": "Loop",
+      "count": 9
+    },
+    {
+      "type": "Method",
+      "count": 49
+    },
+    {
+      "type": "MethodDef",
+      "count": 49
+    },
+    {
+      "type": "Move",
+      "count": 202
+    },
+    {
+      "type": "Private",
+      "count": 11
+    },
+    {
+      "type": "Public",
+      "count": 8
+    },
+    {
+      "type": "ReadTable",
+      "count": 1
+    },
+    {
+      "type": "Report",
+      "count": 8
+    },
+    {
+      "type": "Sort",
       "count": 4
     },
     {
@@ -286,36 +286,36 @@
       "count": 5
     },
     {
-      "type": "Check",
-      "count": 3
-    },
-    {
-      "type": "ElseIf",
-      "count": 3
+      "type": "StartOfSelection",
+      "count": 8
     },
     {
       "type": "Subtract",
       "count": 2
     },
     {
-      "type": "Else",
-      "count": 4
+      "type": "Type",
+      "count": 13
     },
     {
-      "type": "ReadTable",
-      "count": 1
+      "type": "TypeBegin",
+      "count": 3
     },
     {
-      "type": "Case",
-      "count": 2
+      "type": "TypeEnd",
+      "count": 3
     },
     {
       "type": "When",
       "count": 37
     },
     {
-      "type": "EndCase",
+      "type": "While",
       "count": 2
+    },
+    {
+      "type": "Write",
+      "count": 10
     }
   ],
   "statements": [

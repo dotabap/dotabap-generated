@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T11:28:32.734Z",
+  "time": "2019-01-13T15:33:27.367Z",
   "totals": {
     "objects": 21,
     "files": 22,
@@ -14,8 +14,16 @@
       "count": 1
     },
     {
+      "type": "DOMA",
+      "count": 1
+    },
+    {
       "type": "DTEL",
       "count": 6
+    },
+    {
+      "type": "ENHO",
+      "count": 1
     },
     {
       "type": "TABL",
@@ -24,20 +32,16 @@
     {
       "type": "TTYP",
       "count": 4
-    },
-    {
-      "type": "DOMA",
-      "count": 1
-    },
-    {
-      "type": "ENHO",
-      "count": 1
     }
   ],
   "issues": [
     {
       "type": "class_attribute_names",
       "count": 3
+    },
+    {
+      "type": "contains_tab",
+      "count": 1
     },
     {
       "type": "exit_or_check",
@@ -69,10 +73,6 @@
     },
     {
       "type": "obsolete_statement",
-      "count": 1
-    },
-    {
-      "type": "contains_tab",
       "count": 1
     }
   ],
@@ -181,79 +181,15 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 1
-    },
-    {
-      "type": "Public",
-      "count": 1
-    },
-    {
-      "type": "MethodDef",
-      "count": 5
-    },
-    {
-      "type": "Protected",
-      "count": 1
-    },
-    {
-      "type": "Private",
-      "count": 1
-    },
-    {
-      "type": "Data",
-      "count": 27
-    },
-    {
-      "type": "ClassData",
-      "count": 2
-    },
-    {
-      "type": "EndClass",
-      "count": 2
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 1
-    },
-    {
-      "type": "Method",
-      "count": 5
-    },
-    {
-      "type": "Comment",
-      "count": 27
-    },
-    {
-      "type": "Move",
-      "count": 74
-    },
-    {
       "type": "Append",
       "count": 15
     },
     {
-      "type": "EndMethod",
+      "type": "Assign",
       "count": 5
     },
     {
-      "type": "Loop",
-      "count": 7
-    },
-    {
-      "type": "If",
-      "count": 15
-    },
-    {
-      "type": "EndIf",
-      "count": 15
-    },
-    {
-      "type": "Try",
-      "count": 3
-    },
-    {
-      "type": "Exit",
+      "type": "Call",
       "count": 1
     },
     {
@@ -261,83 +197,147 @@
       "count": 3
     },
     {
-      "type": "EndTry",
-      "count": 3
-    },
-    {
-      "type": "EndLoop",
-      "count": 7
-    },
-    {
-      "type": "FieldSymbol",
-      "count": 8
-    },
-    {
-      "type": "Select",
-      "count": 4
-    },
-    {
-      "type": "CreateObject",
-      "count": 1
-    },
-    {
-      "type": "TypeBegin",
-      "count": 1
-    },
-    {
-      "type": "Type",
-      "count": 2
-    },
-    {
-      "type": "TypeEnd",
-      "count": 1
-    },
-    {
-      "type": "Constant",
-      "count": 2
-    },
-    {
-      "type": "ElseIf",
-      "count": 2
-    },
-    {
-      "type": "Return",
-      "count": 2
-    },
-    {
       "type": "Check",
       "count": 1
     },
     {
-      "type": "Call",
+      "type": "ClassData",
+      "count": 2
+    },
+    {
+      "type": "ClassDefinition",
       "count": 1
     },
     {
-      "type": "Assign",
-      "count": 5
+      "type": "ClassImplementation",
+      "count": 1
     },
     {
       "type": "Clear",
       "count": 1
     },
     {
-      "type": "Continue",
+      "type": "Comment",
+      "count": 27
+    },
+    {
+      "type": "Constant",
       "count": 2
     },
     {
-      "type": "Else",
-      "count": 3
+      "type": "Continue",
+      "count": 2
     },
     {
       "type": "CreateData",
       "count": 1
     },
     {
+      "type": "CreateObject",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 27
+    },
+    {
+      "type": "Else",
+      "count": 3
+    },
+    {
+      "type": "ElseIf",
+      "count": 2
+    },
+    {
+      "type": "EndClass",
+      "count": 2
+    },
+    {
+      "type": "EndIf",
+      "count": 15
+    },
+    {
+      "type": "EndLoop",
+      "count": 7
+    },
+    {
+      "type": "EndMethod",
+      "count": 5
+    },
+    {
+      "type": "EndTry",
+      "count": 3
+    },
+    {
+      "type": "Exit",
+      "count": 1
+    },
+    {
+      "type": "FieldSymbol",
+      "count": 8
+    },
+    {
+      "type": "If",
+      "count": 15
+    },
+    {
       "type": "InsertInternal",
       "count": 1
     },
     {
+      "type": "Loop",
+      "count": 7
+    },
+    {
+      "type": "Method",
+      "count": 5
+    },
+    {
+      "type": "MethodDef",
+      "count": 5
+    },
+    {
+      "type": "Move",
+      "count": 74
+    },
+    {
+      "type": "Private",
+      "count": 1
+    },
+    {
+      "type": "Protected",
+      "count": 1
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
       "type": "Refresh",
+      "count": 1
+    },
+    {
+      "type": "Return",
+      "count": 2
+    },
+    {
+      "type": "Select",
+      "count": 4
+    },
+    {
+      "type": "Try",
+      "count": 3
+    },
+    {
+      "type": "Type",
+      "count": 2
+    },
+    {
+      "type": "TypeBegin",
+      "count": 1
+    },
+    {
+      "type": "TypeEnd",
       "count": 1
     }
   ],

@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T10:34:19.596Z",
+  "time": "2019-01-13T15:02:27.143Z",
   "totals": {
     "objects": 20,
     "files": 40,
@@ -10,23 +10,15 @@
   },
   "objects": [
     {
-      "type": "DDLS",
-      "count": 12
-    },
-    {
       "type": "CLAS",
       "count": 8
+    },
+    {
+      "type": "DDLS",
+      "count": 12
     }
   ],
   "issues": [
-    {
-      "type": "indentation",
-      "count": 4
-    },
-    {
-      "type": "keywords_upper",
-      "count": 4
-    },
     {
       "type": "check_variables",
       "count": 8
@@ -34,6 +26,14 @@
     {
       "type": "exporting",
       "count": 17
+    },
+    {
+      "type": "indentation",
+      "count": 4
+    },
+    {
+      "type": "keywords_upper",
+      "count": 4
     },
     {
       "type": "line_length",
@@ -108,87 +108,63 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 8
-    },
-    {
-      "type": "Public",
-      "count": 8
-    },
-    {
-      "type": "InterfaceDef",
-      "count": 8
-    },
-    {
-      "type": "MethodDef",
-      "count": 101
-    },
-    {
-      "type": "Protected",
-      "count": 8
-    },
-    {
-      "type": "Data",
-      "count": 80
-    },
-    {
-      "type": "Private",
-      "count": 8
-    },
-    {
-      "type": "EndClass",
-      "count": 16
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 8
-    },
-    {
-      "type": "Method",
-      "count": 117
-    },
-    {
       "type": "Call",
       "count": 227
     },
     {
-      "type": "EndMethod",
-      "count": 117
-    },
-    {
-      "type": "Comment",
-      "count": 464
-    },
-    {
-      "type": "Move",
-      "count": 74
+      "type": "CallFunction",
+      "count": 4
     },
     {
       "type": "Case",
       "count": 10
     },
     {
-      "type": "When",
-      "count": 65
+      "type": "Catch",
+      "count": 4
     },
     {
-      "type": "EndCase",
-      "count": 10
+      "type": "ClassDefinition",
+      "count": 8
     },
     {
-      "type": "If",
-      "count": 34
+      "type": "ClassImplementation",
+      "count": 8
+    },
+    {
+      "type": "Comment",
+      "count": 464
+    },
+    {
+      "type": "Constant",
+      "count": 17
+    },
+    {
+      "type": "Data",
+      "count": 80
     },
     {
       "type": "Else",
       "count": 26
     },
     {
+      "type": "EndCase",
+      "count": 10
+    },
+    {
+      "type": "EndClass",
+      "count": 16
+    },
+    {
       "type": "EndIf",
       "count": 34
     },
     {
-      "type": "CallFunction",
+      "type": "EndMethod",
+      "count": 117
+    },
+    {
+      "type": "EndTry",
       "count": 4
     },
     {
@@ -196,11 +172,51 @@
       "count": 2
     },
     {
+      "type": "If",
+      "count": 34
+    },
+    {
+      "type": "IncludeType",
+      "count": 1
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 8
+    },
+    {
       "type": "Message",
       "count": 2
     },
     {
+      "type": "Method",
+      "count": 117
+    },
+    {
+      "type": "MethodDef",
+      "count": 101
+    },
+    {
+      "type": "Move",
+      "count": 74
+    },
+    {
+      "type": "Private",
+      "count": 8
+    },
+    {
+      "type": "Protected",
+      "count": 8
+    },
+    {
+      "type": "Public",
+      "count": 8
+    },
+    {
       "type": "Raise",
+      "count": 4
+    },
+    {
+      "type": "Try",
       "count": 4
     },
     {
@@ -208,32 +224,16 @@
       "count": 33
     },
     {
-      "type": "Constant",
-      "count": 17
-    },
-    {
-      "type": "Try",
-      "count": 4
-    },
-    {
-      "type": "Catch",
-      "count": 4
-    },
-    {
-      "type": "EndTry",
-      "count": 4
-    },
-    {
       "type": "TypeBegin",
-      "count": 1
-    },
-    {
-      "type": "IncludeType",
       "count": 1
     },
     {
       "type": "TypeEnd",
       "count": 1
+    },
+    {
+      "type": "When",
+      "count": 65
     }
   ],
   "statements": [

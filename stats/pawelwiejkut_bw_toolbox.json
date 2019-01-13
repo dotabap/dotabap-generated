@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T09:37:07.432Z",
+  "time": "2019-01-13T14:01:54.982Z",
   "totals": {
     "objects": 6,
     "files": 12,
@@ -10,12 +10,12 @@
   },
   "objects": [
     {
-      "type": "DEVC",
-      "count": 1
-    },
-    {
       "type": "CLAS",
       "count": 3
+    },
+    {
+      "type": "DEVC",
+      "count": 1
     },
     {
       "type": "INTF",
@@ -24,12 +24,12 @@
   ],
   "issues": [
     {
-      "type": "indentation",
-      "count": 2
-    },
-    {
       "type": "check_variables",
       "count": 5
+    },
+    {
+      "type": "indentation",
+      "count": 2
     },
     {
       "type": "superclass_final",
@@ -70,131 +70,7 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 4
-    },
-    {
-      "type": "Public",
-      "count": 3
-    },
-    {
-      "type": "Protected",
-      "count": 3
-    },
-    {
-      "type": "Private",
-      "count": 4
-    },
-    {
-      "type": "EndClass",
-      "count": 8
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 4
-    },
-    {
-      "type": "Comment",
-      "count": 28
-    },
-    {
-      "type": "TypeBegin",
-      "count": 2
-    },
-    {
-      "type": "Type",
-      "count": 6
-    },
-    {
-      "type": "TypeEnd",
-      "count": 2
-    },
-    {
-      "type": "MethodDef",
-      "count": 11
-    },
-    {
-      "type": "Method",
-      "count": 10
-    },
-    {
-      "type": "Move",
-      "count": 17
-    },
-    {
-      "type": "Try",
-      "count": 1
-    },
-    {
-      "type": "OpenDataset",
-      "count": 1
-    },
-    {
-      "type": "If",
-      "count": 3
-    },
-    {
-      "type": "EndIf",
-      "count": 3
-    },
-    {
-      "type": "Catch",
-      "count": 2
-    },
-    {
-      "type": "Raise",
-      "count": 2
-    },
-    {
-      "type": "EndTry",
-      "count": 1
-    },
-    {
-      "type": "EndMethod",
-      "count": 10
-    },
-    {
-      "type": "CallFunction",
-      "count": 2
-    },
-    {
-      "type": "Replace",
-      "count": 4
-    },
-    {
-      "type": "Data",
-      "count": 5
-    },
-    {
-      "type": "Select",
-      "count": 1
-    },
-    {
-      "type": "Loop",
-      "count": 2
-    },
-    {
-      "type": "EndLoop",
-      "count": 2
-    },
-    {
-      "type": "ReadTable",
-      "count": 1
-    },
-    {
-      "type": "Check",
-      "count": 1
-    },
-    {
-      "type": "CreateData",
-      "count": 1
-    },
-    {
       "type": "Assign",
-      "count": 1
-    },
-    {
-      "type": "InsertInternal",
       "count": 1
     },
     {
@@ -202,15 +78,75 @@
       "count": 5
     },
     {
-      "type": "InterfaceDef",
+      "type": "CallFunction",
       "count": 2
+    },
+    {
+      "type": "Catch",
+      "count": 2
+    },
+    {
+      "type": "Check",
+      "count": 1
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 4
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 4
     },
     {
       "type": "Clear",
       "count": 1
     },
     {
+      "type": "Comment",
+      "count": 28
+    },
+    {
+      "type": "CreateData",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 5
+    },
+    {
       "type": "Else",
+      "count": 1
+    },
+    {
+      "type": "EndClass",
+      "count": 8
+    },
+    {
+      "type": "EndIf",
+      "count": 3
+    },
+    {
+      "type": "EndInterface",
+      "count": 2
+    },
+    {
+      "type": "EndLoop",
+      "count": 2
+    },
+    {
+      "type": "EndMethod",
+      "count": 10
+    },
+    {
+      "type": "EndTry",
+      "count": 1
+    },
+    {
+      "type": "If",
+      "count": 3
+    },
+    {
+      "type": "InsertInternal",
       "count": 1
     },
     {
@@ -218,7 +154,71 @@
       "count": 2
     },
     {
-      "type": "EndInterface",
+      "type": "InterfaceDef",
+      "count": 2
+    },
+    {
+      "type": "Loop",
+      "count": 2
+    },
+    {
+      "type": "Method",
+      "count": 10
+    },
+    {
+      "type": "MethodDef",
+      "count": 11
+    },
+    {
+      "type": "Move",
+      "count": 17
+    },
+    {
+      "type": "OpenDataset",
+      "count": 1
+    },
+    {
+      "type": "Private",
+      "count": 4
+    },
+    {
+      "type": "Protected",
+      "count": 3
+    },
+    {
+      "type": "Public",
+      "count": 3
+    },
+    {
+      "type": "Raise",
+      "count": 2
+    },
+    {
+      "type": "ReadTable",
+      "count": 1
+    },
+    {
+      "type": "Replace",
+      "count": 4
+    },
+    {
+      "type": "Select",
+      "count": 1
+    },
+    {
+      "type": "Try",
+      "count": 1
+    },
+    {
+      "type": "Type",
+      "count": 6
+    },
+    {
+      "type": "TypeBegin",
+      "count": 2
+    },
+    {
+      "type": "TypeEnd",
       "count": 2
     }
   ],

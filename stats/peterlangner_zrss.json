@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "target": "v753",
-  "time": "2019-01-13T11:42:54.741Z",
+  "time": "2019-01-13T15:37:43.988Z",
   "totals": {
     "objects": 22,
     "files": 24,
@@ -10,11 +10,11 @@
   },
   "objects": [
     {
-      "type": "DEVC",
+      "type": "CLAS",
       "count": 1
     },
     {
-      "type": "CLAS",
+      "type": "DEVC",
       "count": 1
     },
     {
@@ -36,6 +36,10 @@
   ],
   "issues": [
     {
+      "type": "check_variables",
+      "count": 2
+    },
+    {
       "type": "class_attribute_names",
       "count": 1
     },
@@ -50,10 +54,6 @@
     {
       "type": "method_parameter_names",
       "count": 5
-    },
-    {
-      "type": "check_variables",
-      "count": 2
     }
   ],
   "objectOrientation": {
@@ -118,67 +118,7 @@
   ],
   "statementTypes": [
     {
-      "type": "ClassDefinition",
-      "count": 1
-    },
-    {
-      "type": "Comment",
-      "count": 35
-    },
-    {
-      "type": "Public",
-      "count": 1
-    },
-    {
-      "type": "InterfaceDef",
-      "count": 1
-    },
-    {
-      "type": "Constant",
-      "count": 1
-    },
-    {
-      "type": "Protected",
-      "count": 1
-    },
-    {
-      "type": "MethodDef",
-      "count": 2
-    },
-    {
-      "type": "Private",
-      "count": 1
-    },
-    {
-      "type": "Data",
-      "count": 9
-    },
-    {
-      "type": "EndClass",
-      "count": 2
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 1
-    },
-    {
-      "type": "Method",
-      "count": 2
-    },
-    {
-      "type": "Move",
-      "count": 24
-    },
-    {
-      "type": "Case",
-      "count": 2
-    },
-    {
-      "type": "When",
-      "count": 19
-    },
-    {
-      "type": "EndCase",
+      "type": "Call",
       "count": 2
     },
     {
@@ -186,24 +126,84 @@
       "count": 1
     },
     {
-      "type": "Concatenate",
+      "type": "CallTransformation",
       "count": 1
     },
     {
-      "type": "EndMethod",
+      "type": "Case",
       "count": 2
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 1
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 1
     },
     {
       "type": "Clear",
       "count": 1
     },
     {
-      "type": "CallTransformation",
+      "type": "Comment",
+      "count": 35
+    },
+    {
+      "type": "Concatenate",
       "count": 1
     },
     {
-      "type": "Call",
+      "type": "Constant",
+      "count": 1
+    },
+    {
+      "type": "Data",
+      "count": 9
+    },
+    {
+      "type": "EndCase",
       "count": 2
+    },
+    {
+      "type": "EndClass",
+      "count": 2
+    },
+    {
+      "type": "EndMethod",
+      "count": 2
+    },
+    {
+      "type": "InterfaceDef",
+      "count": 1
+    },
+    {
+      "type": "Method",
+      "count": 2
+    },
+    {
+      "type": "MethodDef",
+      "count": 2
+    },
+    {
+      "type": "Move",
+      "count": 24
+    },
+    {
+      "type": "Private",
+      "count": 1
+    },
+    {
+      "type": "Protected",
+      "count": 1
+    },
+    {
+      "type": "Public",
+      "count": 1
+    },
+    {
+      "type": "When",
+      "count": 19
     }
   ],
   "statements": [
