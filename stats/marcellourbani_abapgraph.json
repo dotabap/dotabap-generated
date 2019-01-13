@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:40:43.250Z",
+  "time": "2019-01-13T11:37:16.737Z",
   "totals": {
     "objects": 12,
     "files": 29,
@@ -52,8 +52,20 @@
       "count": 17
     },
     {
+      "type": "commented_code",
+      "count": 1
+    },
+    {
       "type": "local_class_naming",
       "count": 3
+    },
+    {
+      "type": "description_empty",
+      "count": 1
+    },
+    {
+      "type": "superclass_final",
+      "count": 2
     },
     {
       "type": "colon_missing_space",

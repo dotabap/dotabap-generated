@@ -1,12 +1,12 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:42:11.610Z",
+  "time": "2019-01-13T11:42:54.741Z",
   "totals": {
-    "objects": 23,
-    "files": 26,
-    "statements": 181,
-    "tokens": 793
+    "objects": 22,
+    "files": 24,
+    "statements": 112,
+    "tokens": 444
   },
   "objects": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "type": "CLAS",
-      "count": 2
+      "count": 1
     },
     {
       "type": "DTEL",
@@ -41,23 +41,23 @@
     },
     {
       "type": "keywords_upper",
-      "count": 2
-    },
-    {
-      "type": "check_variables",
-      "count": 2
+      "count": 1
     },
     {
       "type": "local_variable_names",
-      "count": 15
+      "count": 8
     },
     {
       "type": "method_parameter_names",
       "count": 5
+    },
+    {
+      "type": "check_variables",
+      "count": 2
     }
   ],
   "objectOrientation": {
-    "oo": 123,
+    "oo": 77,
     "non": 0
   },
   "methodLength": [
@@ -97,7 +97,7 @@
     0,
     0,
     0,
-    1,
+    0,
     0,
     0,
     0,
@@ -119,15 +119,15 @@
   "statementTypes": [
     {
       "type": "ClassDefinition",
-      "count": 2
+      "count": 1
     },
     {
       "type": "Comment",
-      "count": 58
+      "count": 35
     },
     {
       "type": "Public",
-      "count": 2
+      "count": 1
     },
     {
       "type": "InterfaceDef",
@@ -139,35 +139,35 @@
     },
     {
       "type": "Protected",
-      "count": 2
+      "count": 1
     },
     {
       "type": "MethodDef",
-      "count": 3
+      "count": 2
     },
     {
       "type": "Private",
-      "count": 2
+      "count": 1
     },
     {
       "type": "Data",
-      "count": 19
+      "count": 9
     },
     {
       "type": "EndClass",
-      "count": 4
-    },
-    {
-      "type": "ClassImplementation",
       "count": 2
     },
     {
+      "type": "ClassImplementation",
+      "count": 1
+    },
+    {
       "type": "Method",
-      "count": 3
+      "count": 2
     },
     {
       "type": "Move",
-      "count": 35
+      "count": 24
     },
     {
       "type": "Case",
@@ -187,15 +187,15 @@
     },
     {
       "type": "Concatenate",
-      "count": 7
+      "count": 1
     },
     {
       "type": "EndMethod",
-      "count": 3
+      "count": 2
     },
     {
       "type": "Clear",
-      "count": 2
+      "count": 1
     },
     {
       "type": "CallTransformation",
@@ -204,68 +204,48 @@
     {
       "type": "Call",
       "count": 2
-    },
-    {
-      "type": "Select",
-      "count": 1
-    },
-    {
-      "type": "Loop",
-      "count": 1
-    },
-    {
-      "type": "Write",
-      "count": 4
-    },
-    {
-      "type": "Append",
-      "count": 1
-    },
-    {
-      "type": "EndLoop",
-      "count": 1
     }
   ],
   "statements": [
     {
       "type": "v700",
-      "count": 181
+      "count": 112
     },
     {
       "type": "v702",
-      "count": 181
+      "count": 112
     },
     {
       "type": "v740sp02",
-      "count": 181
+      "count": 112
     },
     {
       "type": "v740sp05",
-      "count": 181
+      "count": 112
     },
     {
       "type": "v740sp08",
-      "count": 181
+      "count": 112
     },
     {
       "type": "v750",
-      "count": 181
+      "count": 112
     },
     {
       "type": "v751",
-      "count": 181
+      "count": 112
     },
     {
       "type": "v752",
-      "count": 181
+      "count": 112
     },
     {
       "type": "v753",
-      "count": 181
+      "count": 112
     },
     {
       "type": "Cloud",
-      "count": 177
+      "count": 112
     }
   ]
 }

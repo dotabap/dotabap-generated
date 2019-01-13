@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:38:45.254Z",
+  "time": "2019-01-13T11:29:56.353Z",
   "totals": {
     "objects": 53,
     "files": 121,
@@ -30,6 +30,10 @@
     {
       "type": "definitions_top",
       "count": 24
+    },
+    {
+      "type": "commented_code",
+      "count": 7
     },
     {
       "type": "local_variable_names",
@@ -68,16 +72,12 @@
       "count": 25
     },
     {
-      "type": "max_one_statement",
-      "count": 13
-    },
-    {
       "type": "indentation",
       "count": 2
     },
     {
-      "type": "check_variables",
-      "count": 74
+      "type": "max_one_statement",
+      "count": 13
     }
   ],
   "objectOrientation": {

@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:08:50.017Z",
+  "time": "2019-01-13T10:32:54.164Z",
   "totals": {
     "objects": 6,
     "files": 12,
@@ -23,10 +23,6 @@
     }
   ],
   "issues": [
-    {
-      "type": "registry_add",
-      "count": 1
-    },
     {
       "type": "exporting",
       "count": 1
@@ -50,6 +46,10 @@
     {
       "type": "check_variables",
       "count": 3
+    },
+    {
+      "type": "superclass_final",
+      "count": 1
     },
     {
       "type": "keywords_upper",

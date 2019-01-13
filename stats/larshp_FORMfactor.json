@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:24:21.651Z",
+  "time": "2019-01-13T10:49:37.589Z",
   "totals": {
     "objects": 2,
     "files": 3,
@@ -20,7 +20,7 @@
   ],
   "issues": [
     {
-      "type": "registry_add",
+      "type": "local_class_naming",
       "count": 1
     },
     {
@@ -28,7 +28,7 @@
       "count": 1
     },
     {
-      "type": "local_class_naming",
+      "type": "superclass_final",
       "count": 1
     }
   ],

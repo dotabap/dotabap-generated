@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:02:25.301Z",
+  "time": "2019-01-13T09:27:46.441Z",
   "totals": {
     "objects": 42,
     "files": 86,
@@ -40,8 +40,8 @@
   ],
   "issues": [
     {
-      "type": "check_variables",
-      "count": 80
+      "type": "commented_code",
+      "count": 5
     },
     {
       "type": "line_only_punc",
@@ -52,16 +52,24 @@
       "count": 3
     },
     {
-      "type": "keywords_upper",
-      "count": 2
+      "type": "check_variables",
+      "count": 40
     },
     {
       "type": "indentation",
       "count": 1
     },
     {
+      "type": "keywords_upper",
+      "count": 2
+    },
+    {
       "type": "local_variable_names",
       "count": 1
+    },
+    {
+      "type": "superclass_final",
+      "count": 7
     }
   ],
   "objectOrientation": {

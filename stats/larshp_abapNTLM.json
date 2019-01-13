@@ -1,14 +1,18 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:26:25.816Z",
+  "time": "2019-01-13T10:52:32.357Z",
   "totals": {
-    "objects": 5,
-    "files": 15,
+    "objects": 6,
+    "files": 16,
     "statements": 3302,
     "tokens": 18540
   },
   "objects": [
+    {
+      "type": "DEVC",
+      "count": 1
+    },
     {
       "type": "CLAS",
       "count": 4
@@ -26,6 +30,10 @@
     {
       "type": "breakpoint",
       "count": 10
+    },
+    {
+      "type": "commented_code",
+      "count": 1
     }
   ],
   "objectOrientation": {

@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:37:19.603Z",
+  "time": "2019-01-13T11:24:27.344Z",
   "totals": {
     "objects": 30,
     "files": 65,
@@ -23,10 +23,6 @@
     }
   ],
   "issues": [
-    {
-      "type": "check_variables",
-      "count": 3
-    },
     {
       "type": "local_class_naming",
       "count": 1
@@ -62,6 +58,14 @@
     {
       "type": "line_length",
       "count": 5
+    },
+    {
+      "type": "commented_code",
+      "count": 1
+    },
+    {
+      "type": "check_variables",
+      "count": 1
     }
   ],
   "objectOrientation": {

@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:30:49.395Z",
+  "time": "2019-01-13T09:51:43.552Z",
   "totals": {
     "objects": 51,
     "files": 121,
@@ -48,16 +48,12 @@
   ],
   "issues": [
     {
-      "type": "registry_add",
-      "count": 1
-    },
-    {
       "type": "structure",
       "count": 9
     },
     {
       "type": "check_variables",
-      "count": 44
+      "count": 45
     },
     {
       "type": "local_class_naming",
@@ -110,6 +106,10 @@
     {
       "type": "7bit_ascii",
       "count": 1
+    },
+    {
+      "type": "commented_code",
+      "count": 7
     },
     {
       "type": "line_length",

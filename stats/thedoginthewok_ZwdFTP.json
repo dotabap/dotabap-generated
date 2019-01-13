@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:50:45.207Z",
+  "time": "2019-01-13T10:13:23.196Z",
   "totals": {
     "objects": 5,
     "files": 9,
@@ -24,10 +24,6 @@
   ],
   "issues": [
     {
-      "type": "registry_add",
-      "count": 1
-    },
-    {
       "type": "method_parameter_names",
       "count": 2
     },
@@ -38,6 +34,10 @@
     {
       "type": "check_variables",
       "count": 22
+    },
+    {
+      "type": "superclass_final",
+      "count": 1
     },
     {
       "type": "breakpoint",

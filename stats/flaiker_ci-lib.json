@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:04:50.263Z",
+  "time": "2019-01-13T09:30:21.278Z",
   "totals": {
     "objects": 116,
     "files": 216,
@@ -85,7 +85,11 @@
   "issues": [
     {
       "type": "check_variables",
-      "count": 102
+      "count": 81
+    },
+    {
+      "type": "superclass_final",
+      "count": 3
     },
     {
       "type": "mix_returning",
@@ -102,6 +106,10 @@
     {
       "type": "exit_or_check",
       "count": 4
+    },
+    {
+      "type": "commented_code",
+      "count": 1
     },
     {
       "type": "keywords_upper",
@@ -443,8 +451,8 @@
       "count": 7
     },
     {
-      "type": "Message",
-      "count": 10
+      "type": "Unknown",
+      "count": 6
     },
     {
       "type": "Add",
@@ -491,6 +499,10 @@
       "count": 1
     },
     {
+      "type": "Message",
+      "count": 4
+    },
+    {
       "type": "GetBadi",
       "count": 1
     },
@@ -530,43 +542,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 4288
+      "count": 4282
     },
     {
       "type": "v702",
-      "count": 4307
+      "count": 4301
     },
     {
       "type": "v740sp02",
-      "count": 4433
+      "count": 4427
     },
     {
       "type": "v740sp05",
-      "count": 4453
+      "count": 4447
     },
     {
       "type": "v740sp08",
-      "count": 4453
+      "count": 4447
     },
     {
       "type": "v750",
-      "count": 4453
+      "count": 4447
     },
     {
       "type": "v751",
-      "count": 4454
+      "count": 4448
     },
     {
       "type": "v752",
-      "count": 4454
+      "count": 4448
     },
     {
       "type": "v753",
-      "count": 4454
+      "count": 4448
     },
     {
       "type": "Cloud",
-      "count": 3978
+      "count": 3972
     }
   ]
 }

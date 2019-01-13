@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:52:45.060Z",
+  "time": "2019-01-13T10:15:32.002Z",
   "totals": {
     "objects": 5,
     "files": 10,
@@ -16,10 +16,6 @@
   ],
   "issues": [
     {
-      "type": "registry_add",
-      "count": 1
-    },
-    {
       "type": "structure",
       "count": 1
     },
@@ -28,16 +24,24 @@
       "count": 5
     },
     {
-      "type": "check_variables",
-      "count": 19
+      "type": "commented_code",
+      "count": 7
     },
     {
       "type": "local_variable_names",
       "count": 14
     },
     {
+      "type": "message",
+      "count": 1
+    },
+    {
       "type": "obsolete_statement",
       "count": 1
+    },
+    {
+      "type": "check_variables",
+      "count": 23
     },
     {
       "type": "method_parameter_names",

@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:09:28.993Z",
+  "time": "2019-01-13T10:33:36.585Z",
   "totals": {
     "objects": 6,
     "files": 8,
@@ -44,16 +44,16 @@
       "count": 7
     },
     {
+      "type": "indentation",
+      "count": 1
+    },
+    {
       "type": "keywords_upper",
       "count": 1
     },
     {
       "type": "line_length",
       "count": 6
-    },
-    {
-      "type": "check_variables",
-      "count": 4
     },
     {
       "type": "line_only_punc",
@@ -68,8 +68,8 @@
       "count": 4
     },
     {
-      "type": "indentation",
-      "count": 1
+      "type": "check_variables",
+      "count": 4
     }
   ],
   "objectOrientation": {

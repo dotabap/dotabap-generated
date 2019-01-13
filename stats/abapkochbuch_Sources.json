@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:26:19.841Z",
+  "time": "2019-01-13T09:46:49.991Z",
   "totals": {
     "objects": 222,
     "files": 447,
@@ -76,10 +76,6 @@
   ],
   "issues": [
     {
-      "type": "registry_add",
-      "count": 1
-    },
-    {
       "type": "7bit_ascii",
       "count": 164
     },
@@ -100,16 +96,24 @@
       "count": 78
     },
     {
-      "type": "check_variables",
-      "count": 431
-    },
-    {
       "type": "line_only_punc",
       "count": 50
     },
     {
       "type": "local_variable_names",
       "count": 151
+    },
+    {
+      "type": "message",
+      "count": 14
+    },
+    {
+      "type": "check_variables",
+      "count": 436
+    },
+    {
+      "type": "indentation",
+      "count": 51
     },
     {
       "type": "keywords_upper",
@@ -124,12 +128,12 @@
       "count": 168
     },
     {
-      "type": "indentation",
-      "count": 52
-    },
-    {
       "type": "nesting",
       "count": 1
+    },
+    {
+      "type": "commented_code",
+      "count": 58
     },
     {
       "type": "sequential_blank",
@@ -137,7 +141,7 @@
     },
     {
       "type": "parser_error",
-      "count": 9
+      "count": 19
     },
     {
       "type": "breakpoint",
@@ -146,6 +150,10 @@
     {
       "type": "class_attribute_names",
       "count": 104
+    },
+    {
+      "type": "message_text_empty",
+      "count": 1
     },
     {
       "type": "exporting",
@@ -160,6 +168,10 @@
       "count": 2
     },
     {
+      "type": "description_empty",
+      "count": 1
+    },
+    {
       "type": "line_length",
       "count": 17
     },
@@ -170,6 +182,10 @@
     {
       "type": "start_at_tab",
       "count": 5
+    },
+    {
+      "type": "superclass_final",
+      "count": 3
     }
   ],
   "objectOrientation": {
@@ -387,7 +403,7 @@
     },
     {
       "type": "Message",
-      "count": 50
+      "count": 40
     },
     {
       "type": "Assign",
@@ -547,7 +563,7 @@
     },
     {
       "type": "Unknown",
-      "count": 9
+      "count": 19
     },
     {
       "type": "ModifyInternal",
@@ -785,43 +801,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 8125
+      "count": 8115
     },
     {
       "type": "v702",
-      "count": 8126
+      "count": 8116
     },
     {
       "type": "v740sp02",
-      "count": 8126
+      "count": 8116
     },
     {
       "type": "v740sp05",
-      "count": 8126
+      "count": 8116
     },
     {
       "type": "v740sp08",
-      "count": 8126
+      "count": 8116
     },
     {
       "type": "v750",
-      "count": 8126
+      "count": 8116
     },
     {
       "type": "v751",
-      "count": 8126
+      "count": 8116
     },
     {
       "type": "v752",
-      "count": 8126
+      "count": 8116
     },
     {
       "type": "v753",
-      "count": 8126
+      "count": 8116
     },
     {
       "type": "Cloud",
-      "count": 7310
+      "count": 7300
     }
   ]
 }

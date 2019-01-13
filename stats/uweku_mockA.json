@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:06:00.444Z",
+  "time": "2019-01-13T09:31:18.408Z",
   "totals": {
     "objects": 21,
     "files": 42,
@@ -33,15 +33,23 @@
   "issues": [
     {
       "type": "registry_add",
-      "count": 3
+      "count": 1
+    },
+    {
+      "type": "commented_code",
+      "count": 1
+    },
+    {
+      "type": "obsolete_statement",
+      "count": 44
     },
     {
       "type": "check_variables",
       "count": 11
     },
     {
-      "type": "obsolete_statement",
-      "count": 44
+      "type": "indentation",
+      "count": 6
     },
     {
       "type": "keywords_upper",
@@ -50,10 +58,6 @@
     {
       "type": "line_only_punc",
       "count": 16
-    },
-    {
-      "type": "indentation",
-      "count": 6
     },
     {
       "type": "class_attribute_names",
@@ -90,6 +94,10 @@
     {
       "type": "method_parameter_names",
       "count": 62
+    },
+    {
+      "type": "superclass_final",
+      "count": 2
     },
     {
       "type": "exporting",

@@ -1,14 +1,18 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:12:09.394Z",
+  "time": "2019-01-13T10:36:28.377Z",
   "totals": {
-    "objects": 14,
-    "files": 28,
+    "objects": 15,
+    "files": 29,
     "statements": 4609,
     "tokens": 24883
   },
   "objects": [
+    {
+      "type": "DEVC",
+      "count": 1
+    },
     {
       "type": "CLAS",
       "count": 13
@@ -36,12 +40,12 @@
       "count": 50
     },
     {
-      "type": "line_length",
-      "count": 68
-    },
-    {
       "type": "indentation",
       "count": 2
+    },
+    {
+      "type": "line_length",
+      "count": 68
     },
     {
       "type": "line_only_punc",

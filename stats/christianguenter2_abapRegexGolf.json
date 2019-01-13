@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:49:48.217Z",
+  "time": "2019-01-13T10:12:20.544Z",
   "totals": {
     "objects": 17,
     "files": 37,
@@ -44,10 +44,6 @@
   ],
   "issues": [
     {
-      "type": "registry_add",
-      "count": 1
-    },
-    {
       "type": "exit_or_check",
       "count": 8
     },
@@ -56,20 +52,16 @@
       "count": 2
     },
     {
-      "type": "local_variable_names",
-      "count": 12
-    },
-    {
       "type": "indentation",
       "count": 1
     },
     {
-      "type": "line_length",
-      "count": 1
+      "type": "local_variable_names",
+      "count": 12
     },
     {
-      "type": "check_variables",
-      "count": 102
+      "type": "line_length",
+      "count": 1
     },
     {
       "type": "local_class_naming",
@@ -80,12 +72,24 @@
       "count": 29
     },
     {
+      "type": "check_variables",
+      "count": 98
+    },
+    {
+      "type": "description_empty",
+      "count": 8
+    },
+    {
       "type": "contains_tab",
       "count": 20
     },
     {
       "type": "class_attribute_names",
       "count": 2
+    },
+    {
+      "type": "superclass_final",
+      "count": 1
     }
   ],
   "objectOrientation": {

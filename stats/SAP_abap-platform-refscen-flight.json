@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:23:37.244Z",
+  "time": "2019-01-13T09:43:52.537Z",
   "totals": {
     "objects": 96,
     "files": 121,
@@ -72,24 +72,20 @@
       "count": 22
     },
     {
-      "type": "local_class_naming",
-      "count": 8
-    },
-    {
       "type": "max_one_statement",
       "count": 38
-    },
-    {
-      "type": "global_class",
-      "count": 8
     },
     {
       "type": "parser_error",
       "count": 5
     },
     {
-      "type": "check_variables",
-      "count": 730
+      "type": "commented_code",
+      "count": 6
+    },
+    {
+      "type": "local_class_naming",
+      "count": 4
     },
     {
       "type": "local_variable_names",
@@ -102,6 +98,14 @@
     {
       "type": "mix_returning",
       "count": 18
+    },
+    {
+      "type": "check_variables",
+      "count": 715
+    },
+    {
+      "type": "superclass_final",
+      "count": 1
     },
     {
       "type": "indentation",

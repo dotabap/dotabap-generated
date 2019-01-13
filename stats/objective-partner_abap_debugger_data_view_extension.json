@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:07:52.992Z",
+  "time": "2019-01-13T10:31:53.001Z",
   "totals": {
     "objects": 18,
     "files": 49,
@@ -43,10 +43,6 @@
     }
   ],
   "issues": [
-    {
-      "type": "registry_add",
-      "count": 1
-    },
     {
       "type": "keywords_upper",
       "count": 2

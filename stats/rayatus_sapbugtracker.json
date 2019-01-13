@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:08:13.442Z",
+  "time": "2019-01-13T09:32:34.842Z",
   "totals": {
     "objects": 356,
     "files": 566,
@@ -97,23 +97,23 @@
   "issues": [
     {
       "type": "registry_add",
-      "count": 15
+      "count": 10
+    },
+    {
+      "type": "indentation",
+      "count": 57
     },
     {
       "type": "keywords_upper",
       "count": 58
     },
     {
-      "type": "check_variables",
-      "count": 438
-    },
-    {
       "type": "local_variable_names",
       "count": 500
     },
     {
-      "type": "indentation",
-      "count": 58
+      "type": "check_variables",
+      "count": 430
     },
     {
       "type": "line_only_punc",
@@ -121,7 +121,7 @@
     },
     {
       "type": "parser_error",
-      "count": 2
+      "count": 35
     },
     {
       "type": "max_one_statement",
@@ -142,6 +142,10 @@
     {
       "type": "class_attribute_names",
       "count": 167
+    },
+    {
+      "type": "commented_code",
+      "count": 40
     },
     {
       "type": "functional_writing",
@@ -172,6 +176,10 @@
       "count": 6
     },
     {
+      "type": "superclass_final",
+      "count": 4
+    },
+    {
       "type": "exit_or_check",
       "count": 3
     },
@@ -182,6 +190,10 @@
     {
       "type": "definitions_top",
       "count": 2
+    },
+    {
+      "type": "description_empty",
+      "count": 1
     },
     {
       "type": "space_before_colon",
@@ -419,7 +431,7 @@
     },
     {
       "type": "Message",
-      "count": 44
+      "count": 11
     },
     {
       "type": "EndIf",
@@ -451,7 +463,7 @@
     },
     {
       "type": "Unknown",
-      "count": 155
+      "count": 188
     },
     {
       "type": "FunctionPool",
@@ -829,43 +841,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 49093
+      "count": 49060
     },
     {
       "type": "v702",
-      "count": 49093
+      "count": 49060
     },
     {
       "type": "v740sp02",
-      "count": 49093
+      "count": 49060
     },
     {
       "type": "v740sp05",
-      "count": 49093
+      "count": 49060
     },
     {
       "type": "v740sp08",
-      "count": 49093
+      "count": 49060
     },
     {
       "type": "v750",
-      "count": 49093
+      "count": 49060
     },
     {
       "type": "v751",
-      "count": 49093
+      "count": 49060
     },
     {
       "type": "v752",
-      "count": 49093
+      "count": 49060
     },
     {
       "type": "v753",
-      "count": 49093
+      "count": 49060
     },
     {
       "type": "Cloud",
-      "count": 47858
+      "count": 47825
     }
   ]
 }

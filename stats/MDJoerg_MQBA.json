@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:21:32.254Z",
+  "time": "2019-01-13T09:41:37.004Z",
   "totals": {
     "objects": 305,
     "files": 438,
@@ -100,16 +100,20 @@
       "count": 4
     },
     {
+      "type": "indentation",
+      "count": 42
+    },
+    {
       "type": "keywords_upper",
       "count": 62
     },
     {
       "type": "check_variables",
-      "count": 81
+      "count": 82
     },
     {
-      "type": "indentation",
-      "count": 42
+      "type": "superclass_final",
+      "count": 5
     },
     {
       "type": "method_parameter_names",
@@ -140,6 +144,10 @@
       "count": 6
     },
     {
+      "type": "message",
+      "count": 1
+    },
+    {
       "type": "exporting",
       "count": 2
     },
@@ -162,6 +170,10 @@
     {
       "type": "functional_writing",
       "count": 3
+    },
+    {
+      "type": "commented_code",
+      "count": 1
     },
     {
       "type": "mix_returning",

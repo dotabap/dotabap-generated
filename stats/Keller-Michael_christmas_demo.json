@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:42:01.236Z",
+  "time": "2019-01-13T11:42:21.544Z",
   "totals": {
     "objects": 2,
     "files": 3,
@@ -20,12 +20,16 @@
   ],
   "issues": [
     {
+      "type": "commented_code",
+      "count": 2
+    },
+    {
       "type": "exporting",
       "count": 3
     },
     {
-      "type": "check_variables",
-      "count": 23
+      "type": "indentation",
+      "count": 1
     },
     {
       "type": "line_only_punc",
@@ -36,8 +40,8 @@
       "count": 1
     },
     {
-      "type": "indentation",
-      "count": 1
+      "type": "check_variables",
+      "count": 23
     }
   ],
   "objectOrientation": {

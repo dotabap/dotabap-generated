@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:02:57.792Z",
+  "time": "2019-01-13T09:28:21.421Z",
   "totals": {
     "objects": 10,
     "files": 22,
@@ -28,8 +28,8 @@
   ],
   "issues": [
     {
-      "type": "registry_add",
-      "count": 2
+      "type": "indentation",
+      "count": 7
     },
     {
       "type": "keywords_upper",
@@ -40,20 +40,20 @@
       "count": 7
     },
     {
-      "type": "indentation",
-      "count": 7
-    },
-    {
       "type": "line_length",
       "count": 3
+    },
+    {
+      "type": "message",
+      "count": 1
     },
     {
       "type": "definitions_top",
       "count": 1
     },
     {
-      "type": "check_variables",
-      "count": 19
+      "type": "commented_code",
+      "count": 2
     },
     {
       "type": "local_variable_names",
@@ -66,6 +66,14 @@
     {
       "type": "method_parameter_names",
       "count": 19
+    },
+    {
+      "type": "check_variables",
+      "count": 19
+    },
+    {
+      "type": "superclass_final",
+      "count": 1
     }
   ],
   "objectOrientation": {

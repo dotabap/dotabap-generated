@@ -1,12 +1,12 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T11:54:32.813Z",
+  "time": "2019-01-13T10:17:32.177Z",
   "totals": {
     "objects": 328,
     "files": 478,
-    "statements": 32636,
-    "tokens": 187326
+    "statements": 32717,
+    "tokens": 187410
   },
   "objects": [
     {
@@ -72,28 +72,32 @@
       "count": 415
     },
     {
-      "type": "check_variables",
-      "count": 78
-    },
-    {
       "type": "local_variable_names",
-      "count": 506
+      "count": 353
     },
     {
       "type": "obsolete_statement",
       "count": 223
     },
     {
+      "type": "check_variables",
+      "count": 84
+    },
+    {
       "type": "colon_missing_space",
       "count": 7
     },
     {
-      "type": "max_one_statement",
-      "count": 473
+      "type": "commented_code",
+      "count": 67
     },
     {
       "type": "indentation",
-      "count": 72
+      "count": 69
+    },
+    {
+      "type": "max_one_statement",
+      "count": 473
     },
     {
       "type": "7bit_ascii",
@@ -101,7 +105,7 @@
     },
     {
       "type": "class_attribute_names",
-      "count": 366
+      "count": 333
     },
     {
       "type": "definitions_top",
@@ -109,7 +113,7 @@
     },
     {
       "type": "keywords_upper",
-      "count": 88
+      "count": 86
     },
     {
       "type": "line_only_punc",
@@ -121,7 +125,7 @@
     },
     {
       "type": "method_parameter_names",
-      "count": 399
+      "count": 345
     },
     {
       "type": "functional_writing",
@@ -148,6 +152,10 @@
       "count": 1
     },
     {
+      "type": "superclass_final",
+      "count": 7
+    },
+    {
       "type": "sequential_blank",
       "count": 11
     },
@@ -156,8 +164,16 @@
       "count": 3
     },
     {
+      "type": "parser_error",
+      "count": 2
+    },
+    {
       "type": "contains_tab",
       "count": 7
+    },
+    {
+      "type": "message",
+      "count": 4
     }
   ],
   "objectOrientation": {
@@ -1237,7 +1253,7 @@
   "statementTypes": [
     {
       "type": "Comment",
-      "count": 6649
+      "count": 6730
     },
     {
       "type": "Report",
@@ -1549,7 +1565,7 @@
     },
     {
       "type": "Message",
-      "count": 32
+      "count": 30
     },
     {
       "type": "ElseIf",
@@ -1648,6 +1664,10 @@
       "count": 40
     },
     {
+      "type": "Unknown",
+      "count": 2
+    },
+    {
       "type": "Collect",
       "count": 3
     },
@@ -1743,43 +1763,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 32631
+      "count": 32710
     },
     {
       "type": "v702",
-      "count": 32636
+      "count": 32715
     },
     {
       "type": "v740sp02",
-      "count": 32636
+      "count": 32715
     },
     {
       "type": "v740sp05",
-      "count": 32636
+      "count": 32715
     },
     {
       "type": "v740sp08",
-      "count": 32636
+      "count": 32715
     },
     {
       "type": "v750",
-      "count": 32636
+      "count": 32715
     },
     {
       "type": "v751",
-      "count": 32636
+      "count": 32715
     },
     {
       "type": "v752",
-      "count": 32636
+      "count": 32715
     },
     {
       "type": "v753",
-      "count": 32636
+      "count": 32715
     },
     {
       "type": "Cloud",
-      "count": 31818
+      "count": 31897
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.9",
   "target": "v753",
-  "time": "2019-01-07T12:40:29.208Z",
+  "time": "2019-01-13T11:36:26.533Z",
   "totals": {
     "objects": 2,
     "files": 4,
@@ -24,6 +24,10 @@
       "count": 9
     },
     {
+      "type": "indentation",
+      "count": 2
+    },
+    {
       "type": "keywords_upper",
       "count": 2
     },
@@ -34,10 +38,6 @@
     {
       "type": "method_parameter_names",
       "count": 41
-    },
-    {
-      "type": "indentation",
-      "count": 2
     },
     {
       "type": "functional_writing",
