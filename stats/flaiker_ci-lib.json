@@ -1,17 +1,17 @@
 {
-  "version": "1.6.10",
+  "version": "1.6.12",
   "target": "v753",
-  "time": "2019-01-13T13:53:46.619Z",
+  "time": "2019-01-19T18:20:28.230Z",
   "totals": {
-    "objects": 116,
-    "files": 216,
-    "statements": 4454,
-    "tokens": 24829
+    "objects": 120,
+    "files": 222,
+    "statements": 4849,
+    "tokens": 28340
   },
   "objects": [
     {
       "type": "CLAS",
-      "count": 42
+      "count": 45
     },
     {
       "type": "DEVC",
@@ -54,6 +54,10 @@
       "count": 1
     },
     {
+      "type": "SICF",
+      "count": 1
+    },
+    {
       "type": "SXCI",
       "count": 3
     },
@@ -85,19 +89,19 @@
   "issues": [
     {
       "type": "check_variables",
-      "count": 81
+      "count": 96
     },
     {
       "type": "commented_code",
-      "count": 1
+      "count": 2
     },
     {
       "type": "empty_statement",
-      "count": 7
+      "count": 4
     },
     {
       "type": "exit_or_check",
-      "count": 4
+      "count": 7
     },
     {
       "type": "keywords_upper",
@@ -105,7 +109,7 @@
     },
     {
       "type": "line_only_punc",
-      "count": 34
+      "count": 57
     },
     {
       "type": "mix_returning",
@@ -113,46 +117,46 @@
     },
     {
       "type": "superclass_final",
-      "count": 3
+      "count": 5
     }
   ],
   "objectOrientation": {
-    "oo": 2031,
+    "oo": 2410,
     "non": 1747
   },
   "methodLength": [
-    19,
-    55,
-    12,
-    5,
+    16,
+    60,
+    11,
+    7,
     14,
     8,
-    4,
-    2,
     5,
-    5,
+    3,
+    6,
     4,
-    7,
+    5,
+    8,
     1,
     3,
+    5,
+    0,
+    1,
+    4,
+    0,
+    2,
     3,
-    0,
-    1,
-    2,
-    0,
     2,
     1,
+    1,
+    0,
     2,
     0,
-    1,
-    0,
-    0,
-    0,
-    0,
     0,
     1,
     1,
     0,
+    1,
     0,
     0,
     0,
@@ -169,6 +173,8 @@
     0,
     0,
     1,
+    0,
+    0,
     0,
     0,
     0,
@@ -196,7 +202,7 @@
     },
     {
       "type": "Assign",
-      "count": 47
+      "count": 51
     },
     {
       "type": "At",
@@ -204,7 +210,7 @@
     },
     {
       "type": "Call",
-      "count": 91
+      "count": 136
     },
     {
       "type": "CallBadi",
@@ -212,11 +218,11 @@
     },
     {
       "type": "CallFunction",
-      "count": 46
+      "count": 48
     },
     {
       "type": "CallTransformation",
-      "count": 2
+      "count": 4
     },
     {
       "type": "Case",
@@ -224,11 +230,11 @@
     },
     {
       "type": "Catch",
-      "count": 29
+      "count": 40
     },
     {
       "type": "Check",
-      "count": 10
+      "count": 13
     },
     {
       "type": "ClassData",
@@ -236,11 +242,11 @@
     },
     {
       "type": "ClassDefinition",
-      "count": 42
+      "count": 45
     },
     {
       "type": "ClassImplementation",
-      "count": 42
+      "count": 45
     },
     {
       "type": "Clear",
@@ -248,7 +254,7 @@
     },
     {
       "type": "Comment",
-      "count": 669
+      "count": 688
     },
     {
       "type": "Commit",
@@ -264,15 +270,15 @@
     },
     {
       "type": "Constant",
-      "count": 92
+      "count": 106
     },
     {
       "type": "ConstantBegin",
-      "count": 25
+      "count": 26
     },
     {
       "type": "ConstantEnd",
-      "count": 25
+      "count": 26
     },
     {
       "type": "Continue",
@@ -283,12 +289,16 @@
       "count": 6
     },
     {
+      "type": "CreateData",
+      "count": 2
+    },
+    {
       "type": "CreateObject",
       "count": 3
     },
     {
       "type": "Data",
-      "count": 102
+      "count": 109
     },
     {
       "type": "DataBegin",
@@ -304,7 +314,7 @@
     },
     {
       "type": "Do",
-      "count": 22
+      "count": 23
     },
     {
       "type": "Else",
@@ -312,11 +322,11 @@
     },
     {
       "type": "ElseIf",
-      "count": 29
+      "count": 38
     },
     {
       "type": "Empty",
-      "count": 7
+      "count": 4
     },
     {
       "type": "EndAt",
@@ -328,11 +338,11 @@
     },
     {
       "type": "EndClass",
-      "count": 84
+      "count": 90
     },
     {
       "type": "EndDo",
-      "count": 22
+      "count": 23
     },
     {
       "type": "EndForm",
@@ -344,7 +354,7 @@
     },
     {
       "type": "EndIf",
-      "count": 261
+      "count": 280
     },
     {
       "type": "EndInterface",
@@ -352,11 +362,11 @@
     },
     {
       "type": "EndLoop",
-      "count": 23
+      "count": 27
     },
     {
       "type": "EndMethod",
-      "count": 162
+      "count": 179
     },
     {
       "type": "EndSelect",
@@ -364,7 +374,7 @@
     },
     {
       "type": "EndTry",
-      "count": 28
+      "count": 38
     },
     {
       "type": "Exit",
@@ -376,7 +386,7 @@
     },
     {
       "type": "Find",
-      "count": 2
+      "count": 3
     },
     {
       "type": "Form",
@@ -396,7 +406,7 @@
     },
     {
       "type": "If",
-      "count": 261
+      "count": 280
     },
     {
       "type": "Include",
@@ -404,7 +414,7 @@
     },
     {
       "type": "IncludeType",
-      "count": 30
+      "count": 31
     },
     {
       "type": "InsertDatabase",
@@ -412,7 +422,7 @@
     },
     {
       "type": "InsertInternal",
-      "count": 18
+      "count": 22
     },
     {
       "type": "Interface",
@@ -420,11 +430,11 @@
     },
     {
       "type": "InterfaceDef",
-      "count": 21
+      "count": 20
     },
     {
       "type": "Loop",
-      "count": 23
+      "count": 27
     },
     {
       "type": "Message",
@@ -432,19 +442,19 @@
     },
     {
       "type": "Method",
-      "count": 162
+      "count": 179
     },
     {
       "type": "MethodDef",
-      "count": 143
+      "count": 161
     },
     {
       "type": "ModifyInternal",
-      "count": 13
+      "count": 14
     },
     {
       "type": "Move",
-      "count": 484
+      "count": 552
     },
     {
       "type": "Perform",
@@ -452,7 +462,7 @@
     },
     {
       "type": "Private",
-      "count": 42
+      "count": 45
     },
     {
       "type": "Program",
@@ -460,15 +470,15 @@
     },
     {
       "type": "Protected",
-      "count": 42
+      "count": 45
     },
     {
       "type": "Public",
-      "count": 42
+      "count": 45
     },
     {
       "type": "Raise",
-      "count": 122
+      "count": 141
     },
     {
       "type": "ReadTable",
@@ -488,7 +498,7 @@
     },
     {
       "type": "Select",
-      "count": 28
+      "count": 29
     },
     {
       "type": "SelectLoop",
@@ -512,19 +522,19 @@
     },
     {
       "type": "Try",
-      "count": 28
+      "count": 38
     },
     {
       "type": "Type",
-      "count": 58
+      "count": 89
     },
     {
       "type": "TypeBegin",
-      "count": 17
+      "count": 23
     },
     {
       "type": "TypeEnd",
-      "count": 17
+      "count": 23
     },
     {
       "type": "UpdateDatabase",
@@ -538,43 +548,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 4288
+      "count": 4644
     },
     {
       "type": "v702",
-      "count": 4307
+      "count": 4667
     },
     {
       "type": "v740sp02",
-      "count": 4433
+      "count": 4826
     },
     {
       "type": "v740sp05",
-      "count": 4453
+      "count": 4848
     },
     {
       "type": "v740sp08",
-      "count": 4453
+      "count": 4848
     },
     {
       "type": "v750",
-      "count": 4453
+      "count": 4848
     },
     {
       "type": "v751",
-      "count": 4454
+      "count": 4849
     },
     {
       "type": "v752",
-      "count": 4454
+      "count": 4849
     },
     {
       "type": "v753",
-      "count": 4454
+      "count": 4849
     },
     {
       "type": "Cloud",
-      "count": 3978
+      "count": 4353
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "version": "1.6.10",
+  "version": "1.6.12",
   "target": "v753",
-  "time": "2019-01-13T13:51:33.230Z",
+  "time": "2019-01-19T18:18:14.260Z",
   "totals": {
-    "objects": 3,
-    "files": 9,
+    "objects": 4,
+    "files": 10,
     "statements": 958,
     "tokens": 6798
   },
@@ -12,6 +12,10 @@
     {
       "type": "CLAS",
       "count": 2
+    },
+    {
+      "type": "DEVC",
+      "count": 1
     },
     {
       "type": "INTF",
