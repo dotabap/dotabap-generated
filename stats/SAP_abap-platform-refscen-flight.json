@@ -1,7 +1,7 @@
 {
-  "version": "1.6.12",
+  "version": "1.6.15",
   "target": "v753",
-  "time": "2019-01-23T06:53:43.440Z",
+  "time": "2019-01-28T11:09:37.682Z",
   "totals": {
     "objects": 96,
     "files": 121,
@@ -76,6 +76,10 @@
       "count": 1
     },
     {
+      "type": "keywords_upper",
+      "count": 10
+    },
+    {
       "type": "line_length",
       "count": 827
     },
@@ -104,8 +108,12 @@
       "count": 18
     },
     {
+      "type": "object_naming",
+      "count": 1
+    },
+    {
       "type": "parser_error",
-      "count": 5
+      "count": 7
     },
     {
       "type": "superclass_final",
@@ -437,7 +445,7 @@
     },
     {
       "type": "Select",
-      "count": 147
+      "count": 145
     },
     {
       "type": "SelectLoop",
@@ -477,7 +485,7 @@
     },
     {
       "type": "Unknown",
-      "count": 5
+      "count": 7
     },
     {
       "type": "UpdateDatabase",
@@ -507,31 +515,31 @@
     },
     {
       "type": "v740sp05",
-      "count": 5545
+      "count": 5543
     },
     {
       "type": "v740sp08",
-      "count": 5575
+      "count": 5573
     },
     {
       "type": "v750",
-      "count": 5651
+      "count": 5649
     },
     {
       "type": "v751",
-      "count": 5653
+      "count": 5651
     },
     {
       "type": "v752",
-      "count": 5653
+      "count": 5651
     },
     {
       "type": "v753",
-      "count": 5653
+      "count": 5651
     },
     {
       "type": "Cloud",
-      "count": 5630
+      "count": 5628
     }
   ]
 }

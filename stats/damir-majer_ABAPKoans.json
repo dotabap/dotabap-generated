@@ -1,7 +1,7 @@
 {
-  "version": "1.6.12",
+  "version": "1.6.15",
   "target": "v753",
-  "time": "2019-01-23T06:41:23.641Z",
+  "time": "2019-01-28T11:05:58.073Z",
   "totals": {
     "objects": 2,
     "files": 5,
@@ -29,6 +29,10 @@
     },
     {
       "type": "exit_or_check",
+      "count": 1
+    },
+    {
+      "type": "keywords_upper",
       "count": 1
     },
     {

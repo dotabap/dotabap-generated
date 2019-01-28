@@ -1,12 +1,12 @@
 {
-  "version": "1.6.12",
+  "version": "1.6.15",
   "target": "v753",
-  "time": "2019-01-23T10:58:29.645Z",
+  "time": "2019-01-28T12:28:57.049Z",
   "totals": {
-    "objects": 16,
-    "files": 34,
-    "statements": 3135,
-    "tokens": 16543
+    "objects": 17,
+    "files": 36,
+    "statements": 3139,
+    "tokens": 16608
   },
   "objects": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "type": "INTF",
-      "count": 1
+      "count": 2
     },
     {
       "type": "PARA",
@@ -53,15 +53,15 @@
     },
     {
       "type": "indentation",
-      "count": 12
+      "count": 13
     },
     {
       "type": "keywords_upper",
-      "count": 14
+      "count": 15
     },
     {
       "type": "line_length",
-      "count": 4
+      "count": 5
     },
     {
       "type": "local_variable_names",
@@ -77,7 +77,7 @@
     },
     {
       "type": "method_parameter_names",
-      "count": 120
+      "count": 122
     },
     {
       "type": "superclass_final",
@@ -85,12 +85,12 @@
     }
   ],
   "objectOrientation": {
-    "oo": 2219,
+    "oo": 2227,
     "non": 270
   },
   "methodLength": [
     7,
-    4,
+    5,
     0,
     2,
     3,
@@ -272,11 +272,11 @@
     },
     {
       "type": "Comment",
-      "count": 646
+      "count": 642
     },
     {
       "type": "Constant",
-      "count": 10
+      "count": 12
     },
     {
       "type": "ConstantBegin",
@@ -344,7 +344,7 @@
     },
     {
       "type": "EndInterface",
-      "count": 1
+      "count": 2
     },
     {
       "type": "EndLoop",
@@ -352,7 +352,7 @@
     },
     {
       "type": "EndMethod",
-      "count": 84
+      "count": 85
     },
     {
       "type": "EndOfDefinition",
@@ -408,7 +408,7 @@
     },
     {
       "type": "Interface",
-      "count": 1
+      "count": 2
     },
     {
       "type": "InterfaceDef",
@@ -432,11 +432,11 @@
     },
     {
       "type": "Method",
-      "count": 84
+      "count": 85
     },
     {
       "type": "MethodDef",
-      "count": 84
+      "count": 85
     },
     {
       "type": "ModifyInternal",
@@ -444,7 +444,7 @@
     },
     {
       "type": "Move",
-      "count": 308
+      "count": 309
     },
     {
       "type": "Parameter",
@@ -550,43 +550,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 3087
+      "count": 3091
     },
     {
       "type": "v702",
-      "count": 3135
+      "count": 3139
     },
     {
       "type": "v740sp02",
-      "count": 3135
+      "count": 3139
     },
     {
       "type": "v740sp05",
-      "count": 3135
+      "count": 3139
     },
     {
       "type": "v740sp08",
-      "count": 3135
+      "count": 3139
     },
     {
       "type": "v750",
-      "count": 3135
+      "count": 3139
     },
     {
       "type": "v751",
-      "count": 3135
+      "count": 3139
     },
     {
       "type": "v752",
-      "count": 3135
+      "count": 3139
     },
     {
       "type": "v753",
-      "count": 3135
+      "count": 3139
     },
     {
       "type": "Cloud",
-      "count": 2969
+      "count": 2973
     }
   ]
 }

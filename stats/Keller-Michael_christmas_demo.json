@@ -1,7 +1,7 @@
 {
-  "version": "1.6.12",
+  "version": "1.6.15",
   "target": "v753",
-  "time": "2019-01-23T11:18:06.637Z",
+  "time": "2019-01-28T12:40:14.073Z",
   "totals": {
     "objects": 2,
     "files": 3,
@@ -21,7 +21,7 @@
   "issues": [
     {
       "type": "check_variables",
-      "count": 23
+      "count": 18
     },
     {
       "type": "commented_code",
@@ -33,6 +33,10 @@
     },
     {
       "type": "indentation",
+      "count": 1
+    },
+    {
+      "type": "keywords_upper",
       "count": 1
     },
     {

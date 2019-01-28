@@ -1,7 +1,7 @@
 {
-  "version": "1.6.12",
+  "version": "1.6.15",
   "target": "v753",
-  "time": "2019-01-23T08:40:50.048Z",
+  "time": "2019-01-28T11:39:51.901Z",
   "totals": {
     "objects": 17,
     "files": 37,
@@ -70,6 +70,10 @@
     {
       "type": "indentation",
       "count": 1
+    },
+    {
+      "type": "keywords_upper",
+      "count": 3
     },
     {
       "type": "line_length",

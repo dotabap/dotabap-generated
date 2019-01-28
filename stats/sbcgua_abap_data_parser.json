@@ -1,12 +1,12 @@
 {
-  "version": "1.6.12",
+  "version": "1.6.15",
   "target": "v753",
-  "time": "2019-01-23T11:00:37.650Z",
+  "time": "2019-01-28T12:30:06.063Z",
   "totals": {
-    "objects": 7,
-    "files": 17,
+    "objects": 8,
+    "files": 19,
     "statements": 2450,
-    "tokens": 14011
+    "tokens": 14013
   },
   "objects": [
     {
@@ -15,6 +15,10 @@
     },
     {
       "type": "DEVC",
+      "count": 1
+    },
+    {
+      "type": "INTF",
       "count": 1
     },
     {
@@ -33,11 +37,11 @@
     },
     {
       "type": "indentation",
-      "count": 8
+      "count": 9
     },
     {
       "type": "keywords_upper",
-      "count": 8
+      "count": 9
     },
     {
       "type": "line_length",
@@ -61,7 +65,7 @@
     }
   ],
   "objectOrientation": {
-    "oo": 1979,
+    "oo": 1980,
     "non": 122
   },
   "methodLength": [
@@ -226,7 +230,7 @@
     },
     {
       "type": "Comment",
-      "count": 349
+      "count": 348
     },
     {
       "type": "Concatenate",
@@ -238,7 +242,7 @@
     },
     {
       "type": "Constant",
-      "count": 28
+      "count": 27
     },
     {
       "type": "ConstantBegin",
@@ -309,6 +313,10 @@
       "count": 91
     },
     {
+      "type": "EndInterface",
+      "count": 1
+    },
+    {
       "type": "EndLoop",
       "count": 15
     },
@@ -355,6 +363,10 @@
     {
       "type": "InsertInternal",
       "count": 6
+    },
+    {
+      "type": "Interface",
+      "count": 1
     },
     {
       "type": "InterfaceDef",

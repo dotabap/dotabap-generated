@@ -1,7 +1,7 @@
 {
-  "version": "1.6.12",
+  "version": "1.6.15",
   "target": "v753",
-  "time": "2019-01-23T07:04:41.453Z",
+  "time": "2019-01-28T11:12:49.050Z",
   "totals": {
     "objects": 222,
     "files": 447,
@@ -85,7 +85,7 @@
     },
     {
       "type": "check_variables",
-      "count": 437
+      "count": 435
     },
     {
       "type": "class_attribute_names",
@@ -129,7 +129,7 @@
     },
     {
       "type": "keywords_upper",
-      "count": 56
+      "count": 82
     },
     {
       "type": "line_length",
@@ -162,6 +162,10 @@
     {
       "type": "method_parameter_names",
       "count": 168
+    },
+    {
+      "type": "msag_consistency",
+      "count": 1
     },
     {
       "type": "nesting",
