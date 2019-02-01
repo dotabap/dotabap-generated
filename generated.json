@@ -4536,7 +4536,7 @@
    "forks_count": 185,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 152,
+   "open_issues_count": 153,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4545,7 +4545,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 185,
-   "open_issues": 152,
+   "open_issues": 153,
    "watchers": 464,
    "default_branch": "master",
    "permissions": {
@@ -11135,23 +11135,23 @@
    "releases_url": "https://api.github.com/repos/abapinho/abaK/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abaK/deployments",
    "created_at": "2019-01-31T18:54:18Z",
-   "updated_at": "2019-01-31T19:39:06Z",
-   "pushed_at": "2019-01-31T19:39:05Z",
+   "updated_at": "2019-02-01T10:40:57Z",
+   "pushed_at": "2019-02-01T10:40:55Z",
    "git_url": "git://github.com/abapinho/abaK.git",
    "ssh_url": "git@github.com:abapinho/abaK.git",
    "clone_url": "https://github.com/abapinho/abaK.git",
    "svn_url": "https://github.com/abapinho/abaK",
    "homepage": "",
-   "size": 61,
-   "stargazers_count": 0,
-   "watchers_count": 0,
+   "size": 64,
+   "stargazers_count": 1,
+   "watchers_count": 1,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 5,
@@ -11162,9 +11162,9 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 0,
+   "forks": 1,
    "open_issues": 5,
-   "watchers": 0,
+   "watchers": 1,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -11191,8 +11191,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 0,
-   "subscribers_count": 1
+   "network_count": 1,
+   "subscribers_count": 2
   }
  },
  "Keller-Michael/christmas_demo": {
