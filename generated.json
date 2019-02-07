@@ -2054,7 +2054,7 @@
    "releases_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/deployments",
    "created_at": "2018-10-28T18:36:49Z",
-   "updated_at": "2019-01-30T20:23:40Z",
+   "updated_at": "2019-02-07T18:28:26Z",
    "pushed_at": "2019-01-30T20:23:39Z",
    "git_url": "git://github.com/pawelwiejkut/bw_toolbox.git",
    "ssh_url": "git@github.com:pawelwiejkut/bw_toolbox.git",
@@ -2062,8 +2062,8 @@
    "svn_url": "https://github.com/pawelwiejkut/bw_toolbox",
    "homepage": "",
    "size": 44,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2083,7 +2083,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -2091,7 +2091,7 @@
     "pull": true
    },
    "network_count": 1,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "pacroy/abap-fluentd": {
@@ -2946,13 +2946,13 @@
    "deployments_url": "https://api.github.com/repos/MDJoerg/MQBA/deployments",
    "created_at": "2018-07-13T19:07:01Z",
    "updated_at": "2019-01-04T00:25:52Z",
-   "pushed_at": "2019-02-06T21:49:22Z",
+   "pushed_at": "2019-02-06T22:53:46Z",
    "git_url": "git://github.com/MDJoerg/MQBA.git",
    "ssh_url": "git@github.com:MDJoerg/MQBA.git",
    "clone_url": "https://github.com/MDJoerg/MQBA.git",
    "svn_url": "https://github.com/MDJoerg/MQBA",
    "homepage": "",
-   "size": 595,
+   "size": 637,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -4432,7 +4432,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 80937,
+  "lines": 80929,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -4517,14 +4517,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-02-06T07:11:37Z",
-   "pushed_at": "2019-02-06T11:06:33Z",
+   "updated_at": "2019-02-07T11:08:44Z",
+   "pushed_at": "2019-02-07T18:01:57Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 10279,
+   "size": 10258,
    "stargazers_count": 465,
    "watchers_count": 465,
    "language": "ABAP",
@@ -4533,10 +4533,10 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 185,
+   "forks_count": 190,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 152,
+   "open_issues_count": 154,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4544,8 +4544,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 185,
-   "open_issues": 152,
+   "forks": 190,
+   "open_issues": 154,
    "watchers": 465,
    "default_branch": "master",
    "permissions": {
@@ -4553,8 +4553,8 @@
     "push": true,
     "pull": true
    },
-   "network_count": 185,
-   "subscribers_count": 92
+   "network_count": 190,
+   "subscribers_count": 93
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -4638,7 +4638,7 @@
    "releases_url": "https://api.github.com/repos/Keller-Michael/synchronize-SAP-GUI-favorites/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Keller-Michael/synchronize-SAP-GUI-favorites/deployments",
    "created_at": "2018-03-18T20:21:40Z",
-   "updated_at": "2018-04-20T14:43:47Z",
+   "updated_at": "2019-02-07T07:32:20Z",
    "pushed_at": "2018-03-19T14:44:15Z",
    "git_url": "git://github.com/Keller-Michael/synchronize-SAP-GUI-favorites.git",
    "ssh_url": "git@github.com:Keller-Michael/synchronize-SAP-GUI-favorites.git",
@@ -4646,15 +4646,15 @@
    "svn_url": "https://github.com/Keller-Michael/synchronize-SAP-GUI-favorites",
    "homepage": "https://blogs.sap.com/2018/03/19/synchronize-your-sap-gui-favorites/",
    "size": 11,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 0,
@@ -4665,16 +4665,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
     "pull": true
    },
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 1
   }
  },
@@ -7834,7 +7834,7 @@
    "releases_url": "https://api.github.com/repos/fidley/falv/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/falv/deployments",
    "created_at": "2016-03-11T09:39:33Z",
-   "updated_at": "2019-01-28T08:50:14Z",
+   "updated_at": "2019-02-07T07:03:41Z",
    "pushed_at": "2018-12-22T09:37:40Z",
    "git_url": "git://github.com/fidley/falv.git",
    "ssh_url": "git@github.com:fidley/falv.git",
@@ -7842,18 +7842,18 @@
    "svn_url": "https://github.com/fidley/falv",
    "homepage": null,
    "size": 1328,
-   "stargazers_count": 37,
-   "watchers_count": 37,
+   "stargazers_count": 38,
+   "watchers_count": 38,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 19,
+   "forks_count": 20,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 2,
+   "open_issues_count": 3,
    "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -7861,16 +7861,16 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "node_id": "MDc6TGljZW5zZTk="
    },
-   "forks": 19,
-   "open_issues": 2,
-   "watchers": 37,
+   "forks": 20,
+   "open_issues": 3,
+   "watchers": 38,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
     "pull": true
    },
-   "network_count": 19,
+   "network_count": 20,
    "subscribers_count": 19
   }
  },
@@ -8117,7 +8117,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 37235,
+  "lines": 37291,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -8128,7 +8128,7 @@
   ],
   "parsing": {
    "version": "1.6.17",
-   "cloud": 2346
+   "cloud": 2348
   },
   "repo": {
    "id": 21558384,
@@ -8197,16 +8197,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-02-06T07:14:56Z",
-   "pushed_at": "2019-02-06T12:41:43Z",
+   "updated_at": "2019-02-07T15:08:17Z",
+   "pushed_at": "2019-02-07T14:16:25Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1647,
-   "stargazers_count": 71,
-   "watchers_count": 71,
+   "size": 1659,
+   "stargazers_count": 72,
+   "watchers_count": 72,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -8226,7 +8226,7 @@
    },
    "forks": 21,
    "open_issues": 271,
-   "watchers": 71,
+   "watchers": 72,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -9421,7 +9421,7 @@
    "clone_url": "https://github.com/sbcgua/mockup_loader.git",
    "svn_url": "https://github.com/sbcgua/mockup_loader",
    "homepage": null,
-   "size": 525,
+   "size": 512,
    "stargazers_count": 31,
    "watchers_count": 31,
    "language": "ABAP",
