@@ -1,12 +1,12 @@
 {
-  "version": "1.6.15",
+  "version": "1.6.17",
   "target": "v753",
-  "time": "2019-01-28T10:56:06.505Z",
+  "time": "2019-02-07T07:47:13.269Z",
   "totals": {
     "objects": 17,
     "files": 33,
-    "statements": 1465,
-    "tokens": 8359
+    "statements": 1504,
+    "tokens": 8485
   },
   "objects": [
     {
@@ -25,7 +25,7 @@
   "issues": [
     {
       "type": "check_variables",
-      "count": 113
+      "count": 104
     },
     {
       "type": "commented_code",
@@ -33,7 +33,7 @@
     },
     {
       "type": "definitions_top",
-      "count": 10
+      "count": 11
     },
     {
       "type": "indentation",
@@ -57,44 +57,44 @@
     }
   ],
   "objectOrientation": {
-    "oo": 1256,
-    "non": 92
+    "oo": 1276,
+    "non": 91
   },
   "methodLength": [
-    1,
-    20,
-    9,
-    5,
+    0,
+    17,
+    7,
     4,
     4,
     2,
-    5,
-    5,
+    4,
+    6,
+    6,
     0,
-    1,
+    3,
     5,
     1,
     3,
     4,
-    1,
-    1,
     2,
+    2,
+    1,
     0,
-    2,
+    3,
     0,
     3,
     0,
     1,
     0,
     0,
-    2,
+    1,
     0,
     0,
     1,
     0,
+    0,
+    0,
     1,
-    0,
-    0,
     0,
     0,
     0,
@@ -108,7 +108,7 @@
   "statementTypes": [
     {
       "type": "Aliases",
-      "count": 6
+      "count": 8
     },
     {
       "type": "Append",
@@ -128,7 +128,7 @@
     },
     {
       "type": "Call",
-      "count": 106
+      "count": 108
     },
     {
       "type": "CallFunction",
@@ -140,11 +140,11 @@
     },
     {
       "type": "Case",
-      "count": 9
+      "count": 7
     },
     {
       "type": "Catch",
-      "count": 14
+      "count": 17
     },
     {
       "type": "Check",
@@ -156,11 +156,11 @@
     },
     {
       "type": "ClassDefinition",
-      "count": 24
+      "count": 22
     },
     {
       "type": "ClassImplementation",
-      "count": 24
+      "count": 22
     },
     {
       "type": "Clear",
@@ -168,7 +168,7 @@
     },
     {
       "type": "Comment",
-      "count": 117
+      "count": 137
     },
     {
       "type": "Concatenate",
@@ -192,11 +192,11 @@
     },
     {
       "type": "CreateObject",
-      "count": 19
+      "count": 17
     },
     {
       "type": "Data",
-      "count": 114
+      "count": 119
     },
     {
       "type": "Define",
@@ -216,7 +216,7 @@
     },
     {
       "type": "Else",
-      "count": 7
+      "count": 9
     },
     {
       "type": "ElseIf",
@@ -224,11 +224,11 @@
     },
     {
       "type": "EndCase",
-      "count": 9
+      "count": 7
     },
     {
       "type": "EndClass",
-      "count": 48
+      "count": 44
     },
     {
       "type": "EndDo",
@@ -240,11 +240,11 @@
     },
     {
       "type": "EndIf",
-      "count": 59
+      "count": 65
     },
     {
       "type": "EndInterface",
-      "count": 4
+      "count": 5
     },
     {
       "type": "EndLoop",
@@ -252,7 +252,7 @@
     },
     {
       "type": "EndMethod",
-      "count": 85
+      "count": 83
     },
     {
       "type": "EndOfDefinition",
@@ -260,7 +260,7 @@
     },
     {
       "type": "EndTry",
-      "count": 13
+      "count": 16
     },
     {
       "type": "Events",
@@ -288,11 +288,11 @@
     },
     {
       "type": "If",
-      "count": 59
+      "count": 65
     },
     {
       "type": "Include",
-      "count": 19
+      "count": 18
     },
     {
       "type": "IncludeType",
@@ -304,7 +304,7 @@
     },
     {
       "type": "Interface",
-      "count": 4
+      "count": 5
     },
     {
       "type": "InterfaceDef",
@@ -328,7 +328,7 @@
     },
     {
       "type": "Method",
-      "count": 85
+      "count": 83
     },
     {
       "type": "MethodDef",
@@ -336,7 +336,7 @@
     },
     {
       "type": "Move",
-      "count": 183
+      "count": 188
     },
     {
       "type": "Parameter",
@@ -356,7 +356,7 @@
     },
     {
       "type": "Public",
-      "count": 24
+      "count": 22
     },
     {
       "type": "Raise",
@@ -368,7 +368,7 @@
     },
     {
       "type": "ReadTable",
-      "count": 4
+      "count": 5
     },
     {
       "type": "Report",
@@ -376,7 +376,7 @@
     },
     {
       "type": "Return",
-      "count": 9
+      "count": 11
     },
     {
       "type": "SelectionScreen",
@@ -400,11 +400,11 @@
     },
     {
       "type": "Try",
-      "count": 13
+      "count": 16
     },
     {
       "type": "Type",
-      "count": 33
+      "count": 32
     },
     {
       "type": "TypeBegin",
@@ -416,49 +416,53 @@
     },
     {
       "type": "When",
-      "count": 25
+      "count": 23
+    },
+    {
+      "type": "Write",
+      "count": 1
     }
   ],
   "statements": [
     {
       "type": "v700",
-      "count": 1438
+      "count": 1477
     },
     {
       "type": "v702",
-      "count": 1465
+      "count": 1504
     },
     {
       "type": "v740sp02",
-      "count": 1465
+      "count": 1504
     },
     {
       "type": "v740sp05",
-      "count": 1465
+      "count": 1504
     },
     {
       "type": "v740sp08",
-      "count": 1465
+      "count": 1504
     },
     {
       "type": "v750",
-      "count": 1465
+      "count": 1504
     },
     {
       "type": "v751",
-      "count": 1465
+      "count": 1504
     },
     {
       "type": "v752",
-      "count": 1465
+      "count": 1504
     },
     {
       "type": "v753",
-      "count": 1465
+      "count": 1504
     },
     {
       "type": "Cloud",
-      "count": 1396
+      "count": 1435
     }
   ]
 }

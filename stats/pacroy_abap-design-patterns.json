@@ -1,0 +1,202 @@
+{
+  "version": "1.6.17",
+  "target": "v753",
+  "time": "2019-02-07T07:48:36.109Z",
+  "totals": {
+    "objects": 6,
+    "files": 12,
+    "statements": 250,
+    "tokens": 939
+  },
+  "objects": [
+    {
+      "type": "PROG",
+      "count": 6
+    }
+  ],
+  "issues": [
+    {
+      "type": "7bit_ascii",
+      "count": 1
+    },
+    {
+      "type": "exit_or_check",
+      "count": 2
+    },
+    {
+      "type": "line_only_punc",
+      "count": 2
+    }
+  ],
+  "objectOrientation": {
+    "oo": 77,
+    "non": 77
+  },
+  "methodLength": [
+    3,
+    3,
+    0,
+    0,
+    1
+  ],
+  "statementTypes": [
+    {
+      "type": "Call",
+      "count": 3
+    },
+    {
+      "type": "Check",
+      "count": 2
+    },
+    {
+      "type": "ClassData",
+      "count": 1
+    },
+    {
+      "type": "ClassDefinition",
+      "count": 3
+    },
+    {
+      "type": "ClassImplementation",
+      "count": 3
+    },
+    {
+      "type": "Comment",
+      "count": 96
+    },
+    {
+      "type": "CreateObject",
+      "count": 3
+    },
+    {
+      "type": "Data",
+      "count": 12
+    },
+    {
+      "type": "EndClass",
+      "count": 6
+    },
+    {
+      "type": "EndForm",
+      "count": 7
+    },
+    {
+      "type": "EndInterface",
+      "count": 3
+    },
+    {
+      "type": "EndMethod",
+      "count": 7
+    },
+    {
+      "type": "EndOfSelection",
+      "count": 6
+    },
+    {
+      "type": "Form",
+      "count": 7
+    },
+    {
+      "type": "Initialization",
+      "count": 1
+    },
+    {
+      "type": "Interface",
+      "count": 3
+    },
+    {
+      "type": "Method",
+      "count": 7
+    },
+    {
+      "type": "MethodDef",
+      "count": 13
+    },
+    {
+      "type": "Move",
+      "count": 16
+    },
+    {
+      "type": "Parameter",
+      "count": 3
+    },
+    {
+      "type": "Perform",
+      "count": 5
+    },
+    {
+      "type": "Private",
+      "count": 2
+    },
+    {
+      "type": "Public",
+      "count": 3
+    },
+    {
+      "type": "Report",
+      "count": 6
+    },
+    {
+      "type": "SelectOption",
+      "count": 3
+    },
+    {
+      "type": "StartOfSelection",
+      "count": 6
+    },
+    {
+      "type": "Type",
+      "count": 13
+    },
+    {
+      "type": "TypeBegin",
+      "count": 5
+    },
+    {
+      "type": "TypeEnd",
+      "count": 5
+    }
+  ],
+  "statements": [
+    {
+      "type": "v700",
+      "count": 242
+    },
+    {
+      "type": "v702",
+      "count": 242
+    },
+    {
+      "type": "v740sp02",
+      "count": 250
+    },
+    {
+      "type": "v740sp05",
+      "count": 250
+    },
+    {
+      "type": "v740sp08",
+      "count": 250
+    },
+    {
+      "type": "v750",
+      "count": 250
+    },
+    {
+      "type": "v751",
+      "count": 250
+    },
+    {
+      "type": "v752",
+      "count": 250
+    },
+    {
+      "type": "v753",
+      "count": 250
+    },
+    {
+      "type": "Cloud",
+      "count": 206
+    }
+  ]
+}

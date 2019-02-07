@@ -1,12 +1,12 @@
 {
-  "version": "1.6.15",
+  "version": "1.6.17",
   "target": "v753",
-  "time": "2019-01-28T12:10:37.052Z",
+  "time": "2019-02-07T09:08:48.274Z",
   "totals": {
     "objects": 130,
     "files": 351,
-    "statements": 22518,
-    "tokens": 111240
+    "statements": 22553,
+    "tokens": 111407
   },
   "objects": [
     {
@@ -65,14 +65,14 @@
     }
   ],
   "objectOrientation": {
-    "oo": 18710,
+    "oo": 18747,
     "non": 727
   },
   "methodLength": [
     4,
     218,
     221,
-    295,
+    297,
     69,
     103,
     74,
@@ -88,7 +88,7 @@
     10,
     5,
     8,
-    8,
+    9,
     17,
     5,
     2,
@@ -102,10 +102,10 @@
     6,
     4,
     5,
-    3,
+    2,
     5,
     3,
-    5,
+    6,
     2,
     6,
     3,
@@ -168,7 +168,7 @@
     },
     {
       "type": "Call",
-      "count": 1459
+      "count": 1461
     },
     {
       "type": "CallFunction",
@@ -228,7 +228,7 @@
     },
     {
       "type": "Comment",
-      "count": 3081
+      "count": 3079
     },
     {
       "type": "Concatenate",
@@ -252,7 +252,7 @@
     },
     {
       "type": "Continue",
-      "count": 129
+      "count": 130
     },
     {
       "type": "CreateData",
@@ -316,7 +316,7 @@
     },
     {
       "type": "EndIf",
-      "count": 764
+      "count": 771
     },
     {
       "type": "EndLoop",
@@ -324,7 +324,7 @@
     },
     {
       "type": "EndMethod",
-      "count": 1544
+      "count": 1547
     },
     {
       "type": "EndModule",
@@ -380,7 +380,7 @@
     },
     {
       "type": "If",
-      "count": 764
+      "count": 771
     },
     {
       "type": "Import",
@@ -416,7 +416,7 @@
     },
     {
       "type": "MacroCall",
-      "count": 1848
+      "count": 1850
     },
     {
       "type": "MacroContent",
@@ -428,11 +428,11 @@
     },
     {
       "type": "Method",
-      "count": 1544
+      "count": 1547
     },
     {
       "type": "MethodDef",
-      "count": 1544
+      "count": 1547
     },
     {
       "type": "ModifyInternal",
@@ -444,7 +444,7 @@
     },
     {
       "type": "Move",
-      "count": 2677
+      "count": 2686
     },
     {
       "type": "Parameter",
@@ -590,43 +590,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 22490
+      "count": 22525
     },
     {
       "type": "v702",
-      "count": 22518
+      "count": 22553
     },
     {
       "type": "v740sp02",
-      "count": 22518
+      "count": 22553
     },
     {
       "type": "v740sp05",
-      "count": 22518
+      "count": 22553
     },
     {
       "type": "v740sp08",
-      "count": 22518
+      "count": 22553
     },
     {
       "type": "v750",
-      "count": 22518
+      "count": 22553
     },
     {
       "type": "v751",
-      "count": 22518
+      "count": 22553
     },
     {
       "type": "v752",
-      "count": 22518
+      "count": 22553
     },
     {
       "type": "v753",
-      "count": 22518
+      "count": 22553
     },
     {
       "type": "Cloud",
-      "count": 21952
+      "count": 21987
     }
   ]
 }

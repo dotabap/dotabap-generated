@@ -1,7 +1,7 @@
 {
-  "version": "1.6.15",
+  "version": "1.6.17",
   "target": "v753",
-  "time": "2019-01-28T11:16:47.894Z",
+  "time": "2019-02-07T08:12:14.853Z",
   "totals": {
     "objects": 13,
     "files": 25,
@@ -70,6 +70,10 @@
     {
       "type": "nesting",
       "count": 1
+    },
+    {
+      "type": "object_naming",
+      "count": 12
     }
   ],
   "objectOrientation": {
