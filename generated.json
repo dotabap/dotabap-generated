@@ -3,7 +3,7 @@
   "lines": 3800,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 84
   },
   "repo": {
@@ -89,7 +89,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 7,
+   "forks_count": 8,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 1,
@@ -100,7 +100,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 7,
+   "forks": 8,
    "open_issues": 1,
    "watchers": 13,
    "default_branch": "master",
@@ -109,7 +109,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 7,
+   "network_count": 8,
    "subscribers_count": 4
   }
  },
@@ -124,7 +124,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 27
   },
   "repo": {
@@ -246,7 +246,7 @@
    "/Logo_Gladius_01.png"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 24
   },
   "repo": {
@@ -367,7 +367,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 74
   },
   "repo": {
@@ -488,7 +488,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 9
   },
   "repo": {
@@ -598,127 +598,6 @@
    "subscribers_count": 3
   }
  },
- "jungsap/ZHANA_CATALOG": {
-  "lines": 422,
-  "startingFolder": "/src/",
-  "ignoreFiles": [
-   "/.gitignore",
-   "/LICENSE",
-   "/README.md",
-   "/package.json",
-   "/.travis.yml"
-  ],
-  "parsing": {
-   "version": "1.6.17",
-   "cloud": 8
-  },
-  "repo": {
-   "id": 169646665,
-   "node_id": "MDEwOlJlcG9zaXRvcnkxNjk2NDY2NjU=",
-   "name": "ZHANA_CATALOG",
-   "full_name": "jungsap/ZHANA_CATALOG",
-   "private": false,
-   "owner": {
-    "login": "jungsap",
-    "id": 12159356,
-    "node_id": "MDQ6VXNlcjEyMTU5MzU2",
-    "avatar_url": "https://avatars2.githubusercontent.com/u/12159356?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/jungsap",
-    "html_url": "https://github.com/jungsap",
-    "followers_url": "https://api.github.com/users/jungsap/followers",
-    "following_url": "https://api.github.com/users/jungsap/following{/other_user}",
-    "gists_url": "https://api.github.com/users/jungsap/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/jungsap/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/jungsap/subscriptions",
-    "organizations_url": "https://api.github.com/users/jungsap/orgs",
-    "repos_url": "https://api.github.com/users/jungsap/repos",
-    "events_url": "https://api.github.com/users/jungsap/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/jungsap/received_events",
-    "type": "User",
-    "site_admin": false
-   },
-   "html_url": "https://github.com/jungsap/ZHANA_CATALOG",
-   "description": "ABAP Based HANA Catalog Utilities",
-   "fork": false,
-   "url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG",
-   "forks_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/forks",
-   "keys_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/keys{/key_id}",
-   "collaborators_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/collaborators{/collaborator}",
-   "teams_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/teams",
-   "hooks_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/hooks",
-   "issue_events_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/issues/events{/number}",
-   "events_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/events",
-   "assignees_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/assignees{/user}",
-   "branches_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/branches{/branch}",
-   "tags_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/tags",
-   "blobs_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/git/blobs{/sha}",
-   "git_tags_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/git/tags{/sha}",
-   "git_refs_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/git/refs{/sha}",
-   "trees_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/git/trees{/sha}",
-   "statuses_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/statuses/{sha}",
-   "languages_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/languages",
-   "stargazers_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/stargazers",
-   "contributors_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/contributors",
-   "subscribers_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/subscribers",
-   "subscription_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/subscription",
-   "commits_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/commits{/sha}",
-   "git_commits_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/git/commits{/sha}",
-   "comments_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/comments{/number}",
-   "issue_comment_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/issues/comments{/number}",
-   "contents_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/contents/{+path}",
-   "compare_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/compare/{base}...{head}",
-   "merges_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/merges",
-   "archive_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/{archive_format}{/ref}",
-   "downloads_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/downloads",
-   "issues_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/issues{/number}",
-   "pulls_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/pulls{/number}",
-   "milestones_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/milestones{/number}",
-   "notifications_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/notifications{?since,all,participating}",
-   "labels_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/labels{/name}",
-   "releases_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/releases{/id}",
-   "deployments_url": "https://api.github.com/repos/jungsap/ZHANA_CATALOG/deployments",
-   "created_at": "2019-02-07T21:38:30Z",
-   "updated_at": "2019-02-08T06:12:52Z",
-   "pushed_at": "2019-02-07T21:42:59Z",
-   "git_url": "git://github.com/jungsap/ZHANA_CATALOG.git",
-   "ssh_url": "git@github.com:jungsap/ZHANA_CATALOG.git",
-   "clone_url": "https://github.com/jungsap/ZHANA_CATALOG.git",
-   "svn_url": "https://github.com/jungsap/ZHANA_CATALOG",
-   "homepage": null,
-   "size": 15,
-   "stargazers_count": 1,
-   "watchers_count": 1,
-   "language": "ABAP",
-   "has_issues": true,
-   "has_projects": true,
-   "has_downloads": true,
-   "has_wiki": true,
-   "has_pages": false,
-   "forks_count": 0,
-   "mirror_url": null,
-   "archived": false,
-   "open_issues_count": 0,
-   "license": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
-   },
-   "forks": 0,
-   "open_issues": 0,
-   "watchers": 1,
-   "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "push": false,
-    "pull": true
-   },
-   "network_count": 0,
-   "subscribers_count": 1
-  }
- },
  "koemaeda/abap-markdown": {
   "lines": 4499,
   "startingFolder": "/src/",
@@ -730,7 +609,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 13
   },
   "repo": {
@@ -851,7 +730,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 232
   },
   "repo": {
@@ -972,7 +851,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 117
   },
   "repo": {
@@ -1095,7 +974,7 @@
    "/changelog.txt"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 85
   },
   "repo": {
@@ -1216,7 +1095,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 49
   },
   "repo": {
@@ -1378,7 +1257,7 @@
    "/mockA_build/mockA_daily.nugg.zip"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 189
   },
   "repo": {
@@ -1488,6 +1367,140 @@
    "subscribers_count": 19
   }
  },
+ "sap-russia/ZRS_ABAP_SOURCE_SCAN": {
+  "lines": 1636,
+  "startingFolder": "/src/",
+  "parsing": {
+   "version": "1.6.18",
+   "cloud": 45
+  },
+  "repo": {
+   "id": 169711380,
+   "node_id": "MDEwOlJlcG9zaXRvcnkxNjk3MTEzODA=",
+   "name": "ZRS_ABAP_SOURCE_SCAN",
+   "full_name": "sap-russia/ZRS_ABAP_SOURCE_SCAN",
+   "private": false,
+   "owner": {
+    "login": "sap-russia",
+    "id": 47413201,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3NDEzMjAx",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/47413201?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/sap-russia",
+    "html_url": "https://github.com/sap-russia",
+    "followers_url": "https://api.github.com/users/sap-russia/followers",
+    "following_url": "https://api.github.com/users/sap-russia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/sap-russia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/sap-russia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/sap-russia/subscriptions",
+    "organizations_url": "https://api.github.com/users/sap-russia/orgs",
+    "repos_url": "https://api.github.com/users/sap-russia/repos",
+    "events_url": "https://api.github.com/users/sap-russia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/sap-russia/received_events",
+    "type": "Organization",
+    "site_admin": false
+   },
+   "html_url": "https://github.com/sap-russia/ZRS_ABAP_SOURCE_SCAN",
+   "description": "Enhanced report from https://blogs.sap.com/2018/09/19/code-search-in-modifications-and-enhancements/",
+   "fork": false,
+   "url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN",
+   "forks_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/forks",
+   "keys_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/keys{/key_id}",
+   "collaborators_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/collaborators{/collaborator}",
+   "teams_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/teams",
+   "hooks_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/hooks",
+   "issue_events_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/issues/events{/number}",
+   "events_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/events",
+   "assignees_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/assignees{/user}",
+   "branches_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/branches{/branch}",
+   "tags_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/tags",
+   "blobs_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/git/blobs{/sha}",
+   "git_tags_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/git/tags{/sha}",
+   "git_refs_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/git/refs{/sha}",
+   "trees_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/git/trees{/sha}",
+   "statuses_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/statuses/{sha}",
+   "languages_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/languages",
+   "stargazers_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/stargazers",
+   "contributors_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/contributors",
+   "subscribers_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/subscribers",
+   "subscription_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/subscription",
+   "commits_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/commits{/sha}",
+   "git_commits_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/git/commits{/sha}",
+   "comments_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/comments{/number}",
+   "issue_comment_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/issues/comments{/number}",
+   "contents_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/contents/{+path}",
+   "compare_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/compare/{base}...{head}",
+   "merges_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/merges",
+   "archive_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/{archive_format}{/ref}",
+   "downloads_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/downloads",
+   "issues_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/issues{/number}",
+   "pulls_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/pulls{/number}",
+   "milestones_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/milestones{/number}",
+   "notifications_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/notifications{?since,all,participating}",
+   "labels_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/labels{/name}",
+   "releases_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/releases{/id}",
+   "deployments_url": "https://api.github.com/repos/sap-russia/ZRS_ABAP_SOURCE_SCAN/deployments",
+   "created_at": "2019-02-08T09:29:52Z",
+   "updated_at": "2019-02-08T09:33:10Z",
+   "pushed_at": "2019-02-08T09:33:09Z",
+   "git_url": "git://github.com/sap-russia/ZRS_ABAP_SOURCE_SCAN.git",
+   "ssh_url": "git@github.com:sap-russia/ZRS_ABAP_SOURCE_SCAN.git",
+   "clone_url": "https://github.com/sap-russia/ZRS_ABAP_SOURCE_SCAN.git",
+   "svn_url": "https://github.com/sap-russia/ZRS_ABAP_SOURCE_SCAN",
+   "homepage": null,
+   "size": 19,
+   "stargazers_count": 0,
+   "watchers_count": 0,
+   "language": "ABAP",
+   "has_issues": true,
+   "has_projects": true,
+   "has_downloads": true,
+   "has_wiki": true,
+   "has_pages": false,
+   "forks_count": 0,
+   "mirror_url": null,
+   "archived": false,
+   "open_issues_count": 0,
+   "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+   },
+   "forks": 0,
+   "open_issues": 0,
+   "watchers": 0,
+   "default_branch": "master",
+   "permissions": {
+    "admin": false,
+    "push": false,
+    "pull": true
+   },
+   "organization": {
+    "login": "sap-russia",
+    "id": 47413201,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3NDEzMjAx",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/47413201?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/sap-russia",
+    "html_url": "https://github.com/sap-russia",
+    "followers_url": "https://api.github.com/users/sap-russia/followers",
+    "following_url": "https://api.github.com/users/sap-russia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/sap-russia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/sap-russia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/sap-russia/subscriptions",
+    "organizations_url": "https://api.github.com/users/sap-russia/orgs",
+    "repos_url": "https://api.github.com/users/sap-russia/repos",
+    "events_url": "https://api.github.com/users/sap-russia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/sap-russia/received_events",
+    "type": "Organization",
+    "site_admin": false
+   },
+   "network_count": 0,
+   "subscribers_count": 0
+  }
+ },
  "pacroy/abap-design-patterns": {
   "lines": 344,
   "startingFolder": "/src/",
@@ -1499,7 +1512,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 48
   },
   "repo": {
@@ -1614,7 +1627,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 21
   },
   "repo": {
@@ -1738,7 +1751,7 @@
    "/wiki/ToDo.wiki"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 645
   },
   "repo": {
@@ -1863,7 +1876,7 @@
    "/dtzbdframework_wizard_007.docv.xml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 211
   },
   "repo": {
@@ -1984,7 +1997,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 6
   },
   "repo": {
@@ -2105,7 +2118,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 6
   },
   "repo": {
@@ -2226,7 +2239,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 39
   },
   "repo": {
@@ -2351,7 +2364,7 @@
    "/changelog_release_in_preparation.txt"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 1063
   },
   "repo": {
@@ -2492,7 +2505,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 12
   },
   "repo": {
@@ -2613,7 +2626,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 0
   },
   "repo": {
@@ -2734,7 +2747,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 21
   },
   "repo": {
@@ -2855,7 +2868,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 54
   },
   "repo": {
@@ -2996,7 +3009,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 453
   },
   "repo": {
@@ -3067,7 +3080,7 @@
    "deployments_url": "https://api.github.com/repos/MDJoerg/MQBA/deployments",
    "created_at": "2018-07-13T19:07:01Z",
    "updated_at": "2019-01-04T00:25:52Z",
-   "pushed_at": "2019-02-06T22:53:46Z",
+   "pushed_at": "2019-02-08T19:59:00Z",
    "git_url": "git://github.com/MDJoerg/MQBA.git",
    "ssh_url": "git@github.com:MDJoerg/MQBA.git",
    "clone_url": "https://github.com/MDJoerg/MQBA.git",
@@ -3118,7 +3131,7 @@
    "/NOTICE"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 30
   },
   "repo": {
@@ -3260,7 +3273,7 @@
    "/SICF.jpg"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 151
   },
   "repo": {
@@ -3381,7 +3394,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 884
   },
   "repo": {
@@ -3502,7 +3515,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 3
   },
   "repo": {
@@ -3643,7 +3656,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 63
   },
   "repo": {
@@ -3784,7 +3797,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 0
   },
   "repo": {
@@ -3925,7 +3938,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 12
   },
   "repo": {
@@ -4066,7 +4079,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 201
   },
   "repo": {
@@ -4187,7 +4200,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 2
   },
   "repo": {
@@ -4308,7 +4321,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 211
   },
   "repo": {
@@ -4422,7 +4435,7 @@
   "lines": 8652,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 370
   },
   "repo": {
@@ -4568,7 +4581,7 @@
    "/.eslintrc.yaml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 693
   },
   "repo": {
@@ -4638,7 +4651,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-02-07T11:08:44Z",
+   "updated_at": "2019-02-08T13:28:00Z",
    "pushed_at": "2019-02-07T18:01:57Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
@@ -4646,8 +4659,8 @@
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
    "size": 10258,
-   "stargazers_count": 465,
-   "watchers_count": 465,
+   "stargazers_count": 467,
+   "watchers_count": 467,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -4667,7 +4680,7 @@
    },
    "forks": 190,
    "open_issues": 154,
-   "watchers": 465,
+   "watchers": 467,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -4689,7 +4702,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 69
   },
   "repo": {
@@ -4810,7 +4823,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 36
   },
   "repo": {
@@ -4931,7 +4944,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 23
   },
   "repo": {
@@ -5052,7 +5065,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 23
   },
   "repo": {
@@ -5173,7 +5186,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 96
   },
   "repo": {
@@ -5294,7 +5307,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 30
   },
   "repo": {
@@ -5415,7 +5428,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 96
   },
   "repo": {
@@ -5536,7 +5549,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 36
   },
   "repo": {
@@ -5663,7 +5676,7 @@
    "/mimes/start_screen.jpg"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 41
   },
   "repo": {
@@ -5784,7 +5797,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 50
   },
   "repo": {
@@ -5905,7 +5918,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 25
   },
   "repo": {
@@ -6027,7 +6040,7 @@
    "/_config.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 921
   },
   "repo": {
@@ -6148,7 +6161,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 70
   },
   "repo": {
@@ -6272,7 +6285,7 @@
    "/src/.gitkeep"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 861
   },
   "repo": {
@@ -6393,7 +6406,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 41
   },
   "repo": {
@@ -6518,7 +6531,7 @@
    "/zop_custom_event_rec.clas.testclasses.abap"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 8
   },
   "repo": {
@@ -6659,7 +6672,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 26
   },
   "repo": {
@@ -6780,7 +6793,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 0
   },
   "repo": {
@@ -6901,7 +6914,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 22
   },
   "repo": {
@@ -7022,7 +7035,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 5
   },
   "repo": {
@@ -7143,7 +7156,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 2
   },
   "repo": {
@@ -7213,7 +7226,7 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Object-Visualizer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Object-Visualizer/deployments",
    "created_at": "2015-09-11T11:11:42Z",
-   "updated_at": "2019-02-04T01:18:07Z",
+   "updated_at": "2019-02-08T09:32:34Z",
    "pushed_at": "2018-08-29T08:14:30Z",
    "git_url": "git://github.com/larshp/ABAP-Object-Visualizer.git",
    "ssh_url": "git@github.com:larshp/ABAP-Object-Visualizer.git",
@@ -7264,7 +7277,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 7
   },
   "repo": {
@@ -7389,7 +7402,7 @@
    "/DX134_49973_Presentation_1.pdf"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 5
   },
   "repo": {
@@ -7512,7 +7525,7 @@
    "/docs/img/retrieve_keys.JPG"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 40
   },
   "repo": {
@@ -7633,7 +7646,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 55
   },
   "repo": {
@@ -7756,7 +7769,7 @@
    "/License.txt"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 16
   },
   "repo": {
@@ -7885,7 +7898,7 @@
    "/CODE/abapgit/readme"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 159
   },
   "repo": {
@@ -8006,7 +8019,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 9
   },
   "repo": {
@@ -8127,7 +8140,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 21
   },
   "repo": {
@@ -8238,7 +8251,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 37291,
+  "lines": 37298,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -8248,7 +8261,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 2348
   },
   "repo": {
@@ -8318,8 +8331,8 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-02-07T15:08:17Z",
-   "pushed_at": "2019-02-07T14:16:25Z",
+   "updated_at": "2019-02-08T08:34:58Z",
+   "pushed_at": "2019-02-08T08:34:59Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
@@ -8337,7 +8350,7 @@
    "forks_count": 21,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 271,
+   "open_issues_count": 269,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8346,7 +8359,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 21,
-   "open_issues": 271,
+   "open_issues": 269,
    "watchers": 72,
    "default_branch": "master",
    "permissions": {
@@ -8366,7 +8379,7 @@
    "/README.md"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 77
   },
   "repo": {
@@ -8487,7 +8500,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 74
   },
   "repo": {
@@ -8606,7 +8619,7 @@
    "/example.xml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 37
   },
   "repo": {
@@ -8727,7 +8740,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 21
   },
   "repo": {
@@ -8848,7 +8861,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 91
   },
   "repo": {
@@ -8969,7 +8982,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 121
   },
   "repo": {
@@ -9088,7 +9101,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 511
   },
   "repo": {
@@ -9210,7 +9223,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 400
   },
   "repo": {
@@ -9331,7 +9344,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 181
   },
   "repo": {
@@ -9465,7 +9478,7 @@
   "lines": 4568,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 272
   },
   "repo": {
@@ -9588,7 +9601,7 @@
    "/CONTRIBUTING.md"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 170
   },
   "repo": {
@@ -9711,7 +9724,7 @@
    "/illustration_small.png"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 111
   },
   "repo": {
@@ -9832,7 +9845,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 161
   },
   "repo": {
@@ -9953,7 +9966,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 96
   },
   "repo": {
@@ -10074,7 +10087,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 52
   },
   "repo": {
@@ -10196,7 +10209,7 @@
    "/.gitattributes"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 28
   },
   "repo": {
@@ -10317,7 +10330,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 4
   },
   "repo": {
@@ -10438,7 +10451,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 2
   },
   "repo": {
@@ -10560,7 +10573,7 @@
    "/changelog.txt"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 146
   },
   "repo": {
@@ -10681,7 +10694,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 18
   },
   "repo": {
@@ -10802,7 +10815,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 31
   },
   "repo": {
@@ -10943,7 +10956,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 8
   },
   "repo": {
@@ -11064,7 +11077,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 64
   },
   "repo": {
@@ -11186,7 +11199,7 @@
    "/plantuml.txt"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 161
   },
   "repo": {
@@ -11327,7 +11340,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 41
   },
   "repo": {
@@ -11449,7 +11462,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 0
   },
   "repo": {
@@ -11570,7 +11583,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 2
   },
   "repo": {
@@ -11691,7 +11704,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 23
   },
   "repo": {
@@ -11812,7 +11825,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 12
   },
   "repo": {
@@ -11933,7 +11946,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 12
   },
   "repo": {
@@ -12054,7 +12067,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.17",
+   "version": "1.6.18",
    "cloud": 760
   },
   "repo": {
