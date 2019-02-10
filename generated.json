@@ -2188,7 +2188,7 @@
    "releases_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/deployments",
    "created_at": "2018-10-28T18:36:49Z",
-   "updated_at": "2019-02-07T18:28:26Z",
+   "updated_at": "2019-02-10T00:58:07Z",
    "pushed_at": "2019-01-30T20:23:39Z",
    "git_url": "git://github.com/pawelwiejkut/bw_toolbox.git",
    "ssh_url": "git@github.com:pawelwiejkut/bw_toolbox.git",
@@ -4566,7 +4566,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 80929,
+  "lines": 80956,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -4651,8 +4651,8 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-02-08T13:28:00Z",
-   "pushed_at": "2019-02-07T18:01:57Z",
+   "updated_at": "2019-02-10T07:28:25Z",
+   "pushed_at": "2019-02-10T07:28:29Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
@@ -4670,7 +4670,7 @@
    "forks_count": 190,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 154,
+   "open_issues_count": 151,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4679,7 +4679,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 190,
-   "open_issues": 154,
+   "open_issues": 151,
    "watchers": 467,
    "default_branch": "master",
    "permissions": {
@@ -6110,14 +6110,14 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-02-06T14:29:39Z",
-   "pushed_at": "2019-02-06T08:22:09Z",
+   "updated_at": "2019-02-10T08:14:08Z",
+   "pushed_at": "2019-02-10T08:14:07Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
    "clone_url": "https://github.com/ivanfemia/abap2xlsx.git",
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
-   "size": 23289,
+   "size": 23013,
    "stargazers_count": 187,
    "watchers_count": 187,
    "language": "ABAP",
@@ -9567,7 +9567,7 @@
    "forks_count": 7,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 3,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9576,7 +9576,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 7,
-   "open_issues": 3,
+   "open_issues": 2,
    "watchers": 31,
    "default_branch": "master",
    "permissions": {
