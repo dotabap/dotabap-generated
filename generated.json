@@ -1165,7 +1165,7 @@
    "releases_url": "https://api.github.com/repos/Kaufland/abap_oo_patterns/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Kaufland/abap_oo_patterns/deployments",
    "created_at": "2017-07-21T07:37:13Z",
-   "updated_at": "2019-02-05T14:47:22Z",
+   "updated_at": "2019-02-11T08:20:22Z",
    "pushed_at": "2017-11-14T17:06:01Z",
    "git_url": "git://github.com/Kaufland/abap_oo_patterns.git",
    "ssh_url": "git@github.com:Kaufland/abap_oo_patterns.git",
@@ -1173,8 +1173,8 @@
    "svn_url": "https://github.com/Kaufland/abap_oo_patterns",
    "homepage": null,
    "size": 187,
-   "stargazers_count": 41,
-   "watchers_count": 41,
+   "stargazers_count": 42,
+   "watchers_count": 42,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1194,7 +1194,7 @@
    },
    "forks": 5,
    "open_issues": 0,
-   "watchers": 41,
+   "watchers": 42,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1498,7 +1498,7 @@
     "site_admin": false
    },
    "network_count": 0,
-   "subscribers_count": 0
+   "subscribers_count": 1
   }
  },
  "pacroy/abap-design-patterns": {
@@ -1582,7 +1582,7 @@
    "releases_url": "https://api.github.com/repos/pacroy/abap-design-patterns/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pacroy/abap-design-patterns/deployments",
    "created_at": "2017-06-08T13:41:47Z",
-   "updated_at": "2019-01-29T15:22:41Z",
+   "updated_at": "2019-02-11T08:20:28Z",
    "pushed_at": "2017-06-12T08:57:27Z",
    "git_url": "git://github.com/pacroy/abap-design-patterns.git",
    "ssh_url": "git@github.com:pacroy/abap-design-patterns.git",
@@ -1590,8 +1590,8 @@
    "svn_url": "https://github.com/pacroy/abap-design-patterns",
    "homepage": null,
    "size": 7,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1605,7 +1605,7 @@
    "license": null,
    "forks": 2,
    "open_issues": 1,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1821,7 +1821,7 @@
    "releases_url": "https://api.github.com/repos/rayatus/sapbugtracker/releases{/id}",
    "deployments_url": "https://api.github.com/repos/rayatus/sapbugtracker/deployments",
    "created_at": "2015-06-03T20:02:37Z",
-   "updated_at": "2018-12-02T12:25:38Z",
+   "updated_at": "2019-02-10T22:03:43Z",
    "pushed_at": "2018-12-02T12:25:37Z",
    "git_url": "git://github.com/rayatus/sapbugtracker.git",
    "ssh_url": "git@github.com:rayatus/sapbugtracker.git",
@@ -1829,8 +1829,8 @@
    "svn_url": "https://github.com/rayatus/sapbugtracker",
    "homepage": "",
    "size": 954,
-   "stargazers_count": 0,
-   "watchers_count": 0,
+   "stargazers_count": 1,
+   "watchers_count": 1,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1850,7 +1850,7 @@
    },
    "forks": 0,
    "open_issues": 1,
-   "watchers": 0,
+   "watchers": 1,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1946,7 +1946,7 @@
    "releases_url": "https://api.github.com/repos/rayatus/sapcodegenerator/releases{/id}",
    "deployments_url": "https://api.github.com/repos/rayatus/sapcodegenerator/deployments",
    "created_at": "2015-06-03T20:04:46Z",
-   "updated_at": "2018-12-01T22:01:05Z",
+   "updated_at": "2019-02-10T22:01:29Z",
    "pushed_at": "2018-12-01T22:01:04Z",
    "git_url": "git://github.com/rayatus/sapcodegenerator.git",
    "ssh_url": "git@github.com:rayatus/sapcodegenerator.git",
@@ -3217,7 +3217,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 0,
@@ -3228,7 +3228,7 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
    "watchers": 13,
    "default_branch": "master",
@@ -3257,7 +3257,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 12
   }
  },
@@ -3464,7 +3464,7 @@
    "releases_url": "https://api.github.com/repos/abapkochbuch/Sources/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapkochbuch/Sources/deployments",
    "created_at": "2018-06-21T15:49:02Z",
-   "updated_at": "2019-01-07T08:39:36Z",
+   "updated_at": "2019-02-11T08:24:37Z",
    "pushed_at": "2019-01-14T15:00:09Z",
    "git_url": "git://github.com/abapkochbuch/Sources.git",
    "ssh_url": "git@github.com:abapkochbuch/Sources.git",
@@ -3472,8 +3472,8 @@
    "svn_url": "https://github.com/abapkochbuch/Sources",
    "homepage": "https://www.rheinwerk-verlag.de/das-abap-kochbuch_4103/",
    "size": 229,
-   "stargazers_count": 7,
-   "watchers_count": 7,
+   "stargazers_count": 8,
+   "watchers_count": 8,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3493,7 +3493,7 @@
    },
    "forks": 3,
    "open_issues": 1,
-   "watchers": 7,
+   "watchers": 8,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4652,7 +4652,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2019-02-10T07:28:25Z",
-   "pushed_at": "2019-02-10T07:28:29Z",
+   "pushed_at": "2019-02-11T19:31:26Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
@@ -4670,7 +4670,7 @@
    "forks_count": 190,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 151,
+   "open_issues_count": 153,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4679,7 +4679,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 190,
-   "open_issues": 151,
+   "open_issues": 153,
    "watchers": 467,
    "default_branch": "master",
    "permissions": {
@@ -5619,7 +5619,7 @@
    "releases_url": "https://api.github.com/repos/thedoginthewok/ZwdSudoku/releases{/id}",
    "deployments_url": "https://api.github.com/repos/thedoginthewok/ZwdSudoku/deployments",
    "created_at": "2017-12-23T23:54:16Z",
-   "updated_at": "2017-12-23T23:55:23Z",
+   "updated_at": "2019-02-11T08:16:07Z",
    "pushed_at": "2017-12-23T23:55:22Z",
    "git_url": "git://github.com/thedoginthewok/ZwdSudoku.git",
    "ssh_url": "git@github.com:thedoginthewok/ZwdSudoku.git",
@@ -5627,8 +5627,8 @@
    "svn_url": "https://github.com/thedoginthewok/ZwdSudoku",
    "homepage": null,
    "size": 13,
-   "stargazers_count": 0,
-   "watchers_count": 0,
+   "stargazers_count": 1,
+   "watchers_count": 1,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -5648,7 +5648,7 @@
    },
    "forks": 0,
    "open_issues": 0,
-   "watchers": 0,
+   "watchers": 1,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6029,7 +6029,7 @@
   }
  },
  "ivanfemia/abap2xlsx": {
-  "lines": 45398,
+  "lines": 45440,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -6037,11 +6037,12 @@
    "/README.md",
    "/package.json",
    "/.travis.yml",
-   "/_config.yml"
+   "/_config.yml",
+   "/abaplint.json"
   ],
   "parsing": {
    "version": "1.6.18",
-   "cloud": 921
+   "cloud": 924
   },
   "repo": {
    "id": 15457787,
@@ -6110,14 +6111,14 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-02-10T08:14:08Z",
-   "pushed_at": "2019-02-10T08:14:07Z",
+   "updated_at": "2019-02-11T17:39:30Z",
+   "pushed_at": "2019-02-11T17:39:28Z",
    "git_url": "git://github.com/ivanfemia/abap2xlsx.git",
    "ssh_url": "git@github.com:ivanfemia/abap2xlsx.git",
    "clone_url": "https://github.com/ivanfemia/abap2xlsx.git",
    "svn_url": "https://github.com/ivanfemia/abap2xlsx",
    "homepage": "https://github.com/ivanfemia/abap2xlsx",
-   "size": 23013,
+   "size": 23188,
    "stargazers_count": 187,
    "watchers_count": 187,
    "language": "ABAP",
@@ -6129,7 +6130,7 @@
    "forks_count": 106,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 83,
+   "open_issues_count": 82,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -6138,7 +6139,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 106,
-   "open_issues": 83,
+   "open_issues": 82,
    "watchers": 187,
    "default_branch": "master",
    "permissions": {
@@ -6513,7 +6514,7 @@
     "pull": true
    },
    "network_count": 0,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "objective-partner/abap_debugger_data_view_extension": {
@@ -7472,7 +7473,7 @@
    "releases_url": "https://api.github.com/repos/jasper07/Teched17/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jasper07/Teched17/deployments",
    "created_at": "2017-08-11T07:41:30Z",
-   "updated_at": "2019-01-25T10:33:41Z",
+   "updated_at": "2019-02-11T08:26:39Z",
    "pushed_at": "2018-01-19T10:20:58Z",
    "git_url": "git://github.com/jasper07/Teched17.git",
    "ssh_url": "git@github.com:jasper07/Teched17.git",
@@ -7480,8 +7481,8 @@
    "svn_url": "https://github.com/jasper07/Teched17",
    "homepage": "",
    "size": 11365,
-   "stargazers_count": 28,
-   "watchers_count": 28,
+   "stargazers_count": 29,
+   "watchers_count": 29,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -7501,7 +7502,7 @@
    },
    "forks": 10,
    "open_issues": 1,
-   "watchers": 28,
+   "watchers": 29,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -8332,13 +8333,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2019-02-08T08:34:58Z",
-   "pushed_at": "2019-02-08T08:34:59Z",
+   "pushed_at": "2019-02-11T11:39:55Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1659,
+   "size": 1668,
    "stargazers_count": 72,
    "watchers_count": 72,
    "language": "ABAP",
@@ -8350,7 +8351,7 @@
    "forks_count": 21,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 269,
+   "open_issues_count": 270,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8359,7 +8360,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 21,
-   "open_issues": 269,
+   "open_issues": 270,
    "watchers": 72,
    "default_branch": "master",
    "permissions": {
@@ -11184,7 +11185,7 @@
     "pull": true
    },
    "network_count": 0,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "abapinho/abaK": {
