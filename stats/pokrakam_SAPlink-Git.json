@@ -1,7 +1,7 @@
 {
-  "version": "1.6.17",
+  "version": "1.6.18",
   "target": "v753",
-  "time": "2019-02-07T09:42:00.290Z",
+  "time": "2019-02-12T08:50:18.369Z",
   "totals": {
     "objects": 43,
     "files": 92,
@@ -110,6 +110,10 @@
     {
       "type": "nesting",
       "count": 1
+    },
+    {
+      "type": "no_public_attributes",
+      "count": 2
     },
     {
       "type": "object_naming",

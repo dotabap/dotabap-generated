@@ -1,7 +1,7 @@
 {
-  "version": "1.6.17",
+  "version": "1.6.18",
   "target": "v753",
-  "time": "2019-02-07T09:40:22.868Z",
+  "time": "2019-02-12T08:48:40.402Z",
   "totals": {
     "objects": 6,
     "files": 11,
@@ -66,6 +66,10 @@
     {
       "type": "method_parameter_names",
       "count": 3
+    },
+    {
+      "type": "no_public_attributes",
+      "count": 9
     }
   ],
   "objectOrientation": {

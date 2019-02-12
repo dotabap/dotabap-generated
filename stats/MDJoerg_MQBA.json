@@ -1,12 +1,12 @@
 {
-  "version": "1.6.17",
+  "version": "1.6.18",
   "target": "v753",
-  "time": "2019-02-07T08:02:24.273Z",
+  "time": "2019-02-12T07:11:11.194Z",
   "totals": {
-    "objects": 305,
-    "files": 438,
+    "objects": 309,
+    "files": 442,
     "statements": 6747,
-    "tokens": 34201
+    "tokens": 34209
   },
   "objects": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "type": "DTEL",
-      "count": 88
+      "count": 92
     },
     {
       "type": "FUGR",
@@ -133,7 +133,7 @@
     },
     {
       "type": "keywords_upper",
-      "count": 70
+      "count": 71
     },
     {
       "type": "line_length",
@@ -170,6 +170,10 @@
     {
       "type": "nesting",
       "count": 1
+    },
+    {
+      "type": "no_public_attributes",
+      "count": 2
     },
     {
       "type": "obsolete_statement",

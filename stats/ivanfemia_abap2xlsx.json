@@ -1,12 +1,12 @@
 {
-  "version": "1.6.17",
+  "version": "1.6.18",
   "target": "v753",
-  "time": "2019-02-07T08:42:51.264Z",
+  "time": "2019-02-12T07:50:30.213Z",
   "totals": {
     "objects": 331,
     "files": 484,
-    "statements": 33338,
-    "tokens": 191329
+    "statements": 33376,
+    "tokens": 191582
   },
   "objects": [
     {
@@ -81,7 +81,7 @@
     },
     {
       "type": "commented_code",
-      "count": 70
+      "count": 68
     },
     {
       "type": "contains_tab",
@@ -121,7 +121,7 @@
     },
     {
       "type": "line_only_punc",
-      "count": 181
+      "count": 182
     },
     {
       "type": "local_class_naming",
@@ -152,6 +152,10 @@
       "count": 6
     },
     {
+      "type": "no_public_attributes",
+      "count": 201
+    },
+    {
       "type": "obsolete_statement",
       "count": 232
     },
@@ -173,8 +177,8 @@
     }
   ],
   "objectOrientation": {
-    "oo": 20653,
-    "non": 5837
+    "oo": 20678,
+    "non": 5852
   },
   "methodLength": [
     13,
@@ -244,7 +248,7 @@
     1,
     1,
     2,
-    2,
+    1,
     3,
     1,
     2,
@@ -256,7 +260,7 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0,
@@ -271,9 +275,9 @@
     0,
     0,
     0,
+    0,
+    0,
     1,
-    0,
-    0,
     1,
     0,
     1,
@@ -345,18 +349,18 @@
     0,
     0,
     0,
-    1,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     1,
     0,
     0,
     0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
     1,
     0,
     0,
@@ -1266,7 +1270,7 @@
     },
     {
       "type": "Append",
-      "count": 691
+      "count": 692
     },
     {
       "type": "Assert",
@@ -1346,7 +1350,7 @@
     },
     {
       "type": "Comment",
-      "count": 6840
+      "count": 6838
     },
     {
       "type": "Commit",
@@ -1354,7 +1358,7 @@
     },
     {
       "type": "Concatenate",
-      "count": 192
+      "count": 199
     },
     {
       "type": "Condense",
@@ -1362,7 +1366,7 @@
     },
     {
       "type": "Constant",
-      "count": 1053
+      "count": 1054
     },
     {
       "type": "ConstantBegin",
@@ -1390,7 +1394,7 @@
     },
     {
       "type": "Data",
-      "count": 3427
+      "count": 3436
     },
     {
       "type": "DataBegin",
@@ -1450,7 +1454,7 @@
     },
     {
       "type": "EndIf",
-      "count": 1293
+      "count": 1294
     },
     {
       "type": "EndInterface",
@@ -1526,7 +1530,7 @@
     },
     {
       "type": "If",
-      "count": 1293
+      "count": 1294
     },
     {
       "type": "Import",
@@ -1598,7 +1602,7 @@
     },
     {
       "type": "Move",
-      "count": 6295
+      "count": 6309
     },
     {
       "type": "OpenDataset",
@@ -1762,49 +1766,49 @@
     },
     {
       "type": "Write",
-      "count": 51
+      "count": 57
     }
   ],
   "statements": [
     {
       "type": "v700",
-      "count": 33328
+      "count": 33376
     },
     {
       "type": "v702",
-      "count": 33338
+      "count": 33376
     },
     {
       "type": "v740sp02",
-      "count": 33338
+      "count": 33376
     },
     {
       "type": "v740sp05",
-      "count": 33338
+      "count": 33376
     },
     {
       "type": "v740sp08",
-      "count": 33338
+      "count": 33376
     },
     {
       "type": "v750",
-      "count": 33338
+      "count": 33376
     },
     {
       "type": "v751",
-      "count": 33338
+      "count": 33376
     },
     {
       "type": "v752",
-      "count": 33338
+      "count": 33376
     },
     {
       "type": "v753",
-      "count": 33338
+      "count": 33376
     },
     {
       "type": "Cloud",
-      "count": 32495
+      "count": 32527
     }
   ]
 }
