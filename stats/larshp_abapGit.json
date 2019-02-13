@@ -1,12 +1,12 @@
 {
   "version": "1.6.18",
   "target": "v753",
-  "time": "2019-02-12T07:30:06.778Z",
+  "time": "2019-02-13T06:58:00.369Z",
   "totals": {
     "objects": 314,
     "files": 686,
-    "statements": 41858,
-    "tokens": 262941
+    "statements": 41860,
+    "tokens": 262925
   },
   "objects": [
     {
@@ -66,12 +66,12 @@
     126,
     103,
     113,
-    106,
+    107,
     80,
-    78,
-    66,
+    77,
+    67,
     63,
-    52,
+    51,
     36,
     41,
     41,
@@ -85,10 +85,10 @@
     17,
     20,
     23,
-    19,
+    18,
     12,
     14,
-    15,
+    16,
     7,
     6,
     9,
@@ -153,7 +153,7 @@
     },
     {
       "type": "Append",
-      "count": 416
+      "count": 417
     },
     {
       "type": "Assert",
@@ -237,7 +237,7 @@
     },
     {
       "type": "Comment",
-      "count": 2431
+      "count": 2433
     },
     {
       "type": "Commit",
@@ -281,7 +281,7 @@
     },
     {
       "type": "Data",
-      "count": 4063
+      "count": 4061
     },
     {
       "type": "DataBegin",
@@ -357,7 +357,7 @@
     },
     {
       "type": "EndLoop",
-      "count": 447
+      "count": 448
     },
     {
       "type": "EndMethod",
@@ -481,7 +481,7 @@
     },
     {
       "type": "Loop",
-      "count": 447
+      "count": 448
     },
     {
       "type": "MacroCall",
@@ -513,7 +513,7 @@
     },
     {
       "type": "Move",
-      "count": 5674
+      "count": 5672
     },
     {
       "type": "Overlay",
@@ -533,7 +533,7 @@
     },
     {
       "type": "Protected",
-      "count": 146
+      "count": 147
     },
     {
       "type": "Public",
@@ -679,43 +679,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 40877
+      "count": 40879
     },
     {
       "type": "v702",
-      "count": 41858
+      "count": 41860
     },
     {
       "type": "v740sp02",
-      "count": 41858
+      "count": 41860
     },
     {
       "type": "v740sp05",
-      "count": 41858
+      "count": 41860
     },
     {
       "type": "v740sp08",
-      "count": 41858
+      "count": 41860
     },
     {
       "type": "v750",
-      "count": 41858
+      "count": 41860
     },
     {
       "type": "v751",
-      "count": 41858
+      "count": 41860
     },
     {
       "type": "v752",
-      "count": 41858
+      "count": 41860
     },
     {
       "type": "v753",
-      "count": 41858
+      "count": 41860
     },
     {
       "type": "Cloud",
-      "count": 41551
+      "count": 41553
     }
   ]
 }
