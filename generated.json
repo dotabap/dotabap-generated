@@ -1293,7 +1293,7 @@
    "clone_url": "https://github.com/rulerunner/rulerunner4ABAP.git",
    "svn_url": "https://github.com/rulerunner/rulerunner4ABAP",
    "homepage": "",
-   "size": 2335,
+   "size": 1318,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -1305,7 +1305,7 @@
    "forks_count": 0,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1314,7 +1314,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 0,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
    "permissions": {
@@ -5063,7 +5063,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 81005,
+  "lines": 81013,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -5148,14 +5148,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-02-13T22:00:46Z",
-   "pushed_at": "2019-02-14T10:01:59Z",
+   "updated_at": "2019-02-14T15:18:10Z",
+   "pushed_at": "2019-02-14T16:53:38Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 10268,
+   "size": 10477,
    "stargazers_count": 468,
    "watchers_count": 468,
    "language": "ABAP",
@@ -5167,7 +5167,7 @@
    "forks_count": 192,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 159,
+   "open_issues_count": 160,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5176,7 +5176,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 192,
-   "open_issues": 159,
+   "open_issues": 160,
    "watchers": 468,
    "default_branch": "master",
    "permissions": {
