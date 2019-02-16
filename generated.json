@@ -3576,14 +3576,14 @@
    "releases_url": "https://api.github.com/repos/MDJoerg/MQBA/releases{/id}",
    "deployments_url": "https://api.github.com/repos/MDJoerg/MQBA/deployments",
    "created_at": "2018-07-13T19:07:01Z",
-   "updated_at": "2019-02-15T08:39:58Z",
-   "pushed_at": "2019-02-08T20:01:27Z",
+   "updated_at": "2019-02-16T09:07:00Z",
+   "pushed_at": "2019-02-16T09:06:58Z",
    "git_url": "git://github.com/MDJoerg/MQBA.git",
    "ssh_url": "git@github.com:MDJoerg/MQBA.git",
    "clone_url": "https://github.com/MDJoerg/MQBA.git",
    "svn_url": "https://github.com/MDJoerg/MQBA",
    "homepage": "",
-   "size": 645,
+   "size": 689,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -3595,7 +3595,7 @@
    "forks_count": 3,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 3,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3604,7 +3604,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 3,
-   "open_issues": 3,
+   "open_issues": 0,
    "watchers": 5,
    "default_branch": "master",
    "permissions": {
@@ -5002,7 +5002,7 @@
    "releases_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2019-02-15T13:24:00Z",
+   "updated_at": "2019-02-16T08:51:44Z",
    "pushed_at": "2019-01-25T12:22:08Z",
    "git_url": "git://github.com/Microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:Microsoft/ABAP-SDK-for-Azure.git",
@@ -5010,8 +5010,8 @@
    "svn_url": "https://github.com/Microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
    "size": 10008,
-   "stargazers_count": 43,
-   "watchers_count": 43,
+   "stargazers_count": 44,
+   "watchers_count": 44,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -5031,7 +5031,7 @@
    },
    "forks": 13,
    "open_issues": 9,
-   "watchers": 43,
+   "watchers": 44,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5149,13 +5149,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2019-02-15T15:22:09Z",
-   "pushed_at": "2019-02-15T15:22:38Z",
+   "pushed_at": "2019-02-16T09:39:04Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 10299,
+   "size": 10351,
    "stargazers_count": 468,
    "watchers_count": 468,
    "language": "ABAP",
@@ -5167,7 +5167,7 @@
    "forks_count": 191,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 150,
+   "open_issues_count": 145,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5176,7 +5176,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 191,
-   "open_issues": 150,
+   "open_issues": 145,
    "watchers": 468,
    "default_branch": "master",
    "permissions": {
@@ -6665,7 +6665,7 @@
     "site_admin": false
    },
    "network_count": 107,
-   "subscribers_count": 65
+   "subscribers_count": 64
   }
  },
  "furlan/abap101_AOC2017": {
@@ -8851,7 +8851,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2019-02-14T06:14:34Z",
-   "pushed_at": "2019-02-14T06:14:35Z",
+   "pushed_at": "2019-02-16T21:53:55Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
@@ -8869,7 +8869,7 @@
    "forks_count": 21,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 272,
+   "open_issues_count": 273,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8878,7 +8878,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 21,
-   "open_issues": 272,
+   "open_issues": 273,
    "watchers": 72,
    "default_branch": "master",
    "permissions": {
