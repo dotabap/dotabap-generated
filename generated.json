@@ -1560,7 +1560,7 @@
    "forks_count": 1,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 3,
+   "open_issues_count": 4,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1569,7 +1569,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 1,
-   "open_issues": 3,
+   "open_issues": 4,
    "watchers": 2,
    "default_branch": "master",
    "permissions": {
@@ -1744,7 +1744,7 @@
   }
  },
  "rayatus/sapinterfacemonitor": {
-  "lines": 4980,
+  "lines": 5168,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
@@ -1755,7 +1755,7 @@
   ],
   "parsing": {
    "version": "1.6.21",
-   "cloud": 114
+   "cloud": 115
   },
   "repo": {
    "id": 131636778,
@@ -1824,14 +1824,14 @@
    "releases_url": "https://api.github.com/repos/rayatus/sapinterfacemonitor/releases{/id}",
    "deployments_url": "https://api.github.com/repos/rayatus/sapinterfacemonitor/deployments",
    "created_at": "2018-04-30T19:18:11Z",
-   "updated_at": "2019-02-10T21:57:47Z",
-   "pushed_at": "2019-02-10T21:59:09Z",
+   "updated_at": "2019-02-17T21:57:41Z",
+   "pushed_at": "2019-02-17T21:57:40Z",
    "git_url": "git://github.com/rayatus/sapinterfacemonitor.git",
    "ssh_url": "git@github.com:rayatus/sapinterfacemonitor.git",
    "clone_url": "https://github.com/rayatus/sapinterfacemonitor.git",
    "svn_url": "https://github.com/rayatus/sapinterfacemonitor",
    "homepage": null,
-   "size": 237,
+   "size": 257,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -1843,7 +1843,7 @@
    "forks_count": 0,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 2,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1852,7 +1852,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 0,
-   "open_issues": 2,
+   "open_issues": 1,
    "watchers": 1,
    "default_branch": "master",
    "permissions": {
@@ -4002,7 +4002,7 @@
   }
  },
  "abapGit/background_modes": {
-  "lines": 821,
+  "lines": 841,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -4082,14 +4082,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/background_modes/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/background_modes/deployments",
    "created_at": "2018-08-04T09:05:15Z",
-   "updated_at": "2019-02-12T07:01:39Z",
-   "pushed_at": "2018-10-27T07:44:09Z",
+   "updated_at": "2019-02-17T11:11:52Z",
+   "pushed_at": "2019-02-17T11:11:50Z",
    "git_url": "git://github.com/abapGit/background_modes.git",
    "ssh_url": "git@github.com:abapGit/background_modes.git",
    "clone_url": "https://github.com/abapGit/background_modes.git",
    "svn_url": "https://github.com/abapGit/background_modes",
    "homepage": null,
-   "size": 20,
+   "size": 24,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -4683,7 +4683,7 @@
     "pull": true
    },
    "network_count": 0,
-   "subscribers_count": 0
+   "subscribers_count": 1
   }
  },
  "marcellourbani/abap_debugger_object_graph_extension": {
@@ -5063,7 +5063,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 80292,
+  "lines": 80229,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -5148,14 +5148,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-02-15T15:22:09Z",
-   "pushed_at": "2019-02-16T09:39:04Z",
+   "updated_at": "2019-02-17T09:29:14Z",
+   "pushed_at": "2019-02-17T15:19:17Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 10351,
+   "size": 10319,
    "stargazers_count": 468,
    "watchers_count": 468,
    "language": "ABAP",
@@ -5167,7 +5167,7 @@
    "forks_count": 191,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 145,
+   "open_issues_count": 154,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5176,7 +5176,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 191,
-   "open_issues": 145,
+   "open_issues": 154,
    "watchers": 468,
    "default_branch": "master",
    "permissions": {
@@ -5915,7 +5915,7 @@
   }
  },
  "thedoginthewok/ZwdCSV": {
-  "lines": 995,
+  "lines": 992,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -5926,7 +5926,7 @@
   ],
   "parsing": {
    "version": "1.6.21",
-   "cloud": 45
+   "cloud": 40
   },
   "repo": {
    "id": 167724076,
@@ -5995,14 +5995,14 @@
    "releases_url": "https://api.github.com/repos/thedoginthewok/ZwdCSV/releases{/id}",
    "deployments_url": "https://api.github.com/repos/thedoginthewok/ZwdCSV/deployments",
    "created_at": "2019-01-26T18:32:05Z",
-   "updated_at": "2019-02-17T01:18:59Z",
-   "pushed_at": "2019-02-17T01:18:58Z",
+   "updated_at": "2019-02-17T14:07:55Z",
+   "pushed_at": "2019-02-17T14:07:53Z",
    "git_url": "git://github.com/thedoginthewok/ZwdCSV.git",
    "ssh_url": "git@github.com:thedoginthewok/ZwdCSV.git",
    "clone_url": "https://github.com/thedoginthewok/ZwdCSV.git",
    "svn_url": "https://github.com/thedoginthewok/ZwdCSV",
    "homepage": null,
-   "size": 53,
+   "size": 62,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -6729,14 +6729,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-02-15T15:32:43Z",
-   "pushed_at": "2019-02-15T20:48:39Z",
+   "updated_at": "2019-02-17T14:43:09Z",
+   "pushed_at": "2019-02-17T18:18:46Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 23188,
+   "size": 23067,
    "stargazers_count": 188,
    "watchers_count": 188,
    "language": "ABAP",
@@ -6748,7 +6748,7 @@
    "forks_count": 107,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 83,
+   "open_issues_count": 84,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -6757,7 +6757,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 107,
-   "open_issues": 83,
+   "open_issues": 84,
    "watchers": 188,
    "default_branch": "master",
    "permissions": {
@@ -8891,7 +8891,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 37587,
+  "lines": 37590,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -8971,14 +8971,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-02-14T06:14:34Z",
-   "pushed_at": "2019-02-16T21:53:55Z",
+   "updated_at": "2019-02-17T13:28:48Z",
+   "pushed_at": "2019-02-17T16:33:28Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1597,
+   "size": 1603,
    "stargazers_count": 72,
    "watchers_count": 72,
    "language": "ABAP",
@@ -8990,7 +8990,7 @@
    "forks_count": 21,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 273,
+   "open_issues_count": 274,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8999,7 +8999,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 21,
-   "open_issues": 273,
+   "open_issues": 274,
    "watchers": 72,
    "default_branch": "master",
    "permissions": {
@@ -9008,7 +9008,7 @@
     "pull": true
    },
    "network_count": 21,
-   "subscribers_count": 24
+   "subscribers_count": 23
   }
  },
  "larshp/abapOrion": {
@@ -10935,7 +10935,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 14,
+   "forks_count": 13,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 1,
@@ -10946,7 +10946,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 14,
+   "forks": 13,
    "open_issues": 1,
    "watchers": 46,
    "default_branch": "master",
@@ -10955,7 +10955,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 14,
+   "network_count": 13,
    "subscribers_count": 23
   }
  },
@@ -12309,7 +12309,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 2,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 3,
@@ -12320,7 +12320,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 2,
+   "forks": 1,
    "open_issues": 3,
    "watchers": 3,
    "default_branch": "master",
@@ -12329,7 +12329,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 2,
+   "network_count": 1,
    "subscribers_count": 4
   }
  },
@@ -12430,7 +12430,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 0,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 0,
@@ -12441,7 +12441,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 0,
    "open_issues": 0,
    "watchers": 1,
    "default_branch": "master",
@@ -12450,7 +12450,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 1,
+   "network_count": 0,
    "subscribers_count": 1
   }
  },
