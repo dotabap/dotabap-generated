@@ -5065,7 +5065,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 79792,
+  "lines": 79867,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -5150,16 +5150,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-02-20T18:54:06Z",
-   "pushed_at": "2019-02-20T19:16:13Z",
+   "updated_at": "2019-02-21T07:59:15Z",
+   "pushed_at": "2019-02-21T14:35:21Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 10725,
-   "stargazers_count": 470,
-   "watchers_count": 470,
+   "size": 10420,
+   "stargazers_count": 471,
+   "watchers_count": 471,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -5169,7 +5169,7 @@
    "forks_count": 191,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 156,
+   "open_issues_count": 152,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5178,8 +5178,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 191,
-   "open_issues": 156,
-   "watchers": 470,
+   "open_issues": 152,
+   "watchers": 471,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -5187,7 +5187,7 @@
     "pull": true
    },
    "network_count": 191,
-   "subscribers_count": 92
+   "subscribers_count": 93
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -6732,7 +6732,7 @@
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2019-02-20T16:12:27Z",
-   "pushed_at": "2019-02-20T16:12:25Z",
+   "pushed_at": "2019-02-21T14:47:30Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
@@ -6750,7 +6750,7 @@
    "forks_count": 108,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 81,
+   "open_issues_count": 83,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -6759,7 +6759,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 108,
-   "open_issues": 81,
+   "open_issues": 83,
    "watchers": 188,
    "default_branch": "master",
    "permissions": {
@@ -8481,7 +8481,7 @@
    "releases_url": "https://api.github.com/repos/Sumu-Ning/AES/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Sumu-Ning/AES/deployments",
    "created_at": "2015-07-01T18:10:38Z",
-   "updated_at": "2019-01-11T06:53:39Z",
+   "updated_at": "2019-02-21T08:33:27Z",
    "pushed_at": "2019-01-11T06:53:38Z",
    "git_url": "git://github.com/Sumu-Ning/AES.git",
    "ssh_url": "git@github.com:Sumu-Ning/AES.git",
@@ -8489,8 +8489,8 @@
    "svn_url": "https://github.com/Sumu-Ning/AES",
    "homepage": "",
    "size": 80,
-   "stargazers_count": 26,
-   "watchers_count": 26,
+   "stargazers_count": 27,
+   "watchers_count": 27,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -8510,7 +8510,7 @@
    },
    "forks": 11,
    "open_issues": 7,
-   "watchers": 26,
+   "watchers": 27,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -8893,7 +8893,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 37590,
+  "lines": 37853,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -8973,14 +8973,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-02-17T13:28:48Z",
-   "pushed_at": "2019-02-20T19:31:44Z",
+   "updated_at": "2019-02-21T05:56:15Z",
+   "pushed_at": "2019-02-21T05:56:13Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
-   "size": 1603,
+   "size": 1612,
    "stargazers_count": 72,
    "watchers_count": 72,
    "language": "ABAP",
@@ -8992,7 +8992,7 @@
    "forks_count": 21,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 275,
+   "open_issues_count": 273,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9001,7 +9001,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 21,
-   "open_issues": 275,
+   "open_issues": 273,
    "watchers": 72,
    "default_branch": "master",
    "permissions": {
@@ -11968,7 +11968,7 @@
     "site_admin": false
    },
    "network_count": 2,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "Keller-Michael/christmas_demo": {
