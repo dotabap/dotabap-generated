@@ -1,7 +1,7 @@
 {
-  "version": "1.6.18",
+  "version": "1.6.27",
   "target": "v753",
-  "time": "2019-02-13T06:53:21.336Z",
+  "time": "2019-02-24T12:08:30.495Z",
   "totals": {
     "objects": 195,
     "files": 305,
@@ -81,7 +81,7 @@
   "issues": [
     {
       "type": "check_variables",
-      "count": 88
+      "count": 86
     },
     {
       "type": "class_attribute_names",
@@ -141,7 +141,7 @@
     },
     {
       "type": "message",
-      "count": 3
+      "count": 4
     },
     {
       "type": "method_length",

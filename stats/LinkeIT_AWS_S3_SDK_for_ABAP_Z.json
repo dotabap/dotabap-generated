@@ -1,7 +1,7 @@
 {
-  "version": "1.6.18",
+  "version": "1.6.27",
   "target": "v753",
-  "time": "2019-02-13T08:01:54.405Z",
+  "time": "2019-02-24T13:18:50.844Z",
   "totals": {
     "objects": 73,
     "files": 99,
@@ -73,7 +73,7 @@
     },
     {
       "type": "functional_writing",
-      "count": 147
+      "count": 145
     },
     {
       "type": "indentation",
@@ -86,10 +86,6 @@
     {
       "type": "line_length",
       "count": 2
-    },
-    {
-      "type": "line_only_punc",
-      "count": 1
     },
     {
       "type": "local_class_naming",

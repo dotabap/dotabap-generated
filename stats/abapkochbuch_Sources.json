@@ -1,7 +1,7 @@
 {
-  "version": "1.6.18",
+  "version": "1.6.27",
   "target": "v753",
-  "time": "2019-02-13T06:44:23.761Z",
+  "time": "2019-02-24T11:59:30.119Z",
   "totals": {
     "objects": 222,
     "files": 447,
@@ -85,7 +85,7 @@
     },
     {
       "type": "check_variables",
-      "count": 435
+      "count": 431
     },
     {
       "type": "class_attribute_names",
@@ -153,19 +153,11 @@
     },
     {
       "type": "message",
-      "count": 14
-    },
-    {
-      "type": "message_text_empty",
-      "count": 1
+      "count": 15
     },
     {
       "type": "method_parameter_names",
       "count": 168
-    },
-    {
-      "type": "msag_consistency",
-      "count": 1
     },
     {
       "type": "nesting",

@@ -1,12 +1,12 @@
 {
-  "version": "1.6.18",
+  "version": "1.6.27",
   "target": "v753",
-  "time": "2019-02-13T06:47:21.974Z",
+  "time": "2019-02-24T12:02:26.096Z",
   "totals": {
     "objects": 9,
     "files": 18,
-    "statements": 395,
-    "tokens": 2612
+    "statements": 404,
+    "tokens": 2660
   },
   "objects": [
     {
@@ -25,7 +25,11 @@
   "issues": [
     {
       "type": "check_variables",
-      "count": 26
+      "count": 27
+    },
+    {
+      "type": "commented_code",
+      "count": 1
     },
     {
       "type": "indentation",
@@ -45,9 +49,9 @@
     "non": 0
   },
   "methodLength": [
-    1,
+    2,
     13,
-    3,
+    2,
     5,
     5,
     0,
@@ -65,37 +69,7 @@
     0,
     0,
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
+    1,
     0,
     0,
     0,
@@ -105,15 +79,19 @@
   "statementTypes": [
     {
       "type": "Append",
-      "count": 7
+      "count": 8
     },
     {
       "type": "Assert",
       "count": 1
     },
     {
+      "type": "Assign",
+      "count": 1
+    },
+    {
       "type": "Call",
-      "count": 27
+      "count": 26
     },
     {
       "type": "Case",
@@ -140,12 +118,8 @@
       "count": 4
     },
     {
-      "type": "Clear",
-      "count": 1
-    },
-    {
       "type": "Comment",
-      "count": 17
+      "count": 26
     },
     {
       "type": "Continue",
@@ -157,7 +131,7 @@
     },
     {
       "type": "Data",
-      "count": 9
+      "count": 6
     },
     {
       "type": "DeleteInternal",
@@ -189,14 +163,10 @@
     },
     {
       "type": "EndMethod",
-      "count": 36
+      "count": 37
     },
     {
       "type": "EndTry",
-      "count": 1
-    },
-    {
-      "type": "FieldSymbol",
       "count": 1
     },
     {
@@ -221,15 +191,15 @@
     },
     {
       "type": "Method",
-      "count": 36
+      "count": 37
     },
     {
       "type": "MethodDef",
-      "count": 24
+      "count": 25
     },
     {
       "type": "Move",
-      "count": 50
+      "count": 51
     },
     {
       "type": "Private",
@@ -253,7 +223,7 @@
     },
     {
       "type": "Return",
-      "count": 4
+      "count": 3
     },
     {
       "type": "Select",
@@ -269,65 +239,61 @@
     },
     {
       "type": "Type",
-      "count": 14
+      "count": 16
     },
     {
       "type": "TypeBegin",
-      "count": 4
+      "count": 5
     },
     {
       "type": "TypeEnd",
-      "count": 4
-    },
-    {
-      "type": "Unassign",
-      "count": 2
+      "count": 5
     },
     {
       "type": "When",
-      "count": 3
+      "count": 2
     }
   ],
   "statements": [
     {
       "type": "v700",
-      "count": 350
+      "count": 353
     },
     {
       "type": "v702",
-      "count": 360
+      "count": 363
     },
     {
       "type": "v740sp02",
-      "count": 389
+      "count": 398
     },
     {
       "type": "v740sp05",
-      "count": 392
+      "count": 401
     },
     {
       "type": "v740sp08",
-      "count": 395
+      "count": 404
     },
     {
       "type": "v750",
-      "count": 395
+      "count": 404
     },
     {
       "type": "v751",
-      "count": 395
+      "count": 404
     },
     {
       "type": "v752",
-      "count": 395
+      "count": 404
     },
     {
       "type": "v753",
-      "count": 395
+      "count": 404
     },
     {
       "type": "Cloud",
-      "count": 392
+      "count": 401
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.6.18",
+  "version": "1.6.27",
   "target": "v753",
-  "time": "2019-02-13T08:18:01.760Z",
+  "time": "2019-02-24T13:35:01.249Z",
   "totals": {
     "objects": 43,
     "files": 92,
@@ -81,7 +81,7 @@
     },
     {
       "type": "line_only_punc",
-      "count": 65
+      "count": 61
     },
     {
       "type": "local_class_naming",
@@ -121,7 +121,7 @@
     },
     {
       "type": "obsolete_statement",
-      "count": 68
+      "count": 46
     },
     {
       "type": "parser_error",
