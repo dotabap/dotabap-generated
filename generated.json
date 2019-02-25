@@ -3,7 +3,7 @@
   "lines": 3800,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 84
   },
   "repo": {
@@ -124,7 +124,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 27
   },
   "repo": {
@@ -246,7 +246,7 @@
    "/Logo_Gladius_01.png"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 24
   },
   "repo": {
@@ -367,7 +367,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 74
   },
   "repo": {
@@ -488,7 +488,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 9
   },
   "repo": {
@@ -609,7 +609,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 13
   },
   "repo": {
@@ -730,7 +730,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 232
   },
   "repo": {
@@ -851,7 +851,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 44
   },
   "repo": {
@@ -972,7 +972,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 117
   },
   "repo": {
@@ -1095,7 +1095,7 @@
    "/changelog.txt"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 85
   },
   "repo": {
@@ -1216,7 +1216,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 91
   },
   "repo": {
@@ -1337,7 +1337,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 49
   },
   "repo": {
@@ -1468,10 +1468,10 @@
   }
  },
  "hardyp/AbapToTheFuture03": {
-  "lines": 20894,
+  "lines": 20893,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 400
   },
   "repo": {
@@ -1541,14 +1541,14 @@
    "releases_url": "https://api.github.com/repos/hardyp/AbapToTheFuture03/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hardyp/AbapToTheFuture03/deployments",
    "created_at": "2019-02-22T11:02:40Z",
-   "updated_at": "2019-02-24T12:30:59Z",
-   "pushed_at": "2019-02-24T12:30:57Z",
+   "updated_at": "2019-02-25T11:57:06Z",
+   "pushed_at": "2019-02-25T11:57:04Z",
    "git_url": "git://github.com/hardyp/AbapToTheFuture03.git",
    "ssh_url": "git@github.com:hardyp/AbapToTheFuture03.git",
    "clone_url": "https://github.com/hardyp/AbapToTheFuture03.git",
    "svn_url": "https://github.com/hardyp/AbapToTheFuture03",
    "homepage": null,
-   "size": 526,
+   "size": 557,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -1560,10 +1560,16 @@
    "forks_count": 0,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 4,
-   "license": null,
+   "open_issues_count": 0,
+   "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+   },
    "forks": 0,
-   "open_issues": 4,
+   "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
    "permissions": {
@@ -1579,7 +1585,7 @@
   "lines": 695,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 7
   },
   "repo": {
@@ -1741,7 +1747,7 @@
    "/mockA_build/mockA_daily.nugg.zip"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 189
   },
   "repo": {
@@ -1863,7 +1869,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 110
   },
   "repo": {
@@ -1977,7 +1983,7 @@
   "lines": 1636,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 45
   },
   "repo": {
@@ -2118,7 +2124,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 48
   },
   "repo": {
@@ -2233,7 +2239,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 21
   },
   "repo": {
@@ -2357,7 +2363,7 @@
    "/wiki/ToDo.wiki"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 645
   },
   "repo": {
@@ -2482,7 +2488,7 @@
    "/dtzbdframework_wizard_007.docv.xml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 211
   },
   "repo": {
@@ -2603,7 +2609,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 6
   },
   "repo": {
@@ -2724,7 +2730,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 6
   },
   "repo": {
@@ -2845,7 +2851,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 39
   },
   "repo": {
@@ -2970,7 +2976,7 @@
    "/changelog_release_in_preparation.txt"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 1063
   },
   "repo": {
@@ -3111,7 +3117,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 12
   },
   "repo": {
@@ -3232,7 +3238,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 0
   },
   "repo": {
@@ -3353,7 +3359,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 21
   },
   "repo": {
@@ -3474,7 +3480,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 54
   },
   "repo": {
@@ -3615,7 +3621,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 453
   },
   "repo": {
@@ -3737,7 +3743,7 @@
    "/NOTICE"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 30
   },
   "repo": {
@@ -3879,7 +3885,7 @@
    "/SICF.jpg"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 151
   },
   "repo": {
@@ -4000,7 +4006,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 884
   },
   "repo": {
@@ -4121,7 +4127,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 3
   },
   "repo": {
@@ -4262,7 +4268,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 63
   },
   "repo": {
@@ -4403,7 +4409,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 0
   },
   "repo": {
@@ -4545,7 +4551,7 @@
    "/LICENSE.md"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 12
   },
   "repo": {
@@ -4686,7 +4692,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 201
   },
   "repo": {
@@ -4807,7 +4813,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 2
   },
   "repo": {
@@ -4928,7 +4934,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 211
   },
   "repo": {
@@ -5042,7 +5048,7 @@
   "lines": 8652,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 370
   },
   "repo": {
@@ -5173,7 +5179,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 79857,
+  "lines": 79911,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -5188,7 +5194,7 @@
    "/.eslintrc.yaml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 686
   },
   "repo": {
@@ -5258,14 +5264,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-02-24T09:26:02Z",
-   "pushed_at": "2019-02-24T20:43:12Z",
+   "updated_at": "2019-02-25T15:20:06Z",
+   "pushed_at": "2019-02-25T15:32:23Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 10421,
+   "size": 10393,
    "stargazers_count": 473,
    "watchers_count": 473,
    "language": "ABAP",
@@ -5309,7 +5315,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 69
   },
   "repo": {
@@ -5430,7 +5436,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 36
   },
   "repo": {
@@ -5551,7 +5557,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 23
   },
   "repo": {
@@ -5672,7 +5678,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 23
   },
   "repo": {
@@ -5793,7 +5799,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 96
   },
   "repo": {
@@ -5914,7 +5920,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 30
   },
   "repo": {
@@ -6025,7 +6031,7 @@
   }
  },
  "thedoginthewok/ZwdCSV": {
-  "lines": 1730,
+  "lines": 1782,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -6035,8 +6041,8 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
-   "cloud": 100
+   "version": "1.6.29",
+   "cloud": 101
   },
   "repo": {
    "id": 167724076,
@@ -6105,14 +6111,14 @@
    "releases_url": "https://api.github.com/repos/thedoginthewok/ZwdCSV/releases{/id}",
    "deployments_url": "https://api.github.com/repos/thedoginthewok/ZwdCSV/deployments",
    "created_at": "2019-01-26T18:32:05Z",
-   "updated_at": "2019-02-23T16:07:35Z",
-   "pushed_at": "2019-02-23T16:07:33Z",
+   "updated_at": "2019-02-24T23:41:36Z",
+   "pushed_at": "2019-02-24T23:41:34Z",
    "git_url": "git://github.com/thedoginthewok/ZwdCSV.git",
    "ssh_url": "git@github.com:thedoginthewok/ZwdCSV.git",
    "clone_url": "https://github.com/thedoginthewok/ZwdCSV.git",
    "svn_url": "https://github.com/thedoginthewok/ZwdCSV",
    "homepage": null,
-   "size": 107,
+   "size": 113,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -6156,7 +6162,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 96
   },
   "repo": {
@@ -6277,7 +6283,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 36
   },
   "repo": {
@@ -6404,7 +6410,7 @@
    "/mimes/start_screen.jpg"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 41
   },
   "repo": {
@@ -6525,7 +6531,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 50
   },
   "repo": {
@@ -6646,7 +6652,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 25
   },
   "repo": {
@@ -6757,7 +6763,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 46151,
+  "lines": 46455,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -6769,8 +6775,8 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.27",
-   "cloud": 931
+   "version": "1.6.29",
+   "cloud": 933
   },
   "repo": {
    "id": 15457787,
@@ -6839,14 +6845,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-02-23T03:36:38Z",
-   "pushed_at": "2019-02-21T14:47:30Z",
+   "updated_at": "2019-02-25T14:48:48Z",
+   "pushed_at": "2019-02-25T14:48:46Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 24846,
+   "size": 24711,
    "stargazers_count": 189,
    "watchers_count": 189,
    "language": "ABAP",
@@ -6858,7 +6864,7 @@
    "forks_count": 108,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 83,
+   "open_issues_count": 82,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -6867,7 +6873,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 108,
-   "open_issues": 83,
+   "open_issues": 82,
    "watchers": 189,
    "default_branch": "master",
    "permissions": {
@@ -6910,7 +6916,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 70
   },
   "repo": {
@@ -7034,7 +7040,7 @@
    "/src/.gitkeep"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 861
   },
   "repo": {
@@ -7155,7 +7161,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 41
   },
   "repo": {
@@ -7280,7 +7286,7 @@
    "/zop_custom_event_rec.clas.testclasses.abap"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 8
   },
   "repo": {
@@ -7351,7 +7357,7 @@
    "deployments_url": "https://api.github.com/repos/objective-partner/abap_debugger_data_view_extension/deployments",
    "created_at": "2017-11-09T16:08:52Z",
    "updated_at": "2019-02-19T19:35:04Z",
-   "pushed_at": "2019-02-19T19:27:14Z",
+   "pushed_at": "2019-02-25T17:16:14Z",
    "git_url": "git://github.com/objective-partner/abap_debugger_data_view_extension.git",
    "ssh_url": "git@github.com:objective-partner/abap_debugger_data_view_extension.git",
    "clone_url": "https://github.com/objective-partner/abap_debugger_data_view_extension.git",
@@ -7369,7 +7375,7 @@
    "forks_count": 4,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 4,
+   "open_issues_count": 5,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7378,7 +7384,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 4,
-   "open_issues": 4,
+   "open_issues": 5,
    "watchers": 8,
    "default_branch": "master",
    "permissions": {
@@ -7421,7 +7427,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 26
   },
   "repo": {
@@ -7542,7 +7548,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 0
   },
   "repo": {
@@ -7663,7 +7669,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 22
   },
   "repo": {
@@ -7785,7 +7791,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 5
   },
   "repo": {
@@ -7906,7 +7912,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 2
   },
   "repo": {
@@ -8027,7 +8033,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 7
   },
   "repo": {
@@ -8152,7 +8158,7 @@
    "/DX134_49973_Presentation_1.pdf"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 5
   },
   "repo": {
@@ -8275,7 +8281,7 @@
    "/docs/img/retrieve_keys.JPG"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 40
   },
   "repo": {
@@ -8396,7 +8402,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 55
   },
   "repo": {
@@ -8519,7 +8525,7 @@
    "/License.txt"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 16
   },
   "repo": {
@@ -8648,7 +8654,7 @@
    "/CODE/abapgit/readme"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 159
   },
   "repo": {
@@ -8769,7 +8775,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 9
   },
   "repo": {
@@ -8890,7 +8896,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 22
   },
   "repo": {
@@ -9011,7 +9017,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 2348
   },
   "repo": {
@@ -9100,7 +9106,7 @@
    "forks_count": 22,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 274,
+   "open_issues_count": 275,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9109,7 +9115,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 22,
-   "open_issues": 274,
+   "open_issues": 275,
    "watchers": 72,
    "default_branch": "master",
    "permissions": {
@@ -9129,7 +9135,7 @@
    "/README.md"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 77
   },
   "repo": {
@@ -9250,7 +9256,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 74
   },
   "repo": {
@@ -9369,7 +9375,7 @@
    "/example.xml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 37
   },
   "repo": {
@@ -9490,7 +9496,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 21
   },
   "repo": {
@@ -9611,7 +9617,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 91
   },
   "repo": {
@@ -9681,7 +9687,7 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Swagger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
-   "updated_at": "2019-01-14T16:18:58Z",
+   "updated_at": "2019-02-25T14:59:26Z",
    "pushed_at": "2019-01-13T10:37:17Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
@@ -9689,8 +9695,8 @@
    "svn_url": "https://github.com/larshp/ABAP-Swagger",
    "homepage": "",
    "size": 65,
-   "stargazers_count": 32,
-   "watchers_count": 32,
+   "stargazers_count": 33,
+   "watchers_count": 33,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -9710,7 +9716,7 @@
    },
    "forks": 15,
    "open_issues": 15,
-   "watchers": 32,
+   "watchers": 33,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -9732,7 +9738,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 121
   },
   "repo": {
@@ -9851,7 +9857,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 511
   },
   "repo": {
@@ -9973,7 +9979,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 400
   },
   "repo": {
@@ -10094,7 +10100,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 181
   },
   "repo": {
@@ -10228,7 +10234,7 @@
   "lines": 4568,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 272
   },
   "repo": {
@@ -10351,7 +10357,7 @@
    "/CONTRIBUTING.md"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 170
   },
   "repo": {
@@ -10474,7 +10480,7 @@
    "/illustration_small.png"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 111
   },
   "repo": {
@@ -10595,7 +10601,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 161
   },
   "repo": {
@@ -10716,7 +10722,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 96
   },
   "repo": {
@@ -10837,7 +10843,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 52
   },
   "repo": {
@@ -10959,7 +10965,7 @@
    "/.gitattributes"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 28
   },
   "repo": {
@@ -11080,7 +11086,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 4
   },
   "repo": {
@@ -11201,7 +11207,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 2
   },
   "repo": {
@@ -11323,7 +11329,7 @@
    "/changelog.txt"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 147
   },
   "repo": {
@@ -11400,7 +11406,7 @@
    "clone_url": "https://github.com/pixelbaker/ABAP-RayTracer.git",
    "svn_url": "https://github.com/pixelbaker/ABAP-RayTracer",
    "homepage": null,
-   "size": 1933,
+   "size": 1934,
    "stargazers_count": 17,
    "watchers_count": 17,
    "language": "ABAP",
@@ -11444,7 +11450,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 18
   },
   "repo": {
@@ -11565,7 +11571,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 31
   },
   "repo": {
@@ -11706,7 +11712,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 8
   },
   "repo": {
@@ -11827,7 +11833,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 64
   },
   "repo": {
@@ -11949,7 +11955,7 @@
    "/plantuml.txt"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 161
   },
   "repo": {
@@ -12019,7 +12025,7 @@
    "releases_url": "https://api.github.com/repos/abapinho/abaK/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abaK/deployments",
    "created_at": "2019-01-31T18:54:18Z",
-   "updated_at": "2019-02-04T10:26:59Z",
+   "updated_at": "2019-02-25T15:07:39Z",
    "pushed_at": "2019-02-04T10:14:58Z",
    "git_url": "git://github.com/abapinho/abaK.git",
    "ssh_url": "git@github.com:abapinho/abaK.git",
@@ -12027,8 +12033,8 @@
    "svn_url": "https://github.com/abapinho/abaK",
    "homepage": "",
    "size": 121,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 4,
+   "watchers_count": 4,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -12048,7 +12054,7 @@
    },
    "forks": 2,
    "open_issues": 7,
-   "watchers": 2,
+   "watchers": 4,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -12090,7 +12096,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 41
   },
   "repo": {
@@ -12212,7 +12218,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 0
   },
   "repo": {
@@ -12333,7 +12339,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 2
   },
   "repo": {
@@ -12454,7 +12460,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 23
   },
   "repo": {
@@ -12575,7 +12581,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 12
   },
   "repo": {
@@ -12696,7 +12702,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 12
   },
   "repo": {
@@ -12817,7 +12823,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 760
   },
   "repo": {
@@ -12938,7 +12944,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "1.6.27",
+   "version": "1.6.29",
    "cloud": 43
   },
   "repo": {
