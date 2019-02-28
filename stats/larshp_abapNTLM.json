@@ -1,7 +1,7 @@
 {
-  "version": "1.6.27",
+  "version": "1.6.30",
   "target": "v753",
-  "time": "2019-02-24T15:45:21.095Z",
+  "time": "2019-02-28T10:26:21.637Z",
   "totals": {
     "objects": 6,
     "files": 16,
@@ -23,6 +23,10 @@
     }
   ],
   "issues": [
+    {
+      "type": "avoid_use",
+      "count": 12
+    },
     {
       "type": "breakpoint",
       "count": 10

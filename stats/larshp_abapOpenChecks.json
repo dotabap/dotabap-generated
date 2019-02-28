@@ -1,7 +1,7 @@
 {
-  "version": "1.6.27",
+  "version": "1.6.30",
   "target": "v753",
-  "time": "2019-02-24T15:33:08.117Z",
+  "time": "2019-02-28T10:13:49.300Z",
   "totals": {
     "objects": 133,
     "files": 360,
@@ -52,6 +52,10 @@
   ],
   "issues": [
     {
+      "type": "avoid_use",
+      "count": 66
+    },
+    {
       "type": "check_variables",
       "count": 2300
     },
@@ -62,6 +66,10 @@
     {
       "type": "no_public_attributes",
       "count": 4
+    },
+    {
+      "type": "short_case",
+      "count": 12
     },
     {
       "type": "superclass_final",

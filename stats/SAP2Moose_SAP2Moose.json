@@ -1,7 +1,7 @@
 {
-  "version": "1.6.27",
+  "version": "1.6.30",
   "target": "v753",
-  "time": "2019-02-24T14:20:33.649Z",
+  "time": "2019-02-28T08:59:21.704Z",
   "totals": {
     "objects": 88,
     "files": 249,
@@ -39,6 +39,10 @@
     }
   ],
   "issues": [
+    {
+      "type": "avoid_use",
+      "count": 6
+    },
     {
       "type": "check_variables",
       "count": 91

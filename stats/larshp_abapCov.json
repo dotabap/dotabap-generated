@@ -1,14 +1,18 @@
 {
-  "version": "1.6.27",
+  "version": "1.6.30",
   "target": "v753",
-  "time": "2019-02-24T15:31:33.447Z",
+  "time": "2019-02-28T10:12:09.863Z",
   "totals": {
-    "objects": 1,
-    "files": 2,
-    "statements": 369,
-    "tokens": 2180
+    "objects": 2,
+    "files": 3,
+    "statements": 371,
+    "tokens": 2195
   },
   "objects": [
+    {
+      "type": "DEVC",
+      "count": 1
+    },
     {
       "type": "PROG",
       "count": 1
@@ -18,10 +22,14 @@
     {
       "type": "check_variables",
       "count": 3
+    },
+    {
+      "type": "local_variable_names",
+      "count": 1
     }
   ],
   "objectOrientation": {
-    "oo": 315,
+    "oo": 316,
     "non": 22
   },
   "methodLength": [
@@ -37,8 +45,8 @@
     0,
     0,
     1,
-    1,
-    1,
+    0,
+    2,
     0,
     0,
     0,
@@ -67,7 +75,7 @@
     },
     {
       "type": "Assert",
-      "count": 5
+      "count": 4
     },
     {
       "type": "Call",
@@ -99,7 +107,7 @@
     },
     {
       "type": "Comment",
-      "count": 32
+      "count": 33
     },
     {
       "type": "Concatenate",
@@ -119,7 +127,7 @@
     },
     {
       "type": "Data",
-      "count": 28
+      "count": 29
     },
     {
       "type": "DeleteInternal",
@@ -279,49 +287,49 @@
     },
     {
       "type": "Write",
-      "count": 4
+      "count": 5
     }
   ],
   "statements": [
     {
       "type": "v700",
-      "count": 353
+      "count": 355
     },
     {
       "type": "v702",
-      "count": 354
+      "count": 356
     },
     {
       "type": "v740sp02",
-      "count": 368
+      "count": 370
     },
     {
       "type": "v740sp05",
-      "count": 369
+      "count": 371
     },
     {
       "type": "v740sp08",
-      "count": 369
+      "count": 371
     },
     {
       "type": "v750",
-      "count": 369
+      "count": 371
     },
     {
       "type": "v751",
-      "count": 369
+      "count": 371
     },
     {
       "type": "v752",
-      "count": 369
+      "count": 371
     },
     {
       "type": "v753",
-      "count": 369
+      "count": 371
     },
     {
       "type": "Cloud",
-      "count": 344
+      "count": 345
     }
   ]
 }

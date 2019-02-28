@@ -1,107 +1,107 @@
 [
   {
     "type": "Comment",
-    "count": 91943
+    "count": 92187
   },
   {
     "type": "Move",
-    "count": 54361
+    "count": 54501
   },
   {
     "type": "Data",
-    "count": 32985
+    "count": 33047
   },
   {
     "type": "Call",
-    "count": 31113
+    "count": 31166
   },
   {
     "type": "Method",
-    "count": 17439
+    "count": 17479
   },
   {
     "type": "EndMethod",
-    "count": 17439
+    "count": 17479
   },
   {
     "type": "MethodDef",
-    "count": 15711
+    "count": 15739
   },
   {
     "type": "If",
-    "count": 14042
+    "count": 14081
   },
   {
     "type": "EndIf",
-    "count": 14042
+    "count": 14081
   },
   {
     "type": "Append",
-    "count": 7714
+    "count": 7735
   },
   {
     "type": "MacroCall",
-    "count": 6070
+    "count": 6071
   },
   {
     "type": "When",
-    "count": 5541
+    "count": 5547
   },
   {
     "type": "Constant",
-    "count": 5433
+    "count": 5438
   },
   {
     "type": "Type",
-    "count": 5310
+    "count": 5320
   },
   {
     "type": "EndClass",
-    "count": 5094
+    "count": 5102
   },
   {
     "type": "Clear",
-    "count": 4636
+    "count": 4647
   },
   {
     "type": "Else",
-    "count": 3171
+    "count": 3173
   },
   {
     "type": "FieldSymbol",
-    "count": 3093
+    "count": 3097
   },
   {
     "type": "EndLoop",
-    "count": 2958
+    "count": 2962
   },
   {
     "type": "Loop",
-    "count": 2957
+    "count": 2961
   },
   {
     "type": "ClassDefinition",
-    "count": 2559
+    "count": 2563
   },
   {
     "type": "ClassImplementation",
-    "count": 2535
+    "count": 2539
   },
   {
     "type": "ReadTable",
-    "count": 2248
+    "count": 2251
   },
   {
     "type": "Private",
-    "count": 2216
+    "count": 2221
   },
   {
     "type": "CreateObject",
-    "count": 2193
+    "count": 2195
   },
   {
     "type": "Public",
-    "count": 2100
+    "count": 2102
   },
   {
     "type": "EndTry",
@@ -121,11 +121,11 @@
   },
   {
     "type": "CallFunction",
-    "count": 1724
+    "count": 1725
   },
   {
     "type": "Concatenate",
-    "count": 1678
+    "count": 1685
   },
   {
     "type": "MacroContent",
@@ -133,27 +133,27 @@
   },
   {
     "type": "Protected",
-    "count": 1565
+    "count": 1568
   },
   {
     "type": "Do",
-    "count": 1479
+    "count": 1483
   },
   {
     "type": "EndDo",
-    "count": 1479
+    "count": 1483
   },
   {
     "type": "EndCase",
-    "count": 1477
+    "count": 1479
   },
   {
     "type": "Case",
-    "count": 1477
+    "count": 1479
   },
   {
     "type": "Return",
-    "count": 1439
+    "count": 1448
   },
   {
     "type": "InsertInternal",
@@ -161,15 +161,15 @@
   },
   {
     "type": "Assign",
-    "count": 1232
+    "count": 1236
   },
   {
     "type": "TypeEnd",
-    "count": 1104
+    "count": 1105
   },
   {
     "type": "TypeBegin",
-    "count": 1104
+    "count": 1105
   },
   {
     "type": "Select",
@@ -177,15 +177,15 @@
   },
   {
     "type": "Assert",
-    "count": 1050
+    "count": 1051
   },
   {
     "type": "Check",
-    "count": 980
+    "count": 981
   },
   {
     "type": "Write",
-    "count": 960
+    "count": 961
   },
   {
     "type": "Message",
@@ -193,11 +193,11 @@
   },
   {
     "type": "EndWhile",
-    "count": 824
+    "count": 827
   },
   {
     "type": "While",
-    "count": 824
+    "count": 827
   },
   {
     "type": "Perform",
@@ -205,7 +205,7 @@
   },
   {
     "type": "ElseIf",
-    "count": 784
+    "count": 785
   },
   {
     "type": "Parameter",
@@ -213,11 +213,11 @@
   },
   {
     "type": "InterfaceDef",
-    "count": 667
+    "count": 669
   },
   {
     "type": "Exit",
-    "count": 636
+    "count": 637
   },
   {
     "type": "ClassData",
@@ -233,11 +233,11 @@
   },
   {
     "type": "Aliases",
-    "count": 584
+    "count": 585
   },
   {
     "type": "Add",
-    "count": 559
+    "count": 561
   },
   {
     "type": "Include",
@@ -257,11 +257,11 @@
   },
   {
     "type": "Condense",
-    "count": 462
+    "count": 467
   },
   {
     "type": "Replace",
-    "count": 451
+    "count": 454
   },
   {
     "type": "EndForm",
@@ -309,7 +309,7 @@
   },
   {
     "type": "Split",
-    "count": 260
+    "count": 261
   },
   {
     "type": "TypePools",
@@ -325,7 +325,7 @@
   },
   {
     "type": "ClassOther",
-    "count": 226
+    "count": 228
   },
   {
     "type": "CreateData",
@@ -341,7 +341,7 @@
   },
   {
     "type": "Unknown",
-    "count": 209
+    "count": 202
   },
   {
     "type": "Module",
@@ -417,7 +417,7 @@
   },
   {
     "type": "InsertDatabase",
-    "count": 108
+    "count": 109
   },
   {
     "type": "Initialization",
@@ -456,12 +456,12 @@
     "count": 65
   },
   {
-    "type": "Empty",
-    "count": 62
-  },
-  {
     "type": "FunctionPool",
     "count": 61
+  },
+  {
+    "type": "Empty",
+    "count": 60
   },
   {
     "type": "Subtract",

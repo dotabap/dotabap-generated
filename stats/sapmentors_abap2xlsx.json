@@ -1,12 +1,12 @@
 {
-  "version": "1.6.27",
+  "version": "1.6.30",
   "target": "v753",
-  "time": "2019-02-24T15:05:45.282Z",
+  "time": "2019-02-28T09:45:46.709Z",
   "totals": {
-    "objects": 332,
-    "files": 486,
-    "statements": 33906,
-    "tokens": 194416
+    "objects": 334,
+    "files": 488,
+    "statements": 34205,
+    "tokens": 195700
   },
   "objects": [
     {
@@ -39,11 +39,11 @@
     },
     {
       "type": "TABL",
-      "count": 58
+      "count": 59
     },
     {
       "type": "TTYP",
-      "count": 23
+      "count": 24
     },
     {
       "type": "WDYA",
@@ -62,6 +62,10 @@
     {
       "type": "7bit_ascii",
       "count": 108
+    },
+    {
+      "type": "avoid_use",
+      "count": 13
     },
     {
       "type": "check_variables",
@@ -85,7 +89,7 @@
     },
     {
       "type": "definitions_top",
-      "count": 16
+      "count": 17
     },
     {
       "type": "empty_statement",
@@ -101,11 +105,11 @@
     },
     {
       "type": "functional_writing",
-      "count": 99
+      "count": 100
     },
     {
       "type": "indentation",
-      "count": 74
+      "count": 73
     },
     {
       "type": "keywords_upper",
@@ -113,7 +117,7 @@
     },
     {
       "type": "line_length",
-      "count": 434
+      "count": 437
     },
     {
       "type": "line_only_punc",
@@ -125,14 +129,14 @@
     },
     {
       "type": "local_variable_names",
-      "count": 507
+      "count": 510
     },
     {
       "type": "max_one_statement",
       "count": 473
     },
     {
-      "type": "message",
+      "type": "message_exists",
       "count": 6
     },
     {
@@ -141,7 +145,7 @@
     },
     {
       "type": "method_parameter_names",
-      "count": 414
+      "count": 416
     },
     {
       "type": "nesting",
@@ -153,11 +157,15 @@
     },
     {
       "type": "obsolete_statement",
-      "count": 221
+      "count": 231
     },
     {
       "type": "sequential_blank",
       "count": 11
+    },
+    {
+      "type": "short_case",
+      "count": 2
     },
     {
       "type": "space_before_colon",
@@ -165,7 +173,7 @@
     },
     {
       "type": "start_at_tab",
-      "count": 31
+      "count": 28
     },
     {
       "type": "superclass_final",
@@ -173,8 +181,8 @@
     }
   ],
   "objectOrientation": {
-    "oo": 21083,
-    "non": 5887
+    "oo": 21246,
+    "non": 5895
   },
   "methodLength": [
     13,
@@ -213,7 +221,7 @@
     2,
     3,
     2,
-    1,
+    2,
     3,
     7,
     1,
@@ -232,11 +240,11 @@
     0,
     1,
     1,
-    3,
+    4,
     0,
     0,
     0,
-    0,
+    1,
     0,
     0,
     0,
@@ -310,21 +318,21 @@
     1,
     0,
     1,
-    1,
     0,
     0,
     0,
     0,
     0,
-    1,
-    0,
-    0,
-    2,
     0,
     1,
     0,
     0,
+    3,
     1,
+    1,
+    0,
+    0,
+    0,
     0,
     0,
     0,
@@ -1279,11 +1287,11 @@
   "statementTypes": [
     {
       "type": "Add",
-      "count": 106
+      "count": 108
     },
     {
       "type": "Append",
-      "count": 692
+      "count": 705
     },
     {
       "type": "Assert",
@@ -1303,11 +1311,11 @@
     },
     {
       "type": "Call",
-      "count": 3108
+      "count": 3121
     },
     {
       "type": "CallFunction",
-      "count": 60
+      "count": 61
     },
     {
       "type": "CallTransformation",
@@ -1347,7 +1355,7 @@
     },
     {
       "type": "Clear",
-      "count": 350
+      "count": 353
     },
     {
       "type": "CloseDataset",
@@ -1359,7 +1367,7 @@
     },
     {
       "type": "Comment",
-      "count": 6928
+      "count": 7056
     },
     {
       "type": "Commit",
@@ -1367,15 +1375,15 @@
     },
     {
       "type": "Concatenate",
-      "count": 228
+      "count": 235
     },
     {
       "type": "Condense",
-      "count": 185
+      "count": 187
     },
     {
       "type": "Constant",
-      "count": 1074
+      "count": 1073
     },
     {
       "type": "ConstantBegin",
@@ -1399,11 +1407,11 @@
     },
     {
       "type": "CreateObject",
-      "count": 208
+      "count": 209
     },
     {
       "type": "Data",
-      "count": 3504
+      "count": 3546
     },
     {
       "type": "DataBegin",
@@ -1463,7 +1471,7 @@
     },
     {
       "type": "EndIf",
-      "count": 1330
+      "count": 1344
     },
     {
       "type": "EndInterface",
@@ -1471,11 +1479,11 @@
     },
     {
       "type": "EndLoop",
-      "count": 140
+      "count": 141
     },
     {
       "type": "EndMethod",
-      "count": 684
+      "count": 687
     },
     {
       "type": "EndOfDefinition",
@@ -1495,11 +1503,11 @@
     },
     {
       "type": "EndWhile",
-      "count": 151
+      "count": 150
     },
     {
       "type": "Exit",
-      "count": 54
+      "count": 53
     },
     {
       "type": "Export",
@@ -1507,7 +1515,7 @@
     },
     {
       "type": "FieldSymbol",
-      "count": 199
+      "count": 202
     },
     {
       "type": "Find",
@@ -1539,7 +1547,7 @@
     },
     {
       "type": "If",
-      "count": 1330
+      "count": 1344
     },
     {
       "type": "Import",
@@ -1579,7 +1587,7 @@
     },
     {
       "type": "Loop",
-      "count": 140
+      "count": 141
     },
     {
       "type": "MacroCall",
@@ -1595,11 +1603,11 @@
     },
     {
       "type": "Method",
-      "count": 684
+      "count": 687
     },
     {
       "type": "MethodDef",
-      "count": 682
+      "count": 685
     },
     {
       "type": "ModifyDatabase",
@@ -1611,7 +1619,7 @@
     },
     {
       "type": "Move",
-      "count": 6430
+      "count": 6475
     },
     {
       "type": "OpenDataset",
@@ -1651,7 +1659,7 @@
     },
     {
       "type": "ReadTable",
-      "count": 139
+      "count": 140
     },
     {
       "type": "Refresh",
@@ -1659,7 +1667,7 @@
     },
     {
       "type": "Replace",
-      "count": 79
+      "count": 82
     },
     {
       "type": "Report",
@@ -1771,7 +1779,7 @@
     },
     {
       "type": "While",
-      "count": 151
+      "count": 150
     },
     {
       "type": "Write",
@@ -1781,43 +1789,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 33906
+      "count": 34205
     },
     {
       "type": "v702",
-      "count": 33906
+      "count": 34205
     },
     {
       "type": "v740sp02",
-      "count": 33906
+      "count": 34205
     },
     {
       "type": "v740sp05",
-      "count": 33906
+      "count": 34205
     },
     {
       "type": "v740sp08",
-      "count": 33906
+      "count": 34205
     },
     {
       "type": "v750",
-      "count": 33906
+      "count": 34205
     },
     {
       "type": "v751",
-      "count": 33906
+      "count": 34205
     },
     {
       "type": "v752",
-      "count": 33906
+      "count": 34205
     },
     {
       "type": "v753",
-      "count": 33906
+      "count": 34205
     },
     {
       "type": "Cloud",
-      "count": 33051
+      "count": 33348
     }
   ]
 }

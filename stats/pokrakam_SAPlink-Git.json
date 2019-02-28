@@ -1,7 +1,7 @@
 {
-  "version": "1.6.27",
+  "version": "1.6.30",
   "target": "v753",
-  "time": "2019-02-24T16:06:46.883Z",
+  "time": "2019-02-28T10:48:02.518Z",
   "totals": {
     "objects": 43,
     "files": 92,
@@ -96,7 +96,7 @@
       "count": 12
     },
     {
-      "type": "message",
+      "type": "message_exists",
       "count": 30
     },
     {
@@ -130,6 +130,10 @@
     {
       "type": "sequential_blank",
       "count": 3
+    },
+    {
+      "type": "short_case",
+      "count": 2
     },
     {
       "type": "space_before_colon",
