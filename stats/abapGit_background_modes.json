@@ -1,12 +1,12 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T09:13:08.894Z",
+  "time": "2019-03-06T16:19:21.648Z",
   "totals": {
     "objects": 9,
     "files": 18,
     "statements": 404,
-    "tokens": 2660
+    "tokens": 2666
   },
   "objects": [
     {
@@ -32,6 +32,10 @@
       "count": 1
     },
     {
+      "type": "empty_line_in_statement",
+      "count": 1
+    },
+    {
       "type": "indentation",
       "count": 3
     },
@@ -42,6 +46,10 @@
     {
       "type": "local_class_naming",
       "count": 1
+    },
+    {
+      "type": "remove_descriptions",
+      "count": 2
     }
   ],
   "objectOrientation": {

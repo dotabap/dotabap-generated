@@ -1,7 +1,7 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T10:43:46.073Z",
+  "time": "2019-03-06T17:53:23.846Z",
   "totals": {
     "objects": 12,
     "files": 29,
@@ -52,6 +52,10 @@
       "count": 1
     },
     {
+      "type": "empty_line_in_statement",
+      "count": 1
+    },
+    {
       "type": "keywords_upper",
       "count": 15
     },
@@ -74,6 +78,10 @@
     {
       "type": "no_public_attributes",
       "count": 9
+    },
+    {
+      "type": "remove_descriptions",
+      "count": 13
     },
     {
       "type": "superclass_final",

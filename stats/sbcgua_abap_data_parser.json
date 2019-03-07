@@ -1,7 +1,7 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T10:34:41.448Z",
+  "time": "2019-03-06T17:43:45.118Z",
   "totals": {
     "objects": 8,
     "files": 19,
@@ -44,6 +44,10 @@
       "count": 1
     },
     {
+      "type": "if_in_if",
+      "count": 1
+    },
+    {
       "type": "indentation",
       "count": 9
     },
@@ -66,6 +70,10 @@
     {
       "type": "method_parameter_names",
       "count": 79
+    },
+    {
+      "type": "remove_descriptions",
+      "count": 9
     },
     {
       "type": "superclass_final",

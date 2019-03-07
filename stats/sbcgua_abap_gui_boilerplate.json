@@ -1,12 +1,12 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T08:39:39.750Z",
+  "time": "2019-03-06T15:52:54.492Z",
   "totals": {
     "objects": 17,
     "files": 33,
     "statements": 1504,
-    "tokens": 8485
+    "tokens": 8489
   },
   "objects": [
     {
@@ -38,6 +38,10 @@
     {
       "type": "definitions_top",
       "count": 11
+    },
+    {
+      "type": "empty_line_in_statement",
+      "count": 1
     },
     {
       "type": "indentation",

@@ -1,12 +1,12 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T10:13:49.300Z",
+  "time": "2019-03-06T17:22:13.926Z",
   "totals": {
     "objects": 133,
     "files": 360,
-    "statements": 22895,
-    "tokens": 113142
+    "statements": 22907,
+    "tokens": 113252
   },
   "objects": [
     {
@@ -64,12 +64,8 @@
       "count": 3
     },
     {
-      "type": "no_public_attributes",
-      "count": 4
-    },
-    {
       "type": "short_case",
-      "count": 12
+      "count": 5
     },
     {
       "type": "superclass_final",
@@ -77,12 +73,12 @@
     }
   ],
   "objectOrientation": {
-    "oo": 19061,
+    "oo": 19073,
     "non": 727
   },
   "methodLength": [
     4,
-    223,
+    226,
     222,
     297,
     69,
@@ -336,7 +332,7 @@
     },
     {
       "type": "EndMethod",
-      "count": 1564
+      "count": 1567
     },
     {
       "type": "EndModule",
@@ -440,11 +436,11 @@
     },
     {
       "type": "Method",
-      "count": 1564
+      "count": 1567
     },
     {
       "type": "MethodDef",
-      "count": 1564
+      "count": 1567
     },
     {
       "type": "ModifyInternal",
@@ -456,7 +452,7 @@
     },
     {
       "type": "Move",
-      "count": 2729
+      "count": 2732
     },
     {
       "type": "Parameter",
@@ -602,43 +598,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 22867
+      "count": 22879
     },
     {
       "type": "v702",
-      "count": 22895
+      "count": 22907
     },
     {
       "type": "v740sp02",
-      "count": 22895
+      "count": 22907
     },
     {
       "type": "v740sp05",
-      "count": 22895
+      "count": 22907
     },
     {
       "type": "v740sp08",
-      "count": 22895
+      "count": 22907
     },
     {
       "type": "v750",
-      "count": 22895
+      "count": 22907
     },
     {
       "type": "v751",
-      "count": 22895
+      "count": 22907
     },
     {
       "type": "v752",
-      "count": 22895
+      "count": 22907
     },
     {
       "type": "v753",
-      "count": 22895
+      "count": 22907
     },
     {
       "type": "Cloud",
-      "count": 22329
+      "count": 22341
     }
   ]
 }

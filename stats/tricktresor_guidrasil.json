@@ -1,7 +1,7 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T08:37:26.724Z",
+  "time": "2019-03-06T15:50:40.508Z",
   "totals": {
     "objects": 74,
     "files": 146,
@@ -96,6 +96,10 @@
       "count": 1
     },
     {
+      "type": "double_space",
+      "count": 8
+    },
+    {
       "type": "exit_or_check",
       "count": 26
     },
@@ -106,6 +110,10 @@
     {
       "type": "functional_writing",
       "count": 59
+    },
+    {
+      "type": "if_in_if",
+      "count": 2
     },
     {
       "type": "indentation",
@@ -160,16 +168,24 @@
       "count": 11
     },
     {
+      "type": "remove_descriptions",
+      "count": 189
+    },
+    {
       "type": "sequential_blank",
       "count": 3
     },
     {
       "type": "short_case",
-      "count": 5
+      "count": 4
     },
     {
       "type": "start_at_tab",
       "count": 11
+    },
+    {
+      "type": "unreachable_code",
+      "count": 4
     }
   ],
   "objectOrientation": {

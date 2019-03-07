@@ -1,12 +1,12 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T09:23:58.310Z",
+  "time": "2019-03-06T16:30:32.707Z",
   "totals": {
-    "objects": 312,
-    "files": 682,
-    "statements": 41340,
-    "tokens": 259772
+    "objects": 314,
+    "files": 686,
+    "statements": 41362,
+    "tokens": 259969
   },
   "objects": [
     {
@@ -35,7 +35,7 @@
     },
     {
       "type": "W3MI",
-      "count": 2
+      "count": 4
     }
   ],
   "issues": [
@@ -48,12 +48,16 @@
       "count": 629
     },
     {
+      "type": "empty_line_in_statement",
+      "count": 137
+    },
+    {
       "type": "message_exists",
       "count": 6
     },
     {
       "type": "short_case",
-      "count": 9
+      "count": 6
     },
     {
       "type": "superclass_final",
@@ -61,7 +65,7 @@
     }
   ],
   "objectOrientation": {
-    "oo": 38762,
+    "oo": 38783,
     "non": 151
   },
   "methodLength": [
@@ -70,31 +74,31 @@
     140,
     170,
     210,
-    137,
+    138,
     126,
-    101,
-    114,
+    100,
+    113,
     103,
-    80,
+    81,
     73,
-    62,
     63,
+    62,
     52,
     37,
     42,
     41,
     27,
     31,
-    31,
-    28,
-    30,
-    26,
+    32,
+    29,
+    29,
+    25,
     22,
     19,
     20,
     20,
     19,
-    14,
+    13,
     14,
     16,
     8,
@@ -109,7 +113,7 @@
     5,
     7,
     5,
-    2,
+    3,
     5,
     3,
     4,
@@ -129,8 +133,8 @@
     3,
     1,
     1,
-    3,
-    1,
+    4,
+    0,
     1,
     0,
     1,
@@ -161,7 +165,7 @@
     },
     {
       "type": "Append",
-      "count": 415
+      "count": 417
     },
     {
       "type": "Assert",
@@ -201,7 +205,7 @@
     },
     {
       "type": "Case",
-      "count": 104
+      "count": 101
     },
     {
       "type": "Catch",
@@ -245,7 +249,7 @@
     },
     {
       "type": "Comment",
-      "count": 2427
+      "count": 2428
     },
     {
       "type": "Commit",
@@ -253,7 +257,7 @@
     },
     {
       "type": "Concatenate",
-      "count": 104
+      "count": 105
     },
     {
       "type": "Condense",
@@ -337,7 +341,7 @@
     },
     {
       "type": "EndCase",
-      "count": 104
+      "count": 101
     },
     {
       "type": "EndClass",
@@ -357,7 +361,7 @@
     },
     {
       "type": "EndIf",
-      "count": 1879
+      "count": 1881
     },
     {
       "type": "EndInterface",
@@ -437,7 +441,7 @@
     },
     {
       "type": "If",
-      "count": 1879
+      "count": 1881
     },
     {
       "type": "Import",
@@ -521,7 +525,7 @@
     },
     {
       "type": "Move",
-      "count": 5559
+      "count": 5568
     },
     {
       "type": "Overlay",
@@ -537,11 +541,11 @@
     },
     {
       "type": "Private",
-      "count": 303
+      "count": 305
     },
     {
       "type": "Protected",
-      "count": 212
+      "count": 222
     },
     {
       "type": "Public",
@@ -673,7 +677,7 @@
     },
     {
       "type": "When",
-      "count": 441
+      "count": 440
     },
     {
       "type": "While",
@@ -687,43 +691,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 40345
+      "count": 40358
     },
     {
       "type": "v702",
-      "count": 41340
+      "count": 41362
     },
     {
       "type": "v740sp02",
-      "count": 41340
+      "count": 41362
     },
     {
       "type": "v740sp05",
-      "count": 41340
+      "count": 41362
     },
     {
       "type": "v740sp08",
-      "count": 41340
+      "count": 41362
     },
     {
       "type": "v750",
-      "count": 41340
+      "count": 41362
     },
     {
       "type": "v751",
-      "count": 41340
+      "count": 41362
     },
     {
       "type": "v752",
-      "count": 41340
+      "count": 41362
     },
     {
       "type": "v753",
-      "count": 41340
+      "count": 41362
     },
     {
       "type": "Cloud",
-      "count": 41038
+      "count": 41060
     }
   ]
 }

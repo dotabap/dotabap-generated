@@ -1,7 +1,7 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T08:43:31.254Z",
+  "time": "2019-03-06T15:56:18.195Z",
   "totals": {
     "objects": 21,
     "files": 42,
@@ -50,6 +50,14 @@
     {
       "type": "definitions_top",
       "count": 32
+    },
+    {
+      "type": "double_space",
+      "count": 1
+    },
+    {
+      "type": "empty_line_in_statement",
+      "count": 2
     },
     {
       "type": "exit_or_check",
@@ -102,6 +110,10 @@
     {
       "type": "registry_add",
       "count": 1
+    },
+    {
+      "type": "remove_descriptions",
+      "count": 66
     },
     {
       "type": "start_at_tab",

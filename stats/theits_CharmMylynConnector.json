@@ -1,7 +1,7 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T10:02:53.675Z",
+  "time": "2019-03-06T17:10:50.702Z",
   "totals": {
     "objects": 39,
     "files": 56,
@@ -84,6 +84,10 @@
       "count": 16
     },
     {
+      "type": "remove_descriptions",
+      "count": 29
+    },
+    {
       "type": "sequential_blank",
       "count": 5
     },
@@ -94,6 +98,10 @@
     {
       "type": "superclass_final",
       "count": 1
+    },
+    {
+      "type": "tabl_enhancement_category",
+      "count": 9
     }
   ],
   "objectOrientation": {

@@ -1,12 +1,12 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T09:59:14.277Z",
+  "time": "2019-03-06T17:07:00.289Z",
   "totals": {
     "objects": 12,
     "files": 22,
     "statements": 14536,
-    "tokens": 74506
+    "tokens": 74508
   },
   "objects": [
     {
@@ -56,12 +56,24 @@
       "count": 28
     },
     {
+      "type": "double_space",
+      "count": 3
+    },
+    {
+      "type": "empty_line_in_statement",
+      "count": 10
+    },
+    {
       "type": "exit_or_check",
       "count": 108
     },
     {
       "type": "functional_writing",
       "count": 14
+    },
+    {
+      "type": "if_in_if",
+      "count": 6
     },
     {
       "type": "indentation",
@@ -112,6 +124,10 @@
       "count": 11
     },
     {
+      "type": "remove_descriptions",
+      "count": 21
+    },
+    {
       "type": "start_at_tab",
       "count": 2859
     },
@@ -122,6 +138,10 @@
     {
       "type": "superclass_final",
       "count": 6
+    },
+    {
+      "type": "unreachable_code",
+      "count": 25
     }
   ],
   "objectOrientation": {

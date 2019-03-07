@@ -1,7 +1,7 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T10:53:31.680Z",
+  "time": "2019-03-06T18:03:21.297Z",
   "totals": {
     "objects": 7,
     "files": 13,
@@ -44,6 +44,10 @@
       "count": 7
     },
     {
+      "type": "empty_line_in_statement",
+      "count": 11
+    },
+    {
       "type": "exporting",
       "count": 3
     },
@@ -73,7 +77,7 @@
     },
     {
       "type": "short_case",
-      "count": 4
+      "count": 3
     },
     {
       "type": "space_before_colon",

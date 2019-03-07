@@ -1,7 +1,7 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T09:42:59.266Z",
+  "time": "2019-03-06T16:50:27.078Z",
   "totals": {
     "objects": 5,
     "files": 10,
@@ -26,6 +26,10 @@
     {
       "type": "commented_code",
       "count": 7
+    },
+    {
+      "type": "empty_line_in_statement",
+      "count": 5
     },
     {
       "type": "exit_or_check",
@@ -57,7 +61,7 @@
     },
     {
       "type": "short_case",
-      "count": 2
+      "count": 1
     },
     {
       "type": "structure",

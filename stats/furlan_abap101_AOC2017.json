@@ -1,7 +1,7 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T09:58:07.684Z",
+  "time": "2019-03-06T17:05:48.436Z",
   "totals": {
     "objects": 8,
     "files": 16,
@@ -50,6 +50,10 @@
     {
       "type": "obsolete_statement",
       "count": 29
+    },
+    {
+      "type": "unreachable_code",
+      "count": 4
     }
   ],
   "objectOrientation": {

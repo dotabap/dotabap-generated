@@ -1,12 +1,12 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T10:46:09.099Z",
+  "time": "2019-03-06T17:55:50.840Z",
   "totals": {
     "objects": 7,
     "files": 13,
     "statements": 142,
-    "tokens": 1316
+    "tokens": 1318
   },
   "objects": [
     {
@@ -58,6 +58,10 @@
     {
       "type": "object_naming",
       "count": 5
+    },
+    {
+      "type": "remove_descriptions",
+      "count": 18
     }
   ],
   "objectOrientation": {

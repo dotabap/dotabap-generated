@@ -1,7 +1,7 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T10:48:02.518Z",
+  "time": "2019-03-06T17:57:48.683Z",
   "totals": {
     "objects": 43,
     "files": 92,
@@ -50,6 +50,14 @@
     {
       "type": "definitions_top",
       "count": 56
+    },
+    {
+      "type": "double_space",
+      "count": 17
+    },
+    {
+      "type": "empty_line_in_statement",
+      "count": 35
     },
     {
       "type": "empty_statement",
@@ -126,6 +134,10 @@
     {
       "type": "parser_error",
       "count": 1
+    },
+    {
+      "type": "remove_descriptions",
+      "count": 143
     },
     {
       "type": "sequential_blank",

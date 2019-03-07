@@ -1,7 +1,7 @@
 {
-  "version": "1.6.30",
+  "version": "1.6.38",
   "target": "v753",
-  "time": "2019-02-28T10:08:44.251Z",
+  "time": "2019-03-06T17:16:59.448Z",
   "totals": {
     "objects": 15,
     "files": 29,
@@ -26,6 +26,10 @@
     {
       "type": "class_attribute_names",
       "count": 50
+    },
+    {
+      "type": "double_space",
+      "count": 94
     },
     {
       "type": "indentation",
@@ -58,6 +62,10 @@
     {
       "type": "no_public_attributes",
       "count": 1
+    },
+    {
+      "type": "unreachable_code",
+      "count": 2
     }
   ],
   "objectOrientation": {
