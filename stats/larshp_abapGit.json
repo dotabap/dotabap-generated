@@ -1,12 +1,12 @@
 {
-  "version": "1.6.38",
+  "version": "1.6.39",
   "target": "v753",
-  "time": "2019-03-06T16:30:32.707Z",
+  "time": "2019-03-07T07:55:28.877Z",
   "totals": {
     "objects": 314,
     "files": 686,
-    "statements": 41362,
-    "tokens": 259969
+    "statements": 41331,
+    "tokens": 259790
   },
   "objects": [
     {
@@ -65,12 +65,12 @@
     }
   ],
   "objectOrientation": {
-    "oo": 38783,
+    "oo": 38752,
     "non": 151
   },
   "methodLength": [
     57,
-    781,
+    779,
     140,
     170,
     210,
@@ -81,7 +81,7 @@
     103,
     81,
     73,
-    63,
+    62,
     62,
     52,
     37,
@@ -92,9 +92,9 @@
     32,
     29,
     29,
-    25,
+    26,
     22,
-    19,
+    18,
     20,
     20,
     19,
@@ -112,12 +112,12 @@
     3,
     5,
     7,
-    5,
+    6,
     3,
     5,
     3,
     4,
-    6,
+    5,
     7,
     6,
     3,
@@ -189,7 +189,7 @@
     },
     {
       "type": "Call",
-      "count": 5073
+      "count": 5062
     },
     {
       "type": "CallFunction",
@@ -289,11 +289,11 @@
     },
     {
       "type": "CreateObject",
-      "count": 367
+      "count": 366
     },
     {
       "type": "Data",
-      "count": 4005
+      "count": 4004
     },
     {
       "type": "DataBegin",
@@ -329,7 +329,7 @@
     },
     {
       "type": "Else",
-      "count": 277
+      "count": 276
     },
     {
       "type": "ElseIf",
@@ -361,7 +361,7 @@
     },
     {
       "type": "EndIf",
-      "count": 1881
+      "count": 1879
     },
     {
       "type": "EndInterface",
@@ -373,7 +373,7 @@
     },
     {
       "type": "EndMethod",
-      "count": 2855
+      "count": 2852
     },
     {
       "type": "EndOfDefinition",
@@ -441,7 +441,7 @@
     },
     {
       "type": "If",
-      "count": 1881
+      "count": 1879
     },
     {
       "type": "Import",
@@ -509,11 +509,11 @@
     },
     {
       "type": "Method",
-      "count": 2855
+      "count": 2852
     },
     {
       "type": "MethodDef",
-      "count": 1902
+      "count": 1899
     },
     {
       "type": "ModifyDatabase",
@@ -525,7 +525,7 @@
     },
     {
       "type": "Move",
-      "count": 5568
+      "count": 5565
     },
     {
       "type": "Overlay",
@@ -653,7 +653,7 @@
     },
     {
       "type": "Type",
-      "count": 870
+      "count": 869
     },
     {
       "type": "TypeBegin",
@@ -691,43 +691,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 40358
+      "count": 40334
     },
     {
       "type": "v702",
-      "count": 41362
+      "count": 41331
     },
     {
       "type": "v740sp02",
-      "count": 41362
+      "count": 41331
     },
     {
       "type": "v740sp05",
-      "count": 41362
+      "count": 41331
     },
     {
       "type": "v740sp08",
-      "count": 41362
+      "count": 41331
     },
     {
       "type": "v750",
-      "count": 41362
+      "count": 41331
     },
     {
       "type": "v751",
-      "count": 41362
+      "count": 41331
     },
     {
       "type": "v752",
-      "count": 41362
+      "count": 41331
     },
     {
       "type": "v753",
-      "count": 41362
+      "count": 41331
     },
     {
       "type": "Cloud",
-      "count": 41060
+      "count": 41029
     }
   ]
 }

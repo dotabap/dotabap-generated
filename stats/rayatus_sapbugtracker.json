@@ -1,7 +1,7 @@
 {
-  "version": "1.6.38",
+  "version": "1.6.39",
   "target": "v753",
-  "time": "2019-03-06T15:58:53.651Z",
+  "time": "2019-03-07T07:25:36.604Z",
   "totals": {
     "objects": 356,
     "files": 566,
@@ -238,10 +238,6 @@
     {
       "type": "tabl_enhancement_category",
       "count": 52
-    },
-    {
-      "type": "unreachable_code",
-      "count": 1
     }
   ],
   "objectOrientation": {

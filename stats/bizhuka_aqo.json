@@ -1,7 +1,7 @@
 {
-  "version": "1.6.38",
+  "version": "1.6.39",
   "target": "v753",
-  "time": "2019-03-06T16:23:52.663Z",
+  "time": "2019-03-07T07:49:00.647Z",
   "totals": {
     "objects": 43,
     "files": 73,
@@ -154,10 +154,6 @@
     {
       "type": "superclass_final",
       "count": 3
-    },
-    {
-      "type": "unreachable_code",
-      "count": 1
     }
   ],
   "objectOrientation": {

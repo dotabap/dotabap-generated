@@ -1,17 +1,17 @@
 {
   "version": "1.6.39",
   "target": "v753",
-  "time": "2019-03-07T09:17:52.082Z",
+  "time": "2019-03-07T07:19:40.435Z",
   "totals": {
-    "objects": 6,
-    "files": 11,
-    "statements": 662,
-    "tokens": 3545
+    "objects": 4,
+    "files": 7,
+    "statements": 317,
+    "tokens": 1717
   },
   "objects": [
     {
       "type": "CLAS",
-      "count": 1
+      "count": 2
     },
     {
       "type": "DEVC",
@@ -19,103 +19,71 @@
     },
     {
       "type": "PROG",
-      "count": 4
+      "count": 1
     }
   ],
   "issues": [
     {
-      "type": "7bit_ascii",
-      "count": 40
-    },
-    {
       "type": "check_variables",
-      "count": 18
-    },
-    {
-      "type": "class_attribute_names",
-      "count": 9
-    },
-    {
-      "type": "colon_missing_space",
       "count": 4
     },
     {
       "type": "exporting",
+      "count": 3
+    },
+    {
+      "type": "keywords_upper",
       "count": 1
     },
     {
-      "type": "functional_writing",
-      "count": 8
-    },
-    {
       "type": "line_length",
-      "count": 3
+      "count": 1
     },
     {
       "type": "line_only_punc",
       "count": 1
     },
     {
-      "type": "local_variable_names",
-      "count": 4
+      "type": "obsolete_statement",
+      "count": 2
     },
     {
-      "type": "message_exists",
-      "count": 4
-    },
-    {
-      "type": "method_parameter_names",
-      "count": 3
-    },
-    {
-      "type": "no_public_attributes",
-      "count": 9
-    },
-    {
-      "type": "short_case",
+      "type": "parser_error",
       "count": 2
     }
   ],
   "objectOrientation": {
-    "oo": 398,
-    "non": 109
+    "oo": 273,
+    "non": 18
   },
   "methodLength": [
     0,
-    20,
     4,
     0,
-    4,
-    3,
+    0,
+    1,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
     2,
-    1,
-    0,
-    2,
-    0,
-    0,
-    0,
-    1,
-    1,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     1,
     0,
     0,
     0,
     0,
-    0,
-    0,
-    0,
+    1,
     0,
     0,
     0,
@@ -141,152 +109,156 @@
   ],
   "statementTypes": [
     {
-      "type": "Aliases",
-      "count": 7
+      "type": "Append",
+      "count": 5
     },
     {
-      "type": "Append",
-      "count": 3
+      "type": "Assign",
+      "count": 10
     },
     {
       "type": "Call",
-      "count": 79
+      "count": 12
     },
     {
-      "type": "CallTransaction",
+      "type": "CallFunction",
       "count": 2
-    },
-    {
-      "type": "Case",
-      "count": 3
     },
     {
       "type": "Catch",
-      "count": 11
-    },
-    {
-      "type": "ClassData",
-      "count": 8
+      "count": 4
     },
     {
       "type": "ClassDefinition",
-      "count": 2
-    },
-    {
-      "type": "ClassImplementation",
-      "count": 2
-    },
-    {
-      "type": "Comment",
-      "count": 155
-    },
-    {
-      "type": "Data",
-      "count": 36
-    },
-    {
-      "type": "Else",
-      "count": 8
-    },
-    {
-      "type": "EndCase",
       "count": 3
     },
     {
-      "type": "EndClass",
+      "type": "ClassImplementation",
+      "count": 3
+    },
+    {
+      "type": "Comment",
+      "count": 26
+    },
+    {
+      "type": "Continue",
       "count": 4
     },
     {
-      "type": "EndIf",
-      "count": 35
+      "type": "CreateData",
+      "count": 3
     },
     {
-      "type": "EndLoop",
-      "count": 1
+      "type": "Data",
+      "count": 23
     },
     {
-      "type": "EndMethod",
-      "count": 41
-    },
-    {
-      "type": "EndOfSelection",
-      "count": 4
-    },
-    {
-      "type": "EndTry",
-      "count": 8
-    },
-    {
-      "type": "If",
-      "count": 35
-    },
-    {
-      "type": "InterfaceDef",
-      "count": 5
-    },
-    {
-      "type": "Loop",
-      "count": 1
-    },
-    {
-      "type": "Message",
-      "count": 5
-    },
-    {
-      "type": "Method",
-      "count": 41
-    },
-    {
-      "type": "MethodDef",
-      "count": 41
-    },
-    {
-      "type": "Move",
-      "count": 47
-    },
-    {
-      "type": "Private",
-      "count": 1
-    },
-    {
-      "type": "Protected",
-      "count": 1
-    },
-    {
-      "type": "Public",
-      "count": 2
-    },
-    {
-      "type": "Raise",
-      "count": 1
-    },
-    {
-      "type": "RaiseEvent",
+      "type": "Else",
       "count": 7
     },
     {
-      "type": "Report",
+      "type": "ElseIf",
+      "count": 1
+    },
+    {
+      "type": "EndClass",
+      "count": 6
+    },
+    {
+      "type": "EndIf",
+      "count": 22
+    },
+    {
+      "type": "EndLoop",
       "count": 4
+    },
+    {
+      "type": "EndMethod",
+      "count": 15
+    },
+    {
+      "type": "EndTry",
+      "count": 4
+    },
+    {
+      "type": "If",
+      "count": 22
+    },
+    {
+      "type": "Initialization",
+      "count": 1
+    },
+    {
+      "type": "InsertInternal",
+      "count": 4
+    },
+    {
+      "type": "Loop",
+      "count": 4
+    },
+    {
+      "type": "Method",
+      "count": 15
+    },
+    {
+      "type": "MethodDef",
+      "count": 15
+    },
+    {
+      "type": "Move",
+      "count": 41
+    },
+    {
+      "type": "Parameter",
+      "count": 1
+    },
+    {
+      "type": "Private",
+      "count": 3
+    },
+    {
+      "type": "Protected",
+      "count": 2
+    },
+    {
+      "type": "Public",
+      "count": 3
+    },
+    {
+      "type": "Report",
+      "count": 1
+    },
+    {
+      "type": "Retry",
+      "count": 2
+    },
+    {
+      "type": "Return",
+      "count": 16
     },
     {
       "type": "Select",
-      "count": 4
+      "count": 1
     },
     {
-      "type": "SetHandler",
-      "count": 9
+      "type": "SelectOption",
+      "count": 2
+    },
+    {
+      "type": "Sort",
+      "count": 2
     },
     {
       "type": "StartOfSelection",
-      "count": 4
+      "count": 1
     },
     {
       "type": "Try",
-      "count": 8
+      "count": 4
     },
     {
       "type": "Type",
-      "count": 19
+      "count": 11
     },
     {
       "type": "TypeBegin",
@@ -297,54 +269,54 @@
       "count": 2
     },
     {
-      "type": "When",
-      "count": 7
+      "type": "Unknown",
+      "count": 2
     },
     {
       "type": "Write",
-      "count": 4
+      "count": 6
     }
   ],
   "statements": [
     {
       "type": "v700",
-      "count": 646
+      "count": 291
     },
     {
       "type": "v702",
-      "count": 647
+      "count": 292
     },
     {
       "type": "v740sp02",
-      "count": 658
+      "count": 312
     },
     {
       "type": "v740sp05",
-      "count": 662
+      "count": 313
     },
     {
       "type": "v740sp08",
-      "count": 662
+      "count": 315
     },
     {
       "type": "v750",
-      "count": 662
+      "count": 315
     },
     {
       "type": "v751",
-      "count": 662
+      "count": 315
     },
     {
       "type": "v752",
-      "count": 662
+      "count": 315
     },
     {
       "type": "v753",
-      "count": 662
+      "count": 315
     },
     {
       "type": "Cloud",
-      "count": 643
+      "count": 301
     }
   ]
 }
