@@ -1,12 +1,12 @@
 {
-  "version": "1.6.39",
+  "version": "1.6.40",
   "target": "v753",
-  "time": "2019-03-07T09:07:37.239Z",
+  "time": "2019-03-19T10:03:08.164Z",
   "totals": {
     "objects": 11,
     "files": 28,
-    "statements": 1854,
-    "tokens": 11525
+    "statements": 1935,
+    "tokens": 11983
   },
   "objects": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "type": "definitions_top",
-      "count": 6
+      "count": 7
     },
     {
       "type": "empty_line_in_statement",
@@ -57,7 +57,7 @@
     },
     {
       "type": "indentation",
-      "count": 7
+      "count": 8
     },
     {
       "type": "keywords_upper",
@@ -73,7 +73,7 @@
     },
     {
       "type": "local_variable_names",
-      "count": 58
+      "count": 59
     },
     {
       "type": "max_one_statement",
@@ -93,7 +93,7 @@
     }
   ],
   "objectOrientation": {
-    "oo": 1591,
+    "oo": 1668,
     "non": 72
   },
   "methodLength": [
@@ -120,23 +120,23 @@
     0,
     1,
     2,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    1,
+    2,
+    0,
+    1,
+    1,
+    0,
     2,
     1,
-    1,
-    0,
-    0,
-    0,
-    1,
-    0,
-    1,
-    1,
-    2,
-    0,
-    1,
-    0,
-    0,
-    1,
-    1,
     0,
     1,
     0,
@@ -149,7 +149,7 @@
     0,
     0,
     1,
-    1,
+    0,
     0,
     1,
     0,
@@ -172,7 +172,7 @@
     0,
     0,
     0,
-    0,
+    1,
     0,
     0,
     0,
@@ -193,7 +193,7 @@
     },
     {
       "type": "Append",
-      "count": 85
+      "count": 99
     },
     {
       "type": "Assert",
@@ -205,7 +205,7 @@
     },
     {
       "type": "Call",
-      "count": 144
+      "count": 153
     },
     {
       "type": "Case",
@@ -213,7 +213,7 @@
     },
     {
       "type": "Catch",
-      "count": 29
+      "count": 32
     },
     {
       "type": "ClassData",
@@ -229,11 +229,11 @@
     },
     {
       "type": "Clear",
-      "count": 23
+      "count": 28
     },
     {
       "type": "Comment",
-      "count": 191
+      "count": 195
     },
     {
       "type": "Concatenate",
@@ -265,11 +265,11 @@
     },
     {
       "type": "CreateObject",
-      "count": 17
+      "count": 19
     },
     {
       "type": "Data",
-      "count": 160
+      "count": 172
     },
     {
       "type": "Define",
@@ -289,11 +289,11 @@
     },
     {
       "type": "Else",
-      "count": 14
+      "count": 15
     },
     {
       "type": "ElseIf",
-      "count": 5
+      "count": 6
     },
     {
       "type": "EndCase",
@@ -309,7 +309,7 @@
     },
     {
       "type": "EndIf",
-      "count": 60
+      "count": 65
     },
     {
       "type": "EndInterface",
@@ -321,7 +321,7 @@
     },
     {
       "type": "EndMethod",
-      "count": 60
+      "count": 61
     },
     {
       "type": "EndOfDefinition",
@@ -329,7 +329,7 @@
     },
     {
       "type": "EndTry",
-      "count": 29
+      "count": 32
     },
     {
       "type": "Exit",
@@ -345,7 +345,7 @@
     },
     {
       "type": "GetReference",
-      "count": 12
+      "count": 13
     },
     {
       "type": "GetTime",
@@ -353,7 +353,7 @@
     },
     {
       "type": "If",
-      "count": 60
+      "count": 65
     },
     {
       "type": "Include",
@@ -385,15 +385,15 @@
     },
     {
       "type": "Method",
-      "count": 60
+      "count": 61
     },
     {
       "type": "MethodDef",
-      "count": 60
+      "count": 61
     },
     {
       "type": "Move",
-      "count": 231
+      "count": 241
     },
     {
       "type": "Private",
@@ -437,7 +437,7 @@
     },
     {
       "type": "Try",
-      "count": 29
+      "count": 32
     },
     {
       "type": "Type",
@@ -471,43 +471,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 1826
+      "count": 1906
     },
     {
       "type": "v702",
-      "count": 1854
+      "count": 1935
     },
     {
       "type": "v740sp02",
-      "count": 1854
+      "count": 1935
     },
     {
       "type": "v740sp05",
-      "count": 1854
+      "count": 1935
     },
     {
       "type": "v740sp08",
-      "count": 1854
+      "count": 1935
     },
     {
       "type": "v750",
-      "count": 1854
+      "count": 1935
     },
     {
       "type": "v751",
-      "count": 1854
+      "count": 1935
     },
     {
       "type": "v752",
-      "count": 1854
+      "count": 1935
     },
     {
       "type": "v753",
-      "count": 1854
+      "count": 1935
     },
     {
       "type": "Cloud",
-      "count": 1788
+      "count": 1869
     }
   ]
 }

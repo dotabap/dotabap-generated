@@ -1,12 +1,12 @@
 {
-  "version": "1.6.39",
+  "version": "1.6.40",
   "target": "v753",
-  "time": "2019-03-07T09:12:53.686Z",
+  "time": "2019-03-19T10:08:47.182Z",
   "totals": {
     "objects": 53,
-    "files": 123,
-    "statements": 4108,
-    "tokens": 28317
+    "files": 125,
+    "statements": 4434,
+    "tokens": 31833
   },
   "objects": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "type": "empty_line_in_statement",
-      "count": 196
+      "count": 198
     },
     {
       "type": "exit_or_check",
@@ -73,7 +73,7 @@
     },
     {
       "type": "local_class_naming",
-      "count": 27
+      "count": 29
     },
     {
       "type": "local_variable_names",
@@ -105,28 +105,28 @@
     }
   ],
   "objectOrientation": {
-    "oo": 3245,
+    "oo": 3497,
     "non": 222
   },
   "methodLength": [
-    3,
-    96,
+    2,
+    97,
     47,
-    22,
-    28,
+    25,
+    31,
     17,
-    34,
+    36,
     10,
+    11,
+    8,
     9,
-    8,
-    8,
     7,
-    4,
+    6,
     1,
     4,
     0,
     6,
-    1,
+    7,
     3,
     4,
     1,
@@ -183,7 +183,7 @@
     },
     {
       "type": "Call",
-      "count": 533
+      "count": 686
     },
     {
       "type": "CallFunction",
@@ -211,11 +211,11 @@
     },
     {
       "type": "ClassDefinition",
-      "count": 61
+      "count": 63
     },
     {
       "type": "ClassImplementation",
-      "count": 61
+      "count": 63
     },
     {
       "type": "Clear",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Comment",
-      "count": 641
+      "count": 715
     },
     {
       "type": "Concatenate",
@@ -275,7 +275,7 @@
     },
     {
       "type": "EndClass",
-      "count": 122
+      "count": 126
     },
     {
       "type": "EndDo",
@@ -291,11 +291,11 @@
     },
     {
       "type": "EndLoop",
-      "count": 6
+      "count": 7
     },
     {
       "type": "EndMethod",
-      "count": 326
+      "count": 345
     },
     {
       "type": "EndModule",
@@ -335,7 +335,7 @@
     },
     {
       "type": "Loop",
-      "count": 6
+      "count": 7
     },
     {
       "type": "MacroCall",
@@ -347,11 +347,11 @@
     },
     {
       "type": "Method",
-      "count": 326
+      "count": 345
     },
     {
       "type": "MethodDef",
-      "count": 330
+      "count": 349
     },
     {
       "type": "Module",
@@ -359,7 +359,7 @@
     },
     {
       "type": "Move",
-      "count": 838
+      "count": 869
     },
     {
       "type": "Multiply",
@@ -371,11 +371,11 @@
     },
     {
       "type": "Private",
-      "count": 41
+      "count": 42
     },
     {
       "type": "Protected",
-      "count": 18
+      "count": 17
     },
     {
       "type": "Public",
@@ -403,7 +403,7 @@
     },
     {
       "type": "Type",
-      "count": 9
+      "count": 10
     },
     {
       "type": "TypeBegin",
@@ -433,43 +433,43 @@
   "statements": [
     {
       "type": "v700",
-      "count": 3813
+      "count": 4031
     },
     {
       "type": "v702",
-      "count": 3821
+      "count": 4039
     },
     {
       "type": "v740sp02",
-      "count": 4103
+      "count": 4429
     },
     {
       "type": "v740sp05",
-      "count": 4108
+      "count": 4434
     },
     {
       "type": "v740sp08",
-      "count": 4108
+      "count": 4434
     },
     {
       "type": "v750",
-      "count": 4108
+      "count": 4434
     },
     {
       "type": "v751",
-      "count": 4108
+      "count": 4434
     },
     {
       "type": "v752",
-      "count": 4108
+      "count": 4434
     },
     {
       "type": "v753",
-      "count": 4108
+      "count": 4434
     },
     {
       "type": "Cloud",
-      "count": 3987
+      "count": 4358
     }
   ]
 }

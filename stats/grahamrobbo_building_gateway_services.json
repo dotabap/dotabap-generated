@@ -1,10 +1,10 @@
 {
-  "version": "1.6.39",
+  "version": "1.6.40",
   "target": "v753",
-  "time": "2019-03-07T08:38:49.279Z",
+  "time": "2019-03-19T09:35:34.206Z",
   "totals": {
-    "objects": 24,
-    "files": 41,
+    "objects": 25,
+    "files": 42,
     "statements": 1779,
     "tokens": 10972
   },
@@ -12,6 +12,10 @@
     {
       "type": "CLAS",
       "count": 13
+    },
+    {
+      "type": "DEVC",
+      "count": 1
     },
     {
       "type": "DTEL",
@@ -488,7 +492,7 @@
     },
     {
       "type": "Cloud",
-      "count": 1724
+      "count": 1776
     }
   ]
 }
