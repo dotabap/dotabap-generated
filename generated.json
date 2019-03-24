@@ -4234,7 +4234,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "open_issues_count": 0,
@@ -4245,7 +4245,7 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
    },
-   "forks": 2,
+   "forks": 3,
    "open_issues": 0,
    "watchers": 15,
    "default_branch": "master",
@@ -4274,7 +4274,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 2,
+   "network_count": 3,
    "subscribers_count": 12
   }
  },
@@ -5669,16 +5669,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-03-22T12:50:50Z",
-   "pushed_at": "2019-03-23T00:05:44Z",
+   "updated_at": "2019-03-24T20:13:15Z",
+   "pushed_at": "2019-03-24T09:59:23Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
    "size": 10718,
-   "stargazers_count": 488,
-   "watchers_count": 488,
+   "stargazers_count": 489,
+   "watchers_count": 489,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -5688,7 +5688,7 @@
    "forks_count": 202,
    "mirror_url": null,
    "archived": false,
-   "open_issues_count": 175,
+   "open_issues_count": 176,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5697,8 +5697,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 202,
-   "open_issues": 175,
-   "watchers": 488,
+   "open_issues": 176,
+   "watchers": 489,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -9412,7 +9412,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 37910,
+  "lines": 38600,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -9423,7 +9423,7 @@
   ],
   "parsing": {
    "version": "1.6.40",
-   "cloud": 2348
+   "cloud": 2359
   },
   "repo": {
    "id": 21558384,
@@ -9492,8 +9492,8 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-03-22T09:03:00Z",
-   "pushed_at": "2019-03-22T09:03:01Z",
+   "updated_at": "2019-03-24T11:50:46Z",
+   "pushed_at": "2019-03-24T11:50:45Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
