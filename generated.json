@@ -237,7 +237,7 @@
   }
  },
  "tricktresor/gladius": {
-  "lines": 972,
+  "lines": 964,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
@@ -318,14 +318,14 @@
    "releases_url": "https://api.github.com/repos/tricktresor/gladius/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/gladius/deployments",
    "created_at": "2017-06-28T22:25:27Z",
-   "updated_at": "2018-10-17T14:37:22Z",
-   "pushed_at": "2018-09-04T19:56:00Z",
+   "updated_at": "2019-04-30T15:18:52Z",
+   "pushed_at": "2019-04-30T15:18:50Z",
    "git_url": "git://github.com/tricktresor/gladius.git",
    "ssh_url": "git@github.com:tricktresor/gladius.git",
    "clone_url": "https://github.com/tricktresor/gladius.git",
    "svn_url": "https://github.com/tricktresor/gladius",
    "homepage": null,
-   "size": 46,
+   "size": 47,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -1591,7 +1591,7 @@
     "site_admin": false
    },
    "network_count": 0,
-   "subscribers_count": 6
+   "subscribers_count": 7
   }
  },
  "INVIXO/PigeonX": {
@@ -1869,7 +1869,7 @@
     "site_admin": false
    },
    "network_count": 0,
-   "subscribers_count": 6
+   "subscribers_count": 7
   }
  },
  "rulerunner/rulerunner4ABAP": {
@@ -4294,7 +4294,7 @@
     "site_admin": false
    },
    "network_count": 4,
-   "subscribers_count": 7
+   "subscribers_count": 8
   }
  },
  "MDJoerg/MQBA": {
@@ -4559,7 +4559,7 @@
     "site_admin": false
    },
    "network_count": 4,
-   "subscribers_count": 12
+   "subscribers_count": 13
   }
  },
  "cesar-sap/abap_fm_json": {
@@ -5614,11 +5614,11 @@
   }
  },
  "bizhuka/aqo": {
-  "lines": 7627,
+  "lines": 7838,
   "startingFolder": "/src/",
   "parsing": {
    "version": "1.6.44",
-   "cloud": 385
+   "cloud": 386
   },
   "repo": {
    "id": 125153122,
@@ -5687,14 +5687,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/aqo/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/aqo/deployments",
    "created_at": "2018-03-14T04:02:03Z",
-   "updated_at": "2019-04-27T11:28:15Z",
-   "pushed_at": "2019-04-27T11:28:13Z",
+   "updated_at": "2019-04-30T13:24:37Z",
+   "pushed_at": "2019-04-30T13:24:35Z",
    "git_url": "git://github.com/bizhuka/aqo.git",
    "ssh_url": "git@github.com:bizhuka/aqo.git",
    "clone_url": "https://github.com/bizhuka/aqo.git",
    "svn_url": "https://github.com/bizhuka/aqo",
    "homepage": "",
-   "size": 2995,
+   "size": 3056,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -5949,14 +5949,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-04-28T08:44:43Z",
-   "pushed_at": "2019-04-28T14:25:32Z",
+   "updated_at": "2019-04-30T05:36:29Z",
+   "pushed_at": "2019-04-30T05:36:27Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 11029,
+   "size": 11033,
    "stargazers_count": 516,
    "watchers_count": 516,
    "language": "ABAP",
@@ -5987,7 +5987,7 @@
     "pull": true
    },
    "network_count": 207,
-   "subscribers_count": 94
+   "subscribers_count": 95
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -7543,7 +7543,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-04-27T15:11:04Z",
+   "updated_at": "2019-04-30T06:04:17Z",
    "pushed_at": "2019-04-26T13:38:55Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -7551,15 +7551,15 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 24711,
-   "stargazers_count": 206,
-   "watchers_count": 206,
+   "stargazers_count": 207,
+   "watchers_count": 207,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 112,
+   "forks_count": 113,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -7571,9 +7571,9 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 112,
+   "forks": 113,
    "open_issues": 88,
-   "watchers": 206,
+   "watchers": 207,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7600,7 +7600,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 112,
+   "network_count": 113,
    "subscribers_count": 66
   }
  },
