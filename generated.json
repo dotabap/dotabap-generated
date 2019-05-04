@@ -700,7 +700,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 6,
+   "forks_count": 7,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -712,7 +712,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 6,
+   "forks": 7,
    "open_issues": 1,
    "watchers": 20,
    "default_branch": "master",
@@ -721,7 +721,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 6,
+   "network_count": 7,
    "subscribers_count": 8
   }
  },
@@ -1092,11 +1092,11 @@
   }
  },
  "MDJoerg/adele": {
-  "lines": 1962,
+  "lines": 2021,
   "startingFolder": "/src/",
   "parsing": {
    "version": "1.6.44",
-   "cloud": 364
+   "cloud": 380
   },
   "repo": {
    "id": 182349838,
@@ -1165,14 +1165,14 @@
    "releases_url": "https://api.github.com/repos/MDJoerg/adele/releases{/id}",
    "deployments_url": "https://api.github.com/repos/MDJoerg/adele/deployments",
    "created_at": "2019-04-20T02:25:25Z",
-   "updated_at": "2019-04-20T03:25:14Z",
-   "pushed_at": "2019-04-20T03:25:13Z",
+   "updated_at": "2019-05-04T13:19:06Z",
+   "pushed_at": "2019-05-04T13:19:04Z",
    "git_url": "git://github.com/MDJoerg/adele.git",
    "ssh_url": "git@github.com:MDJoerg/adele.git",
    "clone_url": "https://github.com/MDJoerg/adele.git",
    "svn_url": "https://github.com/MDJoerg/adele",
    "homepage": "https://sourceforge.net/projects/adele/",
-   "size": 34,
+   "size": 37,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -9803,7 +9803,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-05-02T12:50:32Z",
+   "updated_at": "2019-05-04T15:28:56Z",
    "pushed_at": "2019-05-02T12:50:30Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -9811,8 +9811,8 @@
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "http://abapopenchecks.org",
    "size": 1677,
-   "stargazers_count": 78,
-   "watchers_count": 78,
+   "stargazers_count": 79,
+   "watchers_count": 79,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -9833,7 +9833,7 @@
    },
    "forks": 23,
    "open_issues": 279,
-   "watchers": 78,
+   "watchers": 79,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -10164,7 +10164,7 @@
    "releases_url": "https://api.github.com/repos/larshp/upDOWNci/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/upDOWNci/deployments",
    "created_at": "2015-07-29T18:19:17Z",
-   "updated_at": "2019-04-17T06:26:05Z",
+   "updated_at": "2019-05-04T15:28:59Z",
    "pushed_at": "2019-04-17T06:26:04Z",
    "git_url": "git://github.com/larshp/upDOWNci.git",
    "ssh_url": "git@github.com:larshp/upDOWNci.git",
@@ -10172,8 +10172,8 @@
    "svn_url": "https://github.com/larshp/upDOWNci",
    "homepage": "",
    "size": 89,
-   "stargazers_count": 6,
-   "watchers_count": 6,
+   "stargazers_count": 7,
+   "watchers_count": 7,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10194,7 +10194,7 @@
    },
    "forks": 3,
    "open_issues": 7,
-   "watchers": 6,
+   "watchers": 7,
    "default_branch": "master",
    "permissions": {
     "admin": true,
