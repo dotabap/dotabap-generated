@@ -2742,7 +2742,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -2754,7 +2754,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 0,
+   "forks": 1,
    "open_issues": 0,
    "watchers": 0,
    "default_branch": "master",
@@ -2783,7 +2783,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 1
   }
  },
@@ -5969,7 +5969,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 179,
+   "open_issues_count": 180,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5978,7 +5978,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 208,
-   "open_issues": 179,
+   "open_issues": 180,
    "watchers": 522,
    "default_branch": "master",
    "permissions": {
@@ -6559,7 +6559,7 @@
    "releases_url": "https://api.github.com/repos/cesar-sap/abap_kafka_rest_proxy/releases{/id}",
    "deployments_url": "https://api.github.com/repos/cesar-sap/abap_kafka_rest_proxy/deployments",
    "created_at": "2018-02-03T00:15:18Z",
-   "updated_at": "2018-12-03T09:32:34Z",
+   "updated_at": "2019-05-10T19:44:05Z",
    "pushed_at": "2019-01-05T09:54:15Z",
    "git_url": "git://github.com/cesar-sap/abap_kafka_rest_proxy.git",
    "ssh_url": "git@github.com:cesar-sap/abap_kafka_rest_proxy.git",
@@ -6567,8 +6567,8 @@
    "svn_url": "https://github.com/cesar-sap/abap_kafka_rest_proxy",
    "homepage": null,
    "size": 30,
-   "stargazers_count": 0,
-   "watchers_count": 0,
+   "stargazers_count": 1,
+   "watchers_count": 1,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -6589,7 +6589,7 @@
    },
    "forks": 1,
    "open_issues": 1,
-   "watchers": 0,
+   "watchers": 1,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -12739,7 +12739,7 @@
    "releases_url": "https://api.github.com/repos/abapinho/abaK/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abaK/deployments",
    "created_at": "2019-01-31T18:54:18Z",
-   "updated_at": "2019-05-08T11:18:51Z",
+   "updated_at": "2019-05-10T16:10:40Z",
    "pushed_at": "2019-04-23T08:48:05Z",
    "git_url": "git://github.com/abapinho/abaK.git",
    "ssh_url": "git@github.com:abapinho/abaK.git",
@@ -12747,8 +12747,8 @@
    "svn_url": "https://github.com/abapinho/abaK",
    "homepage": "",
    "size": 200,
-   "stargazers_count": 8,
-   "watchers_count": 8,
+   "stargazers_count": 9,
+   "watchers_count": 9,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -12769,7 +12769,7 @@
    },
    "forks": 2,
    "open_issues": 10,
-   "watchers": 8,
+   "watchers": 9,
    "default_branch": "master",
    "permissions": {
     "admin": false,
