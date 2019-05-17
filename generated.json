@@ -195,7 +195,7 @@
    "releases_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2019-05-15T02:27:31Z",
+   "updated_at": "2019-05-17T14:01:00Z",
    "pushed_at": "2019-05-07T05:59:38Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
@@ -203,8 +203,8 @@
    "svn_url": "https://github.com/epeterson320/ABAP-Logger",
    "homepage": null,
    "size": 154,
-   "stargazers_count": 116,
-   "watchers_count": 116,
+   "stargazers_count": 117,
+   "watchers_count": 117,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -225,7 +225,7 @@
    },
    "forks": 31,
    "open_issues": 9,
-   "watchers": 116,
+   "watchers": 117,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1595,7 +1595,7 @@
   }
  },
  "INVIXO/PigeonX": {
-  "lines": 4047,
+  "lines": 4302,
   "startingFolder": "/src/",
   "parsing": {
    "version": "1.7.0",
@@ -1668,14 +1668,14 @@
    "releases_url": "https://api.github.com/repos/INVIXO/PigeonX/releases{/id}",
    "deployments_url": "https://api.github.com/repos/INVIXO/PigeonX/deployments",
    "created_at": "2019-03-10T10:17:02Z",
-   "updated_at": "2019-05-05T17:56:00Z",
-   "pushed_at": "2019-05-05T18:43:15Z",
+   "updated_at": "2019-05-17T07:46:24Z",
+   "pushed_at": "2019-05-17T07:46:28Z",
    "git_url": "git://github.com/INVIXO/PigeonX.git",
    "ssh_url": "git@github.com:INVIXO/PigeonX.git",
    "clone_url": "https://github.com/INVIXO/PigeonX.git",
    "svn_url": "https://github.com/INVIXO/PigeonX",
    "homepage": "https://pigeonx.invixo.com",
-   "size": 200,
+   "size": 202,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -1688,7 +1688,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 32,
+   "open_issues_count": 31,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1697,7 +1697,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 0,
-   "open_issues": 32,
+   "open_issues": 31,
    "watchers": 3,
    "default_branch": "master",
    "permissions": {
@@ -3643,7 +3643,7 @@
   }
  },
  "SAP2Moose/SAP2Moose": {
-  "lines": 22818,
+  "lines": 22816,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -3727,14 +3727,14 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2019-04-02T09:23:42Z",
-   "pushed_at": "2019-04-02T09:23:40Z",
+   "updated_at": "2019-05-17T16:47:18Z",
+   "pushed_at": "2019-05-17T16:47:16Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
    "clone_url": "https://github.com/SAP2Moose/SAP2Moose.git",
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
-   "size": 4206,
+   "size": 4211,
    "stargazers_count": 22,
    "watchers_count": 22,
    "language": "ABAP",
@@ -5864,7 +5864,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 82821,
+  "lines": 82897,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -5949,14 +5949,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-05-16T14:56:59Z",
-   "pushed_at": "2019-05-16T17:25:49Z",
+   "updated_at": "2019-05-17T06:20:26Z",
+   "pushed_at": "2019-05-17T16:04:11Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "http://www.abapgit.org",
-   "size": 11094,
+   "size": 11116,
    "stargazers_count": 526,
    "watchers_count": 526,
    "language": "ABAP",
@@ -5969,7 +5969,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 194,
+   "open_issues_count": 192,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5978,7 +5978,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 208,
-   "open_issues": 194,
+   "open_issues": 192,
    "watchers": 526,
    "default_branch": "master",
    "permissions": {
@@ -5987,7 +5987,7 @@
     "pull": true
    },
    "network_count": 208,
-   "subscribers_count": 96
+   "subscribers_count": 97
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -12759,7 +12759,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 10,
+   "open_issues_count": 11,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -12768,7 +12768,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 10,
+   "open_issues": 11,
    "watchers": 11,
    "default_branch": "master",
    "permissions": {
