@@ -5871,7 +5871,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 83377,
+  "lines": 83477,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -5887,7 +5887,7 @@
   ],
   "parsing": {
    "version": "1.7.0",
-   "cloud": 718
+   "cloud": 719
   },
   "repo": {
    "id": 21115149,
@@ -5956,14 +5956,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-06-06T16:50:43Z",
-   "pushed_at": "2019-06-07T08:07:22Z",
+   "updated_at": "2019-06-07T18:19:31Z",
+   "pushed_at": "2019-06-07T19:57:58Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11153,
+   "size": 11167,
    "stargazers_count": 536,
    "watchers_count": 536,
    "language": "ABAP",
@@ -5976,7 +5976,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 204,
+   "open_issues_count": 202,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5985,7 +5985,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 211,
-   "open_issues": 204,
+   "open_issues": 202,
    "watchers": 536,
    "default_branch": "master",
    "permissions": {
@@ -10415,7 +10415,7 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Swagger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
-   "updated_at": "2019-06-03T14:32:43Z",
+   "updated_at": "2019-06-07T10:29:22Z",
    "pushed_at": "2019-06-03T14:32:41Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
@@ -10423,8 +10423,8 @@
    "svn_url": "https://github.com/larshp/ABAP-Swagger",
    "homepage": "",
    "size": 95,
-   "stargazers_count": 37,
-   "watchers_count": 37,
+   "stargazers_count": 36,
+   "watchers_count": 36,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10445,7 +10445,7 @@
    },
    "forks": 15,
    "open_issues": 14,
-   "watchers": 37,
+   "watchers": 36,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -12034,7 +12034,7 @@
   }
  },
  "pixelbaker/ABAP-RayTracer": {
-  "lines": 8529,
+  "lines": 8835,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -12115,14 +12115,14 @@
    "releases_url": "https://api.github.com/repos/pixelbaker/ABAP-RayTracer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pixelbaker/ABAP-RayTracer/deployments",
    "created_at": "2017-08-18T11:54:04Z",
-   "updated_at": "2019-05-31T22:12:17Z",
-   "pushed_at": "2019-05-31T22:12:15Z",
+   "updated_at": "2019-06-07T18:27:33Z",
+   "pushed_at": "2019-06-07T18:27:32Z",
    "git_url": "git://github.com/pixelbaker/ABAP-RayTracer.git",
    "ssh_url": "git@github.com:pixelbaker/ABAP-RayTracer.git",
    "clone_url": "https://github.com/pixelbaker/ABAP-RayTracer.git",
    "svn_url": "https://github.com/pixelbaker/ABAP-RayTracer",
    "homepage": null,
-   "size": 1936,
+   "size": 1958,
    "stargazers_count": 18,
    "watchers_count": 18,
    "language": "ABAP",
