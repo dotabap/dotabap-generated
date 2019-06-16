@@ -211,7 +211,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 31,
+   "forks_count": 32,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -223,7 +223,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 31,
+   "forks": 32,
    "open_issues": 7,
    "watchers": 118,
    "default_branch": "master",
@@ -232,7 +232,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 31,
+   "network_count": 32,
    "subscribers_count": 29
   }
  },
@@ -5384,7 +5384,7 @@
   }
  },
  "bizhuka/xtt": {
-  "lines": 7327,
+  "lines": 7352,
   "startingFolder": "/src/",
   "parsing": {
    "version": "1.7.0",
@@ -5457,14 +5457,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/xtt/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/xtt/deployments",
    "created_at": "2018-02-08T06:31:13Z",
-   "updated_at": "2019-05-21T17:04:59Z",
-   "pushed_at": "2019-04-27T11:25:37Z",
+   "updated_at": "2019-06-15T13:27:52Z",
+   "pushed_at": "2019-06-15T13:27:50Z",
    "git_url": "git://github.com/bizhuka/xtt.git",
    "ssh_url": "git@github.com:bizhuka/xtt.git",
    "clone_url": "https://github.com/bizhuka/xtt.git",
    "svn_url": "https://github.com/bizhuka/xtt",
    "homepage": null,
-   "size": 584,
+   "size": 595,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -5871,7 +5871,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 83862,
+  "lines": 83882,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -5887,7 +5887,7 @@
   ],
   "parsing": {
    "version": "1.7.0",
-   "cloud": 719
+   "cloud": 720
   },
   "repo": {
    "id": 21115149,
@@ -5956,27 +5956,27 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-06-13T14:00:30Z",
-   "pushed_at": "2019-06-13T19:52:26Z",
+   "updated_at": "2019-06-16T11:53:41Z",
+   "pushed_at": "2019-06-16T11:53:41Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11195,
-   "stargazers_count": 539,
-   "watchers_count": 539,
+   "size": 11180,
+   "stargazers_count": 542,
+   "watchers_count": 542,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 214,
+   "forks_count": 216,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 201,
+   "open_issues_count": 199,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5984,17 +5984,17 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 214,
-   "open_issues": 201,
-   "watchers": 539,
+   "forks": 216,
+   "open_issues": 199,
+   "watchers": 542,
    "default_branch": "master",
    "permissions": {
     "admin": true,
     "push": true,
     "pull": true
    },
-   "network_count": 214,
-   "subscribers_count": 95
+   "network_count": 216,
+   "subscribers_count": 96
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -7550,7 +7550,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-06-12T09:27:18Z",
+   "updated_at": "2019-06-14T06:36:37Z",
    "pushed_at": "2019-04-26T13:38:55Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -7558,8 +7558,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 24711,
-   "stargazers_count": 211,
-   "watchers_count": 211,
+   "stargazers_count": 212,
+   "watchers_count": 212,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -7580,7 +7580,7 @@
    },
    "forks": 112,
    "open_issues": 90,
-   "watchers": 211,
+   "watchers": 212,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -12034,7 +12034,7 @@
   }
  },
  "pixelbaker/ABAP-RayTracer": {
-  "lines": 9825,
+  "lines": 10029,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -12115,14 +12115,14 @@
    "releases_url": "https://api.github.com/repos/pixelbaker/ABAP-RayTracer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pixelbaker/ABAP-RayTracer/deployments",
    "created_at": "2017-08-18T11:54:04Z",
-   "updated_at": "2019-06-11T18:57:25Z",
-   "pushed_at": "2019-06-11T18:57:23Z",
+   "updated_at": "2019-06-16T12:45:32Z",
+   "pushed_at": "2019-06-16T12:45:30Z",
    "git_url": "git://github.com/pixelbaker/ABAP-RayTracer.git",
    "ssh_url": "git@github.com:pixelbaker/ABAP-RayTracer.git",
    "clone_url": "https://github.com/pixelbaker/ABAP-RayTracer.git",
    "svn_url": "https://github.com/pixelbaker/ABAP-RayTracer",
    "homepage": null,
-   "size": 2019,
+   "size": 2029,
    "stargazers_count": 18,
    "watchers_count": 18,
    "language": "ABAP",
@@ -12359,7 +12359,7 @@
    "releases_url": "https://api.github.com/repos/btc-ag/Featuretoggle/releases{/id}",
    "deployments_url": "https://api.github.com/repos/btc-ag/Featuretoggle/deployments",
    "created_at": "2017-05-10T05:49:35Z",
-   "updated_at": "2019-04-17T08:04:05Z",
+   "updated_at": "2019-06-15T08:13:02Z",
    "pushed_at": "2018-05-08T14:26:18Z",
    "git_url": "git://github.com/btc-ag/Featuretoggle.git",
    "ssh_url": "git@github.com:btc-ag/Featuretoggle.git",
@@ -12367,8 +12367,8 @@
    "svn_url": "https://github.com/btc-ag/Featuretoggle",
    "homepage": null,
    "size": 66,
-   "stargazers_count": 13,
-   "watchers_count": 13,
+   "stargazers_count": 14,
+   "watchers_count": 14,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -12389,7 +12389,7 @@
    },
    "forks": 5,
    "open_issues": 1,
-   "watchers": 13,
+   "watchers": 14,
    "default_branch": "master",
    "permissions": {
     "admin": false,
