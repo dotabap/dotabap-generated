@@ -195,7 +195,7 @@
    "releases_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2019-06-25T17:04:27Z",
+   "updated_at": "2019-06-27T08:24:08Z",
    "pushed_at": "2019-06-25T08:27:00Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
@@ -203,8 +203,8 @@
    "svn_url": "https://github.com/epeterson320/ABAP-Logger",
    "homepage": null,
    "size": 134,
-   "stargazers_count": 121,
-   "watchers_count": 121,
+   "stargazers_count": 122,
+   "watchers_count": 122,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -225,7 +225,7 @@
    },
    "forks": 32,
    "open_issues": 7,
-   "watchers": 121,
+   "watchers": 122,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6079,7 +6079,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2019-06-25T10:02:55Z",
-   "pushed_at": "2019-06-26T14:39:54Z",
+   "pushed_at": "2019-06-27T14:34:17Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
@@ -6098,7 +6098,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 201,
+   "open_issues_count": 203,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6107,7 +6107,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 217,
-   "open_issues": 201,
+   "open_issues": 203,
    "watchers": 543,
    "default_branch": "master",
    "permissions": {
@@ -7672,14 +7672,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-06-26T13:04:32Z",
-   "pushed_at": "2019-04-26T13:38:55Z",
+   "updated_at": "2019-06-27T13:27:59Z",
+   "pushed_at": "2019-06-27T13:27:54Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 24711,
+   "size": 24713,
    "stargazers_count": 214,
    "watchers_count": 214,
    "language": "ABAP",
@@ -7688,7 +7688,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 112,
+   "forks_count": 113,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -7700,7 +7700,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 112,
+   "forks": 113,
    "open_issues": 91,
    "watchers": 214,
    "default_branch": "master",
@@ -7729,7 +7729,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 112,
+   "network_count": 113,
    "subscribers_count": 67
   }
  },
@@ -10537,7 +10537,7 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Swagger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
-   "updated_at": "2019-06-07T10:29:22Z",
+   "updated_at": "2019-06-27T22:59:39Z",
    "pushed_at": "2019-06-03T14:32:41Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
@@ -10545,8 +10545,8 @@
    "svn_url": "https://github.com/larshp/ABAP-Swagger",
    "homepage": "",
    "size": 95,
-   "stargazers_count": 36,
-   "watchers_count": 36,
+   "stargazers_count": 37,
+   "watchers_count": 37,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10567,7 +10567,7 @@
    },
    "forks": 15,
    "open_issues": 14,
-   "watchers": 36,
+   "watchers": 37,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -10575,7 +10575,7 @@
     "pull": true
    },
    "network_count": 15,
-   "subscribers_count": 12
+   "subscribers_count": 13
   }
  },
  "larshp/abapGitServer": {
