@@ -5993,7 +5993,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 84632,
+  "lines": 84667,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6078,14 +6078,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-06-25T10:02:55Z",
-   "pushed_at": "2019-06-27T14:34:17Z",
+   "updated_at": "2019-06-29T06:06:11Z",
+   "pushed_at": "2019-06-29T10:00:31Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11252,
+   "size": 11226,
    "stargazers_count": 543,
    "watchers_count": 543,
    "language": "ABAP",
@@ -6098,7 +6098,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 203,
+   "open_issues_count": 202,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6107,7 +6107,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 217,
-   "open_issues": 203,
+   "open_issues": 202,
    "watchers": 543,
    "default_branch": "master",
    "permissions": {
@@ -10215,12 +10215,13 @@
   }
  },
  "larshp/upDOWNci": {
-  "lines": 1580,
+  "lines": 1583,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/LICENSE",
    "/README.md",
-   "/example.xml"
+   "/example.xml",
+   "/abaplint.json"
   ],
   "parsing": {
    "version": "1.7.0",
@@ -10293,14 +10294,14 @@
    "releases_url": "https://api.github.com/repos/larshp/upDOWNci/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/upDOWNci/deployments",
    "created_at": "2015-07-29T18:19:17Z",
-   "updated_at": "2019-06-28T15:49:25Z",
-   "pushed_at": "2019-06-28T15:49:24Z",
+   "updated_at": "2019-06-29T07:01:02Z",
+   "pushed_at": "2019-06-29T07:01:00Z",
    "git_url": "git://github.com/larshp/upDOWNci.git",
    "ssh_url": "git@github.com:larshp/upDOWNci.git",
    "clone_url": "https://github.com/larshp/upDOWNci.git",
    "svn_url": "https://github.com/larshp/upDOWNci",
    "homepage": "",
-   "size": 94,
+   "size": 99,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
