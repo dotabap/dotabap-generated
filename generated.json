@@ -2263,7 +2263,7 @@
   ],
   "parsing": {
    "version": "1.7.0",
-   "cloud": 45
+   "cloud": 44
   },
   "repo": {
    "id": 97920151,
@@ -2332,14 +2332,14 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/abap_oo_patterns/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/abap_oo_patterns/deployments",
    "created_at": "2017-07-21T07:37:13Z",
-   "updated_at": "2019-06-19T21:32:02Z",
-   "pushed_at": "2019-07-11T10:24:18Z",
+   "updated_at": "2019-07-12T15:27:28Z",
+   "pushed_at": "2019-07-12T15:27:26Z",
    "git_url": "git://github.com/SchwarzIT/abap_oo_patterns.git",
    "ssh_url": "git@github.com:SchwarzIT/abap_oo_patterns.git",
    "clone_url": "https://github.com/SchwarzIT/abap_oo_patterns.git",
    "svn_url": "https://github.com/SchwarzIT/abap_oo_patterns",
    "homepage": null,
-   "size": 187,
+   "size": 189,
    "stargazers_count": 48,
    "watchers_count": 48,
    "language": "ABAP",
@@ -2352,7 +2352,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -2361,7 +2361,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 7,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 48,
    "default_branch": "master",
    "permissions": {
@@ -6128,7 +6128,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 85453,
+  "lines": 85486,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6144,7 +6144,7 @@
   ],
   "parsing": {
    "version": "1.7.0",
-   "cloud": 721
+   "cloud": 722
   },
   "repo": {
    "id": 21115149,
@@ -6213,14 +6213,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-07-11T22:22:15Z",
-   "pushed_at": "2019-07-11T19:22:34Z",
+   "updated_at": "2019-07-12T09:00:21Z",
+   "pushed_at": "2019-07-12T09:00:19Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11272,
+   "size": 11365,
    "stargazers_count": 549,
    "watchers_count": 549,
    "language": "ABAP",
@@ -6233,7 +6233,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 200,
+   "open_issues_count": 201,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6242,7 +6242,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 218,
-   "open_issues": 200,
+   "open_issues": 201,
    "watchers": 549,
    "default_branch": "master",
    "permissions": {
@@ -10068,13 +10068,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2019-07-11T07:35:14Z",
-   "pushed_at": "2019-07-07T13:29:23Z",
+   "pushed_at": "2019-07-12T12:39:15Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 1730,
+   "size": 1752,
    "stargazers_count": 88,
    "watchers_count": 88,
    "language": "ABAP",
@@ -10087,7 +10087,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 282,
+   "open_issues_count": 286,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10096,7 +10096,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 26,
-   "open_issues": 282,
+   "open_issues": 286,
    "watchers": 88,
    "default_branch": "master",
    "permissions": {
@@ -10715,14 +10715,15 @@
   }
  },
  "larshp/abapGitServer": {
-  "lines": 6558,
+  "lines": 6556,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
    "/LICENSE",
    "/README.md",
    "/package.json",
-   "/.travis.yml"
+   "/.travis.yml",
+   "/abaplint.json"
   ],
   "parsing": {
    "version": "1.7.0",
@@ -10795,14 +10796,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGitServer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGitServer/deployments",
    "created_at": "2015-07-05T06:34:15Z",
-   "updated_at": "2019-07-06T11:00:51Z",
-   "pushed_at": "2019-07-06T11:00:50Z",
+   "updated_at": "2019-07-12T09:55:46Z",
+   "pushed_at": "2019-07-12T09:55:47Z",
    "git_url": "git://github.com/larshp/abapGitServer.git",
    "ssh_url": "git@github.com:larshp/abapGitServer.git",
    "clone_url": "https://github.com/larshp/abapGitServer.git",
    "svn_url": "https://github.com/larshp/abapGitServer",
    "homepage": "",
-   "size": 496,
+   "size": 511,
    "stargazers_count": 34,
    "watchers_count": 34,
    "language": "ABAP",
