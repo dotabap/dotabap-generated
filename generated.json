@@ -6214,13 +6214,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2019-07-12T09:00:21Z",
-   "pushed_at": "2019-07-12T09:00:19Z",
+   "pushed_at": "2019-07-13T14:15:02Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11365,
+   "size": 11475,
    "stargazers_count": 549,
    "watchers_count": 549,
    "language": "ABAP",
@@ -6233,7 +6233,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 201,
+   "open_issues_count": 203,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6242,7 +6242,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 218,
-   "open_issues": 201,
+   "open_issues": 203,
    "watchers": 549,
    "default_branch": "master",
    "permissions": {
@@ -6987,7 +6987,7 @@
   }
  },
  "thedoginthewok/ZwdCSV": {
-  "lines": 1897,
+  "lines": 1900,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -7067,14 +7067,14 @@
    "releases_url": "https://api.github.com/repos/thedoginthewok/ZwdCSV/releases{/id}",
    "deployments_url": "https://api.github.com/repos/thedoginthewok/ZwdCSV/deployments",
    "created_at": "2019-01-26T18:32:05Z",
-   "updated_at": "2019-05-26T15:52:27Z",
-   "pushed_at": "2019-05-26T15:52:25Z",
+   "updated_at": "2019-07-13T12:38:42Z",
+   "pushed_at": "2019-07-13T12:38:40Z",
    "git_url": "git://github.com/thedoginthewok/ZwdCSV.git",
    "ssh_url": "git@github.com:thedoginthewok/ZwdCSV.git",
    "clone_url": "https://github.com/thedoginthewok/ZwdCSV.git",
    "svn_url": "https://github.com/thedoginthewok/ZwdCSV",
    "homepage": null,
-   "size": 169,
+   "size": 180,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -7807,7 +7807,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-07-10T09:22:38Z",
+   "updated_at": "2019-07-13T12:36:38Z",
    "pushed_at": "2019-06-27T13:27:54Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -7823,11 +7823,11 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 115,
+   "forks_count": 116,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 91,
+   "open_issues_count": 92,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7835,8 +7835,8 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 115,
-   "open_issues": 91,
+   "forks": 116,
+   "open_issues": 92,
    "watchers": 216,
    "default_branch": "master",
    "permissions": {
@@ -7864,7 +7864,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 115,
+   "network_count": 116,
    "subscribers_count": 68
   }
  },
@@ -8750,7 +8750,7 @@
   }
  },
  "gregorwolf/AWS_SNS4ABAP": {
-  "lines": 249,
+  "lines": 242,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -8831,8 +8831,8 @@
    "releases_url": "https://api.github.com/repos/gregorwolf/AWS_SNS4ABAP/releases{/id}",
    "deployments_url": "https://api.github.com/repos/gregorwolf/AWS_SNS4ABAP/deployments",
    "created_at": "2018-11-01T17:42:01Z",
-   "updated_at": "2019-05-29T08:14:43Z",
-   "pushed_at": "2019-02-13T09:45:17Z",
+   "updated_at": "2019-07-13T15:13:42Z",
+   "pushed_at": "2019-07-13T15:13:40Z",
    "git_url": "git://github.com/gregorwolf/AWS_SNS4ABAP.git",
    "ssh_url": "git@github.com:gregorwolf/AWS_SNS4ABAP.git",
    "clone_url": "https://github.com/gregorwolf/AWS_SNS4ABAP.git",
@@ -10593,14 +10593,15 @@
   }
  },
  "larshp/ABAP-Swagger": {
-  "lines": 1456,
+  "lines": 1483,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
    "/LICENSE",
    "/README.md",
    "/package.json",
-   "/.travis.yml"
+   "/.travis.yml",
+   "/abaplint.json"
   ],
   "parsing": {
    "version": "1.7.0",
@@ -10673,14 +10674,14 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Swagger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
-   "updated_at": "2019-07-04T08:13:32Z",
-   "pushed_at": "2019-07-06T10:59:19Z",
+   "updated_at": "2019-07-13T07:23:24Z",
+   "pushed_at": "2019-07-13T07:23:25Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
    "clone_url": "https://github.com/larshp/ABAP-Swagger.git",
    "svn_url": "https://github.com/larshp/ABAP-Swagger",
    "homepage": "",
-   "size": 81,
+   "size": 77,
    "stargazers_count": 38,
    "watchers_count": 38,
    "language": "ABAP",
@@ -10693,7 +10694,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 18,
+   "open_issues_count": 17,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10702,7 +10703,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 17,
-   "open_issues": 18,
+   "open_issues": 17,
    "watchers": 38,
    "default_branch": "master",
    "permissions": {
