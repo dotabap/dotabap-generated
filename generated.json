@@ -115,7 +115,7 @@
   }
  },
  "epeterson320/ABAP-Logger": {
-  "lines": 2303,
+  "lines": 2484,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
@@ -195,14 +195,14 @@
    "releases_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2019-07-18T14:59:55Z",
-   "pushed_at": "2019-06-25T08:27:00Z",
+   "updated_at": "2019-07-19T16:53:07Z",
+   "pushed_at": "2019-07-19T16:53:05Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
    "clone_url": "https://github.com/epeterson320/ABAP-Logger.git",
    "svn_url": "https://github.com/epeterson320/ABAP-Logger",
    "homepage": null,
-   "size": 134,
+   "size": 144,
    "stargazers_count": 122,
    "watchers_count": 122,
    "language": "ABAP",
@@ -6213,7 +6213,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-07-18T14:12:29Z",
+   "updated_at": "2019-07-19T15:37:05Z",
    "pushed_at": "2019-07-18T14:59:42Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
@@ -6221,8 +6221,8 @@
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
    "size": 11384,
-   "stargazers_count": 550,
-   "watchers_count": 550,
+   "stargazers_count": 552,
+   "watchers_count": 552,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6243,7 +6243,7 @@
    },
    "forks": 222,
    "open_issues": 211,
-   "watchers": 550,
+   "watchers": 552,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -6251,7 +6251,7 @@
     "pull": true
    },
    "network_count": 222,
-   "subscribers_count": 97
+   "subscribers_count": 98
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -9721,7 +9721,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 2,
+   "open_issues_count": 3,
    "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -9730,7 +9730,7 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "forks": 21,
-   "open_issues": 2,
+   "open_issues": 3,
    "watchers": 42,
    "default_branch": "master",
    "permissions": {
@@ -10712,7 +10712,7 @@
     "pull": true
    },
    "network_count": 17,
-   "subscribers_count": 13
+   "subscribers_count": 14
   }
  },
  "larshp/abapGitServer": {
