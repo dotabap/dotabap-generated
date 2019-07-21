@@ -6128,7 +6128,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 85528,
+  "lines": 85593,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6144,7 +6144,7 @@
   ],
   "parsing": {
    "version": "1.7.0",
-   "cloud": 722
+   "cloud": 723
   },
   "repo": {
    "id": 21115149,
@@ -6213,14 +6213,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-07-19T15:37:05Z",
-   "pushed_at": "2019-07-18T14:59:42Z",
+   "updated_at": "2019-07-21T10:35:15Z",
+   "pushed_at": "2019-07-21T21:16:11Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11384,
+   "size": 11401,
    "stargazers_count": 552,
    "watchers_count": 552,
    "language": "ABAP",
@@ -6229,7 +6229,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 222,
+   "forks_count": 223,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -6241,7 +6241,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 222,
+   "forks": 223,
    "open_issues": 211,
    "watchers": 552,
    "default_branch": "master",
@@ -6250,7 +6250,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 222,
+   "network_count": 223,
    "subscribers_count": 98
   }
  },
@@ -7827,7 +7827,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 93,
+   "open_issues_count": 94,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7836,7 +7836,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 118,
-   "open_issues": 93,
+   "open_issues": 94,
    "watchers": 217,
    "default_branch": "master",
    "permissions": {
