@@ -3125,16 +3125,16 @@
    "releases_url": "https://api.github.com/repos/fidley/JSON2ABAPType/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/JSON2ABAPType/deployments",
    "created_at": "2018-08-20T16:24:34Z",
-   "updated_at": "2019-06-12T10:56:03Z",
-   "pushed_at": "2019-06-12T10:56:01Z",
+   "updated_at": "2019-07-24T10:59:56Z",
+   "pushed_at": "2019-07-24T08:45:24Z",
    "git_url": "git://github.com/fidley/JSON2ABAPType.git",
    "ssh_url": "git@github.com:fidley/JSON2ABAPType.git",
    "clone_url": "https://github.com/fidley/JSON2ABAPType.git",
    "svn_url": "https://github.com/fidley/JSON2ABAPType",
    "homepage": null,
-   "size": 30,
-   "stargazers_count": 3,
-   "watchers_count": 3,
+   "size": 36,
+   "stargazers_count": 4,
+   "watchers_count": 4,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3147,15 +3147,15 @@
    "disabled": false,
    "open_issues_count": 0,
    "license": {
-    "key": "gpl-3.0",
-    "name": "GNU General Public License v3.0",
-    "spdx_id": "GPL-3.0",
-    "url": "https://api.github.com/licenses/gpl-3.0",
-    "node_id": "MDc6TGljZW5zZTk="
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 0,
    "open_issues": 0,
-   "watchers": 3,
+   "watchers": 4,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6214,7 +6214,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2019-07-22T04:30:21Z",
-   "pushed_at": "2019-07-22T04:30:18Z",
+   "pushed_at": "2019-07-24T19:39:05Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
@@ -6233,7 +6233,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 206,
+   "open_issues_count": 210,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6242,7 +6242,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 222,
-   "open_issues": 206,
+   "open_issues": 210,
    "watchers": 552,
    "default_branch": "master",
    "permissions": {
@@ -6251,7 +6251,7 @@
     "pull": true
    },
    "network_count": 222,
-   "subscribers_count": 98
+   "subscribers_count": 96
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
