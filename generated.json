@@ -195,7 +195,7 @@
    "releases_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2019-07-26T06:05:13Z",
+   "updated_at": "2019-07-30T17:44:12Z",
    "pushed_at": "2019-07-19T16:53:05Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
@@ -203,8 +203,8 @@
    "svn_url": "https://github.com/epeterson320/ABAP-Logger",
    "homepage": null,
    "size": 144,
-   "stargazers_count": 124,
-   "watchers_count": 124,
+   "stargazers_count": 125,
+   "watchers_count": 125,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -225,7 +225,7 @@
    },
    "forks": 34,
    "open_issues": 7,
-   "watchers": 124,
+   "watchers": 125,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -233,7 +233,7 @@
     "pull": true
    },
    "network_count": 34,
-   "subscribers_count": 29
+   "subscribers_count": 30
   }
  },
  "tricktresor/gladius": {
@@ -6128,7 +6128,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 86648,
+  "lines": 86656,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6213,14 +6213,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-07-28T10:46:57Z",
-   "pushed_at": "2019-07-28T16:05:16Z",
+   "updated_at": "2019-07-30T12:04:04Z",
+   "pushed_at": "2019-07-30T20:49:56Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11407,
+   "size": 11502,
    "stargazers_count": 552,
    "watchers_count": 552,
    "language": "ABAP",
@@ -6233,7 +6233,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 211,
+   "open_issues_count": 219,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6242,7 +6242,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 222,
-   "open_issues": 211,
+   "open_issues": 219,
    "watchers": 552,
    "default_branch": "master",
    "permissions": {
@@ -6251,7 +6251,7 @@
     "pull": true
    },
    "network_count": 222,
-   "subscribers_count": 94
+   "subscribers_count": 95
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -8953,7 +8953,7 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Object-Visualizer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Object-Visualizer/deployments",
    "created_at": "2015-09-11T11:11:42Z",
-   "updated_at": "2019-07-26T02:08:10Z",
+   "updated_at": "2019-07-30T18:17:09Z",
    "pushed_at": "2019-04-17T06:23:49Z",
    "git_url": "git://github.com/larshp/ABAP-Object-Visualizer.git",
    "ssh_url": "git@github.com:larshp/ABAP-Object-Visualizer.git",
@@ -8961,8 +8961,8 @@
    "svn_url": "https://github.com/larshp/ABAP-Object-Visualizer",
    "homepage": "",
    "size": 14,
-   "stargazers_count": 37,
-   "watchers_count": 37,
+   "stargazers_count": 38,
+   "watchers_count": 38,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -8983,7 +8983,7 @@
    },
    "forks": 4,
    "open_issues": 3,
-   "watchers": 37,
+   "watchers": 38,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -9571,14 +9571,14 @@
    "releases_url": "https://api.github.com/repos/Sumu-Ning/AES/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Sumu-Ning/AES/deployments",
    "created_at": "2015-07-01T18:10:38Z",
-   "updated_at": "2019-07-29T12:53:35Z",
-   "pushed_at": "2019-01-11T06:53:38Z",
+   "updated_at": "2019-07-30T10:38:25Z",
+   "pushed_at": "2019-07-30T10:38:25Z",
    "git_url": "git://github.com/Sumu-Ning/AES.git",
    "ssh_url": "git@github.com:Sumu-Ning/AES.git",
    "clone_url": "https://github.com/Sumu-Ning/AES.git",
    "svn_url": "https://github.com/Sumu-Ning/AES",
    "homepage": "",
-   "size": 80,
+   "size": 85,
    "stargazers_count": 30,
    "watchers_count": 30,
    "language": "ABAP",
@@ -9701,7 +9701,7 @@
    "releases_url": "https://api.github.com/repos/fidley/falv/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/falv/deployments",
    "created_at": "2016-03-11T09:39:33Z",
-   "updated_at": "2019-07-29T06:54:03Z",
+   "updated_at": "2019-07-30T17:48:50Z",
    "pushed_at": "2019-07-29T06:54:01Z",
    "git_url": "git://github.com/fidley/falv.git",
    "ssh_url": "git@github.com:fidley/falv.git",
@@ -9709,8 +9709,8 @@
    "svn_url": "https://github.com/fidley/falv",
    "homepage": null,
    "size": 1481,
-   "stargazers_count": 42,
-   "watchers_count": 42,
+   "stargazers_count": 43,
+   "watchers_count": 43,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -9731,7 +9731,7 @@
    },
    "forks": 21,
    "open_issues": 3,
-   "watchers": 42,
+   "watchers": 43,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -9739,11 +9739,11 @@
     "pull": true
    },
    "network_count": 21,
-   "subscribers_count": 22
+   "subscribers_count": 23
   }
  },
  "fidley/ALVGridInNutshell": {
-  "lines": 1573,
+  "lines": 1620,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -9754,7 +9754,7 @@
   ],
   "parsing": {
    "version": "1.7.0",
-   "cloud": 190
+   "cloud": 196
   },
   "repo": {
    "id": 164850912,
@@ -9823,14 +9823,14 @@
    "releases_url": "https://api.github.com/repos/fidley/ALVGridInNutshell/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/ALVGridInNutshell/deployments",
    "created_at": "2019-01-09T11:32:41Z",
-   "updated_at": "2019-07-29T18:49:08Z",
-   "pushed_at": "2019-07-29T18:49:06Z",
+   "updated_at": "2019-07-30T05:16:07Z",
+   "pushed_at": "2019-07-30T05:16:05Z",
    "git_url": "git://github.com/fidley/ALVGridInNutshell.git",
    "ssh_url": "git@github.com:fidley/ALVGridInNutshell.git",
    "clone_url": "https://github.com/fidley/ALVGridInNutshell.git",
    "svn_url": "https://github.com/fidley/ALVGridInNutshell",
    "homepage": "https://abapblog.com/alv-grid-in-the-nutshell",
-   "size": 113,
+   "size": 117,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -10109,7 +10109,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 40318,
+  "lines": 40332,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -10120,7 +10120,7 @@
   ],
   "parsing": {
    "version": "1.7.0",
-   "cloud": 2467
+   "cloud": 2468
   },
   "repo": {
    "id": 21558384,
@@ -10189,14 +10189,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-07-26T05:16:12Z",
-   "pushed_at": "2019-07-29T05:24:13Z",
+   "updated_at": "2019-07-30T06:53:21Z",
+   "pushed_at": "2019-07-30T06:53:22Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 1840,
+   "size": 1839,
    "stargazers_count": 89,
    "watchers_count": 89,
    "language": "ABAP",
@@ -10209,7 +10209,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 286,
+   "open_issues_count": 284,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10218,7 +10218,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 27,
-   "open_issues": 286,
+   "open_issues": 284,
    "watchers": 89,
    "default_branch": "master",
    "permissions": {
@@ -11277,7 +11277,7 @@
    "releases_url": "https://api.github.com/repos/sbcgua/mockup_loader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/mockup_loader/deployments",
    "created_at": "2015-11-03T17:02:54Z",
-   "updated_at": "2019-04-10T16:07:52Z",
+   "updated_at": "2019-07-30T05:34:04Z",
    "pushed_at": "2019-04-10T16:07:51Z",
    "git_url": "git://github.com/sbcgua/mockup_loader.git",
    "ssh_url": "git@github.com:sbcgua/mockup_loader.git",
@@ -11285,8 +11285,8 @@
    "svn_url": "https://github.com/sbcgua/mockup_loader",
    "homepage": null,
    "size": 461,
-   "stargazers_count": 32,
-   "watchers_count": 32,
+   "stargazers_count": 33,
+   "watchers_count": 33,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -11307,7 +11307,7 @@
    },
    "forks": 9,
    "open_issues": 1,
-   "watchers": 32,
+   "watchers": 33,
    "default_branch": "master",
    "permissions": {
     "admin": false,
