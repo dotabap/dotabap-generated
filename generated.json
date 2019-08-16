@@ -89,7 +89,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 8,
+   "forks_count": 9,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -101,7 +101,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 8,
+   "forks": 9,
    "open_issues": 1,
    "watchers": 15,
    "default_branch": "master",
@@ -110,7 +110,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 8,
+   "network_count": 9,
    "subscribers_count": 6
   }
  },
@@ -2332,7 +2332,7 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/abap_oo_patterns/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/abap_oo_patterns/deployments",
    "created_at": "2017-07-21T07:37:13Z",
-   "updated_at": "2019-08-13T15:03:23Z",
+   "updated_at": "2019-08-16T14:18:44Z",
    "pushed_at": "2019-07-12T15:27:26Z",
    "git_url": "git://github.com/SchwarzIT/abap_oo_patterns.git",
    "ssh_url": "git@github.com:SchwarzIT/abap_oo_patterns.git",
@@ -2340,8 +2340,8 @@
    "svn_url": "https://github.com/SchwarzIT/abap_oo_patterns",
    "homepage": null,
    "size": 189,
-   "stargazers_count": 53,
-   "watchers_count": 53,
+   "stargazers_count": 54,
+   "watchers_count": 54,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2362,7 +2362,7 @@
    },
    "forks": 8,
    "open_issues": 0,
-   "watchers": 53,
+   "watchers": 54,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3991,14 +3991,14 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2019-08-08T08:59:39Z",
-   "pushed_at": "2019-05-17T16:47:16Z",
+   "updated_at": "2019-08-16T17:23:03Z",
+   "pushed_at": "2019-08-16T17:23:00Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
    "clone_url": "https://github.com/SAP2Moose/SAP2Moose.git",
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
-   "size": 4211,
+   "size": 4146,
    "stargazers_count": 25,
    "watchers_count": 25,
    "language": "ABAP",
@@ -6128,7 +6128,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 87204,
+  "lines": 87206,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6213,14 +6213,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-08-15T12:52:05Z",
-   "pushed_at": "2019-08-15T12:52:18Z",
+   "updated_at": "2019-08-16T09:11:28Z",
+   "pushed_at": "2019-08-16T11:23:29Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11536,
+   "size": 11551,
    "stargazers_count": 560,
    "watchers_count": 560,
    "language": "ABAP",
@@ -6229,11 +6229,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 223,
+   "forks_count": 225,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 198,
+   "open_issues_count": 196,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6241,8 +6241,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 223,
-   "open_issues": 198,
+   "forks": 225,
+   "open_issues": 196,
    "watchers": 560,
    "default_branch": "master",
    "permissions": {
@@ -6250,8 +6250,8 @@
     "push": true,
     "pull": true
    },
-   "network_count": 223,
-   "subscribers_count": 97
+   "network_count": 225,
+   "subscribers_count": 98
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -10210,7 +10210,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 287,
+   "open_issues_count": 288,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10219,7 +10219,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 29,
-   "open_issues": 287,
+   "open_issues": 288,
    "watchers": 91,
    "default_branch": "master",
    "permissions": {
