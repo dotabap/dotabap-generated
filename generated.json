@@ -3414,7 +3414,7 @@
   }
  },
  "rayatus/sapcodegenerator": {
-  "lines": 1982,
+  "lines": 3732,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
@@ -3429,7 +3429,7 @@
   ],
   "parsing": {
    "version": "1.7.0",
-   "cloud": 215
+   "cloud": 307
   },
   "repo": {
    "id": 36827481,
@@ -3498,14 +3498,14 @@
    "releases_url": "https://api.github.com/repos/rayatus/sapcodegenerator/releases{/id}",
    "deployments_url": "https://api.github.com/repos/rayatus/sapcodegenerator/deployments",
    "created_at": "2015-06-03T20:04:46Z",
-   "updated_at": "2019-08-12T18:30:54Z",
-   "pushed_at": "2019-06-06T22:37:56Z",
+   "updated_at": "2019-08-18T20:01:11Z",
+   "pushed_at": "2019-08-18T20:01:09Z",
    "git_url": "git://github.com/rayatus/sapcodegenerator.git",
    "ssh_url": "git@github.com:rayatus/sapcodegenerator.git",
    "clone_url": "https://github.com/rayatus/sapcodegenerator.git",
    "svn_url": "https://github.com/rayatus/sapcodegenerator",
    "homepage": "",
-   "size": 62,
+   "size": 109,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
