@@ -6243,7 +6243,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 87257,
+  "lines": 87193,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6259,7 +6259,7 @@
   ],
   "parsing": {
    "version": "1.7.0",
-   "cloud": 728
+   "cloud": 745
   },
   "repo": {
    "id": 21115149,
@@ -6328,16 +6328,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-08-26T14:42:06Z",
-   "pushed_at": "2019-08-26T16:14:30Z",
+   "updated_at": "2019-08-27T11:17:46Z",
+   "pushed_at": "2019-08-27T15:31:50Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11537,
-   "stargazers_count": 564,
-   "watchers_count": 564,
+   "size": 11545,
+   "stargazers_count": 565,
+   "watchers_count": 565,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6358,7 +6358,7 @@
    },
    "forks": 227,
    "open_issues": 205,
-   "watchers": 564,
+   "watchers": 565,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -7938,7 +7938,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 119,
+   "forks_count": 120,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -7950,7 +7950,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 119,
+   "forks": 120,
    "open_issues": 95,
    "watchers": 225,
    "default_branch": "master",
@@ -7979,7 +7979,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 119,
+   "network_count": 120,
    "subscribers_count": 68
   }
  },
@@ -10305,7 +10305,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-08-22T06:41:44Z",
+   "updated_at": "2019-08-27T11:17:34Z",
    "pushed_at": "2019-08-15T06:41:24Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -10313,8 +10313,8 @@
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
    "size": 1912,
-   "stargazers_count": 92,
-   "watchers_count": 92,
+   "stargazers_count": 93,
+   "watchers_count": 93,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10335,7 +10335,7 @@
    },
    "forks": 30,
    "open_issues": 289,
-   "watchers": 92,
+   "watchers": 93,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -12620,7 +12620,7 @@
    "clone_url": "https://github.com/pixelbaker/ABAP-RayTracer.git",
    "svn_url": "https://github.com/pixelbaker/ABAP-RayTracer",
    "homepage": null,
-   "size": 1983,
+   "size": 1994,
    "stargazers_count": 18,
    "watchers_count": 18,
    "language": "ABAP",
