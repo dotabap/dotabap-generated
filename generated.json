@@ -74,7 +74,7 @@
    "deployments_url": "https://api.github.com/repos/flaiker/abap-log/deployments",
    "created_at": "2017-02-09T10:32:15Z",
    "updated_at": "2019-07-26T03:58:48Z",
-   "pushed_at": "2019-06-02T13:58:22Z",
+   "pushed_at": "2019-08-29T09:21:46Z",
    "git_url": "git://github.com/flaiker/abap-log.git",
    "ssh_url": "git@github.com:flaiker/abap-log.git",
    "clone_url": "https://github.com/flaiker/abap-log.git",
@@ -89,11 +89,11 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 9,
+   "forks_count": 10,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -101,8 +101,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 9,
-   "open_issues": 1,
+   "forks": 10,
+   "open_issues": 2,
    "watchers": 15,
    "default_branch": "master",
    "permissions": {
@@ -110,7 +110,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 9,
+   "network_count": 10,
    "subscribers_count": 6
   }
  },
@@ -4106,7 +4106,7 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2019-08-16T17:23:03Z",
+   "updated_at": "2019-08-29T16:44:39Z",
    "pushed_at": "2019-08-16T17:23:00Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
@@ -4114,8 +4114,8 @@
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
    "size": 4146,
-   "stargazers_count": 25,
-   "watchers_count": 25,
+   "stargazers_count": 26,
+   "watchers_count": 26,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4136,7 +4136,7 @@
    },
    "forks": 8,
    "open_issues": 43,
-   "watchers": 25,
+   "watchers": 26,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4896,7 +4896,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -4908,7 +4908,7 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
    },
-   "forks": 5,
+   "forks": 6,
    "open_issues": 0,
    "watchers": 26,
    "default_branch": "master",
@@ -4937,7 +4937,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 13
   }
  },
@@ -6243,7 +6243,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 87193,
+  "lines": 87270,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6259,7 +6259,7 @@
   ],
   "parsing": {
    "version": "1.7.0",
-   "cloud": 745
+   "cloud": 746
   },
   "repo": {
    "id": 21115149,
@@ -6328,16 +6328,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-08-28T21:59:27Z",
-   "pushed_at": "2019-08-28T19:12:51Z",
+   "updated_at": "2019-08-29T07:53:14Z",
+   "pushed_at": "2019-08-29T13:38:15Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11545,
-   "stargazers_count": 566,
-   "watchers_count": 566,
+   "size": 11563,
+   "stargazers_count": 567,
+   "watchers_count": 567,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6348,7 +6348,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 205,
+   "open_issues_count": 203,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6357,8 +6357,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 227,
-   "open_issues": 205,
-   "watchers": 566,
+   "open_issues": 203,
+   "watchers": 567,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -10325,7 +10325,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 289,
+   "open_issues_count": 290,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10334,7 +10334,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 30,
-   "open_issues": 289,
+   "open_issues": 290,
    "watchers": 93,
    "default_branch": "master",
    "permissions": {
