@@ -1566,7 +1566,7 @@
   }
  },
  "sbcgua/abap_gui_boilerplate": {
-  "lines": 2631,
+  "lines": 2703,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -1578,7 +1578,7 @@
   ],
   "parsing": {
    "version": "2.0.1",
-   "cloud": 61
+   "cloud": 68
   },
   "repo": {
    "id": 162828013,
@@ -1647,14 +1647,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/abap_gui_boilerplate/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/abap_gui_boilerplate/deployments",
    "created_at": "2018-12-22T16:54:13Z",
-   "updated_at": "2019-04-27T17:26:11Z",
-   "pushed_at": "2019-04-11T18:32:58Z",
+   "updated_at": "2019-08-31T12:53:52Z",
+   "pushed_at": "2019-08-31T12:53:50Z",
    "git_url": "git://github.com/sbcgua/abap_gui_boilerplate.git",
    "ssh_url": "git@github.com:sbcgua/abap_gui_boilerplate.git",
    "clone_url": "https://github.com/sbcgua/abap_gui_boilerplate.git",
    "svn_url": "https://github.com/sbcgua/abap_gui_boilerplate",
    "homepage": null,
-   "size": 173,
+   "size": 69,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -6329,7 +6329,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2019-08-30T12:36:39Z",
-   "pushed_at": "2019-08-30T14:27:46Z",
+   "pushed_at": "2019-08-31T11:11:35Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
@@ -7922,7 +7922,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-08-12T18:30:10Z",
+   "updated_at": "2019-08-31T07:15:02Z",
    "pushed_at": "2019-08-22T06:57:17Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -7930,8 +7930,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 24713,
-   "stargazers_count": 225,
-   "watchers_count": 225,
+   "stargazers_count": 226,
+   "watchers_count": 226,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -7952,7 +7952,7 @@
    },
    "forks": 120,
    "open_issues": 95,
-   "watchers": 225,
+   "watchers": 226,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -8311,7 +8311,7 @@
    "releases_url": "https://api.github.com/repos/theits/CharmMylynConnector/releases{/id}",
    "deployments_url": "https://api.github.com/repos/theits/CharmMylynConnector/deployments",
    "created_at": "2017-10-08T17:49:15Z",
-   "updated_at": "2017-10-12T13:46:29Z",
+   "updated_at": "2019-08-31T18:28:18Z",
    "pushed_at": "2017-10-16T12:35:16Z",
    "git_url": "git://github.com/theits/CharmMylynConnector.git",
    "ssh_url": "git@github.com:theits/CharmMylynConnector.git",
@@ -8319,8 +8319,8 @@
    "svn_url": "https://github.com/theits/CharmMylynConnector",
    "homepage": null,
    "size": 91,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "Java",
    "has_issues": true,
    "has_projects": true,
@@ -8341,7 +8341,7 @@
    },
    "forks": 0,
    "open_issues": 0,
-   "watchers": 2,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -9702,7 +9702,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 11,
+   "forks_count": 12,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9714,7 +9714,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 11,
+   "forks": 12,
    "open_issues": 7,
    "watchers": 32,
    "default_branch": "master",
@@ -9723,7 +9723,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 11,
+   "network_count": 12,
    "subscribers_count": 9
   }
  },
