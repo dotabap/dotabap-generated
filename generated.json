@@ -5065,18 +5065,20 @@
   }
  },
  "abapkochbuch/Sources": {
-  "lines": 13180,
+  "lines": 13348,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
    "/LICENSE",
    "/README.md",
    "/package.json",
-   "/.travis.yml"
+   "/.travis.yml",
+   "/kapitel_18/zbook_dyn_selscr.fugr.zbook_dyn_selscr_template_incl.abap",
+   "/kapitel_18/zbook_dyn_selscr.fugr.zbook_dyn_selscr_template_incl.xml"
   ],
   "parsing": {
    "version": "2.0.1",
-   "cloud": 706
+   "cloud": 709
   },
   "repo": {
    "id": 138191413,
@@ -5145,14 +5147,14 @@
    "releases_url": "https://api.github.com/repos/abapkochbuch/Sources/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapkochbuch/Sources/deployments",
    "created_at": "2018-06-21T15:49:02Z",
-   "updated_at": "2019-03-25T03:08:10Z",
-   "pushed_at": "2019-03-01T12:06:52Z",
+   "updated_at": "2019-09-04T19:39:57Z",
+   "pushed_at": "2019-09-04T19:39:56Z",
    "git_url": "git://github.com/abapkochbuch/Sources.git",
    "ssh_url": "git@github.com:abapkochbuch/Sources.git",
    "clone_url": "https://github.com/abapkochbuch/Sources.git",
    "svn_url": "https://github.com/abapkochbuch/Sources",
    "homepage": "https://www.rheinwerk-verlag.de/das-abap-kochbuch_4103/",
-   "size": 293,
+   "size": 346,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
@@ -5165,7 +5167,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5174,7 +5176,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 3,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 8,
    "default_branch": "master",
    "permissions": {
@@ -5756,7 +5758,7 @@
   }
  },
  "bizhuka/xtt": {
-  "lines": 7368,
+  "lines": 7398,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.0.1",
@@ -5829,14 +5831,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/xtt/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/xtt/deployments",
    "created_at": "2018-02-08T06:31:13Z",
-   "updated_at": "2019-07-06T10:55:21Z",
-   "pushed_at": "2019-07-06T10:55:19Z",
+   "updated_at": "2019-09-04T11:37:35Z",
+   "pushed_at": "2019-09-04T11:37:33Z",
    "git_url": "git://github.com/bizhuka/xtt.git",
    "ssh_url": "git@github.com:bizhuka/xtt.git",
    "clone_url": "https://github.com/bizhuka/xtt.git",
    "svn_url": "https://github.com/bizhuka/xtt",
    "homepage": null,
-   "size": 607,
+   "size": 616,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -6328,7 +6330,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-08-30T12:36:39Z",
+   "updated_at": "2019-09-04T12:21:28Z",
    "pushed_at": "2019-09-01T16:04:28Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
@@ -6336,8 +6338,8 @@
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
    "size": 11550,
-   "stargazers_count": 567,
-   "watchers_count": 567,
+   "stargazers_count": 568,
+   "watchers_count": 568,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6358,7 +6360,7 @@
    },
    "forks": 227,
    "open_issues": 205,
-   "watchers": 567,
+   "watchers": 568,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -6366,7 +6368,7 @@
     "pull": true
    },
    "network_count": 227,
-   "subscribers_count": 100
+   "subscribers_count": 101
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -7923,7 +7925,7 @@
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2019-08-31T07:15:02Z",
-   "pushed_at": "2019-08-22T06:57:17Z",
+   "pushed_at": "2019-09-04T16:48:31Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
@@ -7938,11 +7940,11 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 120,
+   "forks_count": 121,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 95,
+   "open_issues_count": 97,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7950,8 +7952,8 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 120,
-   "open_issues": 95,
+   "forks": 121,
+   "open_issues": 97,
    "watchers": 226,
    "default_branch": "master",
    "permissions": {
@@ -7979,8 +7981,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 120,
-   "subscribers_count": 68
+   "network_count": 121,
+   "subscribers_count": 69
   }
  },
  "furlan/abap101_AOC2017": {
@@ -10305,14 +10307,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-08-30T11:05:57Z",
-   "pushed_at": "2019-08-30T11:05:55Z",
+   "updated_at": "2019-09-04T04:45:42Z",
+   "pushed_at": "2019-09-04T04:45:41Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 1925,
+   "size": 1939,
    "stargazers_count": 93,
    "watchers_count": 93,
    "language": "ABAP",
@@ -10325,7 +10327,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 290,
+   "open_issues_count": 291,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10334,7 +10336,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 30,
-   "open_issues": 290,
+   "open_issues": 291,
    "watchers": 93,
    "default_branch": "master",
    "permissions": {
@@ -12168,7 +12170,7 @@
     "pull": true
    },
    "network_count": 13,
-   "subscribers_count": 23
+   "subscribers_count": 24
   }
  },
  "se38/abapFaker": {
