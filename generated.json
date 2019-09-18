@@ -237,7 +237,7 @@
   }
  },
  "tricktresor/gladius": {
-  "lines": 964,
+  "lines": 3120,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
@@ -249,7 +249,7 @@
   ],
   "parsing": {
    "version": "2.0.1",
-   "cloud": 24
+   "cloud": 56
   },
   "repo": {
    "id": 95716709,
@@ -318,14 +318,14 @@
    "releases_url": "https://api.github.com/repos/tricktresor/gladius/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/gladius/deployments",
    "created_at": "2017-06-28T22:25:27Z",
-   "updated_at": "2019-05-08T09:46:33Z",
-   "pushed_at": "2019-04-30T15:18:50Z",
+   "updated_at": "2019-09-18T20:21:38Z",
+   "pushed_at": "2019-09-18T20:21:36Z",
    "git_url": "git://github.com/tricktresor/gladius.git",
    "ssh_url": "git@github.com:tricktresor/gladius.git",
    "clone_url": "https://github.com/tricktresor/gladius.git",
    "svn_url": "https://github.com/tricktresor/gladius",
    "homepage": null,
-   "size": 47,
+   "size": 84,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -2048,7 +2048,7 @@
    "releases_url": "https://api.github.com/repos/SAP/abap-platform-jak/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/abap-platform-jak/deployments",
    "created_at": "2019-02-24T02:42:32Z",
-   "updated_at": "2019-08-14T17:39:12Z",
+   "updated_at": "2019-09-18T13:46:25Z",
    "pushed_at": "2019-03-19T12:24:47Z",
    "git_url": "git://github.com/SAP/abap-platform-jak.git",
    "ssh_url": "git@github.com:SAP/abap-platform-jak.git",
@@ -2056,8 +2056,8 @@
    "svn_url": "https://github.com/SAP/abap-platform-jak",
    "homepage": null,
    "size": 21,
-   "stargazers_count": 7,
-   "watchers_count": 7,
+   "stargazers_count": 8,
+   "watchers_count": 8,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2078,7 +2078,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 7,
+   "watchers": 8,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6203,11 +6203,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 228,
+   "forks_count": 229,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 204,
+   "open_issues_count": 205,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6215,8 +6215,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 228,
-   "open_issues": 204,
+   "forks": 229,
+   "open_issues": 205,
    "watchers": 571,
    "default_branch": "master",
    "permissions": {
@@ -6224,8 +6224,8 @@
     "push": true,
     "pull": true
    },
-   "network_count": 228,
-   "subscribers_count": 103
+   "network_count": 229,
+   "subscribers_count": 102
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -7781,7 +7781,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-09-11T08:48:28Z",
+   "updated_at": "2019-09-18T06:21:07Z",
    "pushed_at": "2019-09-06T16:02:23Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -7789,8 +7789,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 24854,
-   "stargazers_count": 230,
-   "watchers_count": 230,
+   "stargazers_count": 231,
+   "watchers_count": 231,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7801,7 +7801,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 97,
+   "open_issues_count": 98,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7810,8 +7810,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 121,
-   "open_issues": 97,
-   "watchers": 230,
+   "open_issues": 98,
+   "watchers": 231,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -7839,7 +7839,7 @@
     "site_admin": false
    },
    "network_count": 121,
-   "subscribers_count": 69
+   "subscribers_count": 70
   }
  },
  "furlan/abap101_AOC2017": {
@@ -14948,7 +14948,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -14960,7 +14960,7 @@
     "url": "https://api.github.com/licenses/agpl-3.0",
     "node_id": "MDc6TGljZW5zZTE="
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
    "watchers": 9,
    "default_branch": "master",
@@ -14989,7 +14989,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 11
   }
  },
