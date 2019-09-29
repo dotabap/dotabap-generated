@@ -2048,7 +2048,7 @@
    "releases_url": "https://api.github.com/repos/SAP/abap-platform-jak/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/abap-platform-jak/deployments",
    "created_at": "2019-02-24T02:42:32Z",
-   "updated_at": "2019-09-27T15:25:41Z",
+   "updated_at": "2019-09-29T03:14:44Z",
    "pushed_at": "2019-09-27T15:25:39Z",
    "git_url": "git://github.com/SAP/abap-platform-jak.git",
    "ssh_url": "git@github.com:SAP/abap-platform-jak.git",
@@ -2056,8 +2056,8 @@
    "svn_url": "https://github.com/SAP/abap-platform-jak",
    "homepage": null,
    "size": 22,
-   "stargazers_count": 9,
-   "watchers_count": 9,
+   "stargazers_count": 10,
+   "watchers_count": 10,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2078,7 +2078,7 @@
    },
    "forks": 3,
    "open_issues": 0,
-   "watchers": 9,
+   "watchers": 10,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6102,7 +6102,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 88306,
+  "lines": 88307,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6187,14 +6187,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-09-26T20:15:26Z",
-   "pushed_at": "2019-09-28T07:43:11Z",
+   "updated_at": "2019-09-29T06:41:46Z",
+   "pushed_at": "2019-09-29T15:57:57Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11724,
+   "size": 11687,
    "stargazers_count": 579,
    "watchers_count": 579,
    "language": "ABAP",
@@ -6207,7 +6207,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 212,
+   "open_issues_count": 209,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6216,7 +6216,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 232,
-   "open_issues": 212,
+   "open_issues": 209,
    "watchers": 579,
    "default_branch": "master",
    "permissions": {
@@ -7699,7 +7699,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 46481,
+  "lines": 46207,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -7712,7 +7712,7 @@
   ],
   "parsing": {
    "version": "2.1.3",
-   "cloud": 892
+   "cloud": 900
   },
   "repo": {
    "id": 15457787,
@@ -7781,14 +7781,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-09-24T20:37:52Z",
-   "pushed_at": "2019-09-25T09:10:52Z",
+   "updated_at": "2019-09-29T17:57:39Z",
+   "pushed_at": "2019-09-29T17:57:37Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 24819,
+   "size": 24879,
    "stargazers_count": 231,
    "watchers_count": 231,
    "language": "ABAP",
@@ -7801,7 +7801,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 97,
+   "open_issues_count": 95,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7810,7 +7810,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 122,
-   "open_issues": 97,
+   "open_issues": 95,
    "watchers": 231,
    "default_branch": "master",
    "permissions": {
@@ -9299,7 +9299,7 @@
    "releases_url": "https://api.github.com/repos/alborghetti/ABAPFire/releases{/id}",
    "deployments_url": "https://api.github.com/repos/alborghetti/ABAPFire/deployments",
    "created_at": "2017-08-17T19:15:22Z",
-   "updated_at": "2019-04-09T21:32:34Z",
+   "updated_at": "2019-09-29T02:24:31Z",
    "pushed_at": "2018-11-22T08:33:41Z",
    "git_url": "git://github.com/alborghetti/ABAPFire.git",
    "ssh_url": "git@github.com:alborghetti/ABAPFire.git",
@@ -9307,8 +9307,8 @@
    "svn_url": "https://github.com/alborghetti/ABAPFire",
    "homepage": "http://alborghetti.github.io/ABAPFire/",
    "size": 76,
-   "stargazers_count": 10,
-   "watchers_count": 10,
+   "stargazers_count": 11,
+   "watchers_count": 11,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -9329,7 +9329,7 @@
    },
    "forks": 5,
    "open_issues": 1,
-   "watchers": 10,
+   "watchers": 11,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -9691,7 +9691,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 23,
+   "forks_count": 24,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9703,7 +9703,7 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "node_id": "MDc6TGljZW5zZTk="
    },
-   "forks": 23,
+   "forks": 24,
    "open_issues": 2,
    "watchers": 47,
    "default_branch": "master",
@@ -9712,7 +9712,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 23,
+   "network_count": 24,
    "subscribers_count": 22
   }
  },
