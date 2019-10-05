@@ -7699,7 +7699,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 46228,
+  "lines": 46229,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -7781,14 +7781,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-10-01T14:49:10Z",
-   "pushed_at": "2019-10-04T19:29:38Z",
+   "updated_at": "2019-10-05T12:13:45Z",
+   "pushed_at": "2019-10-05T12:13:43Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 24895,
+   "size": 24802,
    "stargazers_count": 233,
    "watchers_count": 233,
    "language": "ABAP",
@@ -7801,7 +7801,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 96,
+   "open_issues_count": 94,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7810,7 +7810,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 124,
-   "open_issues": 96,
+   "open_issues": 94,
    "watchers": 233,
    "default_branch": "master",
    "permissions": {
@@ -10184,7 +10184,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 296,
+   "open_issues_count": 295,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10193,7 +10193,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 32,
-   "open_issues": 296,
+   "open_issues": 295,
    "watchers": 94,
    "default_branch": "master",
    "permissions": {
