@@ -4478,7 +4478,7 @@
    "releases_url": "https://api.github.com/repos/tricktresor/cute/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/cute/deployments",
    "created_at": "2019-10-17T16:23:11Z",
-   "updated_at": "2019-10-19T17:38:19Z",
+   "updated_at": "2019-10-20T13:11:58Z",
    "pushed_at": "2019-10-19T17:38:18Z",
    "git_url": "git://github.com/tricktresor/cute.git",
    "ssh_url": "git@github.com:tricktresor/cute.git",
@@ -4486,8 +4486,8 @@
    "svn_url": "https://github.com/tricktresor/cute",
    "homepage": null,
    "size": 77,
-   "stargazers_count": 13,
-   "watchers_count": 13,
+   "stargazers_count": 14,
+   "watchers_count": 14,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4508,7 +4508,7 @@
    },
    "forks": 2,
    "open_issues": 11,
-   "watchers": 13,
+   "watchers": 14,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4516,7 +4516,7 @@
     "pull": true
    },
    "network_count": 2,
-   "subscribers_count": 8
+   "subscribers_count": 9
   }
  },
  "damir-majer/ABAPKoans": {
@@ -6418,14 +6418,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-10-18T14:57:30Z",
-   "pushed_at": "2019-10-18T14:57:28Z",
+   "updated_at": "2019-10-20T12:51:38Z",
+   "pushed_at": "2019-10-20T12:51:36Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11804,
+   "size": 11810,
    "stargazers_count": 591,
    "watchers_count": 591,
    "language": "ABAP",
@@ -6438,7 +6438,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 186,
+   "open_issues_count": 187,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6447,7 +6447,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 238,
-   "open_issues": 186,
+   "open_issues": 187,
    "watchers": 591,
    "default_branch": "master",
    "permissions": {
@@ -6456,7 +6456,7 @@
     "pull": true
    },
    "network_count": 238,
-   "subscribers_count": 102
+   "subscribers_count": 103
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -10395,7 +10395,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-10-18T17:26:52Z",
+   "updated_at": "2019-10-20T01:17:31Z",
    "pushed_at": "2019-10-18T12:26:10Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -10403,8 +10403,8 @@
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
    "size": 1942,
-   "stargazers_count": 96,
-   "watchers_count": 96,
+   "stargazers_count": 97,
+   "watchers_count": 97,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10425,7 +10425,7 @@
    },
    "forks": 34,
    "open_issues": 294,
-   "watchers": 96,
+   "watchers": 97,
    "default_branch": "master",
    "permissions": {
     "admin": true,
