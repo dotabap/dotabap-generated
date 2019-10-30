@@ -6333,7 +6333,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 90138,
+  "lines": 90156,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6418,8 +6418,8 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-10-29T10:30:49Z",
-   "pushed_at": "2019-10-28T15:47:54Z",
+   "updated_at": "2019-10-30T05:50:20Z",
+   "pushed_at": "2019-10-30T05:50:17Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
@@ -6438,7 +6438,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 198,
+   "open_issues_count": 197,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6447,7 +6447,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 241,
-   "open_issues": 198,
+   "open_issues": 197,
    "watchers": 598,
    "default_branch": "master",
    "permissions": {
@@ -7930,7 +7930,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 46229,
+  "lines": 46236,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -8012,8 +8012,8 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-10-16T15:51:38Z",
-   "pushed_at": "2019-10-29T16:29:23Z",
+   "updated_at": "2019-10-30T06:20:33Z",
+   "pushed_at": "2019-10-30T06:20:31Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
@@ -8032,7 +8032,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 97,
+   "open_issues_count": 94,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -8041,7 +8041,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 127,
-   "open_issues": 97,
+   "open_issues": 94,
    "watchers": 236,
    "default_branch": "master",
    "permissions": {
