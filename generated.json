@@ -233,7 +233,7 @@
     "pull": true
    },
    "network_count": 38,
-   "subscribers_count": 29
+   "subscribers_count": 30
   }
  },
  "tricktresor/gladius": {
@@ -1395,14 +1395,14 @@
    "releases_url": "https://api.github.com/repos/sandraros/abap-CSR/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sandraros/abap-CSR/deployments",
    "created_at": "2019-11-01T23:26:43Z",
-   "updated_at": "2019-11-04T08:05:20Z",
-   "pushed_at": "2019-11-04T08:05:18Z",
+   "updated_at": "2019-11-11T15:36:46Z",
+   "pushed_at": "2019-11-11T15:36:44Z",
    "git_url": "git://github.com/sandraros/abap-CSR.git",
    "ssh_url": "git@github.com:sandraros/abap-CSR.git",
    "clone_url": "https://github.com/sandraros/abap-CSR.git",
    "svn_url": "https://github.com/sandraros/abap-CSR",
    "homepage": null,
-   "size": 137,
+   "size": 139,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -2832,7 +2832,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -2841,7 +2841,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 9,
-   "open_issues": 0,
+   "open_issues": 1,
    "watchers": 58,
    "default_branch": "master",
    "permissions": {
@@ -2870,7 +2870,7 @@
     "site_admin": false
    },
    "network_count": 9,
-   "subscribers_count": 25
+   "subscribers_count": 24
   }
  },
  "hardyp/AbapToTheFuture03": {
@@ -4223,23 +4223,23 @@
    "releases_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/deployments",
    "created_at": "2018-10-28T18:36:49Z",
-   "updated_at": "2019-11-09T18:59:51Z",
-   "pushed_at": "2019-11-09T18:59:49Z",
+   "updated_at": "2019-11-11T18:15:17Z",
+   "pushed_at": "2019-11-11T18:15:15Z",
    "git_url": "git://github.com/pawelwiejkut/bw_toolbox.git",
    "ssh_url": "git@github.com:pawelwiejkut/bw_toolbox.git",
    "clone_url": "https://github.com/pawelwiejkut/bw_toolbox.git",
    "svn_url": "https://github.com/pawelwiejkut/bw_toolbox",
    "homepage": "",
-   "size": 38,
-   "stargazers_count": 3,
-   "watchers_count": 3,
+   "size": 39,
+   "stargazers_count": 4,
+   "watchers_count": 4,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -4251,16 +4251,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
-   "watchers": 3,
+   "watchers": 4,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
     "pull": true
    },
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 2
   }
  },
@@ -4728,7 +4728,7 @@
    "releases_url": "https://api.github.com/repos/tricktresor/cute/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/cute/deployments",
    "created_at": "2019-10-17T16:23:11Z",
-   "updated_at": "2019-11-06T21:57:35Z",
+   "updated_at": "2019-11-11T04:51:25Z",
    "pushed_at": "2019-11-06T21:57:33Z",
    "git_url": "git://github.com/tricktresor/cute.git",
    "ssh_url": "git@github.com:tricktresor/cute.git",
@@ -4736,8 +4736,8 @@
    "svn_url": "https://github.com/tricktresor/cute",
    "homepage": null,
    "size": 207,
-   "stargazers_count": 23,
-   "watchers_count": 23,
+   "stargazers_count": 24,
+   "watchers_count": 24,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4758,7 +4758,7 @@
    },
    "forks": 2,
    "open_issues": 10,
-   "watchers": 23,
+   "watchers": 24,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6541,7 +6541,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 16,
+   "open_issues_count": 17,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6550,7 +6550,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 17,
-   "open_issues": 16,
+   "open_issues": 17,
    "watchers": 61,
    "default_branch": "master",
    "permissions": {
@@ -6668,14 +6668,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-11-08T12:02:16Z",
-   "pushed_at": "2019-11-09T10:23:46Z",
+   "updated_at": "2019-11-11T08:21:25Z",
+   "pushed_at": "2019-11-11T20:34:39Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11897,
+   "size": 11916,
    "stargazers_count": 606,
    "watchers_count": 606,
    "language": "ABAP",
@@ -6684,7 +6684,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 248,
+   "forks_count": 249,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -6696,7 +6696,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 248,
+   "forks": 249,
    "open_issues": 204,
    "watchers": 606,
    "default_branch": "master",
@@ -6705,7 +6705,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 248,
+   "network_count": 249,
    "subscribers_count": 103
   }
  },
@@ -8262,7 +8262,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-11-09T00:43:12Z",
+   "updated_at": "2019-11-11T14:57:35Z",
    "pushed_at": "2019-10-30T06:20:31Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -8270,15 +8270,15 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 24852,
-   "stargazers_count": 238,
-   "watchers_count": 238,
+   "stargazers_count": 240,
+   "watchers_count": 240,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 124,
+   "forks_count": 125,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8290,9 +8290,9 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 124,
+   "forks": 125,
    "open_issues": 94,
-   "watchers": 238,
+   "watchers": 240,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -8319,7 +8319,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 124,
+   "network_count": 125,
    "subscribers_count": 73
   }
  },
@@ -10564,7 +10564,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 40379,
+  "lines": 40336,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -10645,14 +10645,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2019-11-10T12:49:54Z",
-   "pushed_at": "2019-11-10T12:54:37Z",
+   "updated_at": "2019-11-11T08:23:03Z",
+   "pushed_at": "2019-11-11T16:42:19Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2075,
+   "size": 2087,
    "stargazers_count": 98,
    "watchers_count": 98,
    "language": "ABAP",
@@ -10665,7 +10665,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 303,
+   "open_issues_count": 300,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10674,7 +10674,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 36,
-   "open_issues": 303,
+   "open_issues": 300,
    "watchers": 98,
    "default_branch": "master",
    "permissions": {
@@ -15539,7 +15539,7 @@
    "releases_url": "https://api.github.com/repos/mkysoft/xlsxreader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/mkysoft/xlsxreader/deployments",
    "created_at": "2019-09-12T09:08:45Z",
-   "updated_at": "2019-11-08T06:40:47Z",
+   "updated_at": "2019-11-11T02:43:48Z",
    "pushed_at": "2019-09-13T14:14:04Z",
    "git_url": "git://github.com/mkysoft/xlsxreader.git",
    "ssh_url": "git@github.com:mkysoft/xlsxreader.git",
@@ -15547,15 +15547,15 @@
    "svn_url": "https://github.com/mkysoft/xlsxreader",
    "homepage": "",
    "size": 17,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -15567,16 +15567,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
-   "watchers": 2,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
     "pull": true
    },
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 2
   }
  },
