@@ -440,7 +440,7 @@
    "releases_url": "https://api.github.com/repos/ivanfemia/abap2gapps/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ivanfemia/abap2gapps/deployments",
    "created_at": "2014-01-05T00:16:42Z",
-   "updated_at": "2018-12-06T07:47:34Z",
+   "updated_at": "2019-11-16T13:48:53Z",
    "pushed_at": "2018-08-30T17:16:02Z",
    "git_url": "git://github.com/ivanfemia/abap2gapps.git",
    "ssh_url": "git@github.com:ivanfemia/abap2gapps.git",
@@ -448,15 +448,15 @@
    "svn_url": "https://github.com/ivanfemia/abap2gapps",
    "homepage": null,
    "size": 71,
-   "stargazers_count": 7,
-   "watchers_count": 7,
+   "stargazers_count": 8,
+   "watchers_count": 8,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 3,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -468,17 +468,17 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 3,
+   "forks": 4,
    "open_issues": 0,
-   "watchers": 7,
+   "watchers": 8,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
     "pull": true
    },
-   "network_count": 3,
-   "subscribers_count": 7
+   "network_count": 4,
+   "subscribers_count": 8
   }
  },
  "ivanfemia/abap2oauth2": {
@@ -1050,7 +1050,7 @@
    "releases_url": "https://api.github.com/repos/flaiker/ci-lib/releases{/id}",
    "deployments_url": "https://api.github.com/repos/flaiker/ci-lib/deployments",
    "created_at": "2018-12-14T13:18:46Z",
-   "updated_at": "2019-09-17T10:58:46Z",
+   "updated_at": "2019-11-16T13:43:58Z",
    "pushed_at": "2019-07-07T11:59:19Z",
    "git_url": "git://github.com/flaiker/ci-lib.git",
    "ssh_url": "git@github.com:flaiker/ci-lib.git",
@@ -1058,15 +1058,15 @@
    "svn_url": "https://github.com/flaiker/ci-lib",
    "homepage": null,
    "size": 183,
-   "stargazers_count": 7,
-   "watchers_count": 7,
+   "stargazers_count": 8,
+   "watchers_count": 8,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -1078,17 +1078,17 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 0,
+   "forks": 1,
    "open_issues": 2,
-   "watchers": 7,
+   "watchers": 8,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
     "pull": true
    },
-   "network_count": 0,
-   "subscribers_count": 4
+   "network_count": 1,
+   "subscribers_count": 5
   }
  },
  "MDJoerg/adele": {
@@ -2028,7 +2028,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -2040,7 +2040,7 @@
     "url": "https://api.github.com/licenses/unlicense",
     "node_id": "MDc6TGljZW5zZTE1"
    },
-   "forks": 0,
+   "forks": 1,
    "open_issues": 3,
    "watchers": 14,
    "default_branch": "master",
@@ -2049,7 +2049,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 3
   }
  },
@@ -2135,7 +2135,7 @@
    "releases_url": "https://api.github.com/repos/SAP/abap-platform-yy/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/abap-platform-yy/deployments",
    "created_at": "2019-02-24T02:38:39Z",
-   "updated_at": "2019-09-27T15:23:22Z",
+   "updated_at": "2019-11-16T17:48:01Z",
    "pushed_at": "2019-09-27T15:23:20Z",
    "git_url": "git://github.com/SAP/abap-platform-yy.git",
    "ssh_url": "git@github.com:SAP/abap-platform-yy.git",
@@ -2143,15 +2143,15 @@
    "svn_url": "https://github.com/SAP/abap-platform-yy",
    "homepage": null,
    "size": 33,
-   "stargazers_count": 7,
-   "watchers_count": 7,
+   "stargazers_count": 8,
+   "watchers_count": 8,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -2163,9 +2163,9 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
    },
-   "forks": 2,
+   "forks": 3,
    "open_issues": 0,
-   "watchers": 7,
+   "watchers": 8,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -2192,8 +2192,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 2,
-   "subscribers_count": 5
+   "network_count": 3,
+   "subscribers_count": 6
   }
  },
  "INVIXO/PigeonX": {
@@ -2413,7 +2413,7 @@
    "releases_url": "https://api.github.com/repos/SAP/abap-platform-jak/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/abap-platform-jak/deployments",
    "created_at": "2019-02-24T02:42:32Z",
-   "updated_at": "2019-09-29T03:14:44Z",
+   "updated_at": "2019-11-16T17:19:06Z",
    "pushed_at": "2019-09-27T15:25:39Z",
    "git_url": "git://github.com/SAP/abap-platform-jak.git",
    "ssh_url": "git@github.com:SAP/abap-platform-jak.git",
@@ -2421,15 +2421,15 @@
    "svn_url": "https://github.com/SAP/abap-platform-jak",
    "homepage": null,
    "size": 22,
-   "stargazers_count": 10,
-   "watchers_count": 10,
+   "stargazers_count": 11,
+   "watchers_count": 11,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 3,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -2441,9 +2441,9 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
    },
-   "forks": 3,
+   "forks": 4,
    "open_issues": 0,
-   "watchers": 10,
+   "watchers": 11,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -2470,8 +2470,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 3,
-   "subscribers_count": 4
+   "network_count": 4,
+   "subscribers_count": 5
   }
  },
  "SAP/ewm-cloud-robotics-s4": {
@@ -2947,7 +2947,7 @@
    "releases_url": "https://api.github.com/repos/hardyp/AbapToTheFuture03/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hardyp/AbapToTheFuture03/deployments",
    "created_at": "2019-02-22T11:02:40Z",
-   "updated_at": "2019-10-13T05:19:44Z",
+   "updated_at": "2019-11-16T04:27:17Z",
    "pushed_at": "2019-10-13T05:19:41Z",
    "git_url": "git://github.com/hardyp/AbapToTheFuture03.git",
    "ssh_url": "git@github.com:hardyp/AbapToTheFuture03.git",
@@ -2955,8 +2955,8 @@
    "svn_url": "https://github.com/hardyp/AbapToTheFuture03",
    "homepage": null,
    "size": 582,
-   "stargazers_count": 11,
-   "watchers_count": 11,
+   "stargazers_count": 12,
+   "watchers_count": 12,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -2977,7 +2977,7 @@
    },
    "forks": 7,
    "open_issues": 3,
-   "watchers": 11,
+   "watchers": 12,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3078,7 +3078,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -3090,7 +3090,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 5,
    "watchers": 3,
    "default_branch": "master",
@@ -3119,8 +3119,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 1,
-   "subscribers_count": 2
+   "network_count": 2,
+   "subscribers_count": 3
   }
  },
  "uweku/mockA": {
@@ -3727,7 +3727,7 @@
    "releases_url": "https://api.github.com/repos/fidley/Customers/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/Customers/deployments",
    "created_at": "2019-06-03T14:02:28Z",
-   "updated_at": "2019-10-07T12:59:03Z",
+   "updated_at": "2019-11-16T14:57:39Z",
    "pushed_at": "2019-07-11T09:51:08Z",
    "git_url": "git://github.com/fidley/Customers.git",
    "ssh_url": "git@github.com:fidley/Customers.git",
@@ -3735,8 +3735,8 @@
    "svn_url": "https://github.com/fidley/Customers",
    "homepage": "https://abapblog.com/articles/how-to/130-zcl-cmd-customer-wrapper-for-cmd-ei-api-classes",
    "size": 137,
-   "stargazers_count": 3,
-   "watchers_count": 3,
+   "stargazers_count": 4,
+   "watchers_count": 4,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3757,7 +3757,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 3,
+   "watchers": 4,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4843,8 +4843,8 @@
    "releases_url": "https://api.github.com/repos/tricktresor/cute/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/cute/deployments",
    "created_at": "2019-10-17T16:23:11Z",
-   "updated_at": "2019-11-15T18:50:44Z",
-   "pushed_at": "2019-11-06T21:57:33Z",
+   "updated_at": "2019-11-16T23:56:07Z",
+   "pushed_at": "2019-11-16T23:56:05Z",
    "git_url": "git://github.com/tricktresor/cute.git",
    "ssh_url": "git@github.com:tricktresor/cute.git",
    "clone_url": "https://github.com/tricktresor/cute.git",
@@ -6803,7 +6803,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 205,
+   "open_issues_count": 204,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6812,7 +6812,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 250,
-   "open_issues": 205,
+   "open_issues": 204,
    "watchers": 608,
    "default_branch": "master",
    "permissions": {
@@ -9771,7 +9771,7 @@
    "releases_url": "https://api.github.com/repos/jasper07/Teched17/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jasper07/Teched17/deployments",
    "created_at": "2017-08-11T07:41:30Z",
-   "updated_at": "2019-09-11T01:09:43Z",
+   "updated_at": "2019-11-16T13:52:49Z",
    "pushed_at": "2018-01-19T10:20:58Z",
    "git_url": "git://github.com/jasper07/Teched17.git",
    "ssh_url": "git@github.com:jasper07/Teched17.git",
@@ -9779,15 +9779,15 @@
    "svn_url": "https://github.com/jasper07/Teched17",
    "homepage": "",
    "size": 11365,
-   "stargazers_count": 33,
-   "watchers_count": 33,
+   "stargazers_count": 34,
+   "watchers_count": 34,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 11,
+   "forks_count": 12,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9799,17 +9799,17 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 11,
+   "forks": 12,
    "open_issues": 1,
-   "watchers": 33,
+   "watchers": 34,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
     "pull": true
    },
-   "network_count": 11,
-   "subscribers_count": 15
+   "network_count": 12,
+   "subscribers_count": 16
   }
  },
  "alborghetti/ABAPFire": {
@@ -11383,7 +11383,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 19,
+   "forks_count": 18,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -11395,7 +11395,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 19,
+   "forks": 18,
    "open_issues": 17,
    "watchers": 42,
    "default_branch": "master",
@@ -11404,7 +11404,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 19,
+   "network_count": 18,
    "subscribers_count": 15
   }
  },
@@ -12347,7 +12347,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -12359,7 +12359,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 0,
+   "forks": 1,
    "open_issues": 1,
    "watchers": 2,
    "default_branch": "master",
@@ -12368,7 +12368,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 1
   }
  },
