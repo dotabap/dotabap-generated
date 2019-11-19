@@ -115,7 +115,7 @@
   }
  },
  "epeterson320/ABAP-Logger": {
-  "lines": 2484,
+  "lines": 2473,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
@@ -195,14 +195,14 @@
    "releases_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2019-11-18T09:32:09Z",
-   "pushed_at": "2019-11-07T16:48:03Z",
+   "updated_at": "2019-11-18T19:01:55Z",
+   "pushed_at": "2019-11-18T19:01:52Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
    "clone_url": "https://github.com/epeterson320/ABAP-Logger.git",
    "svn_url": "https://github.com/epeterson320/ABAP-Logger",
    "homepage": null,
-   "size": 144,
+   "size": 145,
    "stargazers_count": 133,
    "watchers_count": 133,
    "language": "ABAP",
@@ -215,7 +215,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 12,
+   "open_issues_count": 11,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -224,7 +224,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 38,
-   "open_issues": 12,
+   "open_issues": 11,
    "watchers": 133,
    "default_branch": "master",
    "permissions": {
@@ -4996,7 +4996,7 @@
     "pull": true
    },
    "network_count": 3,
-   "subscribers_count": 13
+   "subscribers_count": 14
   }
  },
  "damir-majer/ABAPKoans": {
@@ -10794,7 +10794,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 39980,
+  "lines": 39972,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -10882,7 +10882,7 @@
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2172,
+   "size": 2187,
    "stargazers_count": 98,
    "watchers_count": 98,
    "language": "ABAP",
@@ -10895,7 +10895,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 291,
+   "open_issues_count": 289,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10904,7 +10904,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 35,
-   "open_issues": 291,
+   "open_issues": 289,
    "watchers": 98,
    "default_branch": "master",
    "permissions": {
