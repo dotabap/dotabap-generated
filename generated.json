@@ -848,11 +848,11 @@
   }
  },
  "stockbal/abap-search-tools": {
-  "lines": 15176,
+  "lines": 15102,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.1.3",
-   "cloud": 120
+   "cloud": 103
   },
   "repo": {
    "id": 200108913,
@@ -921,14 +921,14 @@
    "releases_url": "https://api.github.com/repos/stockbal/abap-search-tools/releases{/id}",
    "deployments_url": "https://api.github.com/repos/stockbal/abap-search-tools/deployments",
    "created_at": "2019-08-01T19:35:06Z",
-   "updated_at": "2019-11-25T14:14:24Z",
-   "pushed_at": "2019-11-26T16:34:26Z",
+   "updated_at": "2019-11-27T15:30:07Z",
+   "pushed_at": "2019-11-27T15:30:05Z",
    "git_url": "git://github.com/stockbal/abap-search-tools.git",
    "ssh_url": "git@github.com:stockbal/abap-search-tools.git",
    "clone_url": "https://github.com/stockbal/abap-search-tools.git",
    "svn_url": "https://github.com/stockbal/abap-search-tools",
    "homepage": "",
-   "size": 341,
+   "size": 387,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -1796,7 +1796,7 @@
   }
  },
  "1DSAG/ATC-Best-Practice-Guide": {
-  "lines": 1345,
+  "lines": 1346,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.1.3",
@@ -1869,14 +1869,14 @@
    "releases_url": "https://api.github.com/repos/1DSAG/ATC-Best-Practice-Guide/releases{/id}",
    "deployments_url": "https://api.github.com/repos/1DSAG/ATC-Best-Practice-Guide/deployments",
    "created_at": "2019-04-26T07:18:08Z",
-   "updated_at": "2019-11-12T20:30:19Z",
-   "pushed_at": "2019-11-10T08:53:42Z",
+   "updated_at": "2019-11-27T16:30:35Z",
+   "pushed_at": "2019-11-27T16:30:32Z",
    "git_url": "git://github.com/1DSAG/ATC-Best-Practice-Guide.git",
    "ssh_url": "git@github.com:1DSAG/ATC-Best-Practice-Guide.git",
    "clone_url": "https://github.com/1DSAG/ATC-Best-Practice-Guide.git",
    "svn_url": "https://github.com/1DSAG/ATC-Best-Practice-Guide",
    "homepage": "",
-   "size": 32,
+   "size": 38,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -3758,7 +3758,7 @@
     "pull": true
    },
    "network_count": 4,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "fidley/Customers": {
@@ -4958,7 +4958,7 @@
    "releases_url": "https://api.github.com/repos/tricktresor/cute/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/cute/deployments",
    "created_at": "2019-10-17T16:23:11Z",
-   "updated_at": "2019-11-16T23:56:07Z",
+   "updated_at": "2019-11-27T23:59:27Z",
    "pushed_at": "2019-11-16T23:56:05Z",
    "git_url": "git://github.com/tricktresor/cute.git",
    "ssh_url": "git@github.com:tricktresor/cute.git",
@@ -4966,8 +4966,8 @@
    "svn_url": "https://github.com/tricktresor/cute",
    "homepage": null,
    "size": 211,
-   "stargazers_count": 27,
-   "watchers_count": 27,
+   "stargazers_count": 28,
+   "watchers_count": 28,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4988,7 +4988,7 @@
    },
    "forks": 3,
    "open_issues": 10,
-   "watchers": 27,
+   "watchers": 28,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6813,7 +6813,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 90711,
+  "lines": 90932,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6829,7 +6829,7 @@
   ],
   "parsing": {
    "version": "2.1.3",
-   "cloud": 771
+   "cloud": 772
   },
   "repo": {
    "id": 21115149,
@@ -6898,16 +6898,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-11-26T06:39:28Z",
-   "pushed_at": "2019-11-26T16:26:02Z",
+   "updated_at": "2019-11-27T05:23:58Z",
+   "pushed_at": "2019-11-27T07:06:35Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11947,
-   "stargazers_count": 610,
-   "watchers_count": 610,
+   "size": 11968,
+   "stargazers_count": 611,
+   "watchers_count": 611,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6918,7 +6918,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 208,
+   "open_issues_count": 205,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6927,8 +6927,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 252,
-   "open_issues": 208,
-   "watchers": 610,
+   "open_issues": 205,
+   "watchers": 611,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -10876,7 +10876,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2019-11-26T05:51:50Z",
-   "pushed_at": "2019-11-26T10:53:55Z",
+   "pushed_at": "2019-11-27T08:35:09Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
@@ -10895,7 +10895,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 289,
+   "open_issues_count": 290,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10904,7 +10904,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 35,
-   "open_issues": 289,
+   "open_issues": 290,
    "watchers": 98,
    "default_branch": "master",
    "permissions": {
@@ -16035,7 +16035,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -16047,7 +16047,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 0,
+   "forks": 1,
    "open_issues": 1,
    "watchers": 4,
    "default_branch": "master",
@@ -16056,7 +16056,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 1
   }
  },
