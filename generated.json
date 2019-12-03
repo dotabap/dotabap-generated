@@ -211,7 +211,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 40,
+   "forks_count": 41,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -223,7 +223,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 40,
+   "forks": 41,
    "open_issues": 11,
    "watchers": 134,
    "default_branch": "master",
@@ -232,7 +232,7 @@
     "push": false,
     "pull": true
    },
-   "network_count": 40,
+   "network_count": 41,
    "subscribers_count": 30
   }
  },
@@ -2927,7 +2927,7 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/abap_oo_patterns/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/abap_oo_patterns/deployments",
    "created_at": "2017-07-21T07:37:13Z",
-   "updated_at": "2019-10-10T01:51:41Z",
+   "updated_at": "2019-12-02T06:38:17Z",
    "pushed_at": "2019-07-12T15:27:26Z",
    "git_url": "git://github.com/SchwarzIT/abap_oo_patterns.git",
    "ssh_url": "git@github.com:SchwarzIT/abap_oo_patterns.git",
@@ -2935,8 +2935,8 @@
    "svn_url": "https://github.com/SchwarzIT/abap_oo_patterns",
    "homepage": null,
    "size": 189,
-   "stargazers_count": 58,
-   "watchers_count": 58,
+   "stargazers_count": 57,
+   "watchers_count": 57,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2957,7 +2957,7 @@
    },
    "forks": 9,
    "open_issues": 1,
-   "watchers": 58,
+   "watchers": 57,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3720,7 +3720,7 @@
    "releases_url": "https://api.github.com/repos/fidley/JSON2ABAPType/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/JSON2ABAPType/deployments",
    "created_at": "2018-08-20T16:24:34Z",
-   "updated_at": "2019-11-26T03:02:31Z",
+   "updated_at": "2019-12-02T19:55:57Z",
    "pushed_at": "2019-11-04T10:47:16Z",
    "git_url": "git://github.com/fidley/JSON2ABAPType.git",
    "ssh_url": "git@github.com:fidley/JSON2ABAPType.git",
@@ -3728,8 +3728,8 @@
    "svn_url": "https://github.com/fidley/JSON2ABAPType",
    "homepage": null,
    "size": 117,
-   "stargazers_count": 13,
-   "watchers_count": 13,
+   "stargazers_count": 14,
+   "watchers_count": 14,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3750,7 +3750,7 @@
    },
    "forks": 4,
    "open_issues": 0,
-   "watchers": 13,
+   "watchers": 14,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6813,7 +6813,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 90932,
+  "lines": 91075,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6898,16 +6898,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-11-28T15:49:06Z",
-   "pushed_at": "2019-12-01T21:10:49Z",
+   "updated_at": "2019-12-02T14:57:09Z",
+   "pushed_at": "2019-12-02T11:03:47Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 11968,
-   "stargazers_count": 613,
-   "watchers_count": 613,
+   "size": 11981,
+   "stargazers_count": 612,
+   "watchers_count": 612,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6918,7 +6918,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 209,
+   "open_issues_count": 206,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6927,8 +6927,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 253,
-   "open_issues": 209,
-   "watchers": 613,
+   "open_issues": 206,
+   "watchers": 612,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -6936,7 +6936,7 @@
     "pull": true
    },
    "network_count": 253,
-   "subscribers_count": 106
+   "subscribers_count": 107
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -8492,7 +8492,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2019-11-21T13:17:48Z",
+   "updated_at": "2019-12-02T13:00:08Z",
    "pushed_at": "2019-10-30T06:20:31Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -8500,8 +8500,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 24852,
-   "stargazers_count": 242,
-   "watchers_count": 242,
+   "stargazers_count": 243,
+   "watchers_count": 243,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -8522,7 +8522,7 @@
    },
    "forks": 127,
    "open_issues": 94,
-   "watchers": 242,
+   "watchers": 243,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -8550,7 +8550,7 @@
     "site_admin": false
    },
    "network_count": 127,
-   "subscribers_count": 73
+   "subscribers_count": 74
   }
  },
  "furlan/abap101_AOC2017": {
@@ -10891,7 +10891,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 35,
+   "forks_count": 36,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -10903,7 +10903,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 35,
+   "forks": 36,
    "open_issues": 290,
    "watchers": 99,
    "default_branch": "master",
@@ -10912,7 +10912,7 @@
     "push": true,
     "pull": true
    },
-   "network_count": 35,
+   "network_count": 36,
    "subscribers_count": 27
   }
  },
@@ -11725,14 +11725,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapNTLM/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapNTLM/deployments",
    "created_at": "2015-01-11T11:41:22Z",
-   "updated_at": "2019-11-28T15:55:38Z",
-   "pushed_at": "2019-11-28T15:55:36Z",
+   "updated_at": "2019-12-02T08:35:21Z",
+   "pushed_at": "2019-12-02T08:35:19Z",
    "git_url": "git://github.com/larshp/abapNTLM.git",
    "ssh_url": "git@github.com:larshp/abapNTLM.git",
    "clone_url": "https://github.com/larshp/abapNTLM.git",
    "svn_url": "https://github.com/larshp/abapNTLM",
    "homepage": "",
-   "size": 68,
+   "size": 74,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -16019,7 +16019,7 @@
    "releases_url": "https://api.github.com/repos/hhelibeb/blowfish-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hhelibeb/blowfish-abap/deployments",
    "created_at": "2019-10-17T08:36:23Z",
-   "updated_at": "2019-11-21T03:29:17Z",
+   "updated_at": "2019-12-02T09:17:27Z",
    "pushed_at": "2019-11-14T06:47:12Z",
    "git_url": "git://github.com/hhelibeb/blowfish-abap.git",
    "ssh_url": "git@github.com:hhelibeb/blowfish-abap.git",
@@ -16027,8 +16027,8 @@
    "svn_url": "https://github.com/hhelibeb/blowfish-abap",
    "homepage": null,
    "size": 99,
-   "stargazers_count": 4,
-   "watchers_count": 4,
+   "stargazers_count": 5,
+   "watchers_count": 5,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -16049,7 +16049,7 @@
    },
    "forks": 1,
    "open_issues": 1,
-   "watchers": 4,
+   "watchers": 5,
    "default_branch": "master",
    "permissions": {
     "admin": false,
