@@ -4738,14 +4738,14 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2019-12-11T09:59:34Z",
-   "pushed_at": "2019-11-29T15:05:58Z",
+   "updated_at": "2019-12-12T14:01:08Z",
+   "pushed_at": "2019-12-12T14:01:05Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
    "clone_url": "https://github.com/SAP2Moose/SAP2Moose.git",
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
-   "size": 4482,
+   "size": 4496,
    "stargazers_count": 26,
    "watchers_count": 26,
    "language": "ABAP",
@@ -6867,7 +6867,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 91183,
+  "lines": 91148,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6952,14 +6952,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-12-11T09:42:50Z",
-   "pushed_at": "2019-12-11T14:02:27Z",
+   "updated_at": "2019-12-12T10:01:33Z",
+   "pushed_at": "2019-12-12T10:01:30Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12089,
+   "size": 12103,
    "stargazers_count": 615,
    "watchers_count": 615,
    "language": "ABAP",
@@ -6972,7 +6972,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 211,
+   "open_issues_count": 210,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6981,7 +6981,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 251,
-   "open_issues": 211,
+   "open_issues": 210,
    "watchers": 615,
    "default_branch": "master",
    "permissions": {
@@ -8575,7 +8575,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 129,
+   "forks_count": 130,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8587,7 +8587,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 129,
+   "forks": 130,
    "open_issues": 94,
    "watchers": 247,
    "default_branch": "master",
@@ -8617,7 +8617,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 129,
+   "network_count": 130,
    "subscribers_count": 74
   }
  },
@@ -10962,7 +10962,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2019-12-10T19:37:02Z",
-   "pushed_at": "2019-12-05T06:58:18Z",
+   "pushed_at": "2019-12-12T13:08:51Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
@@ -10977,11 +10977,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 37,
+   "forks_count": 39,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 288,
+   "open_issues_count": 291,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10989,8 +10989,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 37,
-   "open_issues": 288,
+   "forks": 39,
+   "open_issues": 291,
    "watchers": 102,
    "default_branch": "master",
    "permissions": {
@@ -10999,7 +10999,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 37,
+   "network_count": 39,
    "subscribers_count": 28
   }
  },
@@ -13032,7 +13032,7 @@
    "releases_url": "https://api.github.com/repos/se38/GeoJson/releases{/id}",
    "deployments_url": "https://api.github.com/repos/se38/GeoJson/deployments",
    "created_at": "2019-03-16T16:28:56Z",
-   "updated_at": "2019-05-21T15:15:10Z",
+   "updated_at": "2019-12-13T00:04:20Z",
    "pushed_at": "2019-05-21T15:15:09Z",
    "git_url": "git://github.com/se38/GeoJson.git",
    "ssh_url": "git@github.com:se38/GeoJson.git",
@@ -13040,8 +13040,8 @@
    "svn_url": "https://github.com/se38/GeoJson",
    "homepage": null,
    "size": 271,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -13062,7 +13062,7 @@
    },
    "forks": 1,
    "open_issues": 2,
-   "watchers": 2,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": false,
