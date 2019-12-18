@@ -2950,7 +2950,7 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/abap_oo_patterns/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/abap_oo_patterns/deployments",
    "created_at": "2017-07-21T07:37:13Z",
-   "updated_at": "2019-12-13T22:01:30Z",
+   "updated_at": "2019-12-17T18:54:17Z",
    "pushed_at": "2019-07-12T15:27:26Z",
    "git_url": "git://github.com/SchwarzIT/abap_oo_patterns.git",
    "ssh_url": "git@github.com:SchwarzIT/abap_oo_patterns.git",
@@ -2958,8 +2958,8 @@
    "svn_url": "https://github.com/SchwarzIT/abap_oo_patterns",
    "homepage": null,
    "size": 189,
-   "stargazers_count": 59,
-   "watchers_count": 59,
+   "stargazers_count": 60,
+   "watchers_count": 60,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2980,7 +2980,7 @@
    },
    "forks": 9,
    "open_issues": 1,
-   "watchers": 59,
+   "watchers": 60,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6867,7 +6867,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 91148,
+  "lines": 91152,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6952,14 +6952,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2019-12-15T15:03:50Z",
-   "pushed_at": "2019-12-16T20:53:19Z",
+   "updated_at": "2019-12-17T07:44:21Z",
+   "pushed_at": "2019-12-17T17:45:38Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12103,
+   "size": 12104,
    "stargazers_count": 617,
    "watchers_count": 617,
    "language": "ABAP",
@@ -6972,7 +6972,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 214,
+   "open_issues_count": 213,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6981,7 +6981,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 252,
-   "open_issues": 214,
+   "open_issues": 213,
    "watchers": 617,
    "default_branch": "master",
    "permissions": {
@@ -15686,11 +15686,11 @@
   }
  },
  "css-ch/abap-code-quality-analyzer": {
-  "lines": 2239,
+  "lines": 3845,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
-   "cloud": 26
+   "cloud": 29
   },
   "repo": {
    "id": 205338589,
@@ -15759,14 +15759,14 @@
    "releases_url": "https://api.github.com/repos/css-ch/abap-code-quality-analyzer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/css-ch/abap-code-quality-analyzer/deployments",
    "created_at": "2019-08-30T08:24:51Z",
-   "updated_at": "2019-10-09T09:04:56Z",
-   "pushed_at": "2019-09-12T15:30:40Z",
+   "updated_at": "2019-12-17T15:14:30Z",
+   "pushed_at": "2019-12-17T15:14:27Z",
    "git_url": "git://github.com/css-ch/abap-code-quality-analyzer.git",
    "ssh_url": "git@github.com:css-ch/abap-code-quality-analyzer.git",
    "clone_url": "https://github.com/css-ch/abap-code-quality-analyzer.git",
    "svn_url": "https://github.com/css-ch/abap-code-quality-analyzer",
    "homepage": "",
-   "size": 85,
+   "size": 105,
    "stargazers_count": 11,
    "watchers_count": 11,
    "language": "ABAP",
@@ -16631,7 +16631,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 10,
+   "open_issues_count": 11,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -16640,7 +16640,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 0,
-   "open_issues": 10,
+   "open_issues": 11,
    "watchers": 11,
    "default_branch": "master",
    "permissions": {
