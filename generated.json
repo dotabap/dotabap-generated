@@ -6479,11 +6479,11 @@
   }
  },
  "bizhuka/aqo": {
-  "lines": 8910,
+  "lines": 9197,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
-   "cloud": 251
+   "cloud": 262
   },
   "repo": {
    "id": 125153122,
@@ -6552,14 +6552,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/aqo/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/aqo/deployments",
    "created_at": "2018-03-14T04:02:03Z",
-   "updated_at": "2019-12-22T09:23:06Z",
-   "pushed_at": "2019-12-22T09:01:20Z",
+   "updated_at": "2020-01-05T12:43:12Z",
+   "pushed_at": "2020-01-05T12:43:10Z",
    "git_url": "git://github.com/bizhuka/aqo.git",
    "ssh_url": "git@github.com:bizhuka/aqo.git",
    "clone_url": "https://github.com/bizhuka/aqo.git",
    "svn_url": "https://github.com/bizhuka/aqo",
    "homepage": "",
-   "size": 2913,
+   "size": 2959,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -16127,14 +16127,14 @@
    "releases_url": "https://api.github.com/repos/hhelibeb/abap-data-validator/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hhelibeb/abap-data-validator/deployments",
    "created_at": "2019-12-31T05:39:47Z",
-   "updated_at": "2020-01-04T22:34:46Z",
-   "pushed_at": "2020-01-04T22:34:44Z",
+   "updated_at": "2020-01-05T11:47:34Z",
+   "pushed_at": "2020-01-05T11:47:32Z",
    "git_url": "git://github.com/hhelibeb/abap-data-validator.git",
    "ssh_url": "git@github.com:hhelibeb/abap-data-validator.git",
    "clone_url": "https://github.com/hhelibeb/abap-data-validator.git",
    "svn_url": "https://github.com/hhelibeb/abap-data-validator",
    "homepage": null,
-   "size": 45,
+   "size": 50,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -16143,7 +16143,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -16155,7 +16155,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
    "watchers": 2,
    "default_branch": "master",
@@ -16165,7 +16165,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 1
   }
  },
