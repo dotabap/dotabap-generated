@@ -6479,11 +6479,11 @@
   }
  },
  "bizhuka/aqo": {
-  "lines": 9197,
+  "lines": 9390,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
-   "cloud": 262
+   "cloud": 263
   },
   "repo": {
    "id": 125153122,
@@ -6552,14 +6552,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/aqo/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/aqo/deployments",
    "created_at": "2018-03-14T04:02:03Z",
-   "updated_at": "2020-01-05T12:43:12Z",
-   "pushed_at": "2020-01-05T12:43:10Z",
+   "updated_at": "2020-01-06T08:20:15Z",
+   "pushed_at": "2020-01-06T08:20:13Z",
    "git_url": "git://github.com/bizhuka/aqo.git",
    "ssh_url": "git@github.com:bizhuka/aqo.git",
    "clone_url": "https://github.com/bizhuka/aqo.git",
    "svn_url": "https://github.com/bizhuka/aqo",
    "homepage": "",
-   "size": 2959,
+   "size": 3050,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -6731,7 +6731,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 91549,
+  "lines": 91548,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6816,14 +6816,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-01-02T06:39:09Z",
-   "pushed_at": "2020-01-04T12:38:39Z",
+   "updated_at": "2020-01-06T12:20:23Z",
+   "pushed_at": "2020-01-06T12:21:38Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12123,
+   "size": 12134,
    "stargazers_count": 623,
    "watchers_count": 623,
    "language": "ABAP",
@@ -6836,7 +6836,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 210,
+   "open_issues_count": 209,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6845,7 +6845,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 253,
-   "open_issues": 210,
+   "open_issues": 209,
    "watchers": 623,
    "default_branch": "master",
    "permissions": {
@@ -8609,7 +8609,7 @@
   }
  },
  "nomssi/abap_scheme": {
-  "lines": 20376,
+  "lines": 20774,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -8619,11 +8619,12 @@
    "/.travis.yml",
    "/_config.yml",
    "/img/abap_lisp_workbench.png",
-   "/src/.gitkeep"
+   "/src/.gitkeep",
+   "/abaplint.json"
   ],
   "parsing": {
    "version": "2.16.7",
-   "cloud": 1151
+   "cloud": 1230
   },
   "repo": {
    "id": 109576420,
@@ -8692,14 +8693,14 @@
    "releases_url": "https://api.github.com/repos/nomssi/abap_scheme/releases{/id}",
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
-   "updated_at": "2019-12-28T02:43:32Z",
-   "pushed_at": "2019-12-28T02:43:29Z",
+   "updated_at": "2020-01-06T02:58:58Z",
+   "pushed_at": "2020-01-06T02:58:56Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": "",
-   "size": 2576,
+   "size": 2660,
    "stargazers_count": 9,
    "watchers_count": 9,
    "language": "ABAP",
@@ -8712,7 +8713,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 9,
+   "open_issues_count": 8,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8721,7 +8722,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 3,
-   "open_issues": 9,
+   "open_issues": 8,
    "watchers": 9,
    "default_branch": "master",
    "permissions": {
@@ -16054,7 +16055,7 @@
   }
  },
  "hhelibeb/abap-data-validator": {
-  "lines": 2251,
+  "lines": 2241,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
@@ -16127,16 +16128,16 @@
    "releases_url": "https://api.github.com/repos/hhelibeb/abap-data-validator/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hhelibeb/abap-data-validator/deployments",
    "created_at": "2019-12-31T05:39:47Z",
-   "updated_at": "2020-01-05T11:47:34Z",
-   "pushed_at": "2020-01-05T11:47:32Z",
+   "updated_at": "2020-01-06T15:05:12Z",
+   "pushed_at": "2020-01-06T07:44:11Z",
    "git_url": "git://github.com/hhelibeb/abap-data-validator.git",
    "ssh_url": "git@github.com:hhelibeb/abap-data-validator.git",
    "clone_url": "https://github.com/hhelibeb/abap-data-validator.git",
    "svn_url": "https://github.com/hhelibeb/abap-data-validator",
    "homepage": null,
-   "size": 50,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "size": 68,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -16157,7 +16158,7 @@
    },
    "forks": 2,
    "open_issues": 0,
-   "watchers": 2,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": false,
