@@ -689,7 +689,7 @@
    "releases_url": "https://api.github.com/repos/koemaeda/abap-markdown/releases{/id}",
    "deployments_url": "https://api.github.com/repos/koemaeda/abap-markdown/deployments",
    "created_at": "2015-09-14T21:02:51Z",
-   "updated_at": "2019-11-22T20:46:21Z",
+   "updated_at": "2020-01-09T18:38:15Z",
    "pushed_at": "2019-04-24T17:41:52Z",
    "git_url": "git://github.com/koemaeda/abap-markdown.git",
    "ssh_url": "git@github.com:koemaeda/abap-markdown.git",
@@ -697,15 +697,15 @@
    "svn_url": "https://github.com/koemaeda/abap-markdown",
    "homepage": null,
    "size": 119,
-   "stargazers_count": 23,
-   "watchers_count": 23,
+   "stargazers_count": 24,
+   "watchers_count": 24,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 11,
+   "forks_count": 12,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -717,9 +717,9 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 11,
+   "forks": 12,
    "open_issues": 1,
-   "watchers": 23,
+   "watchers": 24,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -727,7 +727,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 11,
+   "network_count": 12,
    "subscribers_count": 9
   }
  },
@@ -2071,11 +2071,11 @@
   }
  },
  "FreHu/abap-turtle-graphics": {
-  "lines": 1203,
+  "lines": 1165,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
-   "cloud": 2
+   "cloud": 0
   },
   "repo": {
    "id": 213683274,
@@ -2144,14 +2144,14 @@
    "releases_url": "https://api.github.com/repos/FreHu/abap-turtle-graphics/releases{/id}",
    "deployments_url": "https://api.github.com/repos/FreHu/abap-turtle-graphics/deployments",
    "created_at": "2019-10-08T15:33:24Z",
-   "updated_at": "2020-01-02T07:04:26Z",
-   "pushed_at": "2019-12-28T08:22:20Z",
+   "updated_at": "2020-01-09T14:56:48Z",
+   "pushed_at": "2020-01-09T14:56:45Z",
    "git_url": "git://github.com/FreHu/abap-turtle-graphics.git",
    "ssh_url": "git@github.com:FreHu/abap-turtle-graphics.git",
    "clone_url": "https://github.com/FreHu/abap-turtle-graphics.git",
    "svn_url": "https://github.com/FreHu/abap-turtle-graphics",
    "homepage": "",
-   "size": 127,
+   "size": 77,
    "stargazers_count": 17,
    "watchers_count": 17,
    "language": "ABAP",
@@ -2164,7 +2164,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 9,
+   "open_issues_count": 8,
    "license": {
     "key": "unlicense",
     "name": "The Unlicense",
@@ -2173,7 +2173,7 @@
     "node_id": "MDc6TGljZW5zZTE1"
    },
    "forks": 3,
-   "open_issues": 9,
+   "open_issues": 8,
    "watchers": 17,
    "default_branch": "master",
    "permissions": {
@@ -2471,7 +2471,7 @@
     "site_admin": false
    },
    "network_count": 4,
-   "subscribers_count": 6
+   "subscribers_count": 5
   }
  },
  "SAP/ewm-cloud-robotics-s4": {
@@ -4861,7 +4861,7 @@
    "releases_url": "https://api.github.com/repos/tricktresor/cute/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/cute/deployments",
    "created_at": "2019-10-17T16:23:11Z",
-   "updated_at": "2019-12-06T06:28:17Z",
+   "updated_at": "2020-01-09T12:37:49Z",
    "pushed_at": "2019-11-16T23:56:05Z",
    "git_url": "git://github.com/tricktresor/cute.git",
    "ssh_url": "git@github.com:tricktresor/cute.git",
@@ -4869,8 +4869,8 @@
    "svn_url": "https://github.com/tricktresor/cute",
    "homepage": null,
    "size": 211,
-   "stargazers_count": 30,
-   "watchers_count": 30,
+   "stargazers_count": 31,
+   "watchers_count": 31,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4891,7 +4891,7 @@
    },
    "forks": 3,
    "open_issues": 9,
-   "watchers": 30,
+   "watchers": 31,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6817,7 +6817,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2020-01-08T17:24:44Z",
-   "pushed_at": "2020-01-08T15:36:05Z",
+   "pushed_at": "2020-01-09T20:52:06Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
@@ -6832,11 +6832,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 253,
+   "forks_count": 254,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 206,
+   "open_issues_count": 207,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6844,8 +6844,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 253,
-   "open_issues": 206,
+   "forks": 254,
+   "open_issues": 207,
    "watchers": 625,
    "default_branch": "master",
    "permissions": {
@@ -6854,7 +6854,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 253,
+   "network_count": 254,
    "subscribers_count": 108
   }
  },
@@ -8423,7 +8423,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2020-01-08T14:21:58Z",
+   "updated_at": "2020-01-09T09:38:56Z",
    "pushed_at": "2020-01-04T10:50:49Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -8431,8 +8431,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 24873,
-   "stargazers_count": 251,
-   "watchers_count": 251,
+   "stargazers_count": 253,
+   "watchers_count": 253,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -8453,7 +8453,7 @@
    },
    "forks": 131,
    "open_issues": 94,
-   "watchers": 251,
+   "watchers": 253,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -16055,7 +16055,7 @@
   }
  },
  "hhelibeb/abap-data-validator": {
-  "lines": 2396,
+  "lines": 2719,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
@@ -16128,16 +16128,16 @@
    "releases_url": "https://api.github.com/repos/hhelibeb/abap-data-validator/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hhelibeb/abap-data-validator/deployments",
    "created_at": "2019-12-31T05:39:47Z",
-   "updated_at": "2020-01-07T12:01:03Z",
-   "pushed_at": "2020-01-07T07:19:38Z",
+   "updated_at": "2020-01-09T14:25:49Z",
+   "pushed_at": "2020-01-09T09:27:51Z",
    "git_url": "git://github.com/hhelibeb/abap-data-validator.git",
    "ssh_url": "git@github.com:hhelibeb/abap-data-validator.git",
    "clone_url": "https://github.com/hhelibeb/abap-data-validator.git",
    "svn_url": "https://github.com/hhelibeb/abap-data-validator",
    "homepage": null,
-   "size": 74,
-   "stargazers_count": 4,
-   "watchers_count": 4,
+   "size": 87,
+   "stargazers_count": 5,
+   "watchers_count": 5,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -16158,7 +16158,7 @@
    },
    "forks": 2,
    "open_issues": 0,
-   "watchers": 4,
+   "watchers": 5,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -16592,7 +16592,7 @@
    "releases_url": "https://api.github.com/repos/abapinho/abapBlame/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abapBlame/deployments",
    "created_at": "2019-11-19T16:41:35Z",
-   "updated_at": "2020-01-02T12:02:40Z",
+   "updated_at": "2020-01-09T17:24:02Z",
    "pushed_at": "2019-12-13T10:19:33Z",
    "git_url": "git://github.com/abapinho/abapBlame.git",
    "ssh_url": "git@github.com:abapinho/abapBlame.git",
@@ -16600,8 +16600,8 @@
    "svn_url": "https://github.com/abapinho/abapBlame",
    "homepage": "",
    "size": 95,
-   "stargazers_count": 13,
-   "watchers_count": 13,
+   "stargazers_count": 14,
+   "watchers_count": 14,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -16622,7 +16622,7 @@
    },
    "forks": 0,
    "open_issues": 11,
-   "watchers": 13,
+   "watchers": 14,
    "default_branch": "master",
    "permissions": {
     "admin": false,
