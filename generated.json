@@ -196,7 +196,7 @@
    "releases_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2020-01-10T19:45:42Z",
+   "updated_at": "2020-01-11T12:12:36Z",
    "pushed_at": "2019-11-18T19:01:52Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
@@ -204,8 +204,8 @@
    "svn_url": "https://github.com/epeterson320/ABAP-Logger",
    "homepage": null,
    "size": 145,
-   "stargazers_count": 139,
-   "watchers_count": 139,
+   "stargazers_count": 140,
+   "watchers_count": 140,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -226,7 +226,7 @@
    },
    "forks": 43,
    "open_issues": 12,
-   "watchers": 139,
+   "watchers": 140,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -2413,7 +2413,7 @@
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-platform-jak/deployments",
    "created_at": "2019-02-24T02:42:32Z",
    "updated_at": "2019-12-10T07:42:30Z",
-   "pushed_at": "2019-09-27T15:25:39Z",
+   "pushed_at": "2020-01-11T12:29:27Z",
    "git_url": "git://github.com/SAP-samples/abap-platform-jak.git",
    "ssh_url": "git@github.com:SAP-samples/abap-platform-jak.git",
    "clone_url": "https://github.com/SAP-samples/abap-platform-jak.git",
@@ -2428,11 +2428,11 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 4,
+   "forks_count": 5,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "other",
     "name": "Other",
@@ -2440,8 +2440,8 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
    },
-   "forks": 4,
-   "open_issues": 0,
+   "forks": 5,
+   "open_issues": 1,
    "watchers": 11,
    "default_branch": "master",
    "permissions": {
@@ -2470,8 +2470,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 4,
-   "subscribers_count": 5
+   "network_count": 5,
+   "subscribers_count": 4
   }
  },
  "SAP/ewm-cloud-robotics-s4": {
@@ -6731,7 +6731,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 91836,
+  "lines": 91979,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6816,14 +6816,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-01-08T17:24:44Z",
-   "pushed_at": "2020-01-10T14:45:53Z",
+   "updated_at": "2020-01-11T09:12:01Z",
+   "pushed_at": "2020-01-11T18:10:25Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12154,
+   "size": 12189,
    "stargazers_count": 625,
    "watchers_count": 625,
    "language": "ABAP",
@@ -6836,7 +6836,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 210,
+   "open_issues_count": 207,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6845,7 +6845,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 254,
-   "open_issues": 210,
+   "open_issues": 207,
    "watchers": 625,
    "default_branch": "master",
    "permissions": {
@@ -10745,7 +10745,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 40757,
+  "lines": 40803,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -10826,14 +10826,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2020-01-10T17:19:28Z",
-   "pushed_at": "2020-01-10T17:19:25Z",
+   "updated_at": "2020-01-11T08:50:35Z",
+   "pushed_at": "2020-01-11T08:50:33Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2160,
+   "size": 2136,
    "stargazers_count": 105,
    "watchers_count": 105,
    "language": "ABAP",
@@ -10846,7 +10846,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 294,
+   "open_issues_count": 291,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10855,7 +10855,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 41,
-   "open_issues": 294,
+   "open_issues": 291,
    "watchers": 105,
    "default_branch": "master",
    "permissions": {
@@ -12897,14 +12897,14 @@
    "releases_url": "https://api.github.com/repos/se38/GeoJson/releases{/id}",
    "deployments_url": "https://api.github.com/repos/se38/GeoJson/deployments",
    "created_at": "2019-03-16T16:28:56Z",
-   "updated_at": "2019-12-13T00:04:20Z",
-   "pushed_at": "2019-05-21T15:15:09Z",
+   "updated_at": "2020-01-11T17:52:59Z",
+   "pushed_at": "2020-01-11T18:10:05Z",
    "git_url": "git://github.com/se38/GeoJson.git",
    "ssh_url": "git@github.com:se38/GeoJson.git",
    "clone_url": "https://github.com/se38/GeoJson.git",
    "svn_url": "https://github.com/se38/GeoJson",
    "homepage": null,
-   "size": 271,
+   "size": 239,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -16055,7 +16055,7 @@
   }
  },
  "hhelibeb/abap-data-validator": {
-  "lines": 2719,
+  "lines": 2723,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
@@ -16128,14 +16128,14 @@
    "releases_url": "https://api.github.com/repos/hhelibeb/abap-data-validator/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hhelibeb/abap-data-validator/deployments",
    "created_at": "2019-12-31T05:39:47Z",
-   "updated_at": "2020-01-10T09:38:56Z",
-   "pushed_at": "2020-01-10T09:38:54Z",
+   "updated_at": "2020-01-11T08:55:34Z",
+   "pushed_at": "2020-01-11T08:55:32Z",
    "git_url": "git://github.com/hhelibeb/abap-data-validator.git",
    "ssh_url": "git@github.com:hhelibeb/abap-data-validator.git",
    "clone_url": "https://github.com/hhelibeb/abap-data-validator.git",
    "svn_url": "https://github.com/hhelibeb/abap-data-validator",
    "homepage": null,
-   "size": 90,
+   "size": 93,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -16148,7 +16148,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -16157,7 +16157,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 6,
    "default_branch": "master",
    "permissions": {
