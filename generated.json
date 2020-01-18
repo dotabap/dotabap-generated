@@ -6816,16 +6816,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-01-16T14:49:13Z",
-   "pushed_at": "2020-01-16T07:54:16Z",
+   "updated_at": "2020-01-17T14:37:40Z",
+   "pushed_at": "2020-01-17T17:36:48Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
    "size": 12189,
-   "stargazers_count": 626,
-   "watchers_count": 626,
+   "stargazers_count": 627,
+   "watchers_count": 627,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6836,7 +6836,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 206,
+   "open_issues_count": 208,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6845,8 +6845,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 255,
-   "open_issues": 206,
-   "watchers": 626,
+   "open_issues": 208,
+   "watchers": 627,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -8423,7 +8423,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2020-01-14T13:39:56Z",
+   "updated_at": "2020-01-17T18:44:34Z",
    "pushed_at": "2020-01-04T10:50:49Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -8431,8 +8431,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 24873,
-   "stargazers_count": 254,
-   "watchers_count": 254,
+   "stargazers_count": 255,
+   "watchers_count": 255,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -8453,7 +8453,7 @@
    },
    "forks": 132,
    "open_issues": 95,
-   "watchers": 254,
+   "watchers": 255,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -8482,7 +8482,7 @@
     "site_admin": false
    },
    "network_count": 132,
-   "subscribers_count": 75
+   "subscribers_count": 74
   }
  },
  "furlan/abap101_AOC2017": {
@@ -10333,7 +10333,7 @@
    "releases_url": "https://api.github.com/repos/fidley/falv/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/falv/deployments",
    "created_at": "2016-03-11T09:39:33Z",
-   "updated_at": "2020-01-14T05:12:58Z",
+   "updated_at": "2020-01-17T04:00:14Z",
    "pushed_at": "2019-07-29T06:54:01Z",
    "git_url": "git://github.com/fidley/falv.git",
    "ssh_url": "git@github.com:fidley/falv.git",
@@ -10341,8 +10341,8 @@
    "svn_url": "https://github.com/fidley/falv",
    "homepage": null,
    "size": 1481,
-   "stargazers_count": 49,
-   "watchers_count": 49,
+   "stargazers_count": 50,
+   "watchers_count": 50,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -10363,7 +10363,7 @@
    },
    "forks": 27,
    "open_issues": 2,
-   "watchers": 49,
+   "watchers": 50,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -11438,7 +11438,7 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Swagger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
-   "updated_at": "2020-01-08T17:30:48Z",
+   "updated_at": "2020-01-17T14:37:49Z",
    "pushed_at": "2019-07-13T07:23:25Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
@@ -11446,8 +11446,8 @@
    "svn_url": "https://github.com/larshp/ABAP-Swagger",
    "homepage": "",
    "size": 77,
-   "stargazers_count": 47,
-   "watchers_count": 47,
+   "stargazers_count": 48,
+   "watchers_count": 48,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -11468,7 +11468,7 @@
    },
    "forks": 21,
    "open_issues": 17,
-   "watchers": 47,
+   "watchers": 48,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -11477,7 +11477,7 @@
    },
    "temp_clone_token": "",
    "network_count": 21,
-   "subscribers_count": 15
+   "subscribers_count": 16
   }
  },
  "larshp/abapGitServer": {
@@ -12897,7 +12897,7 @@
    "releases_url": "https://api.github.com/repos/se38/GeoJson/releases{/id}",
    "deployments_url": "https://api.github.com/repos/se38/GeoJson/deployments",
    "created_at": "2019-03-16T16:28:56Z",
-   "updated_at": "2020-01-15T16:25:34Z",
+   "updated_at": "2020-01-17T02:00:46Z",
    "pushed_at": "2020-01-15T16:25:32Z",
    "git_url": "git://github.com/se38/GeoJson.git",
    "ssh_url": "git@github.com:se38/GeoJson.git",
@@ -12905,8 +12905,8 @@
    "svn_url": "https://github.com/se38/GeoJson",
    "homepage": null,
    "size": 252,
-   "stargazers_count": 3,
-   "watchers_count": 3,
+   "stargazers_count": 4,
+   "watchers_count": 4,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -12927,7 +12927,7 @@
    },
    "forks": 1,
    "open_issues": 2,
-   "watchers": 3,
+   "watchers": 4,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -16055,11 +16055,11 @@
   }
  },
  "hhelibeb/abap-data-validator": {
-  "lines": 2965,
+  "lines": 3148,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
-   "cloud": 4
+   "cloud": 5
   },
   "repo": {
    "id": 231032601,
@@ -16128,14 +16128,14 @@
    "releases_url": "https://api.github.com/repos/hhelibeb/abap-data-validator/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hhelibeb/abap-data-validator/deployments",
    "created_at": "2019-12-31T05:39:47Z",
-   "updated_at": "2020-01-17T00:46:12Z",
-   "pushed_at": "2020-01-16T08:45:22Z",
+   "updated_at": "2020-01-17T08:48:01Z",
+   "pushed_at": "2020-01-17T08:48:02Z",
    "git_url": "git://github.com/hhelibeb/abap-data-validator.git",
    "ssh_url": "git@github.com:hhelibeb/abap-data-validator.git",
    "clone_url": "https://github.com/hhelibeb/abap-data-validator.git",
    "svn_url": "https://github.com/hhelibeb/abap-data-validator",
    "homepage": null,
-   "size": 108,
+   "size": 135,
    "stargazers_count": 10,
    "watchers_count": 10,
    "language": "ABAP",
@@ -16148,7 +16148,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -16157,7 +16157,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 10,
    "default_branch": "master",
    "permissions": {
