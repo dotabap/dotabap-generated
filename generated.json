@@ -2591,11 +2591,11 @@
   }
  },
  "SAP/ewm-cloud-robotics-s4": {
-  "lines": 819,
+  "lines": 733,
   "startingFolder": "/abap/",
   "parsing": {
    "version": "2.16.7",
-   "cloud": 12
+   "cloud": 8
   },
   "repo": {
    "id": 180104283,
@@ -2664,14 +2664,14 @@
    "releases_url": "https://api.github.com/repos/SAP/ewm-cloud-robotics-s4/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/ewm-cloud-robotics-s4/deployments",
    "created_at": "2019-04-08T08:28:47Z",
-   "updated_at": "2019-12-24T13:19:07Z",
-   "pushed_at": "2019-11-22T15:09:40Z",
+   "updated_at": "2020-01-23T17:41:28Z",
+   "pushed_at": "2020-01-23T17:41:26Z",
    "git_url": "git://github.com/SAP/ewm-cloud-robotics-s4.git",
    "ssh_url": "git@github.com:SAP/ewm-cloud-robotics-s4.git",
    "clone_url": "https://github.com/SAP/ewm-cloud-robotics-s4.git",
    "svn_url": "https://github.com/SAP/ewm-cloud-robotics-s4",
    "homepage": null,
-   "size": 23,
+   "size": 28,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -3346,7 +3346,7 @@
    "releases_url": "https://api.github.com/repos/uweku/mockA/releases{/id}",
    "deployments_url": "https://api.github.com/repos/uweku/mockA/deployments",
    "created_at": "2013-11-05T11:58:14Z",
-   "updated_at": "2020-01-08T17:33:05Z",
+   "updated_at": "2020-01-23T22:45:45Z",
    "pushed_at": "2019-01-05T10:40:48Z",
    "git_url": "git://github.com/uweku/mockA.git",
    "ssh_url": "git@github.com:uweku/mockA.git",
@@ -3354,8 +3354,8 @@
    "svn_url": "https://github.com/uweku/mockA",
    "homepage": "",
    "size": 841,
-   "stargazers_count": 34,
-   "watchers_count": 34,
+   "stargazers_count": 35,
+   "watchers_count": 35,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3376,7 +3376,7 @@
    },
    "forks": 8,
    "open_issues": 4,
-   "watchers": 34,
+   "watchers": 35,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3385,7 +3385,7 @@
    },
    "temp_clone_token": "",
    "network_count": 8,
-   "subscribers_count": 19
+   "subscribers_count": 20
   }
  },
  "rayatus/sapinterfacemonitor": {
@@ -4718,7 +4718,7 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2020-01-08T17:35:21Z",
+   "updated_at": "2020-01-23T22:43:46Z",
    "pushed_at": "2019-12-12T14:01:05Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
@@ -4726,8 +4726,8 @@
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
    "size": 4496,
-   "stargazers_count": 27,
-   "watchers_count": 27,
+   "stargazers_count": 28,
+   "watchers_count": 28,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4748,7 +4748,7 @@
    },
    "forks": 8,
    "open_issues": 46,
-   "watchers": 27,
+   "watchers": 28,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6800,7 +6800,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 18,
+   "forks_count": 19,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -6812,7 +6812,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 18,
+   "forks": 19,
    "open_issues": 18,
    "watchers": 64,
    "default_branch": "master",
@@ -6842,7 +6842,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 18,
+   "network_count": 19,
    "subscribers_count": 31
   }
  },
@@ -6971,7 +6971,7 @@
    },
    "temp_clone_token": "",
    "network_count": 255,
-   "subscribers_count": 106
+   "subscribers_count": 107
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -8539,14 +8539,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2020-01-22T13:40:48Z",
-   "pushed_at": "2020-01-22T13:40:45Z",
+   "updated_at": "2020-01-23T08:00:18Z",
+   "pushed_at": "2020-01-23T08:00:16Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 24946,
+   "size": 25020,
    "stargazers_count": 255,
    "watchers_count": 255,
    "language": "ABAP",
@@ -8559,7 +8559,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 94,
+   "open_issues_count": 95,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -8568,7 +8568,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 133,
-   "open_issues": 94,
+   "open_issues": 95,
    "watchers": 255,
    "default_branch": "master",
    "permissions": {
@@ -10572,7 +10572,7 @@
    "releases_url": "https://api.github.com/repos/fidley/ALVGridInNutshell/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/ALVGridInNutshell/deployments",
    "created_at": "2019-01-09T11:32:41Z",
-   "updated_at": "2019-12-18T15:53:52Z",
+   "updated_at": "2020-01-23T10:16:55Z",
    "pushed_at": "2019-12-18T15:53:50Z",
    "git_url": "git://github.com/fidley/ALVGridInNutshell.git",
    "ssh_url": "git@github.com:fidley/ALVGridInNutshell.git",
@@ -10580,8 +10580,8 @@
    "svn_url": "https://github.com/fidley/ALVGridInNutshell",
    "homepage": "https://abapblog.com/alv-grid-in-the-nutshell",
    "size": 50,
-   "stargazers_count": 3,
-   "watchers_count": 3,
+   "stargazers_count": 4,
+   "watchers_count": 4,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -10602,7 +10602,7 @@
    },
    "forks": 0,
    "open_issues": 0,
-   "watchers": 3,
+   "watchers": 4,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -14532,7 +14532,7 @@
    "releases_url": "https://api.github.com/repos/fatihpense/zcl_mdp_json/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fatihpense/zcl_mdp_json/deployments",
    "created_at": "2016-07-03T01:22:06Z",
-   "updated_at": "2019-12-13T22:12:13Z",
+   "updated_at": "2020-01-23T11:50:26Z",
    "pushed_at": "2019-04-04T19:19:16Z",
    "git_url": "git://github.com/fatihpense/zcl_mdp_json.git",
    "ssh_url": "git@github.com:fatihpense/zcl_mdp_json.git",
@@ -14540,8 +14540,8 @@
    "svn_url": "https://github.com/fatihpense/zcl_mdp_json",
    "homepage": null,
    "size": 12,
-   "stargazers_count": 20,
-   "watchers_count": 20,
+   "stargazers_count": 21,
+   "watchers_count": 21,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -14562,7 +14562,7 @@
    },
    "forks": 8,
    "open_issues": 7,
-   "watchers": 20,
+   "watchers": 21,
    "default_branch": "master",
    "permissions": {
     "admin": false,
