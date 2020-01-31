@@ -235,7 +235,7 @@
    },
    "temp_clone_token": "",
    "network_count": 45,
-   "subscribers_count": 30
+   "subscribers_count": 29
   }
  },
  "tricktresor/gladius": {
@@ -2260,14 +2260,14 @@
    "releases_url": "https://api.github.com/repos/FreHu/abap-turtle-graphics/releases{/id}",
    "deployments_url": "https://api.github.com/repos/FreHu/abap-turtle-graphics/deployments",
    "created_at": "2019-10-08T15:33:24Z",
-   "updated_at": "2020-01-26T18:28:47Z",
-   "pushed_at": "2020-01-25T11:26:54Z",
+   "updated_at": "2020-01-30T16:21:49Z",
+   "pushed_at": "2020-01-30T16:21:47Z",
    "git_url": "git://github.com/FreHu/abap-turtle-graphics.git",
    "ssh_url": "git@github.com:FreHu/abap-turtle-graphics.git",
    "clone_url": "https://github.com/FreHu/abap-turtle-graphics.git",
    "svn_url": "https://github.com/FreHu/abap-turtle-graphics",
    "homepage": "",
-   "size": 81,
+   "size": 92,
    "stargazers_count": 18,
    "watchers_count": 18,
    "language": "ABAP",
@@ -3729,7 +3729,7 @@
    "releases_url": "https://api.github.com/repos/fidley/JSON2ABAPType/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/JSON2ABAPType/deployments",
    "created_at": "2018-08-20T16:24:34Z",
-   "updated_at": "2019-12-02T19:55:57Z",
+   "updated_at": "2020-01-30T18:17:01Z",
    "pushed_at": "2019-11-04T10:47:16Z",
    "git_url": "git://github.com/fidley/JSON2ABAPType.git",
    "ssh_url": "git@github.com:fidley/JSON2ABAPType.git",
@@ -3737,8 +3737,8 @@
    "svn_url": "https://github.com/fidley/JSON2ABAPType",
    "homepage": null,
    "size": 117,
-   "stargazers_count": 14,
-   "watchers_count": 14,
+   "stargazers_count": 15,
+   "watchers_count": 15,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3749,7 +3749,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -3758,8 +3758,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 4,
-   "open_issues": 0,
-   "watchers": 14,
+   "open_issues": 1,
+   "watchers": 15,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3768,7 +3768,7 @@
    },
    "temp_clone_token": "",
    "network_count": 4,
-   "subscribers_count": 5
+   "subscribers_count": 6
   }
  },
  "fidley/Customers": {
@@ -5016,7 +5016,7 @@
    },
    "temp_clone_token": "",
    "network_count": 3,
-   "subscribers_count": 15
+   "subscribers_count": 14
   }
  },
  "damir-majer/ABAPKoans": {
@@ -5347,7 +5347,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/abap-alv-google-upload-sheet/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-alv-google-upload-sheet/deployments",
    "created_at": "2018-07-20T01:36:36Z",
-   "updated_at": "2019-10-30T06:50:43Z",
+   "updated_at": "2020-01-30T08:39:58Z",
    "pushed_at": "2019-03-04T11:10:42Z",
    "git_url": "git://github.com/SAP-samples/abap-alv-google-upload-sheet.git",
    "ssh_url": "git@github.com:SAP-samples/abap-alv-google-upload-sheet.git",
@@ -5355,15 +5355,15 @@
    "svn_url": "https://github.com/SAP-samples/abap-alv-google-upload-sheet",
    "homepage": null,
    "size": 66,
-   "stargazers_count": 10,
-   "watchers_count": 10,
+   "stargazers_count": 11,
+   "watchers_count": 11,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 8,
+   "forks_count": 9,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -5375,9 +5375,9 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
    },
-   "forks": 8,
+   "forks": 9,
    "open_issues": 0,
-   "watchers": 10,
+   "watchers": 11,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5405,7 +5405,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 8,
+   "network_count": 9,
    "subscribers_count": 8
   }
  },
@@ -6847,7 +6847,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 92407,
+  "lines": 93034,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6863,7 +6863,7 @@
   ],
   "parsing": {
    "version": "2.16.7",
-   "cloud": 757
+   "cloud": 493
   },
   "repo": {
    "id": 21115149,
@@ -6932,14 +6932,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-01-28T18:21:14Z",
-   "pushed_at": "2020-01-29T22:09:30Z",
+   "updated_at": "2020-01-30T22:17:49Z",
+   "pushed_at": "2020-01-30T22:17:47Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12255,
+   "size": 12252,
    "stargazers_count": 630,
    "watchers_count": 630,
    "language": "ABAP",
@@ -6952,7 +6952,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 217,
+   "open_issues_count": 214,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6961,7 +6961,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 258,
-   "open_issues": 217,
+   "open_issues": 214,
    "watchers": 630,
    "default_branch": "master",
    "permissions": {
@@ -6971,7 +6971,7 @@
    },
    "temp_clone_token": "",
    "network_count": 258,
-   "subscribers_count": 106
+   "subscribers_count": 105
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
