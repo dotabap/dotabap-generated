@@ -6847,7 +6847,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 93150,
+  "lines": 93183,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6863,7 +6863,7 @@
   ],
   "parsing": {
    "version": "2.16.7",
-   "cloud": 435
+   "cloud": 258
   },
   "repo": {
    "id": 21115149,
@@ -6932,16 +6932,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-02-01T11:33:39Z",
-   "pushed_at": "2020-02-01T21:07:42Z",
+   "updated_at": "2020-02-02T11:26:03Z",
+   "pushed_at": "2020-02-02T11:26:02Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12321,
-   "stargazers_count": 630,
-   "watchers_count": 630,
+   "size": 12286,
+   "stargazers_count": 631,
+   "watchers_count": 631,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6952,7 +6952,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 217,
+   "open_issues_count": 213,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6961,8 +6961,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 258,
-   "open_issues": 217,
-   "watchers": 630,
+   "open_issues": 213,
+   "watchers": 631,
    "default_branch": "master",
    "permissions": {
     "admin": true,
@@ -10942,7 +10942,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2020-01-27T12:53:47Z",
+   "updated_at": "2020-02-02T09:23:11Z",
    "pushed_at": "2020-01-21T18:28:30Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -10950,8 +10950,8 @@
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
    "size": 2136,
-   "stargazers_count": 107,
-   "watchers_count": 107,
+   "stargazers_count": 108,
+   "watchers_count": 108,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10972,7 +10972,7 @@
    },
    "forks": 40,
    "open_issues": 292,
-   "watchers": 107,
+   "watchers": 108,
    "default_branch": "master",
    "permissions": {
     "admin": true,
