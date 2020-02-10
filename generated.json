@@ -6784,14 +6784,14 @@
    "releases_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2020-02-08T11:02:40Z",
-   "pushed_at": "2020-02-08T17:15:49Z",
+   "updated_at": "2020-02-09T14:29:07Z",
+   "pushed_at": "2020-02-09T14:29:04Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
-   "size": 10161,
+   "size": 10162,
    "stargazers_count": 67,
    "watchers_count": 67,
    "language": "ABAP",
@@ -6804,7 +6804,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 15,
+   "open_issues_count": 14,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6813,7 +6813,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 19,
-   "open_issues": 15,
+   "open_issues": 14,
    "watchers": 67,
    "default_branch": "master",
    "permissions": {
@@ -6847,7 +6847,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 93682,
+  "lines": 93647,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6932,14 +6932,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-02-08T13:34:48Z",
-   "pushed_at": "2020-02-08T16:23:41Z",
+   "updated_at": "2020-02-09T08:38:21Z",
+   "pushed_at": "2020-02-10T00:38:14Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12441,
+   "size": 12354,
    "stargazers_count": 634,
    "watchers_count": 634,
    "language": "ABAP",
@@ -10861,7 +10861,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 41721,
+  "lines": 41701,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -10942,14 +10942,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2020-02-07T09:01:05Z",
-   "pushed_at": "2020-02-08T16:57:36Z",
+   "updated_at": "2020-02-09T08:44:30Z",
+   "pushed_at": "2020-02-09T15:03:05Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2240,
+   "size": 2223,
    "stargazers_count": 109,
    "watchers_count": 109,
    "language": "ABAP",
@@ -10962,7 +10962,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 294,
+   "open_issues_count": 295,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10971,7 +10971,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 42,
-   "open_issues": 294,
+   "open_issues": 295,
    "watchers": 109,
    "default_branch": "master",
    "permissions": {
