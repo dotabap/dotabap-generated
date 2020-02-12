@@ -3772,7 +3772,7 @@
   }
  },
  "fidley/Customers": {
-  "lines": 6886,
+  "lines": 6899,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -3783,7 +3783,7 @@
   ],
   "parsing": {
    "version": "2.16.7",
-   "cloud": 19
+   "cloud": 24
   },
   "repo": {
    "id": 190016923,
@@ -3852,14 +3852,14 @@
    "releases_url": "https://api.github.com/repos/fidley/Customers/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/Customers/deployments",
    "created_at": "2019-06-03T14:02:28Z",
-   "updated_at": "2019-11-16T14:57:39Z",
-   "pushed_at": "2019-07-11T09:51:08Z",
+   "updated_at": "2020-02-11T07:59:00Z",
+   "pushed_at": "2020-02-11T07:58:58Z",
    "git_url": "git://github.com/fidley/Customers.git",
    "ssh_url": "git@github.com:fidley/Customers.git",
    "clone_url": "https://github.com/fidley/Customers.git",
    "svn_url": "https://github.com/fidley/Customers",
    "homepage": "https://abapblog.com/articles/how-to/130-zcl-cmd-customer-wrapper-for-cmd-ei-api-classes",
-   "size": 137,
+   "size": 142,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -3872,7 +3872,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -3881,7 +3881,7 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "forks": 1,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 4,
    "default_branch": "master",
    "permissions": {
@@ -5630,7 +5630,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 28,
+   "forks_count": 29,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -5642,7 +5642,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 28,
+   "forks": 29,
    "open_issues": 5,
    "watchers": 68,
    "default_branch": "master",
@@ -5652,7 +5652,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 28,
+   "network_count": 29,
    "subscribers_count": 22
   }
  },
@@ -6847,7 +6847,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 93647,
+  "lines": 93659,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6932,14 +6932,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-02-09T08:38:21Z",
-   "pushed_at": "2020-02-10T09:05:34Z",
+   "updated_at": "2020-02-11T09:23:32Z",
+   "pushed_at": "2020-02-11T09:23:30Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12354,
+   "size": 12365,
    "stargazers_count": 634,
    "watchers_count": 634,
    "language": "ABAP",
@@ -6952,7 +6952,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 212,
+   "open_issues_count": 210,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6961,7 +6961,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 262,
-   "open_issues": 212,
+   "open_issues": 210,
    "watchers": 634,
    "default_branch": "master",
    "permissions": {
@@ -6971,7 +6971,7 @@
    },
    "temp_clone_token": "",
    "network_count": 262,
-   "subscribers_count": 108
+   "subscribers_count": 107
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -10962,7 +10962,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 294,
+   "open_issues_count": 295,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10971,7 +10971,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 42,
-   "open_issues": 294,
+   "open_issues": 295,
    "watchers": 109,
    "default_branch": "master",
    "permissions": {
@@ -11678,7 +11678,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGitServer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGitServer/deployments",
    "created_at": "2015-07-05T06:34:15Z",
-   "updated_at": "2020-02-08T17:26:12Z",
+   "updated_at": "2020-02-11T15:32:39Z",
    "pushed_at": "2020-02-08T17:26:10Z",
    "git_url": "git://github.com/larshp/abapGitServer.git",
    "ssh_url": "git@github.com:larshp/abapGitServer.git",
@@ -11686,8 +11686,8 @@
    "svn_url": "https://github.com/larshp/abapGitServer",
    "homepage": "",
    "size": 519,
-   "stargazers_count": 38,
-   "watchers_count": 38,
+   "stargazers_count": 39,
+   "watchers_count": 39,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -11708,7 +11708,7 @@
    },
    "forks": 18,
    "open_issues": 51,
-   "watchers": 38,
+   "watchers": 39,
    "default_branch": "master",
    "permissions": {
     "admin": true,
