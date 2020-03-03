@@ -73,7 +73,7 @@
    "releases_url": "https://api.github.com/repos/flaiker/abap-log/releases{/id}",
    "deployments_url": "https://api.github.com/repos/flaiker/abap-log/deployments",
    "created_at": "2017-02-09T10:32:15Z",
-   "updated_at": "2020-01-20T14:33:51Z",
+   "updated_at": "2020-03-02T07:18:56Z",
    "pushed_at": "2019-09-03T17:09:57Z",
    "git_url": "git://github.com/flaiker/abap-log.git",
    "ssh_url": "git@github.com:flaiker/abap-log.git",
@@ -81,8 +81,8 @@
    "svn_url": "https://github.com/flaiker/abap-log",
    "homepage": null,
    "size": 195,
-   "stargazers_count": 21,
-   "watchers_count": 21,
+   "stargazers_count": 22,
+   "watchers_count": 22,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -103,7 +103,7 @@
    },
    "forks": 10,
    "open_issues": 1,
-   "watchers": 21,
+   "watchers": 22,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6847,7 +6847,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 93758,
+  "lines": 93859,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6932,14 +6932,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-02-27T11:04:00Z",
-   "pushed_at": "2020-02-29T16:38:13Z",
+   "updated_at": "2020-03-02T14:30:28Z",
+   "pushed_at": "2020-03-02T18:42:30Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12351,
+   "size": 12409,
    "stargazers_count": 641,
    "watchers_count": 641,
    "language": "ABAP",
@@ -6952,7 +6952,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 212,
+   "open_issues_count": 213,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6961,7 +6961,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 270,
-   "open_issues": 212,
+   "open_issues": 213,
    "watchers": 641,
    "default_branch": "master",
    "permissions": {
@@ -8539,14 +8539,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2020-02-28T01:59:31Z",
-   "pushed_at": "2020-01-23T08:00:16Z",
+   "updated_at": "2020-03-02T11:09:43Z",
+   "pushed_at": "2020-03-02T11:09:52Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 25020,
+   "size": 25022,
    "stargazers_count": 263,
    "watchers_count": 263,
    "language": "ABAP",
@@ -8555,11 +8555,11 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 138,
+   "forks_count": 139,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 96,
+   "open_issues_count": 97,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -8567,8 +8567,8 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 138,
-   "open_issues": 96,
+   "forks": 139,
+   "open_issues": 97,
    "watchers": 263,
    "default_branch": "master",
    "permissions": {
@@ -8597,8 +8597,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 138,
-   "subscribers_count": 78
+   "network_count": 139,
+   "subscribers_count": 77
   }
  },
  "furlan/abap101_AOC2017": {
@@ -10962,7 +10962,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 297,
+   "open_issues_count": 298,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10971,7 +10971,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 43,
-   "open_issues": 297,
+   "open_issues": 298,
    "watchers": 115,
    "default_branch": "master",
    "permissions": {
@@ -14286,14 +14286,14 @@
    "releases_url": "https://api.github.com/repos/irodrigob/alv_utilities/releases{/id}",
    "deployments_url": "https://api.github.com/repos/irodrigob/alv_utilities/deployments",
    "created_at": "2018-09-27T19:53:57Z",
-   "updated_at": "2019-10-01T13:40:10Z",
-   "pushed_at": "2019-10-01T13:40:09Z",
+   "updated_at": "2020-03-02T12:11:29Z",
+   "pushed_at": "2020-03-02T12:11:27Z",
    "git_url": "git://github.com/irodrigob/alv_utilities.git",
    "ssh_url": "git@github.com:irodrigob/alv_utilities.git",
    "clone_url": "https://github.com/irodrigob/alv_utilities.git",
    "svn_url": "https://github.com/irodrigob/alv_utilities",
    "homepage": "",
-   "size": 31,
+   "size": 33,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
