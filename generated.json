@@ -6720,7 +6720,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 95599,
+  "lines": 96232,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6736,7 +6736,7 @@
   ],
   "parsing": {
    "version": "2.16.7",
-   "cloud": 157
+   "cloud": 159
   },
   "repo": {
    "id": 21115149,
@@ -6805,14 +6805,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-03-31T15:22:13Z",
-   "pushed_at": "2020-04-03T19:18:16Z",
+   "updated_at": "2020-04-05T06:58:03Z",
+   "pushed_at": "2020-04-05T07:21:18Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12538,
+   "size": 12567,
    "stargazers_count": 650,
    "watchers_count": 650,
    "language": "ABAP",
@@ -6844,7 +6844,7 @@
    },
    "temp_clone_token": "",
    "network_count": 276,
-   "subscribers_count": 107
+   "subscribers_count": 108
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -10815,7 +10815,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2020-03-28T09:07:06Z",
+   "updated_at": "2020-04-04T08:40:47Z",
    "pushed_at": "2020-03-09T23:04:53Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -10823,8 +10823,8 @@
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
    "size": 2238,
-   "stargazers_count": 117,
-   "watchers_count": 117,
+   "stargazers_count": 118,
+   "watchers_count": 118,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10845,7 +10845,7 @@
    },
    "forks": 44,
    "open_issues": 297,
-   "watchers": 117,
+   "watchers": 118,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -11839,7 +11839,7 @@
   }
  },
  "sbcgua/mockup_loader": {
-  "lines": 7149,
+  "lines": 7273,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
@@ -11912,14 +11912,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/mockup_loader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/mockup_loader/deployments",
    "created_at": "2015-11-03T17:02:54Z",
-   "updated_at": "2020-04-04T07:49:33Z",
-   "pushed_at": "2020-04-04T07:49:31Z",
+   "updated_at": "2020-04-04T08:33:16Z",
+   "pushed_at": "2020-04-04T08:33:14Z",
    "git_url": "git://github.com/sbcgua/mockup_loader.git",
    "ssh_url": "git@github.com:sbcgua/mockup_loader.git",
    "clone_url": "https://github.com/sbcgua/mockup_loader.git",
    "svn_url": "https://github.com/sbcgua/mockup_loader",
    "homepage": "",
-   "size": 912,
+   "size": 966,
    "stargazers_count": 35,
    "watchers_count": 35,
    "language": "ABAP",
