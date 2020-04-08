@@ -2059,7 +2059,7 @@
     "site_admin": false
    },
    "network_count": 4,
-   "subscribers_count": 4
+   "subscribers_count": 5
   }
  },
  "sbcgua/abap_gui_boilerplate": {
@@ -2400,7 +2400,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 3,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -2412,7 +2412,7 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
    },
-   "forks": 3,
+   "forks": 4,
    "open_issues": 0,
    "watchers": 8,
    "default_branch": "master",
@@ -2442,7 +2442,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 3,
+   "network_count": 4,
    "subscribers_count": 6
   }
  },
@@ -6720,7 +6720,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 96238,
+  "lines": 96319,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6805,14 +6805,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-04-05T08:55:28Z",
-   "pushed_at": "2020-04-06T15:13:52Z",
+   "updated_at": "2020-04-07T16:49:13Z",
+   "pushed_at": "2020-04-08T07:37:02Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12595,
+   "size": 12608,
    "stargazers_count": 650,
    "watchers_count": 650,
    "language": "ABAP",
@@ -6821,11 +6821,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 276,
+   "forks_count": 275,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 220,
+   "open_issues_count": 218,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6833,8 +6833,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 276,
-   "open_issues": 220,
+   "forks": 275,
+   "open_issues": 218,
    "watchers": 650,
    "default_branch": "master",
    "permissions": {
@@ -6843,7 +6843,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 276,
+   "network_count": 275,
    "subscribers_count": 108
   }
  },
