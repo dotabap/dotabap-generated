@@ -2989,7 +2989,7 @@
     "site_admin": false
    },
    "network_count": 12,
-   "subscribers_count": 25
+   "subscribers_count": 26
   }
  },
  "hardyp/AbapToTheFuture03": {
@@ -6229,11 +6229,11 @@
   }
  },
  "bizhuka/xtt": {
-  "lines": 7386,
+  "lines": 6817,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
-   "cloud": 198
+   "cloud": 168
   },
   "repo": {
    "id": 120720998,
@@ -6302,14 +6302,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/xtt/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/xtt/deployments",
    "created_at": "2018-02-08T06:31:13Z",
-   "updated_at": "2020-01-20T14:35:03Z",
-   "pushed_at": "2019-12-22T13:03:14Z",
+   "updated_at": "2020-04-10T06:25:11Z",
+   "pushed_at": "2020-04-10T06:25:09Z",
    "git_url": "git://github.com/bizhuka/xtt.git",
    "ssh_url": "git@github.com:bizhuka/xtt.git",
    "clone_url": "https://github.com/bizhuka/xtt.git",
    "svn_url": "https://github.com/bizhuka/xtt",
    "homepage": null,
-   "size": 638,
+   "size": 569,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -6468,11 +6468,11 @@
   }
  },
  "bizhuka/aqo": {
-  "lines": 9390,
+  "lines": 6091,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
-   "cloud": 263
+   "cloud": 189
   },
   "repo": {
    "id": 125153122,
@@ -6541,14 +6541,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/aqo/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/aqo/deployments",
    "created_at": "2018-03-14T04:02:03Z",
-   "updated_at": "2020-01-06T08:20:15Z",
-   "pushed_at": "2020-01-06T08:20:13Z",
+   "updated_at": "2020-04-10T06:28:12Z",
+   "pushed_at": "2020-04-10T06:28:09Z",
    "git_url": "git://github.com/bizhuka/aqo.git",
    "ssh_url": "git@github.com:bizhuka/aqo.git",
    "clone_url": "https://github.com/bizhuka/aqo.git",
    "svn_url": "https://github.com/bizhuka/aqo",
    "homepage": "",
-   "size": 3050,
+   "size": 3047,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -6805,16 +6805,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-04-09T07:39:39Z",
-   "pushed_at": "2020-04-09T07:40:20Z",
+   "updated_at": "2020-04-10T07:36:24Z",
+   "pushed_at": "2020-04-10T07:36:22Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12578,
-   "stargazers_count": 650,
-   "watchers_count": 650,
+   "size": 12586,
+   "stargazers_count": 651,
+   "watchers_count": 651,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6825,7 +6825,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 216,
+   "open_issues_count": 215,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6834,8 +6834,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 275,
-   "open_issues": 216,
-   "watchers": 650,
+   "open_issues": 215,
+   "watchers": 651,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -8683,13 +8683,13 @@
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
    "updated_at": "2020-01-10T14:51:17Z",
-   "pushed_at": "2020-04-06T06:22:24Z",
+   "pushed_at": "2020-04-09T21:37:35Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": "",
-   "size": 3563,
+   "size": 3639,
    "stargazers_count": 10,
    "watchers_count": 10,
    "language": "ABAP",
