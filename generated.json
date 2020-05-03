@@ -89,7 +89,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 11,
+   "forks_count": 12,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -101,7 +101,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 11,
+   "forks": 12,
    "open_issues": 1,
    "watchers": 22,
    "default_branch": "master",
@@ -111,7 +111,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 11,
+   "network_count": 12,
    "subscribers_count": 6
   }
  },
@@ -212,7 +212,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 49,
+   "forks_count": 50,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -224,7 +224,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 49,
+   "forks": 50,
    "open_issues": 14,
    "watchers": 150,
    "default_branch": "master",
@@ -234,7 +234,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 49,
+   "network_count": 50,
    "subscribers_count": 29
   }
  },
@@ -6836,7 +6836,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 97070,
+  "lines": 99516,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -6921,16 +6921,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-05-01T10:07:37Z",
-   "pushed_at": "2020-05-01T21:02:49Z",
+   "updated_at": "2020-05-02T15:04:13Z",
+   "pushed_at": "2020-05-02T18:39:43Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12651,
-   "stargazers_count": 663,
-   "watchers_count": 663,
+   "size": 12742,
+   "stargazers_count": 662,
+   "watchers_count": 662,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6941,7 +6941,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 232,
+   "open_issues_count": 221,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6950,8 +6950,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 282,
-   "open_issues": 232,
-   "watchers": 663,
+   "open_issues": 221,
+   "watchers": 662,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6960,7 +6960,7 @@
    },
    "temp_clone_token": "",
    "network_count": 282,
-   "subscribers_count": 109
+   "subscribers_count": 108
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -14481,7 +14481,7 @@
     "site_admin": false
    },
    "html_url": "https://github.com/fatihpense/zcl_mdp_json",
-   "description": "Medepia ABAP JSON library that can generate and parse any JSON string.",
+   "description": "MDP ABAP JSON library that can generate and parse any JSON string.",
    "fork": false,
    "url": "https://api.github.com/repos/fatihpense/zcl_mdp_json",
    "forks_url": "https://api.github.com/repos/fatihpense/zcl_mdp_json/forks",
@@ -14521,13 +14521,13 @@
    "releases_url": "https://api.github.com/repos/fatihpense/zcl_mdp_json/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fatihpense/zcl_mdp_json/deployments",
    "created_at": "2016-07-03T01:22:06Z",
-   "updated_at": "2020-01-23T11:50:26Z",
+   "updated_at": "2020-05-03T01:15:10Z",
    "pushed_at": "2019-04-04T19:19:16Z",
    "git_url": "git://github.com/fatihpense/zcl_mdp_json.git",
    "ssh_url": "git@github.com:fatihpense/zcl_mdp_json.git",
    "clone_url": "https://github.com/fatihpense/zcl_mdp_json.git",
    "svn_url": "https://github.com/fatihpense/zcl_mdp_json",
-   "homepage": null,
+   "homepage": "",
    "size": 12,
    "stargazers_count": 21,
    "watchers_count": 21,
