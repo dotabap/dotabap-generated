@@ -1522,7 +1522,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-05-08T00:50:18Z",
+   "updated_at": "2020-05-08T13:03:38Z",
    "pushed_at": "2020-05-07T08:11:41Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -1530,8 +1530,8 @@
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": null,
    "size": 952,
-   "stargazers_count": 35,
-   "watchers_count": 35,
+   "stargazers_count": 36,
+   "watchers_count": 36,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1552,7 +1552,7 @@
    },
    "forks": 3,
    "open_issues": 2,
-   "watchers": 35,
+   "watchers": 36,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7052,7 +7052,7 @@
    "releases_url": "https://api.github.com/repos/bizhuka/aqo/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/aqo/deployments",
    "created_at": "2018-03-14T04:02:03Z",
-   "updated_at": "2020-05-07T06:32:20Z",
+   "updated_at": "2020-05-09T03:11:25Z",
    "pushed_at": "2020-05-07T06:32:18Z",
    "git_url": "git://github.com/bizhuka/aqo.git",
    "ssh_url": "git@github.com:bizhuka/aqo.git",
@@ -7060,8 +7060,8 @@
    "svn_url": "https://github.com/bizhuka/aqo",
    "homepage": "",
    "size": 3125,
-   "stargazers_count": 7,
-   "watchers_count": 7,
+   "stargazers_count": 8,
+   "watchers_count": 8,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -7082,7 +7082,7 @@
    },
    "forks": 4,
    "open_issues": 2,
-   "watchers": 7,
+   "watchers": 8,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7184,7 +7184,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 25,
+   "forks_count": 26,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -7196,7 +7196,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 25,
+   "forks": 26,
    "open_issues": 12,
    "watchers": 78,
    "default_branch": "master",
@@ -7226,12 +7226,12 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 25,
+   "network_count": 26,
    "subscribers_count": 35
   }
  },
  "larshp/abapGit": {
-  "lines": 99743,
+  "lines": 99639,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -7316,14 +7316,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-05-07T14:18:04Z",
-   "pushed_at": "2020-05-07T09:30:36Z",
+   "updated_at": "2020-05-08T10:05:55Z",
+   "pushed_at": "2020-05-08T13:13:41Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 12751,
+   "size": 12830,
    "stargazers_count": 665,
    "watchers_count": 665,
    "language": "ABAP",
@@ -7332,7 +7332,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 282,
+   "forks_count": 281,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -7344,7 +7344,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 282,
+   "forks": 281,
    "open_issues": 224,
    "watchers": 665,
    "default_branch": "master",
@@ -7354,8 +7354,8 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 282,
-   "subscribers_count": 109
+   "network_count": 281,
+   "subscribers_count": 108
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -11707,7 +11707,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -11719,7 +11719,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 5,
+   "forks": 6,
    "open_issues": 7,
    "watchers": 12,
    "default_branch": "master",
@@ -11729,7 +11729,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 2
   }
  },
