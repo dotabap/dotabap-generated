@@ -705,7 +705,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 11,
+   "forks_count": 12,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -717,7 +717,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 11,
+   "forks": 12,
    "open_issues": 1,
    "watchers": 25,
    "default_branch": "master",
@@ -727,7 +727,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 11,
+   "network_count": 12,
    "subscribers_count": 10
   }
  },
@@ -1333,7 +1333,7 @@
   }
  },
  "SAP-samples/cloud-abap-exchange-rates": {
-  "lines": 371,
+  "lines": 338,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -1413,14 +1413,14 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/cloud-abap-exchange-rates/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/cloud-abap-exchange-rates/deployments",
    "created_at": "2020-05-07T15:45:04Z",
-   "updated_at": "2020-05-08T17:05:35Z",
-   "pushed_at": "2020-05-08T17:03:49Z",
+   "updated_at": "2020-05-12T05:44:28Z",
+   "pushed_at": "2020-05-12T05:44:25Z",
    "git_url": "git://github.com/SAP-samples/cloud-abap-exchange-rates.git",
    "ssh_url": "git@github.com:SAP-samples/cloud-abap-exchange-rates.git",
    "clone_url": "https://github.com/SAP-samples/cloud-abap-exchange-rates.git",
    "svn_url": "https://github.com/SAP-samples/cloud-abap-exchange-rates",
    "homepage": "",
-   "size": 19,
+   "size": 21,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -1665,7 +1665,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-05-09T20:21:47Z",
+   "updated_at": "2020-05-11T19:48:28Z",
    "pushed_at": "2020-05-07T08:11:41Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -1673,8 +1673,8 @@
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": null,
    "size": 952,
-   "stargazers_count": 38,
-   "watchers_count": 38,
+   "stargazers_count": 39,
+   "watchers_count": 39,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1695,7 +1695,7 @@
    },
    "forks": 3,
    "open_issues": 2,
-   "watchers": 38,
+   "watchers": 39,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5774,7 +5774,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 11,
+   "forks_count": 12,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -5786,7 +5786,7 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
    },
-   "forks": 11,
+   "forks": 12,
    "open_issues": 1,
    "watchers": 12,
    "default_branch": "master",
@@ -5816,7 +5816,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 11,
+   "network_count": 12,
    "subscribers_count": 9
   }
  },
@@ -6890,7 +6890,7 @@
   }
  },
  "bizhuka/eui": {
-  "lines": 9330,
+  "lines": 9363,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
@@ -6923,7 +6923,7 @@
     "site_admin": false
    },
    "html_url": "https://github.com/bizhuka/eui",
-   "description": "Easy UI in SAP",
+   "description": "Easy UI in SAP  https://bizhuka.github.io/eui/",
    "fork": false,
    "url": "https://api.github.com/repos/bizhuka/eui",
    "forks_url": "https://api.github.com/repos/bizhuka/eui/forks",
@@ -6963,14 +6963,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/eui/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/eui/deployments",
    "created_at": "2020-04-10T06:05:31Z",
-   "updated_at": "2020-05-07T11:35:26Z",
-   "pushed_at": "2020-05-07T06:04:46Z",
+   "updated_at": "2020-05-12T06:21:06Z",
+   "pushed_at": "2020-05-12T06:20:09Z",
    "git_url": "git://github.com/bizhuka/eui.git",
    "ssh_url": "git@github.com:bizhuka/eui.git",
    "clone_url": "https://github.com/bizhuka/eui.git",
    "svn_url": "https://github.com/bizhuka/eui",
-   "homepage": null,
-   "size": 299,
+   "homepage": "",
+   "size": 325,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
@@ -7006,11 +7006,11 @@
   }
  },
  "bizhuka/xtt": {
-  "lines": 6984,
+  "lines": 7196,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
-   "cloud": 174
+   "cloud": 194
   },
   "repo": {
    "id": 120720998,
@@ -7039,7 +7039,7 @@
     "site_admin": false
    },
    "html_url": "https://github.com/bizhuka/xtt",
-   "description": "Xml template toolkit for ABAP",
+   "description": "Xml template toolkit for ABAP https://bizhuka.github.io/xtt/",
    "fork": false,
    "url": "https://api.github.com/repos/bizhuka/xtt",
    "forks_url": "https://api.github.com/repos/bizhuka/xtt/forks",
@@ -7079,14 +7079,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/xtt/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/xtt/deployments",
    "created_at": "2018-02-08T06:31:13Z",
-   "updated_at": "2020-05-07T15:24:43Z",
-   "pushed_at": "2020-05-07T15:24:41Z",
+   "updated_at": "2020-05-12T06:27:37Z",
+   "pushed_at": "2020-05-12T06:27:34Z",
    "git_url": "git://github.com/bizhuka/xtt.git",
    "ssh_url": "git@github.com:bizhuka/xtt.git",
    "clone_url": "https://github.com/bizhuka/xtt.git",
    "svn_url": "https://github.com/bizhuka/xtt",
-   "homepage": null,
-   "size": 690,
+   "homepage": "",
+   "size": 794,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
@@ -7460,7 +7460,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2020-05-08T10:05:55Z",
-   "pushed_at": "2020-05-09T13:07:55Z",
+   "pushed_at": "2020-05-11T12:52:49Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
