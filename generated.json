@@ -972,7 +972,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -984,7 +984,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 2,
+   "forks": 3,
    "open_issues": 5,
    "watchers": 6,
    "default_branch": "master",
@@ -994,8 +994,8 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 2,
-   "subscribers_count": 0
+   "network_count": 3,
+   "subscribers_count": 1
   }
  },
  "SAP-samples/cloud-abap-rap": {
@@ -3362,7 +3362,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -3374,7 +3374,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 5,
+   "forks": 6,
    "open_issues": 0,
    "watchers": 19,
    "default_branch": "master",
@@ -3404,7 +3404,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 8
   }
  },
@@ -4586,7 +4586,7 @@
    },
    "temp_clone_token": "",
    "network_count": 9,
-   "subscribers_count": 7
+   "subscribers_count": 8
   }
  },
  "fidley/Customers": {
@@ -5791,7 +5791,7 @@
    "releases_url": "https://api.github.com/repos/damir-majer/ABAPKoans/releases{/id}",
    "deployments_url": "https://api.github.com/repos/damir-majer/ABAPKoans/deployments",
    "created_at": "2017-05-19T16:27:18Z",
-   "updated_at": "2019-05-22T09:41:18Z",
+   "updated_at": "2020-06-02T10:05:48Z",
    "pushed_at": "2018-06-28T13:54:07Z",
    "git_url": "git://github.com/damir-majer/ABAPKoans.git",
    "ssh_url": "git@github.com:damir-majer/ABAPKoans.git",
@@ -5799,8 +5799,8 @@
    "svn_url": "https://github.com/damir-majer/ABAPKoans",
    "homepage": "",
    "size": 23,
-   "stargazers_count": 16,
-   "watchers_count": 16,
+   "stargazers_count": 17,
+   "watchers_count": 17,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -5821,7 +5821,7 @@
    },
    "forks": 6,
    "open_issues": 0,
-   "watchers": 16,
+   "watchers": 17,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7592,7 +7592,7 @@
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
    "updated_at": "2020-05-24T08:45:31Z",
-   "pushed_at": "2020-05-24T08:45:29Z",
+   "pushed_at": "2020-06-02T22:03:58Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/microsoft/ABAP-SDK-for-Azure.git",
@@ -7607,11 +7607,11 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 26,
+   "forks_count": 27,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 13,
+   "open_issues_count": 14,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7619,8 +7619,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 26,
-   "open_issues": 13,
+   "forks": 27,
+   "open_issues": 14,
    "watchers": 79,
    "default_branch": "master",
    "permissions": {
@@ -7649,12 +7649,12 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 26,
+   "network_count": 27,
    "subscribers_count": 34
   }
  },
  "larshp/abapGit": {
-  "lines": 101199,
+  "lines": 101239,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -7739,16 +7739,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-05-31T08:30:57Z",
-   "pushed_at": "2020-05-31T08:30:54Z",
+   "updated_at": "2020-06-03T07:18:02Z",
+   "pushed_at": "2020-06-03T07:27:04Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 13018,
-   "stargazers_count": 670,
-   "watchers_count": 670,
+   "size": 13106,
+   "stargazers_count": 672,
+   "watchers_count": 672,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7759,7 +7759,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 231,
+   "open_issues_count": 230,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7768,8 +7768,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 290,
-   "open_issues": 231,
-   "watchers": 670,
+   "open_issues": 230,
+   "watchers": 672,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -16819,7 +16819,7 @@
    "releases_url": "https://api.github.com/repos/hhelibeb/geohash-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hhelibeb/geohash-abap/deployments",
    "created_at": "2019-08-29T13:48:37Z",
-   "updated_at": "2020-05-29T08:54:05Z",
+   "updated_at": "2020-06-03T03:50:07Z",
    "pushed_at": "2019-11-28T09:26:08Z",
    "git_url": "git://github.com/hhelibeb/geohash-abap.git",
    "ssh_url": "git@github.com:hhelibeb/geohash-abap.git",
@@ -16827,8 +16827,8 @@
    "svn_url": "https://github.com/hhelibeb/geohash-abap",
    "homepage": null,
    "size": 50,
-   "stargazers_count": 5,
-   "watchers_count": 5,
+   "stargazers_count": 6,
+   "watchers_count": 6,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -16849,7 +16849,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 5,
+   "watchers": 6,
    "default_branch": "master",
    "permissions": {
     "admin": false,
