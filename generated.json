@@ -1131,7 +1131,7 @@
     "site_admin": false
    },
    "network_count": 2,
-   "subscribers_count": 7
+   "subscribers_count": 8
   }
  },
  "stockbal/abap-search-tools": {
@@ -1693,14 +1693,14 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/cloud-abap-exchange-rates/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/cloud-abap-exchange-rates/deployments",
    "created_at": "2020-05-07T15:45:04Z",
-   "updated_at": "2020-05-19T08:30:14Z",
-   "pushed_at": "2020-05-19T08:30:11Z",
+   "updated_at": "2020-06-03T11:14:29Z",
+   "pushed_at": "2020-06-03T11:14:26Z",
    "git_url": "git://github.com/SAP-samples/cloud-abap-exchange-rates.git",
    "ssh_url": "git@github.com:SAP-samples/cloud-abap-exchange-rates.git",
    "clone_url": "https://github.com/SAP-samples/cloud-abap-exchange-rates.git",
    "svn_url": "https://github.com/SAP-samples/cloud-abap-exchange-rates",
    "homepage": "",
-   "size": 33,
+   "size": 34,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -2081,7 +2081,7 @@
    "releases_url": "https://api.github.com/repos/techedgegroup-sap/abap2gsheet/releases{/id}",
    "deployments_url": "https://api.github.com/repos/techedgegroup-sap/abap2gsheet/deployments",
    "created_at": "2019-12-30T10:54:53Z",
-   "updated_at": "2020-04-09T05:13:05Z",
+   "updated_at": "2020-06-03T08:20:19Z",
    "pushed_at": "2020-01-15T12:06:03Z",
    "git_url": "git://github.com/techedgegroup-sap/abap2gsheet.git",
    "ssh_url": "git@github.com:techedgegroup-sap/abap2gsheet.git",
@@ -2089,8 +2089,8 @@
    "svn_url": "https://github.com/techedgegroup-sap/abap2gsheet",
    "homepage": null,
    "size": 209,
-   "stargazers_count": 10,
-   "watchers_count": 10,
+   "stargazers_count": 11,
+   "watchers_count": 11,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2111,7 +2111,7 @@
    },
    "forks": 1,
    "open_issues": 2,
-   "watchers": 10,
+   "watchers": 11,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4463,7 +4463,7 @@
     "site_admin": false
    },
    "network_count": 1,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "fidley/JSON2ABAPType": {
@@ -4547,7 +4547,7 @@
    "releases_url": "https://api.github.com/repos/fidley/JSON2ABAPType/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/JSON2ABAPType/deployments",
    "created_at": "2018-08-20T16:24:34Z",
-   "updated_at": "2020-05-30T02:34:21Z",
+   "updated_at": "2020-06-03T09:56:56Z",
    "pushed_at": "2020-02-13T12:20:52Z",
    "git_url": "git://github.com/fidley/JSON2ABAPType.git",
    "ssh_url": "git@github.com:fidley/JSON2ABAPType.git",
@@ -4555,8 +4555,8 @@
    "svn_url": "https://github.com/fidley/JSON2ABAPType",
    "homepage": null,
    "size": 125,
-   "stargazers_count": 22,
-   "watchers_count": 22,
+   "stargazers_count": 23,
+   "watchers_count": 23,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4577,7 +4577,7 @@
    },
    "forks": 9,
    "open_issues": 0,
-   "watchers": 22,
+   "watchers": 23,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7244,13 +7244,13 @@
    "deployments_url": "https://api.github.com/repos/bizhuka/eui/deployments",
    "created_at": "2020-04-10T06:05:31Z",
    "updated_at": "2020-05-30T05:27:59Z",
-   "pushed_at": "2020-05-30T05:27:57Z",
+   "pushed_at": "2020-06-03T10:26:57Z",
    "git_url": "git://github.com/bizhuka/eui.git",
    "ssh_url": "git@github.com:bizhuka/eui.git",
    "clone_url": "https://github.com/bizhuka/eui.git",
    "svn_url": "https://github.com/bizhuka/eui",
    "homepage": "",
-   "size": 362,
+   "size": 360,
    "stargazers_count": 9,
    "watchers_count": 9,
    "language": "ABAP",
@@ -7518,11 +7518,11 @@
   }
  },
  "Microsoft/ABAP-SDK-for-Azure": {
-  "lines": 9518,
+  "lines": 9552,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
-   "cloud": 356
+   "cloud": 360
   },
   "repo": {
    "id": 124694095,
@@ -7591,14 +7591,14 @@
    "releases_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2020-05-24T08:45:31Z",
-   "pushed_at": "2020-06-02T22:03:58Z",
+   "updated_at": "2020-06-03T12:01:57Z",
+   "pushed_at": "2020-06-03T11:51:54Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
-   "size": 10169,
+   "size": 10173,
    "stargazers_count": 79,
    "watchers_count": 79,
    "language": "ABAP",
@@ -7611,7 +7611,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 14,
+   "open_issues_count": 12,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7620,7 +7620,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 27,
-   "open_issues": 14,
+   "open_issues": 12,
    "watchers": 79,
    "default_branch": "master",
    "permissions": {
@@ -7739,27 +7739,27 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-06-03T07:18:02Z",
-   "pushed_at": "2020-06-03T07:27:04Z",
+   "updated_at": "2020-06-03T16:19:26Z",
+   "pushed_at": "2020-06-04T07:25:41Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 13106,
-   "stargazers_count": 672,
-   "watchers_count": 672,
+   "size": 13086,
+   "stargazers_count": 674,
+   "watchers_count": 674,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 290,
+   "forks_count": 292,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 230,
+   "open_issues_count": 233,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7767,9 +7767,9 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 290,
-   "open_issues": 230,
-   "watchers": 672,
+   "forks": 292,
+   "open_issues": 233,
+   "watchers": 674,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7777,8 +7777,8 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 290,
-   "subscribers_count": 108
+   "network_count": 292,
+   "subscribers_count": 107
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -12773,7 +12773,7 @@
   }
  },
  "sbcgua/mockup_loader": {
-  "lines": 7289,
+  "lines": 7309,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.16.7",
@@ -12846,14 +12846,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/mockup_loader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/mockup_loader/deployments",
    "created_at": "2015-11-03T17:02:54Z",
-   "updated_at": "2020-05-04T08:29:36Z",
-   "pushed_at": "2020-04-18T20:32:36Z",
+   "updated_at": "2020-06-03T14:02:40Z",
+   "pushed_at": "2020-06-03T14:02:37Z",
    "git_url": "git://github.com/sbcgua/mockup_loader.git",
    "ssh_url": "git@github.com:sbcgua/mockup_loader.git",
    "clone_url": "https://github.com/sbcgua/mockup_loader.git",
    "svn_url": "https://github.com/sbcgua/mockup_loader",
    "homepage": "",
-   "size": 973,
+   "size": 992,
    "stargazers_count": 36,
    "watchers_count": 36,
    "language": "ABAP",
