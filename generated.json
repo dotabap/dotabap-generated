@@ -1613,7 +1613,7 @@
   }
  },
  "SAP-samples/cloud-abap-exchange-rates": {
-  "lines": 372,
+  "lines": 370,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -1693,14 +1693,14 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/cloud-abap-exchange-rates/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/cloud-abap-exchange-rates/deployments",
    "created_at": "2020-05-07T15:45:04Z",
-   "updated_at": "2020-06-05T05:11:21Z",
-   "pushed_at": "2020-06-05T05:11:18Z",
+   "updated_at": "2020-06-08T07:09:36Z",
+   "pushed_at": "2020-06-08T07:09:34Z",
    "git_url": "git://github.com/SAP-samples/cloud-abap-exchange-rates.git",
    "ssh_url": "git@github.com:SAP-samples/cloud-abap-exchange-rates.git",
    "clone_url": "https://github.com/SAP-samples/cloud-abap-exchange-rates.git",
    "svn_url": "https://github.com/SAP-samples/cloud-abap-exchange-rates",
    "homepage": "",
-   "size": 37,
+   "size": 42,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -5043,7 +5043,7 @@
    "releases_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/deployments",
    "created_at": "2018-10-28T18:36:49Z",
-   "updated_at": "2019-11-11T18:15:17Z",
+   "updated_at": "2020-06-07T16:02:45Z",
    "pushed_at": "2019-11-11T18:15:15Z",
    "git_url": "git://github.com/pawelwiejkut/bw_toolbox.git",
    "ssh_url": "git@github.com:pawelwiejkut/bw_toolbox.git",
@@ -5051,8 +5051,8 @@
    "svn_url": "https://github.com/pawelwiejkut/bw_toolbox",
    "homepage": "",
    "size": 39,
-   "stargazers_count": 4,
-   "watchers_count": 4,
+   "stargazers_count": 5,
+   "watchers_count": 5,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -5073,7 +5073,7 @@
    },
    "forks": 3,
    "open_issues": 0,
-   "watchers": 4,
+   "watchers": 5,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5082,7 +5082,7 @@
    },
    "temp_clone_token": "",
    "network_count": 3,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "pawelwiejkut/bw_remove_charters": {
@@ -6321,7 +6321,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 31,
+   "forks_count": 30,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -6333,7 +6333,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 31,
+   "forks": 30,
    "open_issues": 5,
    "watchers": 71,
    "default_branch": "master",
@@ -6343,8 +6343,8 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 31,
-   "subscribers_count": 22
+   "network_count": 30,
+   "subscribers_count": 21
   }
  },
  "abapkochbuch/Sources": {
@@ -7654,7 +7654,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 101754,
+  "lines": 101803,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -7739,14 +7739,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-06-07T07:44:42Z",
-   "pushed_at": "2020-06-07T07:45:57Z",
+   "updated_at": "2020-06-08T05:38:42Z",
+   "pushed_at": "2020-06-08T05:38:40Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 13040,
+   "size": 13062,
    "stargazers_count": 678,
    "watchers_count": 678,
    "language": "ABAP",
@@ -7755,11 +7755,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 294,
+   "forks_count": 293,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 242,
+   "open_issues_count": 238,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7767,8 +7767,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 294,
-   "open_issues": 242,
+   "forks": 293,
+   "open_issues": 238,
    "watchers": 678,
    "default_branch": "master",
    "permissions": {
@@ -7777,7 +7777,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 294,
+   "network_count": 293,
    "subscribers_count": 107
   }
  },
@@ -11668,7 +11668,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 41814,
+  "lines": 41883,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -11749,14 +11749,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2020-06-07T06:57:57Z",
-   "pushed_at": "2020-06-07T06:58:17Z",
+   "updated_at": "2020-06-08T04:11:09Z",
+   "pushed_at": "2020-06-08T04:11:07Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2257,
+   "size": 2276,
    "stargazers_count": 121,
    "watchers_count": 121,
    "language": "ABAP",
@@ -11769,7 +11769,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 302,
+   "open_issues_count": 301,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -11778,7 +11778,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 46,
-   "open_issues": 302,
+   "open_issues": 301,
    "watchers": 121,
    "default_branch": "master",
    "permissions": {
@@ -12361,8 +12361,8 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Swagger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
-   "updated_at": "2020-05-16T10:24:00Z",
-   "pushed_at": "2020-05-16T10:23:58Z",
+   "updated_at": "2020-06-08T07:13:48Z",
+   "pushed_at": "2020-06-08T07:13:46Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
    "clone_url": "https://github.com/larshp/ABAP-Swagger.git",
@@ -12501,7 +12501,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 18,
+   "forks_count": 17,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -12513,7 +12513,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 18,
+   "forks": 17,
    "open_issues": 53,
    "watchers": 46,
    "default_branch": "master",
@@ -12523,7 +12523,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 18,
+   "network_count": 17,
    "subscribers_count": 12
   }
  },
@@ -17399,7 +17399,7 @@
    "releases_url": "https://api.github.com/repos/OlegBash599/CallABAP_samples/releases{/id}",
    "deployments_url": "https://api.github.com/repos/OlegBash599/CallABAP_samples/deployments",
    "created_at": "2019-10-29T15:39:56Z",
-   "updated_at": "2020-06-06T12:15:21Z",
+   "updated_at": "2020-06-07T09:17:18Z",
    "pushed_at": "2020-06-06T12:15:19Z",
    "git_url": "git://github.com/OlegBash599/CallABAP_samples.git",
    "ssh_url": "git@github.com:OlegBash599/CallABAP_samples.git",
@@ -17407,8 +17407,8 @@
    "svn_url": "https://github.com/OlegBash599/CallABAP_samples",
    "homepage": null,
    "size": 156,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -17429,7 +17429,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "master",
    "permissions": {
     "admin": false,
