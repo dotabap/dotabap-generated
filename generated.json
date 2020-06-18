@@ -2081,7 +2081,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-06-16T10:54:12Z",
+   "updated_at": "2020-06-17T22:30:21Z",
    "pushed_at": "2020-06-16T10:54:19Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -2089,8 +2089,8 @@
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": null,
    "size": 1021,
-   "stargazers_count": 53,
-   "watchers_count": 53,
+   "stargazers_count": 54,
+   "watchers_count": 54,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2111,7 +2111,7 @@
    },
    "forks": 7,
    "open_issues": 5,
-   "watchers": 53,
+   "watchers": 54,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3482,7 +3482,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/abap-oo-basics/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-oo-basics/deployments",
    "created_at": "2020-04-18T00:02:53Z",
-   "updated_at": "2020-06-11T15:35:56Z",
+   "updated_at": "2020-06-17T10:38:28Z",
    "pushed_at": "2020-06-11T12:36:37Z",
    "git_url": "git://github.com/SAP-samples/abap-oo-basics.git",
    "ssh_url": "git@github.com:SAP-samples/abap-oo-basics.git",
@@ -3490,8 +3490,8 @@
    "svn_url": "https://github.com/SAP-samples/abap-oo-basics",
    "homepage": null,
    "size": 61,
-   "stargazers_count": 24,
-   "watchers_count": 24,
+   "stargazers_count": 25,
+   "watchers_count": 25,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3512,7 +3512,7 @@
    },
    "forks": 9,
    "open_issues": 0,
-   "watchers": 24,
+   "watchers": 25,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3541,7 +3541,7 @@
     "site_admin": false
    },
    "network_count": 9,
-   "subscribers_count": 11
+   "subscribers_count": 12
   }
  },
  "SAP/ewm-cloud-robotics-s4": {
@@ -7876,13 +7876,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2020-06-16T19:27:56Z",
-   "pushed_at": "2020-06-17T06:13:53Z",
+   "pushed_at": "2020-06-18T07:14:23Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 13241,
+   "size": 13309,
    "stargazers_count": 680,
    "watchers_count": 680,
    "language": "ABAP",
@@ -7895,7 +7895,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 242,
+   "open_issues_count": 241,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7904,7 +7904,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 295,
-   "open_issues": 242,
+   "open_issues": 241,
    "watchers": 680,
    "default_branch": "master",
    "permissions": {
@@ -7914,7 +7914,7 @@
    },
    "temp_clone_token": "",
    "network_count": 295,
-   "subscribers_count": 105
+   "subscribers_count": 104
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -9482,7 +9482,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2020-06-10T21:46:36Z",
+   "updated_at": "2020-06-18T03:45:16Z",
    "pushed_at": "2020-06-15T08:38:45Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -9490,8 +9490,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 25305,
-   "stargazers_count": 284,
-   "watchers_count": 284,
+   "stargazers_count": 285,
+   "watchers_count": 285,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -9502,7 +9502,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 107,
+   "open_issues_count": 109,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -9511,8 +9511,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 149,
-   "open_issues": 107,
-   "watchers": 284,
+   "open_issues": 109,
+   "watchers": 285,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -11885,7 +11885,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2020-06-08T08:48:00Z",
+   "updated_at": "2020-06-17T22:32:10Z",
    "pushed_at": "2020-06-08T08:47:57Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -12499,7 +12499,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
    "updated_at": "2020-06-16T10:09:09Z",
-   "pushed_at": "2020-06-16T10:09:07Z",
+   "pushed_at": "2020-06-17T12:12:02Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
    "clone_url": "https://github.com/larshp/ABAP-Swagger.git",
@@ -12514,11 +12514,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 23,
+   "forks_count": 24,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 16,
+   "open_issues_count": 17,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -12526,8 +12526,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 23,
-   "open_issues": 16,
+   "forks": 24,
+   "open_issues": 17,
    "watchers": 51,
    "default_branch": "master",
    "permissions": {
@@ -12536,7 +12536,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 23,
+   "network_count": 24,
    "subscribers_count": 17
   }
  },
@@ -18388,7 +18388,7 @@
    "releases_url": "https://api.github.com/repos/abapChaoLiu/abap_jwt_generator/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapChaoLiu/abap_jwt_generator/deployments",
    "created_at": "2020-05-09T02:11:00Z",
-   "updated_at": "2020-06-16T15:06:13Z",
+   "updated_at": "2020-06-18T05:25:10Z",
    "pushed_at": "2020-06-16T15:06:10Z",
    "git_url": "git://github.com/abapChaoLiu/abap_jwt_generator.git",
    "ssh_url": "git@github.com:abapChaoLiu/abap_jwt_generator.git",
@@ -18396,8 +18396,8 @@
    "svn_url": "https://github.com/abapChaoLiu/abap_jwt_generator",
    "homepage": null,
    "size": 35,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -18418,7 +18418,7 @@
    },
    "forks": 1,
    "open_issues": 1,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "master",
    "permissions": {
     "admin": false,
