@@ -698,7 +698,7 @@
    "clone_url": "https://github.com/abapGit/ADT_Backend.git",
    "svn_url": "https://github.com/abapGit/ADT_Backend",
    "homepage": "",
-   "size": 115,
+   "size": 134,
    "stargazers_count": 10,
    "watchers_count": 10,
    "language": "ABAP",
@@ -750,7 +750,7 @@
     "site_admin": false
    },
    "network_count": 5,
-   "subscribers_count": 14
+   "subscribers_count": 13
   }
  },
  "koemaeda/abap-markdown": {
@@ -2225,7 +2225,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-06-23T08:35:05Z",
+   "updated_at": "2020-06-27T16:05:37Z",
    "pushed_at": "2020-06-19T09:34:34Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -2233,15 +2233,15 @@
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": null,
    "size": 1029,
-   "stargazers_count": 55,
-   "watchers_count": 55,
+   "stargazers_count": 56,
+   "watchers_count": 56,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 7,
+   "forks_count": 8,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -2253,9 +2253,9 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 7,
+   "forks": 8,
    "open_issues": 4,
-   "watchers": 55,
+   "watchers": 56,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -2283,7 +2283,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 7,
+   "network_count": 8,
    "subscribers_count": 8
   }
  },
@@ -7934,7 +7934,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 102482,
+  "lines": 102488,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -8020,14 +8020,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-06-26T13:50:54Z",
-   "pushed_at": "2020-06-26T21:43:24Z",
+   "updated_at": "2020-06-27T14:30:20Z",
+   "pushed_at": "2020-06-28T07:20:48Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 13411,
+   "size": 13444,
    "stargazers_count": 687,
    "watchers_count": 687,
    "language": "ABAP",
@@ -8040,7 +8040,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 248,
+   "open_issues_count": 249,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8049,7 +8049,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 297,
-   "open_issues": 248,
+   "open_issues": 249,
    "watchers": 687,
    "default_branch": "master",
    "permissions": {
@@ -8059,7 +8059,7 @@
    },
    "temp_clone_token": "",
    "network_count": 297,
-   "subscribers_count": 106
+   "subscribers_count": 104
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -11676,7 +11676,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -11688,7 +11688,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 2,
+   "forks": 3,
    "open_issues": 0,
    "watchers": 4,
    "default_branch": "master",
@@ -11698,7 +11698,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 2,
+   "network_count": 3,
    "subscribers_count": 1
   }
  },
@@ -12031,13 +12031,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2020-06-24T04:55:02Z",
-   "pushed_at": "2020-06-08T08:47:57Z",
+   "pushed_at": "2020-06-28T06:24:44Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2290,
+   "size": 2274,
    "stargazers_count": 121,
    "watchers_count": 121,
    "language": "ABAP",
@@ -18092,11 +18092,11 @@
   }
  },
  "abaplint/abaplint-abap-backend": {
-  "lines": 2748,
+  "lines": 3392,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.36.9",
-   "cloud": 34
+   "cloud": 64
   },
   "repo": {
    "id": 231917665,
@@ -18165,14 +18165,14 @@
    "releases_url": "https://api.github.com/repos/abaplint/abaplint-abap-backend/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abaplint/abaplint-abap-backend/deployments",
    "created_at": "2020-01-05T12:58:03Z",
-   "updated_at": "2020-06-15T13:19:26Z",
-   "pushed_at": "2020-06-19T05:05:08Z",
+   "updated_at": "2020-06-28T07:20:17Z",
+   "pushed_at": "2020-06-28T08:12:46Z",
    "git_url": "git://github.com/abaplint/abaplint-abap-backend.git",
    "ssh_url": "git@github.com:abaplint/abaplint-abap-backend.git",
    "clone_url": "https://github.com/abaplint/abaplint-abap-backend.git",
    "svn_url": "https://github.com/abaplint/abaplint-abap-backend",
    "homepage": "",
-   "size": 211,
+   "size": 224,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -18185,7 +18185,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 14,
+   "open_issues_count": 15,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -18194,7 +18194,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 3,
-   "open_issues": 14,
+   "open_issues": 15,
    "watchers": 5,
    "default_branch": "master",
    "permissions": {
