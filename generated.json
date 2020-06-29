@@ -609,7 +609,7 @@
   }
  },
  "abapGit/ADT_Backend": {
-  "lines": 3056,
+  "lines": 3047,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -691,14 +691,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/ADT_Backend/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/ADT_Backend/deployments",
    "created_at": "2018-03-21T04:59:51Z",
-   "updated_at": "2020-06-26T05:27:39Z",
-   "pushed_at": "2020-06-27T08:10:03Z",
+   "updated_at": "2020-06-29T05:13:58Z",
+   "pushed_at": "2020-06-29T05:13:57Z",
    "git_url": "git://github.com/abapGit/ADT_Backend.git",
    "ssh_url": "git@github.com:abapGit/ADT_Backend.git",
    "clone_url": "https://github.com/abapGit/ADT_Backend.git",
    "svn_url": "https://github.com/abapGit/ADT_Backend",
    "homepage": "",
-   "size": 134,
+   "size": 116,
    "stargazers_count": 10,
    "watchers_count": 10,
    "language": "ABAP",
@@ -711,7 +711,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 15,
+   "open_issues_count": 14,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -720,7 +720,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 5,
-   "open_issues": 15,
+   "open_issues": 14,
    "watchers": 10,
    "default_branch": "master",
    "permissions": {
@@ -7934,7 +7934,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 102488,
+  "lines": 102551,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -8020,16 +8020,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-06-27T14:30:20Z",
-   "pushed_at": "2020-06-28T07:20:48Z",
+   "updated_at": "2020-06-29T05:50:09Z",
+   "pushed_at": "2020-06-29T08:14:33Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 13444,
-   "stargazers_count": 687,
-   "watchers_count": 687,
+   "size": 13506,
+   "stargazers_count": 688,
+   "watchers_count": 688,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -8050,7 +8050,7 @@
    },
    "forks": 297,
    "open_issues": 249,
-   "watchers": 687,
+   "watchers": 688,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -18092,11 +18092,11 @@
   }
  },
  "abaplint/abaplint-abap-backend": {
-  "lines": 3392,
+  "lines": 3425,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.36.9",
-   "cloud": 64
+   "cloud": 62
   },
   "repo": {
    "id": 231917665,
@@ -18165,14 +18165,14 @@
    "releases_url": "https://api.github.com/repos/abaplint/abaplint-abap-backend/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abaplint/abaplint-abap-backend/deployments",
    "created_at": "2020-01-05T12:58:03Z",
-   "updated_at": "2020-06-28T07:20:17Z",
-   "pushed_at": "2020-06-28T08:12:46Z",
+   "updated_at": "2020-06-28T11:52:14Z",
+   "pushed_at": "2020-06-28T21:21:55Z",
    "git_url": "git://github.com/abaplint/abaplint-abap-backend.git",
    "ssh_url": "git@github.com:abaplint/abaplint-abap-backend.git",
    "clone_url": "https://github.com/abaplint/abaplint-abap-backend.git",
    "svn_url": "https://github.com/abaplint/abaplint-abap-backend",
    "homepage": "",
-   "size": 224,
+   "size": 234,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -18181,7 +18181,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 3,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -18193,7 +18193,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 3,
+   "forks": 4,
    "open_issues": 15,
    "watchers": 5,
    "default_branch": "master",
@@ -18223,7 +18223,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 3,
+   "network_count": 4,
    "subscribers_count": 4
   }
  },
