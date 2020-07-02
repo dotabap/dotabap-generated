@@ -707,7 +707,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -719,7 +719,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 5,
+   "forks": 6,
    "open_issues": 13,
    "watchers": 10,
    "default_branch": "master",
@@ -749,7 +749,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 13
   }
  },
@@ -1484,7 +1484,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -1496,7 +1496,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 25,
    "watchers": 11,
    "default_branch": "master",
@@ -1526,7 +1526,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 4
   }
  },
@@ -2268,7 +2268,7 @@
   }
  },
  "SAP/code-pal-for-abap": {
-  "lines": 14229,
+  "lines": 14245,
   "startingFolder": "/clean_code_main/",
   "parsing": {
    "version": "2.36.9",
@@ -2341,16 +2341,16 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-07-01T05:49:55Z",
-   "pushed_at": "2020-07-01T05:50:04Z",
+   "updated_at": "2020-07-02T06:29:26Z",
+   "pushed_at": "2020-07-01T12:18:32Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": null,
-   "size": 1075,
-   "stargazers_count": 57,
-   "watchers_count": 57,
+   "size": 1084,
+   "stargazers_count": 58,
+   "watchers_count": 58,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2371,7 +2371,7 @@
    },
    "forks": 8,
    "open_issues": 4,
-   "watchers": 57,
+   "watchers": 58,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4280,7 +4280,7 @@
    "releases_url": "https://api.github.com/repos/hardyp/AbapToTheFuture03/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hardyp/AbapToTheFuture03/deployments",
    "created_at": "2019-02-22T11:02:40Z",
-   "updated_at": "2020-05-20T18:53:12Z",
+   "updated_at": "2020-07-01T21:02:02Z",
    "pushed_at": "2020-04-05T08:29:35Z",
    "git_url": "git://github.com/hardyp/AbapToTheFuture03.git",
    "ssh_url": "git@github.com:hardyp/AbapToTheFuture03.git",
@@ -4288,8 +4288,8 @@
    "svn_url": "https://github.com/hardyp/AbapToTheFuture03",
    "homepage": null,
    "size": 619,
-   "stargazers_count": 18,
-   "watchers_count": 18,
+   "stargazers_count": 19,
+   "watchers_count": 19,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -4310,7 +4310,7 @@
    },
    "forks": 14,
    "open_issues": 6,
-   "watchers": 18,
+   "watchers": 19,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5331,7 +5331,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -5343,7 +5343,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 0,
+   "forks": 1,
    "open_issues": 0,
    "watchers": 1,
    "default_branch": "master",
@@ -5353,7 +5353,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 1
   }
  },
@@ -5455,7 +5455,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 3,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -5467,7 +5467,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 3,
+   "forks": 4,
    "open_issues": 0,
    "watchers": 5,
    "default_branch": "master",
@@ -5477,7 +5477,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 3,
+   "network_count": 4,
    "subscribers_count": 3
   }
  },
@@ -7682,7 +7682,7 @@
   }
  },
  "bizhuka/xtt": {
-  "lines": 7383,
+  "lines": 7541,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.36.9",
@@ -7755,14 +7755,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/xtt/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/xtt/deployments",
    "created_at": "2018-02-08T06:31:13Z",
-   "updated_at": "2020-06-30T04:56:51Z",
-   "pushed_at": "2020-06-30T04:52:09Z",
+   "updated_at": "2020-07-01T11:56:42Z",
+   "pushed_at": "2020-07-01T11:56:39Z",
    "git_url": "git://github.com/bizhuka/xtt.git",
    "ssh_url": "git@github.com:bizhuka/xtt.git",
    "clone_url": "https://github.com/bizhuka/xtt.git",
    "svn_url": "https://github.com/bizhuka/xtt",
    "homepage": "https://bizhuka.github.io/xtt/",
-   "size": 912,
+   "size": 961,
    "stargazers_count": 9,
    "watchers_count": 9,
    "language": "ABAP",
@@ -8050,7 +8050,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 103434,
+  "lines": 103450,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -8136,14 +8136,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-07-01T06:16:56Z",
-   "pushed_at": "2020-07-01T06:16:53Z",
+   "updated_at": "2020-07-02T07:15:35Z",
+   "pushed_at": "2020-07-02T07:15:33Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 13400,
+   "size": 13402,
    "stargazers_count": 688,
    "watchers_count": 688,
    "language": "ABAP",
@@ -9661,7 +9661,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 46203,
+  "lines": 46211,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -9743,14 +9743,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2020-06-29T13:31:26Z",
-   "pushed_at": "2020-06-15T08:38:45Z",
+   "updated_at": "2020-07-02T04:39:26Z",
+   "pushed_at": "2020-07-02T04:39:22Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 25305,
+   "size": 24908,
    "stargazers_count": 286,
    "watchers_count": 286,
    "language": "ABAP",
@@ -9759,7 +9759,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 152,
+   "forks_count": 153,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9771,7 +9771,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 152,
+   "forks": 153,
    "open_issues": 110,
    "watchers": 286,
    "default_branch": "master",
@@ -9801,8 +9801,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 152,
-   "subscribers_count": 81
+   "network_count": 153,
+   "subscribers_count": 82
   }
  },
  "furlan/abap101_AOC2017": {
@@ -10029,7 +10029,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 4,
+   "forks_count": 5,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -10041,7 +10041,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 4,
+   "forks": 5,
    "open_issues": 8,
    "watchers": 10,
    "default_branch": "master",
@@ -10051,7 +10051,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 4,
+   "network_count": 5,
    "subscribers_count": 2
   }
  },
@@ -11522,7 +11522,7 @@
    "releases_url": "https://api.github.com/repos/Sumu-Ning/AES/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Sumu-Ning/AES/deployments",
    "created_at": "2015-07-01T18:10:38Z",
-   "updated_at": "2020-06-23T16:38:24Z",
+   "updated_at": "2020-07-02T02:14:24Z",
    "pushed_at": "2019-10-23T07:42:51Z",
    "git_url": "git://github.com/Sumu-Ning/AES.git",
    "ssh_url": "git@github.com:Sumu-Ning/AES.git",
@@ -12309,7 +12309,7 @@
   }
  },
  "larshp/abapOpenReview": {
-  "lines": 3792,
+  "lines": 3862,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -12390,14 +12390,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenReview/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenReview/deployments",
    "created_at": "2015-01-30T10:37:29Z",
-   "updated_at": "2020-06-26T09:30:18Z",
-   "pushed_at": "2020-06-26T09:30:15Z",
+   "updated_at": "2020-07-02T06:42:43Z",
+   "pushed_at": "2020-07-02T06:42:41Z",
    "git_url": "git://github.com/larshp/abapOpenReview.git",
    "ssh_url": "git@github.com:larshp/abapOpenReview.git",
    "clone_url": "https://github.com/larshp/abapOpenReview.git",
    "svn_url": "https://github.com/larshp/abapOpenReview",
    "homepage": null,
-   "size": 214,
+   "size": 227,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
@@ -12410,7 +12410,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 29,
+   "open_issues_count": 28,
    "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -12419,7 +12419,7 @@
     "node_id": "MDc6TGljZW5zZTg="
    },
    "forks": 4,
-   "open_issues": 29,
+   "open_issues": 28,
    "watchers": 8,
    "default_branch": "master",
    "permissions": {
@@ -18208,11 +18208,11 @@
   }
  },
  "abaplint/abaplint-abap-backend": {
-  "lines": 3489,
+  "lines": 3519,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.36.9",
-   "cloud": 62
+   "cloud": 70
   },
   "repo": {
    "id": 231917665,
@@ -18281,27 +18281,27 @@
    "releases_url": "https://api.github.com/repos/abaplint/abaplint-abap-backend/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abaplint/abaplint-abap-backend/deployments",
    "created_at": "2020-01-05T12:58:03Z",
-   "updated_at": "2020-07-01T05:52:48Z",
-   "pushed_at": "2020-07-01T06:02:25Z",
+   "updated_at": "2020-07-01T12:54:57Z",
+   "pushed_at": "2020-07-01T13:27:53Z",
    "git_url": "git://github.com/abaplint/abaplint-abap-backend.git",
    "ssh_url": "git@github.com:abaplint/abaplint-abap-backend.git",
    "clone_url": "https://github.com/abaplint/abaplint-abap-backend.git",
    "svn_url": "https://github.com/abaplint/abaplint-abap-backend",
    "homepage": "",
-   "size": 228,
-   "stargazers_count": 5,
-   "watchers_count": 5,
+   "size": 229,
+   "stargazers_count": 6,
+   "watchers_count": 6,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 4,
+   "forks_count": 5,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 24,
+   "open_issues_count": 23,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -18309,9 +18309,9 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 4,
-   "open_issues": 24,
-   "watchers": 5,
+   "forks": 5,
+   "open_issues": 23,
+   "watchers": 6,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -18339,8 +18339,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 4,
-   "subscribers_count": 4
+   "network_count": 5,
+   "subscribers_count": 5
   }
  },
  "benmeijs/ABAPVNSG2019": {
