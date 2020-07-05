@@ -1647,7 +1647,7 @@
   }
  },
  "jrodriguez-rc/abap-tasks-tracker": {
-  "lines": 1805,
+  "lines": 1843,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.36.9",
@@ -1720,14 +1720,14 @@
    "releases_url": "https://api.github.com/repos/jrodriguez-rc/abap-tasks-tracker/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jrodriguez-rc/abap-tasks-tracker/deployments",
    "created_at": "2020-05-27T15:47:38Z",
-   "updated_at": "2020-07-03T12:58:38Z",
-   "pushed_at": "2020-07-03T12:58:35Z",
+   "updated_at": "2020-07-04T11:04:35Z",
+   "pushed_at": "2020-07-04T11:04:32Z",
    "git_url": "git://github.com/jrodriguez-rc/abap-tasks-tracker.git",
    "ssh_url": "git@github.com:jrodriguez-rc/abap-tasks-tracker.git",
    "clone_url": "https://github.com/jrodriguez-rc/abap-tasks-tracker.git",
    "svn_url": "https://github.com/jrodriguez-rc/abap-tasks-tracker",
    "homepage": null,
-   "size": 538,
+   "size": 567,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "HTML",
@@ -5555,7 +5555,7 @@
    "releases_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/deployments",
    "created_at": "2018-10-28T18:36:49Z",
-   "updated_at": "2020-06-07T16:02:45Z",
+   "updated_at": "2020-07-04T18:46:20Z",
    "pushed_at": "2019-11-11T18:15:15Z",
    "git_url": "git://github.com/pawelwiejkut/bw_toolbox.git",
    "ssh_url": "git@github.com:pawelwiejkut/bw_toolbox.git",
@@ -5563,8 +5563,8 @@
    "svn_url": "https://github.com/pawelwiejkut/bw_toolbox",
    "homepage": "",
    "size": 39,
-   "stargazers_count": 5,
-   "watchers_count": 5,
+   "stargazers_count": 6,
+   "watchers_count": 6,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -5585,7 +5585,7 @@
    },
    "forks": 4,
    "open_issues": 0,
-   "watchers": 5,
+   "watchers": 6,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7798,11 +7798,11 @@
   }
  },
  "bizhuka/xtt": {
-  "lines": 7541,
+  "lines": 7588,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.36.9",
-   "cloud": 194
+   "cloud": 195
   },
   "repo": {
    "id": 120720998,
@@ -7871,14 +7871,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/xtt/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/xtt/deployments",
    "created_at": "2018-02-08T06:31:13Z",
-   "updated_at": "2020-07-01T11:56:42Z",
-   "pushed_at": "2020-07-01T11:56:39Z",
+   "updated_at": "2020-07-04T08:36:58Z",
+   "pushed_at": "2020-07-04T08:36:55Z",
    "git_url": "git://github.com/bizhuka/xtt.git",
    "ssh_url": "git@github.com:bizhuka/xtt.git",
    "clone_url": "https://github.com/bizhuka/xtt.git",
    "svn_url": "https://github.com/bizhuka/xtt",
    "homepage": "https://bizhuka.github.io/xtt/",
-   "size": 961,
+   "size": 1001,
    "stargazers_count": 9,
    "watchers_count": 9,
    "language": "ABAP",
@@ -8166,7 +8166,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 103504,
+  "lines": 103441,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -8252,14 +8252,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-07-04T07:31:26Z",
-   "pushed_at": "2020-07-04T07:31:23Z",
+   "updated_at": "2020-07-04T10:47:18Z",
+   "pushed_at": "2020-07-04T13:22:24Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 13402,
+   "size": 13383,
    "stargazers_count": 689,
    "watchers_count": 689,
    "language": "ABAP",
@@ -8272,7 +8272,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 251,
+   "open_issues_count": 255,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8281,7 +8281,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 297,
-   "open_issues": 251,
+   "open_issues": 255,
    "watchers": 689,
    "default_branch": "master",
    "permissions": {
@@ -18398,7 +18398,7 @@
    "deployments_url": "https://api.github.com/repos/abaplint/abaplint-abap-backend/deployments",
    "created_at": "2020-01-05T12:58:03Z",
    "updated_at": "2020-07-03T04:04:54Z",
-   "pushed_at": "2020-07-03T16:03:07Z",
+   "pushed_at": "2020-07-04T16:42:12Z",
    "git_url": "git://github.com/abaplint/abaplint-abap-backend.git",
    "ssh_url": "git@github.com:abaplint/abaplint-abap-backend.git",
    "clone_url": "https://github.com/abaplint/abaplint-abap-backend.git",
@@ -18417,7 +18417,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 26,
+   "open_issues_count": 27,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -18426,7 +18426,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 5,
-   "open_issues": 26,
+   "open_issues": 27,
    "watchers": 6,
    "default_branch": "master",
    "permissions": {
