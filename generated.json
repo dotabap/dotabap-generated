@@ -196,7 +196,7 @@
    "releases_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/epeterson320/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2020-08-06T14:08:50Z",
+   "updated_at": "2020-08-11T14:51:07Z",
    "pushed_at": "2020-02-19T17:50:37Z",
    "git_url": "git://github.com/epeterson320/ABAP-Logger.git",
    "ssh_url": "git@github.com:epeterson320/ABAP-Logger.git",
@@ -204,8 +204,8 @@
    "svn_url": "https://github.com/epeterson320/ABAP-Logger",
    "homepage": null,
    "size": 145,
-   "stargazers_count": 166,
-   "watchers_count": 166,
+   "stargazers_count": 167,
+   "watchers_count": 167,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -226,7 +226,7 @@
    },
    "forks": 57,
    "open_issues": 16,
-   "watchers": 166,
+   "watchers": 167,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -320,7 +320,7 @@
    "releases_url": "https://api.github.com/repos/tricktresor/gladius/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/gladius/deployments",
    "created_at": "2017-06-28T22:25:27Z",
-   "updated_at": "2020-03-31T14:20:09Z",
+   "updated_at": "2020-08-11T13:18:05Z",
    "pushed_at": "2019-09-18T20:21:36Z",
    "git_url": "git://github.com/tricktresor/gladius.git",
    "ssh_url": "git@github.com:tricktresor/gladius.git",
@@ -328,8 +328,8 @@
    "svn_url": "https://github.com/tricktresor/gladius",
    "homepage": null,
    "size": 84,
-   "stargazers_count": 7,
-   "watchers_count": 7,
+   "stargazers_count": 8,
+   "watchers_count": 8,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -340,7 +340,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -349,8 +349,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 1,
-   "watchers": 7,
+   "open_issues": 0,
+   "watchers": 8,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -359,7 +359,7 @@
    },
    "temp_clone_token": "",
    "network_count": 2,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "ivanfemia/abap2gapps": {
@@ -2111,11 +2111,11 @@
   }
  },
  "jrodriguez-rc/abap-dev-utilities": {
-  "lines": 2792,
+  "lines": 3268,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.38.20",
-   "cloud": 8
+   "cloud": 9
   },
   "repo": {
    "id": 285622128,
@@ -2184,14 +2184,14 @@
    "releases_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/deployments",
    "created_at": "2020-08-06T16:43:59Z",
-   "updated_at": "2020-08-10T17:35:31Z",
-   "pushed_at": "2020-08-10T17:35:28Z",
+   "updated_at": "2020-08-11T16:29:56Z",
+   "pushed_at": "2020-08-11T16:29:58Z",
    "git_url": "git://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "ssh_url": "git@github.com:jrodriguez-rc/abap-dev-utilities.git",
    "clone_url": "https://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "svn_url": "https://github.com/jrodriguez-rc/abap-dev-utilities",
    "homepage": null,
-   "size": 143,
+   "size": 222,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -2848,11 +2848,11 @@
   }
  },
  "SAP/code-pal-for-abap": {
-  "lines": 14553,
+  "lines": 14624,
   "startingFolder": "/clean_code_main/",
   "parsing": {
    "version": "2.38.20",
-   "cloud": 9
+   "cloud": 11
   },
   "repo": {
    "id": 252472689,
@@ -2921,14 +2921,14 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-08-04T07:52:53Z",
-   "pushed_at": "2020-08-10T21:05:27Z",
+   "updated_at": "2020-08-12T05:55:46Z",
+   "pushed_at": "2020-08-12T05:55:52Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": null,
-   "size": 1083,
+   "size": 1090,
    "stargazers_count": 66,
    "watchers_count": 66,
    "language": "ABAP",
@@ -2941,7 +2941,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 9,
+   "open_issues_count": 8,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -2950,7 +2950,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 11,
-   "open_issues": 9,
+   "open_issues": 8,
    "watchers": 66,
    "default_branch": "master",
    "permissions": {
@@ -4497,7 +4497,7 @@
     "site_admin": false
    },
    "network_count": 14,
-   "subscribers_count": 14
+   "subscribers_count": 15
   }
  },
  "SAP/ewm-cloud-robotics-s4": {
@@ -8699,7 +8699,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 35,
+   "forks_count": 36,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8711,7 +8711,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 35,
+   "forks": 36,
    "open_issues": 9,
    "watchers": 82,
    "default_branch": "master",
@@ -8741,12 +8741,12 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 35,
+   "network_count": 36,
    "subscribers_count": 36
   }
  },
  "larshp/abapGit": {
-  "lines": 105139,
+  "lines": 105115,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.38.20",
@@ -8819,14 +8819,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-08-11T03:31:53Z",
-   "pushed_at": "2020-08-11T07:42:20Z",
+   "updated_at": "2020-08-11T16:11:43Z",
+   "pushed_at": "2020-08-12T05:06:11Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 13928,
+   "size": 13882,
    "stargazers_count": 701,
    "watchers_count": 701,
    "language": "ABAP",
@@ -8839,7 +8839,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 246,
+   "open_issues_count": 247,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8848,7 +8848,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 307,
-   "open_issues": 246,
+   "open_issues": 247,
    "watchers": 701,
    "default_branch": "master",
    "permissions": {
@@ -8858,7 +8858,7 @@
    },
    "temp_clone_token": "",
    "network_count": 307,
-   "subscribers_count": 107
+   "subscribers_count": 106
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -10344,7 +10344,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 46381,
+  "lines": 46367,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -10426,14 +10426,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2020-08-09T10:19:36Z",
-   "pushed_at": "2020-08-09T16:29:55Z",
+   "updated_at": "2020-08-12T06:48:19Z",
+   "pushed_at": "2020-08-12T06:48:17Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 25205,
+   "size": 25174,
    "stargazers_count": 291,
    "watchers_count": 291,
    "language": "ABAP",
@@ -10446,7 +10446,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 112,
+   "open_issues_count": 111,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -10455,7 +10455,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 158,
-   "open_issues": 112,
+   "open_issues": 111,
    "watchers": 291,
    "default_branch": "master",
    "permissions": {
@@ -19488,6 +19488,122 @@
    "temp_clone_token": "",
    "network_count": 0,
    "subscribers_count": 0
+  }
+ },
+ "agiguere/SCPmsPushNotificationREST_API": {
+  "lines": 1001,
+  "startingFolder": "/src/",
+  "parsing": {
+   "version": "2.38.20",
+   "cloud": 3
+  },
+  "repo": {
+   "id": 247142708,
+   "node_id": "MDEwOlJlcG9zaXRvcnkyNDcxNDI3MDg=",
+   "name": "SCPmsPushNotificationREST_API",
+   "full_name": "agiguere/SCPmsPushNotificationREST_API",
+   "private": false,
+   "owner": {
+    "login": "agiguere",
+    "id": 8300810,
+    "node_id": "MDQ6VXNlcjgzMDA4MTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/8300810?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/agiguere",
+    "html_url": "https://github.com/agiguere",
+    "followers_url": "https://api.github.com/users/agiguere/followers",
+    "following_url": "https://api.github.com/users/agiguere/following{/other_user}",
+    "gists_url": "https://api.github.com/users/agiguere/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/agiguere/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/agiguere/subscriptions",
+    "organizations_url": "https://api.github.com/users/agiguere/orgs",
+    "repos_url": "https://api.github.com/users/agiguere/repos",
+    "events_url": "https://api.github.com/users/agiguere/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/agiguere/received_events",
+    "type": "User",
+    "site_admin": false
+   },
+   "html_url": "https://github.com/agiguere/SCPmsPushNotificationREST_API",
+   "description": "SCPms Push Notification REST API for ABAP",
+   "fork": false,
+   "url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API",
+   "forks_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/forks",
+   "keys_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/keys{/key_id}",
+   "collaborators_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/collaborators{/collaborator}",
+   "teams_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/teams",
+   "hooks_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/hooks",
+   "issue_events_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/issues/events{/number}",
+   "events_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/events",
+   "assignees_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/assignees{/user}",
+   "branches_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/branches{/branch}",
+   "tags_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/tags",
+   "blobs_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/git/blobs{/sha}",
+   "git_tags_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/git/tags{/sha}",
+   "git_refs_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/git/refs{/sha}",
+   "trees_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/git/trees{/sha}",
+   "statuses_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/statuses/{sha}",
+   "languages_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/languages",
+   "stargazers_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/stargazers",
+   "contributors_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/contributors",
+   "subscribers_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/subscribers",
+   "subscription_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/subscription",
+   "commits_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/commits{/sha}",
+   "git_commits_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/git/commits{/sha}",
+   "comments_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/comments{/number}",
+   "issue_comment_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/issues/comments{/number}",
+   "contents_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/contents/{+path}",
+   "compare_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/compare/{base}...{head}",
+   "merges_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/merges",
+   "archive_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/{archive_format}{/ref}",
+   "downloads_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/downloads",
+   "issues_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/issues{/number}",
+   "pulls_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/pulls{/number}",
+   "milestones_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/milestones{/number}",
+   "notifications_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/notifications{?since,all,participating}",
+   "labels_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/labels{/name}",
+   "releases_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/releases{/id}",
+   "deployments_url": "https://api.github.com/repos/agiguere/SCPmsPushNotificationREST_API/deployments",
+   "created_at": "2020-03-13T19:00:25Z",
+   "updated_at": "2020-08-10T21:28:54Z",
+   "pushed_at": "2020-08-10T21:28:52Z",
+   "git_url": "git://github.com/agiguere/SCPmsPushNotificationREST_API.git",
+   "ssh_url": "git@github.com:agiguere/SCPmsPushNotificationREST_API.git",
+   "clone_url": "https://github.com/agiguere/SCPmsPushNotificationREST_API.git",
+   "svn_url": "https://github.com/agiguere/SCPmsPushNotificationREST_API",
+   "homepage": null,
+   "size": 18,
+   "stargazers_count": 0,
+   "watchers_count": 0,
+   "language": "ABAP",
+   "has_issues": true,
+   "has_projects": true,
+   "has_downloads": true,
+   "has_wiki": true,
+   "has_pages": false,
+   "forks_count": 0,
+   "mirror_url": null,
+   "archived": false,
+   "disabled": false,
+   "open_issues_count": 0,
+   "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+   },
+   "forks": 0,
+   "open_issues": 0,
+   "watchers": 0,
+   "default_branch": "master",
+   "permissions": {
+    "admin": false,
+    "push": false,
+    "pull": true
+   },
+   "temp_clone_token": "",
+   "network_count": 0,
+   "subscribers_count": 2
   }
  }
 }
