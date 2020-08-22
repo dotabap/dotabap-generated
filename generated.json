@@ -866,7 +866,7 @@
     "site_admin": false
    },
    "network_count": 6,
-   "subscribers_count": 14
+   "subscribers_count": 15
   }
  },
  "xinitrc86/adash-services": {
@@ -1932,16 +1932,16 @@
    "releases_url": "https://api.github.com/repos/MindsetConsulting/MindsetAppAnalyzerFree/releases{/id}",
    "deployments_url": "https://api.github.com/repos/MindsetConsulting/MindsetAppAnalyzerFree/deployments",
    "created_at": "2019-09-23T14:43:21Z",
-   "updated_at": "2020-08-12T21:35:47Z",
-   "pushed_at": "2020-08-12T21:35:44Z",
+   "updated_at": "2020-08-22T08:05:59Z",
+   "pushed_at": "2020-08-22T06:00:37Z",
    "git_url": "git://github.com/MindsetConsulting/MindsetAppAnalyzerFree.git",
    "ssh_url": "git@github.com:MindsetConsulting/MindsetAppAnalyzerFree.git",
    "clone_url": "https://github.com/MindsetConsulting/MindsetAppAnalyzerFree.git",
    "svn_url": "https://github.com/MindsetConsulting/MindsetAppAnalyzerFree",
    "homepage": null,
    "size": 38245,
-   "stargazers_count": 11,
-   "watchers_count": 11,
+   "stargazers_count": 12,
+   "watchers_count": 12,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1952,7 +1952,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 28,
+   "open_issues_count": 29,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1961,8 +1961,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 3,
-   "open_issues": 28,
-   "watchers": 11,
+   "open_issues": 29,
+   "watchers": 12,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -2204,7 +2204,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2213,7 +2213,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 0,
-   "open_issues": 0,
+   "open_issues": 1,
    "watchers": 3,
    "default_branch": "master",
    "permissions": {
@@ -3038,7 +3038,7 @@
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
    "updated_at": "2020-08-20T13:58:59Z",
-   "pushed_at": "2020-08-20T17:27:21Z",
+   "pushed_at": "2020-08-21T19:13:23Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
@@ -8862,11 +8862,11 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 105298,
+  "lines": 105325,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.39.10",
-   "cloud": 163
+   "cloud": 164
   },
   "repo": {
    "id": 21115149,
@@ -8935,16 +8935,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-08-20T15:56:44Z",
-   "pushed_at": "2020-08-20T21:23:52Z",
+   "updated_at": "2020-08-22T07:55:38Z",
+   "pushed_at": "2020-08-22T08:00:17Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 14017,
-   "stargazers_count": 706,
-   "watchers_count": 706,
+   "size": 14056,
+   "stargazers_count": 705,
+   "watchers_count": 705,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -8955,7 +8955,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 249,
+   "open_issues_count": 246,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8964,8 +8964,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 310,
-   "open_issues": 249,
-   "watchers": 706,
+   "open_issues": 246,
+   "watchers": 705,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -19080,14 +19080,14 @@
    "releases_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/deployments",
    "created_at": "2020-01-05T12:58:03Z",
-   "updated_at": "2020-08-15T07:54:04Z",
-   "pushed_at": "2020-08-20T21:09:55Z",
+   "updated_at": "2020-08-21T09:54:52Z",
+   "pushed_at": "2020-08-21T09:54:50Z",
    "git_url": "git://github.com/abaplint/abaplint-sci-client.git",
    "ssh_url": "git@github.com:abaplint/abaplint-sci-client.git",
    "clone_url": "https://github.com/abaplint/abaplint-sci-client.git",
    "svn_url": "https://github.com/abaplint/abaplint-sci-client",
    "homepage": "",
-   "size": 302,
+   "size": 312,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -19100,7 +19100,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 26,
+   "open_issues_count": 25,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -19109,7 +19109,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 5,
-   "open_issues": 26,
+   "open_issues": 25,
    "watchers": 5,
    "default_branch": "master",
    "permissions": {
