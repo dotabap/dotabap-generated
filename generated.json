@@ -3,7 +3,7 @@
   "lines": 3823,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 56
   },
   "repo": {
@@ -126,7 +126,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 32
   },
   "repo": {
@@ -250,7 +250,7 @@
    "/Logo_Gladius_01.png"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 56
   },
   "repo": {
@@ -373,7 +373,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 98
   },
   "repo": {
@@ -496,7 +496,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 9
   },
   "repo": {
@@ -612,7 +612,7 @@
   "lines": 2665,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 3
   },
   "repo": {
@@ -725,7 +725,7 @@
   }
  },
  "abapGit/ADT_Backend": {
-  "lines": 3055,
+  "lines": 3059,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -737,7 +737,7 @@
    ".editorconfig"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 6
   },
   "repo": {
@@ -807,16 +807,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/ADT_Backend/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/ADT_Backend/deployments",
    "created_at": "2018-03-21T04:59:51Z",
-   "updated_at": "2020-08-16T09:28:24Z",
-   "pushed_at": "2020-08-31T08:06:24Z",
+   "updated_at": "2020-09-01T07:54:22Z",
+   "pushed_at": "2020-08-31T08:22:23Z",
    "git_url": "git://github.com/abapGit/ADT_Backend.git",
    "ssh_url": "git@github.com:abapGit/ADT_Backend.git",
    "clone_url": "https://github.com/abapGit/ADT_Backend.git",
    "svn_url": "https://github.com/abapGit/ADT_Backend",
    "homepage": "",
-   "size": 149,
-   "stargazers_count": 12,
-   "watchers_count": 12,
+   "size": 170,
+   "stargazers_count": 13,
+   "watchers_count": 13,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -827,7 +827,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 15,
+   "open_issues_count": 14,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -836,8 +836,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 6,
-   "open_issues": 15,
-   "watchers": 12,
+   "open_issues": 14,
+   "watchers": 13,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -873,7 +873,7 @@
   "lines": 4911,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 28
   },
   "repo": {
@@ -996,7 +996,7 @@
    "/.reuse"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 3
   },
   "repo": {
@@ -1126,7 +1126,7 @@
   "lines": 1991,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 38
   },
   "repo": {
@@ -1249,7 +1249,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 1
   },
   "repo": {
@@ -1365,7 +1365,7 @@
   "lines": 515,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 1
   },
   "repo": {
@@ -1488,7 +1488,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -1624,7 +1624,7 @@
   "lines": 961,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 18
   },
   "repo": {
@@ -1747,7 +1747,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 181
   },
   "repo": {
@@ -1860,10 +1860,17 @@
   }
  },
  "SAP-samples/cloud-abap-rap": {
-  "lines": 3145,
+  "lines": 5339,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/.travis.yml"
+  ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -1933,16 +1940,16 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap/deployments",
    "created_at": "2020-05-18T21:27:35Z",
-   "updated_at": "2020-08-27T22:03:48Z",
-   "pushed_at": "2020-06-10T18:32:06Z",
+   "updated_at": "2020-08-31T21:38:08Z",
+   "pushed_at": "2020-08-31T21:38:06Z",
    "git_url": "git://github.com/SAP-samples/cloud-abap-rap.git",
    "ssh_url": "git@github.com:SAP-samples/cloud-abap-rap.git",
    "clone_url": "https://github.com/SAP-samples/cloud-abap-rap.git",
    "svn_url": "https://github.com/SAP-samples/cloud-abap-rap",
    "homepage": null,
-   "size": 94,
-   "stargazers_count": 21,
-   "watchers_count": 21,
+   "size": 132,
+   "stargazers_count": 22,
+   "watchers_count": 22,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1963,7 +1970,7 @@
    },
    "forks": 4,
    "open_issues": 0,
-   "watchers": 21,
+   "watchers": 22,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -1999,7 +2006,7 @@
   "lines": 4907,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 8
   },
   "repo": {
@@ -2135,7 +2142,7 @@
   "lines": 16397,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 50
   },
   "repo": {
@@ -2251,7 +2258,7 @@
   "lines": 2903,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 26
   },
   "repo": {
@@ -2367,7 +2374,7 @@
   "lines": 4265,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 10
   },
   "repo": {
@@ -2490,7 +2497,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 35
   },
   "repo": {
@@ -2606,7 +2613,7 @@
   "lines": 5291,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 11
   },
   "repo": {
@@ -2729,7 +2736,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 33
   },
   "repo": {
@@ -2852,7 +2859,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -2988,7 +2995,7 @@
   "lines": 2021,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 361
   },
   "repo": {
@@ -3059,7 +3066,7 @@
    "deployments_url": "https://api.github.com/repos/MDJoerg/adele/deployments",
    "created_at": "2019-04-20T02:25:25Z",
    "updated_at": "2019-12-18T11:00:36Z",
-   "pushed_at": "2019-12-18T11:00:33Z",
+   "pushed_at": "2020-08-31T15:20:43Z",
    "git_url": "git://github.com/MDJoerg/adele.git",
    "ssh_url": "git@github.com:MDJoerg/adele.git",
    "clone_url": "https://github.com/MDJoerg/adele.git",
@@ -3074,11 +3081,11 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3086,8 +3093,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 0,
-   "open_issues": 0,
+   "forks": 1,
+   "open_issues": 1,
    "watchers": 1,
    "default_branch": "master",
    "permissions": {
@@ -3096,7 +3103,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 0
   }
  },
@@ -3104,8 +3111,8 @@
   "lines": 15830,
   "startingFolder": "/clean_code_main/",
   "parsing": {
-   "version": "2.39.17",
-   "cloud": 13
+   "version": "2.39.26",
+   "cloud": 12
   },
   "repo": {
    "id": 252472689,
@@ -3174,14 +3181,14 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-08-30T11:20:02Z",
-   "pushed_at": "2020-08-28T21:06:14Z",
+   "updated_at": "2020-08-31T16:01:16Z",
+   "pushed_at": "2020-08-31T20:22:57Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": null,
-   "size": 1304,
+   "size": 1372,
    "stargazers_count": 71,
    "watchers_count": 71,
    "language": "ABAP",
@@ -3194,7 +3201,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 5,
+   "open_issues_count": 7,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -3203,7 +3210,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 15,
-   "open_issues": 5,
+   "open_issues": 7,
    "watchers": 71,
    "default_branch": "master",
    "permissions": {
@@ -3240,7 +3247,7 @@
   "lines": 16799,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 74
   },
   "repo": {
@@ -3356,7 +3363,7 @@
   "lines": 5862,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 123
   },
   "repo": {
@@ -3472,7 +3479,7 @@
   "lines": 4544,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 34
   },
   "repo": {
@@ -3595,7 +3602,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 15
   },
   "repo": {
@@ -3718,7 +3725,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 16
   },
   "repo": {
@@ -3834,7 +3841,7 @@
   "lines": 1346,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 51
   },
   "repo": {
@@ -3978,7 +3985,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 68
   },
   "repo": {
@@ -4094,7 +4101,7 @@
   "lines": 4676,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 3
   },
   "repo": {
@@ -4210,7 +4217,7 @@
   "lines": 1189,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -4334,7 +4341,7 @@
    "/NOTICE"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -4478,7 +4485,7 @@
    "/NOTICE"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -4621,7 +4628,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -4757,7 +4764,7 @@
   "lines": 733,
   "startingFolder": "/abap/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 8
   },
   "repo": {
@@ -4900,7 +4907,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 37
   },
   "repo": {
@@ -5023,7 +5030,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 55
   },
   "repo": {
@@ -5159,7 +5166,7 @@
   "lines": 20924,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 490
   },
   "repo": {
@@ -5275,7 +5282,7 @@
   "lines": 1944,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 83
   },
   "repo": {
@@ -5345,7 +5352,7 @@
    "releases_url": "https://api.github.com/repos/abapGit/ci_tools/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/ci_tools/deployments",
    "created_at": "2019-02-12T08:10:54Z",
-   "updated_at": "2020-03-28T09:07:55Z",
+   "updated_at": "2020-09-01T07:56:23Z",
    "pushed_at": "2020-03-27T13:23:22Z",
    "git_url": "git://github.com/abapGit/ci_tools.git",
    "ssh_url": "git@github.com:abapGit/ci_tools.git",
@@ -5353,8 +5360,8 @@
    "svn_url": "https://github.com/abapGit/ci_tools",
    "homepage": "",
    "size": 81,
-   "stargazers_count": 8,
-   "watchers_count": 8,
+   "stargazers_count": 9,
+   "watchers_count": 9,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -5375,7 +5382,7 @@
    },
    "forks": 5,
    "open_issues": 4,
-   "watchers": 8,
+   "watchers": 9,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5439,7 +5446,7 @@
    "/mockA_build/mockA_daily.nugg.zip"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 90
   },
   "repo": {
@@ -5563,7 +5570,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 59
   },
   "repo": {
@@ -5679,7 +5686,7 @@
   "lines": 1636,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 64
   },
   "repo": {
@@ -5822,7 +5829,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 222
   },
   "repo": {
@@ -5945,7 +5952,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 23
   },
   "repo": {
@@ -6071,7 +6078,7 @@
    "/wiki/ToDo.wiki"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 344
   },
   "repo": {
@@ -6194,7 +6201,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 7
   },
   "repo": {
@@ -6318,7 +6325,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 1
   },
   "repo": {
@@ -6434,7 +6441,7 @@
   "lines": 255,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -6557,7 +6564,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 28
   },
   "repo": {
@@ -6684,7 +6691,7 @@
    "/changelog_release_in_preparation.txt"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 1039
   },
   "repo": {
@@ -6827,7 +6834,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 5
   },
   "repo": {
@@ -6943,7 +6950,7 @@
   "lines": 2361,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 28
   },
   "repo": {
@@ -7066,7 +7073,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -7189,7 +7196,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 10
   },
   "repo": {
@@ -7313,7 +7320,7 @@
    "/NOTICE"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 52
   },
   "repo": {
@@ -7456,7 +7463,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 371
   },
   "repo": {
@@ -7580,7 +7587,7 @@
    "/SICF.jpg"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 131
   },
   "repo": {
@@ -7705,7 +7712,7 @@
    "/kapitel_18/zbook_dyn_selscr.fugr.zbook_dyn_selscr_template_incl.xml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 763
   },
   "repo": {
@@ -7829,7 +7836,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -7899,7 +7906,7 @@
    "releases_url": "https://api.github.com/repos/abapGit/background_modes/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/background_modes/deployments",
    "created_at": "2018-08-04T09:05:15Z",
-   "updated_at": "2020-08-16T09:32:49Z",
+   "updated_at": "2020-09-01T07:54:25Z",
    "pushed_at": "2020-08-16T09:32:47Z",
    "git_url": "git://github.com/abapGit/background_modes.git",
    "ssh_url": "git@github.com:abapGit/background_modes.git",
@@ -7907,8 +7914,8 @@
    "svn_url": "https://github.com/abapGit/background_modes",
    "homepage": null,
    "size": 37,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7929,7 +7936,7 @@
    },
    "forks": 2,
    "open_issues": 3,
-   "watchers": 2,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7972,7 +7979,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 53
   },
   "repo": {
@@ -8115,7 +8122,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -8259,7 +8266,7 @@
    "/LICENSE.md"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 19
   },
   "repo": {
@@ -8402,7 +8409,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 2
   },
   "repo": {
@@ -8518,7 +8525,7 @@
   "lines": 9545,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 211
   },
   "repo": {
@@ -8634,7 +8641,7 @@
   "lines": 9212,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 242
   },
   "repo": {
@@ -8750,7 +8757,7 @@
   "lines": 6496,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 185
   },
   "repo": {
@@ -8866,7 +8873,7 @@
   "lines": 9534,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 363
   },
   "repo": {
@@ -8999,10 +9006,10 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 108755,
+  "lines": 108805,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 166
   },
   "repo": {
@@ -9072,23 +9079,23 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-08-31T07:37:40Z",
-   "pushed_at": "2020-08-31T07:52:43Z",
+   "updated_at": "2020-09-01T07:39:16Z",
+   "pushed_at": "2020-09-01T08:09:38Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 14397,
-   "stargazers_count": 715,
-   "watchers_count": 715,
+   "size": 14192,
+   "stargazers_count": 716,
+   "watchers_count": 716,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 314,
+   "forks_count": 315,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9100,9 +9107,9 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 314,
+   "forks": 315,
    "open_issues": 236,
-   "watchers": 715,
+   "watchers": 716,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -9110,8 +9117,8 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 314,
-   "subscribers_count": 109
+   "network_count": 315,
+   "subscribers_count": 110
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -9125,7 +9132,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 59
   },
   "repo": {
@@ -9248,7 +9255,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 27
   },
   "repo": {
@@ -9371,7 +9378,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 17
   },
   "repo": {
@@ -9442,7 +9449,7 @@
    "deployments_url": "https://api.github.com/repos/christianguenter2/abapRegexGolf/deployments",
    "created_at": "2017-08-06T19:18:35Z",
    "updated_at": "2019-10-27T11:03:34Z",
-   "pushed_at": "2019-10-27T11:03:32Z",
+   "pushed_at": "2020-08-31T14:10:07Z",
    "git_url": "git://github.com/christianguenter2/abapRegexGolf.git",
    "ssh_url": "git@github.com:christianguenter2/abapRegexGolf.git",
    "clone_url": "https://github.com/christianguenter2/abapRegexGolf.git",
@@ -9457,11 +9464,11 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9469,8 +9476,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 0,
-   "open_issues": 0,
+   "forks": 1,
+   "open_issues": 1,
    "watchers": 2,
    "default_branch": "master",
    "permissions": {
@@ -9479,7 +9486,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 1
   }
  },
@@ -9494,7 +9501,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 21
   },
   "repo": {
@@ -9617,7 +9624,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 83
   },
   "repo": {
@@ -9740,7 +9747,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 25
   },
   "repo": {
@@ -9863,7 +9870,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 104
   },
   "repo": {
@@ -9986,7 +9993,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 127
   },
   "repo": {
@@ -10109,7 +10116,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 83
   },
   "repo": {
@@ -10238,7 +10245,7 @@
    "/mimes/start_screen.jpg"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 40
   },
   "repo": {
@@ -10361,7 +10368,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 30
   },
   "repo": {
@@ -10484,7 +10491,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 29
   },
   "repo": {
@@ -10609,7 +10616,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 912
   },
   "repo": {
@@ -10679,7 +10686,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2020-08-28T08:20:55Z",
+   "updated_at": "2020-08-31T21:50:27Z",
    "pushed_at": "2020-08-13T17:27:54Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -10687,8 +10694,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 25186,
-   "stargazers_count": 301,
-   "watchers_count": 301,
+   "stargazers_count": 302,
+   "watchers_count": 302,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10709,7 +10716,7 @@
    },
    "forks": 160,
    "open_issues": 114,
-   "watchers": 301,
+   "watchers": 302,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -10752,7 +10759,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 36
   },
   "repo": {
@@ -10879,7 +10886,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 1250
   },
   "repo": {
@@ -11002,7 +11009,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 17
   },
   "repo": {
@@ -11129,7 +11136,7 @@
    "/zop_custom_event_rec.clas.testclasses.abap"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 8
   },
   "repo": {
@@ -11272,7 +11279,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 11
   },
   "repo": {
@@ -11395,7 +11402,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -11465,27 +11472,27 @@
    "releases_url": "https://api.github.com/repos/ycohen-dev/hcm-time-constraint-utils/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ycohen-dev/hcm-time-constraint-utils/deployments",
    "created_at": "2017-11-24T10:44:53Z",
-   "updated_at": "2020-01-22T12:13:48Z",
-   "pushed_at": "2017-11-25T18:18:21Z",
+   "updated_at": "2020-09-01T05:50:25Z",
+   "pushed_at": "2020-08-31T17:09:35Z",
    "git_url": "git://github.com/ycohen-dev/hcm-time-constraint-utils.git",
    "ssh_url": "git@github.com:ycohen-dev/hcm-time-constraint-utils.git",
    "clone_url": "https://github.com/ycohen-dev/hcm-time-constraint-utils.git",
    "svn_url": "https://github.com/ycohen-dev/hcm-time-constraint-utils",
    "homepage": null,
    "size": 31,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -11493,9 +11500,9 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 0,
-   "open_issues": 0,
-   "watchers": 2,
+   "forks": 1,
+   "open_issues": 1,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -11503,7 +11510,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 0
   }
  },
@@ -11518,7 +11525,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 2
   },
   "repo": {
@@ -11642,7 +11649,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 5
   },
   "repo": {
@@ -11765,7 +11772,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 2
   },
   "repo": {
@@ -11888,7 +11895,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 7
   },
   "repo": {
@@ -12015,7 +12022,7 @@
    "/DX134_49973_Presentation_1.pdf"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -12140,7 +12147,7 @@
    "/docs/img/retrieve_keys.JPG"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 36
   },
   "repo": {
@@ -12263,7 +12270,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 7
   },
   "repo": {
@@ -12388,7 +12395,7 @@
    "/License.txt"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -12519,7 +12526,7 @@
    "/CODE/abapgit/readme"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 171
   },
   "repo": {
@@ -12642,7 +12649,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 287
   },
   "repo": {
@@ -12765,7 +12772,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 6
   },
   "repo": {
@@ -12888,7 +12895,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 27
   },
   "repo": {
@@ -13012,7 +13019,7 @@
    "/.gitignore"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 2871
   },
   "repo": {
@@ -13132,7 +13139,7 @@
    "/README.md"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 63
   },
   "repo": {
@@ -13256,7 +13263,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 66
   },
   "repo": {
@@ -13378,7 +13385,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 24
   },
   "repo": {
@@ -13501,7 +13508,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 21
   },
   "repo": {
@@ -13625,7 +13632,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 108
   },
   "repo": {
@@ -13749,7 +13756,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 75
   },
   "repo": {
@@ -13870,7 +13877,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 515
   },
   "repo": {
@@ -13940,14 +13947,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapNTLM/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapNTLM/deployments",
    "created_at": "2015-01-11T11:41:22Z",
-   "updated_at": "2020-08-16T10:11:51Z",
-   "pushed_at": "2020-08-16T10:11:49Z",
+   "updated_at": "2020-08-31T17:06:41Z",
+   "pushed_at": "2020-08-31T17:06:39Z",
    "git_url": "git://github.com/larshp/abapNTLM.git",
    "ssh_url": "git@github.com:larshp/abapNTLM.git",
    "clone_url": "https://github.com/larshp/abapNTLM.git",
    "svn_url": "https://github.com/larshp/abapNTLM",
    "homepage": "",
-   "size": 74,
+   "size": 77,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -13994,7 +14001,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 372
   },
   "repo": {
@@ -14110,7 +14117,7 @@
   "lines": 7309,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 219
   },
   "repo": {
@@ -14226,7 +14233,7 @@
   "lines": 4782,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 175
   },
   "repo": {
@@ -14351,7 +14358,7 @@
    "/illustration_small.png"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 115
   },
   "repo": {
@@ -14474,7 +14481,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 150
   },
   "repo": {
@@ -14597,7 +14604,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 87
   },
   "repo": {
@@ -14720,7 +14727,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 52
   },
   "repo": {
@@ -14844,7 +14851,7 @@
    "/.gitattributes"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 10
   },
   "repo": {
@@ -14968,7 +14975,7 @@
    "/README.rst"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 14
   },
   "repo": {
@@ -15084,7 +15091,7 @@
   "lines": 923,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 6
   },
   "repo": {
@@ -15207,7 +15214,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 2
   },
   "repo": {
@@ -15331,7 +15338,7 @@
    "/changelog.txt"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 86
   },
   "repo": {
@@ -15454,7 +15461,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 22
   },
   "repo": {
@@ -15597,7 +15604,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 4
   },
   "repo": {
@@ -15667,7 +15674,7 @@
    "releases_url": "https://api.github.com/repos/mkysoft/uid64/releases{/id}",
    "deployments_url": "https://api.github.com/repos/mkysoft/uid64/deployments",
    "created_at": "2018-04-01T22:12:18Z",
-   "updated_at": "2020-08-29T11:54:15Z",
+   "updated_at": "2020-08-31T14:33:16Z",
    "pushed_at": "2020-08-29T11:17:35Z",
    "git_url": "git://github.com/mkysoft/uid64.git",
    "ssh_url": "git@github.com:mkysoft/uid64.git",
@@ -15675,8 +15682,8 @@
    "svn_url": "https://github.com/mkysoft/uid64",
    "homepage": null,
    "size": 19,
-   "stargazers_count": 3,
-   "watchers_count": 3,
+   "stargazers_count": 4,
+   "watchers_count": 4,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -15697,7 +15704,7 @@
    },
    "forks": 2,
    "open_issues": 1,
-   "watchers": 3,
+   "watchers": 4,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -15720,7 +15727,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 61
   },
   "repo": {
@@ -15844,7 +15851,7 @@
    "/plantuml.txt"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 114
   },
   "repo": {
@@ -15987,7 +15994,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 47
   },
   "repo": {
@@ -16111,7 +16118,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -16234,7 +16241,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 2
   },
   "repo": {
@@ -16357,7 +16364,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 22
   },
   "repo": {
@@ -16480,7 +16487,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 6
   },
   "repo": {
@@ -16603,7 +16610,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 11
   },
   "repo": {
@@ -16726,7 +16733,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 641
   },
   "repo": {
@@ -16849,7 +16856,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 26
   },
   "repo": {
@@ -16972,7 +16979,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -17095,7 +17102,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 23
   },
   "repo": {
@@ -17211,7 +17218,7 @@
   "lines": 965,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 95
   },
   "repo": {
@@ -17327,7 +17334,7 @@
   "lines": 1015,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 19
   },
   "repo": {
@@ -17443,7 +17450,7 @@
   "lines": 4516,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 15
   },
   "repo": {
@@ -17559,7 +17566,7 @@
   "lines": 217,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 10
   },
   "repo": {
@@ -17695,7 +17702,7 @@
   "lines": 3845,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 29
   },
   "repo": {
@@ -17831,7 +17838,7 @@
   "lines": 280,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -17947,7 +17954,7 @@
   "lines": 42080,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -18083,7 +18090,7 @@
   "lines": 902,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -18199,7 +18206,7 @@
   "lines": 1193,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -18315,7 +18322,7 @@
   "lines": 3208,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 5
   },
   "repo": {
@@ -18431,7 +18438,7 @@
   "lines": 1481,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 7
   },
   "repo": {
@@ -18547,7 +18554,7 @@
   "lines": 2067,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 35
   },
   "repo": {
@@ -18663,7 +18670,7 @@
   "lines": 12339,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 285
   },
   "repo": {
@@ -18779,7 +18786,7 @@
   "lines": 2762,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 250
   },
   "repo": {
@@ -18915,7 +18922,7 @@
   "lines": 4038,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 77
   },
   "repo": {
@@ -19031,7 +19038,7 @@
   "lines": 773,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 53
   },
   "repo": {
@@ -19147,7 +19154,7 @@
   "lines": 4184,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 130
   },
   "repo": {
@@ -19237,7 +19244,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 25,
+   "open_issues_count": 24,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -19246,7 +19253,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 6,
-   "open_issues": 25,
+   "open_issues": 24,
    "watchers": 5,
    "default_branch": "master",
    "permissions": {
@@ -19283,7 +19290,7 @@
   "lines": 918,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 81
   },
   "repo": {
@@ -19399,7 +19406,7 @@
   "lines": 13816,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 66
   },
   "repo": {
@@ -19515,7 +19522,7 @@
   "lines": 190,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 0
   },
   "repo": {
@@ -19631,7 +19638,7 @@
   "lines": 5024,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 172
   },
   "repo": {
@@ -19747,7 +19754,7 @@
   "lines": 917,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 3
   },
   "repo": {
@@ -19863,7 +19870,7 @@
   "lines": 464,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 9
   },
   "repo": {
@@ -19979,7 +19986,7 @@
   "lines": 445,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.39.17",
+   "version": "2.39.26",
    "cloud": 11
   },
   "repo": {
