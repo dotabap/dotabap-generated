@@ -2076,14 +2076,14 @@
    "releases_url": "https://api.github.com/repos/MindsetConsulting/MindsetAppAnalyzerFree/releases{/id}",
    "deployments_url": "https://api.github.com/repos/MindsetConsulting/MindsetAppAnalyzerFree/deployments",
    "created_at": "2019-09-23T14:43:21Z",
-   "updated_at": "2020-09-11T14:58:51Z",
-   "pushed_at": "2020-09-11T15:01:18Z",
+   "updated_at": "2020-09-16T15:00:08Z",
+   "pushed_at": "2020-09-16T15:00:05Z",
    "git_url": "git://github.com/MindsetConsulting/MindsetAppAnalyzerFree.git",
    "ssh_url": "git@github.com:MindsetConsulting/MindsetAppAnalyzerFree.git",
    "clone_url": "https://github.com/MindsetConsulting/MindsetAppAnalyzerFree.git",
    "svn_url": "https://github.com/MindsetConsulting/MindsetAppAnalyzerFree",
    "homepage": null,
-   "size": 44797,
+   "size": 51027,
    "stargazers_count": 14,
    "watchers_count": 14,
    "language": "ABAP",
@@ -3108,7 +3108,7 @@
   }
  },
  "SAP/code-pal-for-abap": {
-  "lines": 17328,
+  "lines": 17324,
   "startingFolder": "/clean_code_main/",
   "parsing": {
    "version": "2.43.0",
@@ -3181,16 +3181,16 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-09-15T13:33:41Z",
-   "pushed_at": "2020-09-15T20:41:07Z",
+   "updated_at": "2020-09-16T17:43:21Z",
+   "pushed_at": "2020-09-16T19:21:07Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": null,
-   "size": 1779,
-   "stargazers_count": 75,
-   "watchers_count": 75,
+   "size": 2195,
+   "stargazers_count": 76,
+   "watchers_count": 76,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3201,7 +3201,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 9,
+   "open_issues_count": 8,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -3210,8 +3210,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 15,
-   "open_issues": 9,
-   "watchers": 75,
+   "open_issues": 8,
+   "watchers": 76,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3240,7 +3240,7 @@
     "site_admin": false
    },
    "network_count": 15,
-   "subscribers_count": 5
+   "subscribers_count": 6
   }
  },
  "techedgegroup-sap/abap2gsheet": {
@@ -8870,7 +8870,7 @@
   }
  },
  "Microsoft/ABAP-SDK-for-Azure": {
-  "lines": 9534,
+  "lines": 9532,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
@@ -8943,14 +8943,14 @@
    "releases_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2020-09-09T09:56:55Z",
-   "pushed_at": "2020-09-09T09:56:52Z",
+   "updated_at": "2020-09-16T11:29:41Z",
+   "pushed_at": "2020-09-16T11:29:39Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
-   "size": 18754,
+   "size": 18762,
    "stargazers_count": 84,
    "watchers_count": 84,
    "language": "ABAP",
@@ -9006,7 +9006,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 109326,
+  "lines": 109497,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
@@ -9079,16 +9079,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-09-15T07:46:05Z",
-   "pushed_at": "2020-09-16T07:19:14Z",
+   "updated_at": "2020-09-16T13:51:30Z",
+   "pushed_at": "2020-09-17T07:39:29Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 14841,
-   "stargazers_count": 721,
-   "watchers_count": 721,
+   "size": 14878,
+   "stargazers_count": 722,
+   "watchers_count": 722,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -9099,7 +9099,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 226,
+   "open_issues_count": 227,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9108,8 +9108,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 318,
-   "open_issues": 226,
-   "watchers": 721,
+   "open_issues": 227,
+   "watchers": 722,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -15717,7 +15717,7 @@
   }
  },
  "marcellourbani/abapgraph": {
-  "lines": 1528,
+  "lines": 1527,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -15797,14 +15797,14 @@
    "releases_url": "https://api.github.com/repos/marcellourbani/abapgraph/releases{/id}",
    "deployments_url": "https://api.github.com/repos/marcellourbani/abapgraph/deployments",
    "created_at": "2018-09-02T19:30:02Z",
-   "updated_at": "2019-11-28T20:26:00Z",
-   "pushed_at": "2020-09-15T12:51:38Z",
+   "updated_at": "2020-09-17T07:09:53Z",
+   "pushed_at": "2020-09-17T07:09:51Z",
    "git_url": "git://github.com/marcellourbani/abapgraph.git",
    "ssh_url": "git@github.com:marcellourbani/abapgraph.git",
    "clone_url": "https://github.com/marcellourbani/abapgraph.git",
    "svn_url": "https://github.com/marcellourbani/abapgraph",
    "homepage": "",
-   "size": 24,
+   "size": 28,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -15817,7 +15817,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 2,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -15826,7 +15826,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 1,
-   "open_issues": 2,
+   "open_issues": 1,
    "watchers": 2,
    "default_branch": "master",
    "permissions": {
@@ -18025,7 +18025,7 @@
    "deployments_url": "https://api.github.com/repos/watson-developer-cloud/abap-sdk-nwas/deployments",
    "created_at": "2019-10-08T01:16:16Z",
    "updated_at": "2020-05-20T09:04:17Z",
-   "pushed_at": "2020-05-20T09:04:14Z",
+   "pushed_at": "2020-09-16T10:18:58Z",
    "git_url": "git://github.com/watson-developer-cloud/abap-sdk-nwas.git",
    "ssh_url": "git@github.com:watson-developer-cloud/abap-sdk-nwas.git",
    "clone_url": "https://github.com/watson-developer-cloud/abap-sdk-nwas.git",
@@ -19244,7 +19244,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 25,
+   "open_issues_count": 27,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -19253,7 +19253,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 7,
-   "open_issues": 25,
+   "open_issues": 27,
    "watchers": 6,
    "default_branch": "master",
    "permissions": {
@@ -19476,14 +19476,14 @@
    "releases_url": "https://api.github.com/repos/ysichov/SDE/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/SDE/deployments",
    "created_at": "2020-02-09T22:46:51Z",
-   "updated_at": "2020-09-11T17:52:28Z",
-   "pushed_at": "2020-09-11T17:52:26Z",
+   "updated_at": "2020-09-16T21:12:15Z",
+   "pushed_at": "2020-09-16T21:12:13Z",
    "git_url": "git://github.com/ysichov/SDE.git",
    "ssh_url": "git@github.com:ysichov/SDE.git",
    "clone_url": "https://github.com/ysichov/SDE.git",
    "svn_url": "https://github.com/ysichov/SDE",
    "homepage": null,
-   "size": 519,
+   "size": 555,
    "stargazers_count": 16,
    "watchers_count": 16,
    "language": "ABAP",
