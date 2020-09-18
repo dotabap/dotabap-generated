@@ -2371,7 +2371,7 @@
   }
  },
  "jrodriguez-rc/abap-dev-utilities": {
-  "lines": 4265,
+  "lines": 4488,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
@@ -2444,14 +2444,14 @@
    "releases_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/deployments",
    "created_at": "2020-08-06T16:43:59Z",
-   "updated_at": "2020-08-27T10:36:55Z",
-   "pushed_at": "2020-08-26T09:05:14Z",
+   "updated_at": "2020-09-18T07:23:50Z",
+   "pushed_at": "2020-09-18T07:23:47Z",
    "git_url": "git://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "ssh_url": "git@github.com:jrodriguez-rc/abap-dev-utilities.git",
    "clone_url": "https://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "svn_url": "https://github.com/jrodriguez-rc/abap-dev-utilities",
    "homepage": null,
-   "size": 287,
+   "size": 299,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -3108,11 +3108,11 @@
   }
  },
  "SAP/code-pal-for-abap": {
-  "lines": 17324,
-  "startingFolder": "/clean_code_main/",
+  "lines": 18038,
+  "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
-   "cloud": 80
+   "cloud": 81
   },
   "repo": {
    "id": 252472689,
@@ -3141,7 +3141,7 @@
     "site_admin": false
    },
    "html_url": "https://github.com/SAP/code-pal-for-abap",
-   "description": "CodePal (Clean Code) is a highly configurable engine, fully integrated in the ABAP development framework ensuring Cloud’s built-in quality.",
+   "description": "code pal for ABAP is a highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality.",
    "fork": false,
    "url": "https://api.github.com/repos/SAP/code-pal-for-abap",
    "forks_url": "https://api.github.com/repos/SAP/code-pal-for-abap/forks",
@@ -3181,16 +3181,16 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-09-16T17:43:21Z",
-   "pushed_at": "2020-09-16T19:21:07Z",
+   "updated_at": "2020-09-17T18:34:15Z",
+   "pushed_at": "2020-09-17T17:52:58Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
-   "homepage": null,
-   "size": 2195,
-   "stargazers_count": 76,
-   "watchers_count": 76,
+   "homepage": "",
+   "size": 2040,
+   "stargazers_count": 77,
+   "watchers_count": 77,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3201,7 +3201,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 8,
+   "open_issues_count": 6,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -3210,8 +3210,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 15,
-   "open_issues": 8,
-   "watchers": 76,
+   "open_issues": 6,
+   "watchers": 77,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3240,7 +3240,7 @@
     "site_admin": false
    },
    "network_count": 15,
-   "subscribers_count": 6
+   "subscribers_count": 7
   }
  },
  "techedgegroup-sap/abap2gsheet": {
@@ -8711,7 +8711,7 @@
    "releases_url": "https://api.github.com/repos/bizhuka/xtt/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/xtt/deployments",
    "created_at": "2018-02-08T06:31:13Z",
-   "updated_at": "2020-09-16T02:23:35Z",
+   "updated_at": "2020-09-17T14:59:23Z",
    "pushed_at": "2020-09-16T02:23:32Z",
    "git_url": "git://github.com/bizhuka/xtt.git",
    "ssh_url": "git@github.com:bizhuka/xtt.git",
@@ -8719,8 +8719,8 @@
    "svn_url": "https://github.com/bizhuka/xtt",
    "homepage": "https://bizhuka.github.io/xtt/",
    "size": 1230,
-   "stargazers_count": 10,
-   "watchers_count": 10,
+   "stargazers_count": 11,
+   "watchers_count": 11,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -8741,7 +8741,7 @@
    },
    "forks": 3,
    "open_issues": 1,
-   "watchers": 10,
+   "watchers": 11,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -9006,7 +9006,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 109497,
+  "lines": 109508,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
@@ -9079,14 +9079,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-09-16T13:51:30Z",
-   "pushed_at": "2020-09-17T07:39:29Z",
+   "updated_at": "2020-09-17T15:40:42Z",
+   "pushed_at": "2020-09-18T07:23:05Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 14878,
+   "size": 14943,
    "stargazers_count": 722,
    "watchers_count": 722,
    "language": "ABAP",
@@ -10686,14 +10686,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2020-09-14T19:38:55Z",
-   "pushed_at": "2020-09-08T08:01:44Z",
+   "updated_at": "2020-09-17T15:56:46Z",
+   "pushed_at": "2020-09-17T16:08:33Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 25186,
+   "size": 25247,
    "stargazers_count": 302,
    "watchers_count": 302,
    "language": "ABAP",
@@ -10706,7 +10706,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 114,
+   "open_issues_count": 115,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -10715,7 +10715,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 160,
-   "open_issues": 114,
+   "open_issues": 115,
    "watchers": 302,
    "default_branch": "master",
    "permissions": {
