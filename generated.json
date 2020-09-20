@@ -4092,7 +4092,7 @@
   }
  },
  "sbcgua/ajson": {
-  "lines": 4676,
+  "lines": 4679,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
@@ -4165,14 +4165,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/ajson/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/ajson/deployments",
    "created_at": "2020-05-16T07:00:27Z",
-   "updated_at": "2020-09-11T02:57:12Z",
-   "pushed_at": "2020-09-10T07:32:14Z",
+   "updated_at": "2020-09-19T10:54:59Z",
+   "pushed_at": "2020-09-19T10:54:57Z",
    "git_url": "git://github.com/sbcgua/ajson.git",
    "ssh_url": "git@github.com:sbcgua/ajson.git",
    "clone_url": "https://github.com/sbcgua/ajson.git",
    "svn_url": "https://github.com/sbcgua/ajson",
    "homepage": null,
-   "size": 96,
+   "size": 102,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -8467,7 +8467,7 @@
    "releases_url": "https://api.github.com/repos/marcellourbani/abap_debugger_object_graph_extension/releases{/id}",
    "deployments_url": "https://api.github.com/repos/marcellourbani/abap_debugger_object_graph_extension/deployments",
    "created_at": "2018-04-21T06:00:53Z",
-   "updated_at": "2020-05-08T05:47:12Z",
+   "updated_at": "2020-09-19T08:52:10Z",
    "pushed_at": "2018-09-11T06:53:07Z",
    "git_url": "git://github.com/marcellourbani/abap_debugger_object_graph_extension.git",
    "ssh_url": "git@github.com:marcellourbani/abap_debugger_object_graph_extension.git",
@@ -8475,15 +8475,15 @@
    "svn_url": "https://github.com/marcellourbani/abap_debugger_object_graph_extension",
    "homepage": null,
    "size": 165,
-   "stargazers_count": 6,
-   "watchers_count": 6,
+   "stargazers_count": 7,
+   "watchers_count": 7,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8495,9 +8495,9 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
-   "watchers": 6,
+   "watchers": 7,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -8505,7 +8505,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 2
   }
  },
@@ -8994,11 +8994,11 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 109396,
+  "lines": 109523,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
-   "cloud": 168
+   "cloud": 169
   },
   "repo": {
    "id": 21115149,
@@ -9067,14 +9067,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-09-19T05:59:24Z",
-   "pushed_at": "2020-09-19T05:59:23Z",
+   "updated_at": "2020-09-20T07:50:59Z",
+   "pushed_at": "2020-09-20T07:44:24Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 15024,
+   "size": 14935,
    "stargazers_count": 723,
    "watchers_count": 723,
    "language": "ABAP",
@@ -9087,7 +9087,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 225,
+   "open_issues_count": 226,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9096,7 +9096,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 318,
-   "open_issues": 225,
+   "open_issues": 226,
    "watchers": 723,
    "default_branch": "master",
    "permissions": {
@@ -10675,13 +10675,13 @@
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2020-09-19T06:14:17Z",
-   "pushed_at": "2020-09-19T06:14:15Z",
+   "pushed_at": "2020-09-19T08:39:55Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 24958,
+   "size": 24960,
    "stargazers_count": 302,
    "watchers_count": 302,
    "language": "ABAP",
@@ -10694,7 +10694,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 115,
+   "open_issues_count": 116,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -10703,7 +10703,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 160,
-   "open_issues": 115,
+   "open_issues": 116,
    "watchers": 302,
    "default_branch": "master",
    "permissions": {
@@ -15785,7 +15785,7 @@
    "releases_url": "https://api.github.com/repos/marcellourbani/abapgraph/releases{/id}",
    "deployments_url": "https://api.github.com/repos/marcellourbani/abapgraph/deployments",
    "created_at": "2018-09-02T19:30:02Z",
-   "updated_at": "2020-09-17T07:09:53Z",
+   "updated_at": "2020-09-19T08:49:15Z",
    "pushed_at": "2020-09-17T07:09:51Z",
    "git_url": "git://github.com/marcellourbani/abapgraph.git",
    "ssh_url": "git@github.com:marcellourbani/abapgraph.git",
@@ -15793,15 +15793,15 @@
    "svn_url": "https://github.com/marcellourbani/abapgraph",
    "homepage": "",
    "size": 28,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -15813,9 +15813,9 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 1,
-   "watchers": 2,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -15823,7 +15823,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 6
   }
  },
@@ -19139,7 +19139,7 @@
   }
  },
  "abaplint/abaplint-sci-client": {
-  "lines": 4727,
+  "lines": 4745,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
@@ -19212,14 +19212,14 @@
    "releases_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/deployments",
    "created_at": "2020-01-05T12:58:03Z",
-   "updated_at": "2020-09-15T13:20:48Z",
-   "pushed_at": "2020-09-15T13:20:45Z",
+   "updated_at": "2020-09-20T05:39:40Z",
+   "pushed_at": "2020-09-20T05:39:37Z",
    "git_url": "git://github.com/abaplint/abaplint-sci-client.git",
    "ssh_url": "git@github.com:abaplint/abaplint-sci-client.git",
    "clone_url": "https://github.com/abaplint/abaplint-sci-client.git",
    "svn_url": "https://github.com/abaplint/abaplint-sci-client",
    "homepage": "",
-   "size": 357,
+   "size": 362,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -19232,7 +19232,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 26,
+   "open_issues_count": 27,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -19241,7 +19241,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 7,
-   "open_issues": 26,
+   "open_issues": 27,
    "watchers": 6,
    "default_branch": "master",
    "permissions": {
