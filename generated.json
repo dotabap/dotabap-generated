@@ -609,7 +609,7 @@
   }
  },
  "stockbal/abap-tags-backend": {
-  "lines": 2665,
+  "lines": 2664,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
@@ -682,14 +682,14 @@
    "releases_url": "https://api.github.com/repos/stockbal/abap-tags-backend/releases{/id}",
    "deployments_url": "https://api.github.com/repos/stockbal/abap-tags-backend/deployments",
    "created_at": "2020-07-10T13:21:43Z",
-   "updated_at": "2020-09-11T08:47:59Z",
-   "pushed_at": "2020-09-11T08:46:44Z",
+   "updated_at": "2020-09-20T10:23:23Z",
+   "pushed_at": "2020-09-20T10:23:21Z",
    "git_url": "git://github.com/stockbal/abap-tags-backend.git",
    "ssh_url": "git@github.com:stockbal/abap-tags-backend.git",
    "clone_url": "https://github.com/stockbal/abap-tags-backend.git",
    "svn_url": "https://github.com/stockbal/abap-tags-backend",
    "homepage": null,
-   "size": 75,
+   "size": 81,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -702,7 +702,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -711,7 +711,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 2,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 5,
    "default_branch": "master",
    "permissions": {
@@ -721,7 +721,7 @@
    },
    "temp_clone_token": "",
    "network_count": 2,
-   "subscribers_count": 0
+   "subscribers_count": 1
   }
  },
  "abapGit/ADT_Backend": {
@@ -8994,7 +8994,7 @@
   }
  },
  "larshp/abapGit": {
-  "lines": 109523,
+  "lines": 109554,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
@@ -9067,16 +9067,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-09-20T07:50:59Z",
-   "pushed_at": "2020-09-20T07:44:24Z",
+   "updated_at": "2020-09-21T06:47:34Z",
+   "pushed_at": "2020-09-21T05:39:23Z",
    "git_url": "git://github.com/larshp/abapGit.git",
    "ssh_url": "git@github.com:larshp/abapGit.git",
    "clone_url": "https://github.com/larshp/abapGit.git",
    "svn_url": "https://github.com/larshp/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 14935,
-   "stargazers_count": 723,
-   "watchers_count": 723,
+   "size": 14934,
+   "stargazers_count": 724,
+   "watchers_count": 724,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -9087,7 +9087,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 226,
+   "open_issues_count": 225,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9096,8 +9096,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 318,
-   "open_issues": 226,
-   "watchers": 723,
+   "open_issues": 225,
+   "watchers": 724,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -9106,7 +9106,7 @@
    },
    "temp_clone_token": "",
    "network_count": 318,
-   "subscribers_count": 108
+   "subscribers_count": 109
   }
  },
  "Keller-Michael/synchronize-SAP-GUI-favorites": {
@@ -10674,7 +10674,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2020-09-19T06:14:17Z",
+   "updated_at": "2020-09-21T08:04:50Z",
    "pushed_at": "2020-09-19T08:39:55Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -10682,8 +10682,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 24960,
-   "stargazers_count": 302,
-   "watchers_count": 302,
+   "stargazers_count": 303,
+   "watchers_count": 303,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10704,7 +10704,7 @@
    },
    "forks": 160,
    "open_issues": 116,
-   "watchers": 302,
+   "watchers": 303,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -12584,7 +12584,7 @@
    "releases_url": "https://api.github.com/repos/fidley/falv/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/falv/deployments",
    "created_at": "2016-03-11T09:39:33Z",
-   "updated_at": "2020-09-12T13:03:50Z",
+   "updated_at": "2020-09-21T04:47:11Z",
    "pushed_at": "2020-06-01T06:52:25Z",
    "git_url": "git://github.com/fidley/falv.git",
    "ssh_url": "git@github.com:fidley/falv.git",
@@ -12592,8 +12592,8 @@
    "svn_url": "https://github.com/fidley/falv",
    "homepage": "https://abapblog.com",
    "size": 1354,
-   "stargazers_count": 60,
-   "watchers_count": 60,
+   "stargazers_count": 61,
+   "watchers_count": 61,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -12614,7 +12614,7 @@
    },
    "forks": 31,
    "open_issues": 2,
-   "watchers": 60,
+   "watchers": 61,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -19139,11 +19139,11 @@
   }
  },
  "abaplint/abaplint-sci-client": {
-  "lines": 4745,
+  "lines": 5676,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.43.0",
-   "cloud": 141
+   "cloud": 185
   },
   "repo": {
    "id": 231917665,
@@ -19212,14 +19212,14 @@
    "releases_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/deployments",
    "created_at": "2020-01-05T12:58:03Z",
-   "updated_at": "2020-09-20T05:39:40Z",
-   "pushed_at": "2020-09-20T05:39:37Z",
+   "updated_at": "2020-09-21T06:08:25Z",
+   "pushed_at": "2020-09-21T06:08:23Z",
    "git_url": "git://github.com/abaplint/abaplint-sci-client.git",
    "ssh_url": "git@github.com:abaplint/abaplint-sci-client.git",
    "clone_url": "https://github.com/abaplint/abaplint-sci-client.git",
    "svn_url": "https://github.com/abaplint/abaplint-sci-client",
    "homepage": "",
-   "size": 362,
+   "size": 380,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -19232,7 +19232,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 27,
+   "open_issues_count": 22,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -19241,7 +19241,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 7,
-   "open_issues": 27,
+   "open_issues": 22,
    "watchers": 6,
    "default_branch": "master",
    "permissions": {
