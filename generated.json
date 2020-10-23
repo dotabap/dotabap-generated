@@ -725,7 +725,7 @@
   }
  },
  "larshp/abap-wasm": {
-  "lines": 590,
+  "lines": 614,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.58.1",
@@ -798,14 +798,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abap-wasm/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abap-wasm/deployments",
    "created_at": "2019-12-27T10:59:08Z",
-   "updated_at": "2020-10-23T07:28:02Z",
-   "pushed_at": "2020-10-23T07:37:15Z",
+   "updated_at": "2020-10-23T10:55:27Z",
+   "pushed_at": "2020-10-23T11:32:59Z",
    "git_url": "git://github.com/larshp/abap-wasm.git",
    "ssh_url": "git@github.com:larshp/abap-wasm.git",
    "clone_url": "https://github.com/larshp/abap-wasm.git",
    "svn_url": "https://github.com/larshp/abap-wasm",
    "homepage": "",
-   "size": 33,
+   "size": 26,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -2065,7 +2065,7 @@
   }
  },
  "SAP-samples/cloud-abap-rap": {
-  "lines": 5996,
+  "lines": 6157,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -2145,14 +2145,14 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap/deployments",
    "created_at": "2020-05-18T21:27:35Z",
-   "updated_at": "2020-10-22T17:41:47Z",
-   "pushed_at": "2020-10-15T16:16:50Z",
+   "updated_at": "2020-10-23T10:17:35Z",
+   "pushed_at": "2020-10-23T10:17:32Z",
    "git_url": "git://github.com/SAP-samples/cloud-abap-rap.git",
    "ssh_url": "git@github.com:SAP-samples/cloud-abap-rap.git",
    "clone_url": "https://github.com/SAP-samples/cloud-abap-rap.git",
    "svn_url": "https://github.com/SAP-samples/cloud-abap-rap",
    "homepage": "",
-   "size": 219,
+   "size": 258,
    "stargazers_count": 28,
    "watchers_count": 28,
    "language": "ABAP",
@@ -3387,7 +3387,7 @@
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
    "updated_at": "2020-10-22T22:47:41Z",
-   "pushed_at": "2020-10-22T18:12:25Z",
+   "pushed_at": "2020-10-23T12:17:57Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
@@ -3406,7 +3406,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 9,
+   "open_issues_count": 8,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -3415,7 +3415,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 16,
-   "open_issues": 9,
+   "open_issues": 8,
    "watchers": 90,
    "default_branch": "master",
    "permissions": {
@@ -9283,11 +9283,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 335,
+   "forks_count": 336,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 209,
+   "open_issues_count": 210,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9295,8 +9295,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 335,
-   "open_issues": 209,
+   "forks": 336,
+   "open_issues": 210,
    "watchers": 744,
    "default_branch": "master",
    "permissions": {
@@ -9325,7 +9325,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 335,
+   "network_count": 336,
    "subscribers_count": 112
   }
  },
@@ -18643,11 +18643,11 @@
   }
  },
  "hhelibeb/abap-fm-logger": {
-  "lines": 1007,
+  "lines": 1164,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.58.1",
-   "cloud": 59
+   "cloud": 79
   },
   "repo": {
    "id": 285577375,
@@ -18716,8 +18716,8 @@
    "releases_url": "https://api.github.com/repos/hhelibeb/abap-fm-logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hhelibeb/abap-fm-logger/deployments",
    "created_at": "2020-08-06T13:21:39Z",
-   "updated_at": "2020-10-22T12:55:36Z",
-   "pushed_at": "2020-10-22T12:58:32Z",
+   "updated_at": "2020-10-23T12:31:35Z",
+   "pushed_at": "2020-10-23T12:33:22Z",
    "git_url": "git://github.com/hhelibeb/abap-fm-logger.git",
    "ssh_url": "git@github.com:hhelibeb/abap-fm-logger.git",
    "clone_url": "https://github.com/hhelibeb/abap-fm-logger.git",
@@ -19568,7 +19568,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 16,
+   "open_issues_count": 15,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -19577,7 +19577,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 7,
-   "open_issues": 16,
+   "open_issues": 15,
    "watchers": 6,
    "default_branch": "master",
    "permissions": {
