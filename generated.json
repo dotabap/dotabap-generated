@@ -3652,14 +3652,14 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-11-06T09:59:29Z",
-   "pushed_at": "2020-11-06T09:59:26Z",
+   "updated_at": "2020-11-06T14:11:32Z",
+   "pushed_at": "2020-11-06T19:15:42Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 2114,
+   "size": 2142,
    "stargazers_count": 92,
    "watchers_count": 92,
    "language": "ABAP",
@@ -3672,7 +3672,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 18,
+   "open_issues_count": 15,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -3681,7 +3681,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 16,
-   "open_issues": 18,
+   "open_issues": 15,
    "watchers": 92,
    "default_branch": "master",
    "permissions": {
@@ -5112,7 +5112,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 203,
+   "open_issues_count": 204,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5121,7 +5121,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 336,
-   "open_issues": 203,
+   "open_issues": 204,
    "watchers": 755,
    "default_branch": "master",
    "permissions": {
@@ -7279,7 +7279,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7288,7 +7288,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 0,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 4,
    "default_branch": "master",
    "permissions": {
@@ -11772,14 +11772,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/addict/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/addict/deployments",
    "created_at": "2020-10-16T13:44:38Z",
-   "updated_at": "2020-11-05T11:39:31Z",
-   "pushed_at": "2020-11-04T14:47:32Z",
+   "updated_at": "2020-11-06T15:53:41Z",
+   "pushed_at": "2020-11-06T15:53:38Z",
    "git_url": "git://github.com/keremkoseoglu/addict.git",
    "ssh_url": "git@github.com:keremkoseoglu/addict.git",
    "clone_url": "https://github.com/keremkoseoglu/addict.git",
    "svn_url": "https://github.com/keremkoseoglu/addict",
    "homepage": null,
-   "size": 492,
+   "size": 498,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -11815,7 +11815,7 @@
   }
  },
  "keremkoseoglu/ticksys": {
-  "lines": 924,
+  "lines": 918,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.59.3",
@@ -11888,14 +11888,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/ticksys/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/ticksys/deployments",
    "created_at": "2020-10-21T08:11:49Z",
-   "updated_at": "2020-11-03T12:33:21Z",
-   "pushed_at": "2020-11-03T12:33:19Z",
+   "updated_at": "2020-11-06T15:54:21Z",
+   "pushed_at": "2020-11-06T15:54:18Z",
    "git_url": "git://github.com/keremkoseoglu/ticksys.git",
    "ssh_url": "git@github.com:keremkoseoglu/ticksys.git",
    "clone_url": "https://github.com/keremkoseoglu/ticksys.git",
    "svn_url": "https://github.com/keremkoseoglu/ticksys",
    "homepage": null,
-   "size": 81,
+   "size": 87,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -16989,7 +16989,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 162,
+   "forks_count": 163,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -17001,7 +17001,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 162,
+   "forks": 163,
    "open_issues": 118,
    "watchers": 320,
    "default_branch": "master",
@@ -17031,7 +17031,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 162,
+   "network_count": 163,
    "subscribers_count": 80
   }
  },
