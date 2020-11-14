@@ -3653,13 +3653,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
    "updated_at": "2020-11-12T11:05:37Z",
-   "pushed_at": "2020-11-12T18:09:49Z",
+   "pushed_at": "2020-11-13T20:57:33Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 2283,
+   "size": 2296,
    "stargazers_count": 94,
    "watchers_count": 94,
    "language": "ABAP",
@@ -3672,7 +3672,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 11,
+   "open_issues_count": 12,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -3681,7 +3681,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 16,
-   "open_issues": 11,
+   "open_issues": 12,
    "watchers": 94,
    "default_branch": "master",
    "permissions": {
@@ -5019,7 +5019,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 112694,
+  "lines": 112722,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.59.5",
@@ -5092,14 +5092,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-11-12T17:32:50Z",
-   "pushed_at": "2020-11-13T06:37:08Z",
+   "updated_at": "2020-11-14T07:40:55Z",
+   "pushed_at": "2020-11-14T07:40:52Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 15967,
+   "size": 16004,
    "stargazers_count": 760,
    "watchers_count": 760,
    "language": "ABAP",
@@ -5151,7 +5151,7 @@
     "site_admin": false
    },
    "network_count": 338,
-   "subscribers_count": 115
+   "subscribers_count": 116
   }
  },
  "abapGit/background_modes": {
@@ -11467,7 +11467,7 @@
   }
  },
  "jrodriguez-rc/abap-dev-utilities": {
-  "lines": 5075,
+  "lines": 5078,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.59.5",
@@ -11540,16 +11540,16 @@
    "releases_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/deployments",
    "created_at": "2020-08-06T16:43:59Z",
-   "updated_at": "2020-11-13T08:11:37Z",
-   "pushed_at": "2020-11-13T08:11:35Z",
+   "updated_at": "2020-11-13T12:05:14Z",
+   "pushed_at": "2020-11-13T12:05:11Z",
    "git_url": "git://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "ssh_url": "git@github.com:jrodriguez-rc/abap-dev-utilities.git",
    "clone_url": "https://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "svn_url": "https://github.com/jrodriguez-rc/abap-dev-utilities",
    "homepage": "",
-   "size": 383,
-   "stargazers_count": 6,
-   "watchers_count": 6,
+   "size": 95,
+   "stargazers_count": 7,
+   "watchers_count": 7,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -11570,7 +11570,7 @@
    },
    "forks": 2,
    "open_issues": 1,
-   "watchers": 6,
+   "watchers": 7,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -11699,7 +11699,7 @@
   }
  },
  "keremkoseoglu/addict": {
-  "lines": 7887,
+  "lines": 7893,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.59.5",
@@ -11772,14 +11772,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/addict/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/addict/deployments",
    "created_at": "2020-10-16T13:44:38Z",
-   "updated_at": "2020-11-10T09:53:20Z",
-   "pushed_at": "2020-11-10T09:53:18Z",
+   "updated_at": "2020-11-13T14:37:54Z",
+   "pushed_at": "2020-11-13T14:37:52Z",
    "git_url": "git://github.com/keremkoseoglu/addict.git",
    "ssh_url": "git@github.com:keremkoseoglu/addict.git",
    "clone_url": "https://github.com/keremkoseoglu/addict.git",
    "svn_url": "https://github.com/keremkoseoglu/addict",
    "homepage": null,
-   "size": 147,
+   "size": 153,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -11815,11 +11815,11 @@
   }
  },
  "keremkoseoglu/ticksys": {
-  "lines": 1528,
+  "lines": 1648,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.59.5",
-   "cloud": 11
+   "cloud": 14
   },
   "repo": {
    "id": 305953844,
@@ -11888,14 +11888,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/ticksys/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/ticksys/deployments",
    "created_at": "2020-10-21T08:11:49Z",
-   "updated_at": "2020-11-12T07:33:42Z",
-   "pushed_at": "2020-11-10T09:53:47Z",
+   "updated_at": "2020-11-13T14:40:30Z",
+   "pushed_at": "2020-11-13T14:40:28Z",
    "git_url": "git://github.com/keremkoseoglu/ticksys.git",
    "ssh_url": "git@github.com:keremkoseoglu/ticksys.git",
    "clone_url": "https://github.com/keremkoseoglu/ticksys.git",
    "svn_url": "https://github.com/keremkoseoglu/ticksys",
    "homepage": null,
-   "size": 121,
+   "size": 137,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -12397,7 +12397,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 4,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -12409,7 +12409,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 4,
+   "forks": 3,
    "open_issues": 0,
    "watchers": 3,
    "default_branch": "master",
@@ -12419,7 +12419,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 4,
+   "network_count": 3,
    "subscribers_count": 2
   }
  },
@@ -13112,14 +13112,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2020-11-12T21:29:00Z",
-   "pushed_at": "2020-11-12T21:28:57Z",
+   "updated_at": "2020-11-13T10:55:32Z",
+   "pushed_at": "2020-11-13T10:55:29Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2320,
+   "size": 2337,
    "stargazers_count": 138,
    "watchers_count": 138,
    "language": "ABAP",
@@ -13132,7 +13132,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 298,
+   "open_issues_count": 297,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -13141,7 +13141,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 50,
-   "open_issues": 298,
+   "open_issues": 297,
    "watchers": 138,
    "default_branch": "master",
    "permissions": {
@@ -14454,13 +14454,13 @@
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
    "updated_at": "2020-11-11T16:04:58Z",
-   "pushed_at": "2020-11-11T16:04:55Z",
+   "pushed_at": "2020-11-14T00:34:06Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": "",
-   "size": 4145,
+   "size": 4252,
    "stargazers_count": 11,
    "watchers_count": 11,
    "language": "ABAP",
@@ -15003,7 +15003,7 @@
    "releases_url": "https://api.github.com/repos/openTCT/zotct_utils/releases{/id}",
    "deployments_url": "https://api.github.com/repos/openTCT/zotct_utils/deployments",
    "created_at": "2020-11-11T23:26:07Z",
-   "updated_at": "2020-11-12T00:27:29Z",
+   "updated_at": "2020-11-13T12:19:36Z",
    "pushed_at": "2020-11-11T23:27:36Z",
    "git_url": "git://github.com/openTCT/zotct_utils.git",
    "ssh_url": "git@github.com:openTCT/zotct_utils.git",
@@ -15011,8 +15011,8 @@
    "svn_url": "https://github.com/openTCT/zotct_utils",
    "homepage": null,
    "size": 16,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 0,
+   "watchers_count": 0,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -15033,7 +15033,7 @@
    },
    "forks": 0,
    "open_issues": 0,
-   "watchers": 1,
+   "watchers": 0,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -15551,7 +15551,7 @@
   }
  },
  "pawelwiejkut/bw_toolbox": {
-  "lines": 727,
+  "lines": 751,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -15564,7 +15564,7 @@
   ],
   "parsing": {
    "version": "2.59.5",
-   "cloud": 75
+   "cloud": 78
   },
   "repo": {
    "id": 155103041,
@@ -15633,14 +15633,14 @@
    "releases_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/deployments",
    "created_at": "2018-10-28T18:36:49Z",
-   "updated_at": "2020-11-03T03:12:24Z",
-   "pushed_at": "2020-10-29T10:22:24Z",
+   "updated_at": "2020-11-14T07:48:54Z",
+   "pushed_at": "2020-11-14T07:48:51Z",
    "git_url": "git://github.com/pawelwiejkut/bw_toolbox.git",
    "ssh_url": "git@github.com:pawelwiejkut/bw_toolbox.git",
    "clone_url": "https://github.com/pawelwiejkut/bw_toolbox.git",
    "svn_url": "https://github.com/pawelwiejkut/bw_toolbox",
    "homepage": "",
-   "size": 167,
+   "size": 94,
    "stargazers_count": 12,
    "watchers_count": 12,
    "language": "ABAP",
