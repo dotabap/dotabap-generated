@@ -5019,7 +5019,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 112846,
+  "lines": 112852,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.59.5",
@@ -5092,16 +5092,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-11-15T00:04:57Z",
-   "pushed_at": "2020-11-14T17:19:40Z",
+   "updated_at": "2020-11-16T07:34:34Z",
+   "pushed_at": "2020-11-16T07:35:04Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 15991,
-   "stargazers_count": 762,
-   "watchers_count": 762,
+   "size": 16079,
+   "stargazers_count": 764,
+   "watchers_count": 764,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -5122,7 +5122,7 @@
    },
    "forks": 338,
    "open_issues": 203,
-   "watchers": 762,
+   "watchers": 764,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5151,7 +5151,7 @@
     "site_admin": false
    },
    "network_count": 338,
-   "subscribers_count": 114
+   "subscribers_count": 113
   }
  },
  "abapGit/background_modes": {
@@ -5913,8 +5913,8 @@
    "releases_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/deployments",
    "created_at": "2020-01-05T12:58:03Z",
-   "updated_at": "2020-11-10T21:09:16Z",
-   "pushed_at": "2020-11-10T21:09:15Z",
+   "updated_at": "2020-11-16T07:35:33Z",
+   "pushed_at": "2020-11-16T07:35:31Z",
    "git_url": "git://github.com/abaplint/abaplint-sci-client.git",
    "ssh_url": "git@github.com:abaplint/abaplint-sci-client.git",
    "clone_url": "https://github.com/abaplint/abaplint-sci-client.git",
@@ -7000,7 +7000,7 @@
    "releases_url": "https://api.github.com/repos/bizhuka/xtt/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/xtt/deployments",
    "created_at": "2018-02-08T06:31:13Z",
-   "updated_at": "2020-09-24T08:36:21Z",
+   "updated_at": "2020-11-16T06:20:20Z",
    "pushed_at": "2020-09-16T02:23:32Z",
    "git_url": "git://github.com/bizhuka/xtt.git",
    "ssh_url": "git@github.com:bizhuka/xtt.git",
@@ -7008,8 +7008,8 @@
    "svn_url": "https://github.com/bizhuka/xtt",
    "homepage": "https://bizhuka.github.io/xtt/",
    "size": 1230,
-   "stargazers_count": 10,
-   "watchers_count": 10,
+   "stargazers_count": 11,
+   "watchers_count": 11,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -7030,7 +7030,7 @@
    },
    "forks": 3,
    "open_issues": 1,
-   "watchers": 10,
+   "watchers": 11,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7039,7 +7039,7 @@
    },
    "temp_clone_token": "",
    "network_count": 3,
-   "subscribers_count": 6
+   "subscribers_count": 7
   }
  },
  "btc-ag/Featuretoggle": {
@@ -11699,7 +11699,7 @@
   }
  },
  "keremkoseoglu/addict": {
-  "lines": 7904,
+  "lines": 8067,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.59.5",
@@ -11772,14 +11772,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/addict/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/addict/deployments",
    "created_at": "2020-10-16T13:44:38Z",
-   "updated_at": "2020-11-14T14:22:45Z",
-   "pushed_at": "2020-11-14T14:22:43Z",
+   "updated_at": "2020-11-15T13:12:22Z",
+   "pushed_at": "2020-11-15T13:12:20Z",
    "git_url": "git://github.com/keremkoseoglu/addict.git",
    "ssh_url": "git@github.com:keremkoseoglu/addict.git",
    "clone_url": "https://github.com/keremkoseoglu/addict.git",
    "svn_url": "https://github.com/keremkoseoglu/addict",
    "homepage": null,
-   "size": 159,
+   "size": 170,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -15633,7 +15633,7 @@
    "releases_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/deployments",
    "created_at": "2018-10-28T18:36:49Z",
-   "updated_at": "2020-11-15T06:31:08Z",
+   "updated_at": "2020-11-15T08:44:45Z",
    "pushed_at": "2020-11-14T07:48:51Z",
    "git_url": "git://github.com/pawelwiejkut/bw_toolbox.git",
    "ssh_url": "git@github.com:pawelwiejkut/bw_toolbox.git",
@@ -15641,8 +15641,8 @@
    "svn_url": "https://github.com/pawelwiejkut/bw_toolbox",
    "homepage": "",
    "size": 96,
-   "stargazers_count": 14,
-   "watchers_count": 14,
+   "stargazers_count": 15,
+   "watchers_count": 15,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -15663,7 +15663,7 @@
    },
    "forks": 7,
    "open_issues": 2,
-   "watchers": 14,
+   "watchers": 15,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -21253,7 +21253,7 @@
    "releases_url": "https://api.github.com/repos/ysichov/Simple-Data-Explorer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/Simple-Data-Explorer/deployments",
    "created_at": "2020-02-09T22:46:51Z",
-   "updated_at": "2020-11-11T13:12:02Z",
+   "updated_at": "2020-11-15T19:33:16Z",
    "pushed_at": "2020-11-11T13:12:00Z",
    "git_url": "git://github.com/ysichov/Simple-Data-Explorer.git",
    "ssh_url": "git@github.com:ysichov/Simple-Data-Explorer.git",
@@ -21261,15 +21261,15 @@
    "svn_url": "https://github.com/ysichov/Simple-Data-Explorer",
    "homepage": null,
    "size": 677,
-   "stargazers_count": 19,
-   "watchers_count": 19,
+   "stargazers_count": 20,
+   "watchers_count": 20,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 8,
+   "forks_count": 9,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -21281,9 +21281,9 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 8,
+   "forks": 9,
    "open_issues": 0,
-   "watchers": 19,
+   "watchers": 20,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -21291,7 +21291,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 8,
+   "network_count": 9,
    "subscribers_count": 1
   }
  }
