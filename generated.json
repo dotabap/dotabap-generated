@@ -5093,13 +5093,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2020-11-20T15:51:30Z",
-   "pushed_at": "2020-11-20T15:52:30Z",
+   "pushed_at": "2020-11-21T13:45:59Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 16364,
+   "size": 16389,
    "stargazers_count": 768,
    "watchers_count": 768,
    "language": "ABAP",
@@ -5108,7 +5108,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 341,
+   "forks_count": 342,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -5120,7 +5120,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 341,
+   "forks": 342,
    "open_issues": 205,
    "watchers": 768,
    "default_branch": "master",
@@ -5150,7 +5150,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 341,
+   "network_count": 342,
    "subscribers_count": 114
   }
  },
@@ -9138,7 +9138,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 2,
+   "open_issues_count": 3,
    "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -9147,7 +9147,7 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "forks": 35,
-   "open_issues": 2,
+   "open_issues": 3,
    "watchers": 65,
    "default_branch": "master",
    "permissions": {
@@ -11699,7 +11699,7 @@
   }
  },
  "keremkoseoglu/addict": {
-  "lines": 8121,
+  "lines": 8128,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.60.3",
@@ -11772,14 +11772,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/addict/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/addict/deployments",
    "created_at": "2020-10-16T13:44:38Z",
-   "updated_at": "2020-11-19T14:31:35Z",
-   "pushed_at": "2020-11-19T14:31:32Z",
+   "updated_at": "2020-11-21T09:28:07Z",
+   "pushed_at": "2020-11-21T09:28:05Z",
    "git_url": "git://github.com/keremkoseoglu/addict.git",
    "ssh_url": "git@github.com:keremkoseoglu/addict.git",
    "clone_url": "https://github.com/keremkoseoglu/addict.git",
    "svn_url": "https://github.com/keremkoseoglu/addict",
    "homepage": null,
-   "size": 180,
+   "size": 189,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -11815,11 +11815,11 @@
   }
  },
  "keremkoseoglu/ticksys": {
-  "lines": 1859,
+  "lines": 2381,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.60.3",
-   "cloud": 17
+   "cloud": 27
   },
   "repo": {
    "id": 305953844,
@@ -11888,14 +11888,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/ticksys/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/ticksys/deployments",
    "created_at": "2020-10-21T08:11:49Z",
-   "updated_at": "2020-11-20T20:20:48Z",
-   "pushed_at": "2020-11-14T14:25:22Z",
+   "updated_at": "2020-11-21T09:36:40Z",
+   "pushed_at": "2020-11-21T09:36:38Z",
    "git_url": "git://github.com/keremkoseoglu/ticksys.git",
    "ssh_url": "git@github.com:keremkoseoglu/ticksys.git",
    "clone_url": "https://github.com/keremkoseoglu/ticksys.git",
    "svn_url": "https://github.com/keremkoseoglu/ticksys",
    "homepage": null,
-   "size": 155,
+   "size": 196,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -12620,7 +12620,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abap-wasm/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abap-wasm/deployments",
    "created_at": "2019-12-27T10:59:08Z",
-   "updated_at": "2020-11-17T12:20:09Z",
+   "updated_at": "2020-11-21T12:31:39Z",
    "pushed_at": "2020-11-17T12:20:08Z",
    "git_url": "git://github.com/larshp/abap-wasm.git",
    "ssh_url": "git@github.com:larshp/abap-wasm.git",
@@ -12628,8 +12628,8 @@
    "svn_url": "https://github.com/larshp/abap-wasm",
    "homepage": "",
    "size": 165,
-   "stargazers_count": 4,
-   "watchers_count": 4,
+   "stargazers_count": 5,
+   "watchers_count": 5,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -12650,7 +12650,7 @@
    },
    "forks": 0,
    "open_issues": 5,
-   "watchers": 4,
+   "watchers": 5,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -20778,7 +20778,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 3,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -20790,7 +20790,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 3,
+   "forks": 4,
    "open_issues": 0,
    "watchers": 10,
    "default_branch": "master",
@@ -20820,7 +20820,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 3,
+   "network_count": 4,
    "subscribers_count": 13
   }
  },
