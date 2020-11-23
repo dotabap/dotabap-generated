@@ -1217,7 +1217,7 @@
    },
    "temp_clone_token": "",
    "network_count": 1,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "INVIXO/abapMQ": {
@@ -5019,7 +5019,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 112987,
+  "lines": 113026,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.60.3",
@@ -5092,16 +5092,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-11-20T15:51:30Z",
-   "pushed_at": "2020-11-21T13:45:59Z",
+   "updated_at": "2020-11-23T07:31:29Z",
+   "pushed_at": "2020-11-23T08:12:02Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 16389,
-   "stargazers_count": 768,
-   "watchers_count": 768,
+   "size": 16303,
+   "stargazers_count": 769,
+   "watchers_count": 769,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -5122,7 +5122,7 @@
    },
    "forks": 342,
    "open_issues": 205,
-   "watchers": 768,
+   "watchers": 769,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5151,7 +5151,7 @@
     "site_admin": false
    },
    "network_count": 342,
-   "subscribers_count": 114
+   "subscribers_count": 115
   }
  },
  "abapGit/background_modes": {
@@ -5516,7 +5516,7 @@
    "releases_url": "https://api.github.com/repos/abapinho/abaK/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abaK/deployments",
    "created_at": "2019-01-31T18:54:18Z",
-   "updated_at": "2020-11-01T06:44:40Z",
+   "updated_at": "2020-11-22T22:29:03Z",
    "pushed_at": "2019-07-11T17:14:49Z",
    "git_url": "git://github.com/abapinho/abaK.git",
    "ssh_url": "git@github.com:abapinho/abaK.git",
@@ -5524,8 +5524,8 @@
    "svn_url": "https://github.com/abapinho/abaK",
    "homepage": "",
    "size": 250,
-   "stargazers_count": 23,
-   "watchers_count": 23,
+   "stargazers_count": 24,
+   "watchers_count": 24,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -5546,7 +5546,7 @@
    },
    "forks": 2,
    "open_issues": 8,
-   "watchers": 23,
+   "watchers": 24,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5652,7 +5652,7 @@
    "releases_url": "https://api.github.com/repos/abapinho/abapBlame/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abapBlame/deployments",
    "created_at": "2019-11-19T16:41:35Z",
-   "updated_at": "2020-11-18T14:13:18Z",
+   "updated_at": "2020-11-22T22:30:16Z",
    "pushed_at": "2020-08-14T21:21:28Z",
    "git_url": "git://github.com/abapinho/abapBlame.git",
    "ssh_url": "git@github.com:abapinho/abapBlame.git",
@@ -5660,8 +5660,8 @@
    "svn_url": "https://github.com/abapinho/abapBlame",
    "homepage": "",
    "size": 99,
-   "stargazers_count": 27,
-   "watchers_count": 27,
+   "stargazers_count": 28,
+   "watchers_count": 28,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -5682,7 +5682,7 @@
    },
    "forks": 2,
    "open_issues": 12,
-   "watchers": 27,
+   "watchers": 28,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7186,7 +7186,7 @@
   }
  },
  "bunysae/abap_db_preparator": {
-  "lines": 4311,
+  "lines": 4259,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.60.3",
@@ -7259,14 +7259,14 @@
    "releases_url": "https://api.github.com/repos/bunysae/abap_db_preparator/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bunysae/abap_db_preparator/deployments",
    "created_at": "2020-01-27T15:56:16Z",
-   "updated_at": "2020-11-20T16:46:57Z",
-   "pushed_at": "2020-11-09T14:33:19Z",
+   "updated_at": "2020-11-22T12:18:12Z",
+   "pushed_at": "2020-11-22T12:18:10Z",
    "git_url": "git://github.com/bunysae/abap_db_preparator.git",
    "ssh_url": "git@github.com:bunysae/abap_db_preparator.git",
    "clone_url": "https://github.com/bunysae/abap_db_preparator.git",
    "svn_url": "https://github.com/bunysae/abap_db_preparator",
    "homepage": "",
-   "size": 295,
+   "size": 307,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -8987,7 +8987,7 @@
    "releases_url": "https://api.github.com/repos/fidley/JSON2ABAPType/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/JSON2ABAPType/deployments",
    "created_at": "2018-08-20T16:24:34Z",
-   "updated_at": "2020-09-22T19:01:36Z",
+   "updated_at": "2020-11-23T06:53:18Z",
    "pushed_at": "2020-02-13T12:20:52Z",
    "git_url": "git://github.com/fidley/JSON2ABAPType.git",
    "ssh_url": "git@github.com:fidley/JSON2ABAPType.git",
@@ -8995,8 +8995,8 @@
    "svn_url": "https://github.com/fidley/JSON2ABAPType",
    "homepage": "https://abapblog.com",
    "size": 125,
-   "stargazers_count": 26,
-   "watchers_count": 26,
+   "stargazers_count": 27,
+   "watchers_count": 27,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -9017,7 +9017,7 @@
    },
    "forks": 13,
    "open_issues": 0,
-   "watchers": 26,
+   "watchers": 27,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -12150,7 +12150,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -12162,7 +12162,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 5,
+   "forks": 6,
    "open_issues": 4,
    "watchers": 47,
    "default_branch": "master",
@@ -12172,7 +12172,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 14
   }
  },
@@ -12867,7 +12867,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGitServer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGitServer/deployments",
    "created_at": "2015-07-05T06:34:15Z",
-   "updated_at": "2020-11-15T00:05:11Z",
+   "updated_at": "2020-11-22T13:26:16Z",
    "pushed_at": "2020-09-30T12:46:49Z",
    "git_url": "git://github.com/larshp/abapGitServer.git",
    "ssh_url": "git@github.com:larshp/abapGitServer.git",
@@ -12875,8 +12875,8 @@
    "svn_url": "https://github.com/larshp/abapGitServer",
    "homepage": "",
    "size": 518,
-   "stargazers_count": 49,
-   "watchers_count": 49,
+   "stargazers_count": 50,
+   "watchers_count": 50,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -12897,7 +12897,7 @@
    },
    "forks": 17,
    "open_issues": 53,
-   "watchers": 49,
+   "watchers": 50,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -13112,7 +13112,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2020-11-19T10:21:57Z",
+   "updated_at": "2020-11-22T22:30:34Z",
    "pushed_at": "2020-11-20T12:13:58Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -13120,8 +13120,8 @@
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
    "size": 2353,
-   "stargazers_count": 140,
-   "watchers_count": 140,
+   "stargazers_count": 141,
+   "watchers_count": 141,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -13142,7 +13142,7 @@
    },
    "forks": 50,
    "open_issues": 295,
-   "watchers": 140,
+   "watchers": 141,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -13151,7 +13151,7 @@
    },
    "temp_clone_token": "",
    "network_count": 50,
-   "subscribers_count": 33
+   "subscribers_count": 34
   }
  },
  "larshp/abapOpenReview": {
@@ -15633,14 +15633,14 @@
    "releases_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pawelwiejkut/bw_toolbox/deployments",
    "created_at": "2018-10-28T18:36:49Z",
-   "updated_at": "2020-11-19T07:09:25Z",
-   "pushed_at": "2020-11-14T07:48:51Z",
+   "updated_at": "2020-11-22T15:29:46Z",
+   "pushed_at": "2020-11-22T15:29:44Z",
    "git_url": "git://github.com/pawelwiejkut/bw_toolbox.git",
    "ssh_url": "git@github.com:pawelwiejkut/bw_toolbox.git",
    "clone_url": "https://github.com/pawelwiejkut/bw_toolbox.git",
    "svn_url": "https://github.com/pawelwiejkut/bw_toolbox",
    "homepage": "",
-   "size": 96,
+   "size": 103,
    "stargazers_count": 18,
    "watchers_count": 18,
    "language": "ABAP",
@@ -15649,7 +15649,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 8,
+   "forks_count": 9,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -15661,7 +15661,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 8,
+   "forks": 9,
    "open_issues": 2,
    "watchers": 18,
    "default_branch": "master",
@@ -15671,7 +15671,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 8,
+   "network_count": 9,
    "subscribers_count": 5
   }
  },
@@ -18618,7 +18618,7 @@
   }
  },
  "stockbal/abap-search-tools": {
-  "lines": 16510,
+  "lines": 16545,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.60.3",
@@ -18691,14 +18691,14 @@
    "releases_url": "https://api.github.com/repos/stockbal/abap-search-tools/releases{/id}",
    "deployments_url": "https://api.github.com/repos/stockbal/abap-search-tools/deployments",
    "created_at": "2019-08-01T19:35:06Z",
-   "updated_at": "2020-11-16T13:36:29Z",
-   "pushed_at": "2020-11-17T15:49:22Z",
+   "updated_at": "2020-11-22T10:56:54Z",
+   "pushed_at": "2020-11-22T10:58:28Z",
    "git_url": "git://github.com/stockbal/abap-search-tools.git",
    "ssh_url": "git@github.com:stockbal/abap-search-tools.git",
    "clone_url": "https://github.com/stockbal/abap-search-tools.git",
    "svn_url": "https://github.com/stockbal/abap-search-tools",
    "homepage": "",
-   "size": 542,
+   "size": 460,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
