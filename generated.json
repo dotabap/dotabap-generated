@@ -3645,16 +3645,16 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2020-11-24T22:25:56Z",
-   "pushed_at": "2020-11-25T20:01:12Z",
+   "updated_at": "2020-11-26T11:35:31Z",
+   "pushed_at": "2020-11-26T18:02:38Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 2311,
-   "stargazers_count": 95,
-   "watchers_count": 95,
+   "size": 2312,
+   "stargazers_count": 96,
+   "watchers_count": 96,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -3665,7 +3665,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 13,
+   "open_issues_count": 10,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -3674,8 +3674,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 16,
-   "open_issues": 13,
-   "watchers": 95,
+   "open_issues": 10,
+   "watchers": 96,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3704,7 +3704,7 @@
     "site_admin": false
    },
    "network_count": 16,
-   "subscribers_count": 8
+   "subscribers_count": 7
   }
  },
  "SAP/ewm-cloud-robotics-s4": {
@@ -3924,7 +3924,7 @@
    "releases_url": "https://api.github.com/repos/SAP/project-odense/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/project-odense/deployments",
    "created_at": "2020-07-01T10:45:58Z",
-   "updated_at": "2020-11-05T15:00:48Z",
+   "updated_at": "2020-11-26T15:27:53Z",
    "pushed_at": "2020-11-05T15:00:45Z",
    "git_url": "git://github.com/SAP/project-odense.git",
    "ssh_url": "git@github.com:SAP/project-odense.git",
@@ -3932,8 +3932,8 @@
    "svn_url": "https://github.com/SAP/project-odense",
    "homepage": "",
    "size": 75,
-   "stargazers_count": 14,
-   "watchers_count": 14,
+   "stargazers_count": 15,
+   "watchers_count": 15,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3948,7 +3948,7 @@
    "license": null,
    "forks": 1,
    "open_issues": 1,
-   "watchers": 14,
+   "watchers": 15,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4267,7 +4267,7 @@
     "site_admin": false
    },
    "network_count": 12,
-   "subscribers_count": 26
+   "subscribers_count": 25
   }
  },
  "Sdfraga/ABAPplantUML": {
@@ -4949,7 +4949,7 @@
    "releases_url": "https://api.github.com/repos/abapGit/ADT_Backend/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/ADT_Backend/deployments",
    "created_at": "2018-03-21T04:59:51Z",
-   "updated_at": "2020-11-17T12:40:07Z",
+   "updated_at": "2020-11-26T15:27:56Z",
    "pushed_at": "2020-11-17T12:40:05Z",
    "git_url": "git://github.com/abapGit/ADT_Backend.git",
    "ssh_url": "git@github.com:abapGit/ADT_Backend.git",
@@ -4957,8 +4957,8 @@
    "svn_url": "https://github.com/abapGit/ADT_Backend",
    "homepage": "",
    "size": 136,
-   "stargazers_count": 16,
-   "watchers_count": 16,
+   "stargazers_count": 17,
+   "watchers_count": 17,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -4979,7 +4979,7 @@
    },
    "forks": 7,
    "open_issues": 14,
-   "watchers": 16,
+   "watchers": 17,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5012,7 +5012,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 113669,
+  "lines": 113693,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.60.9",
@@ -5085,14 +5085,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-11-25T08:59:37Z",
-   "pushed_at": "2020-11-25T19:43:45Z",
+   "updated_at": "2020-11-26T11:33:22Z",
+   "pushed_at": "2020-11-26T11:41:57Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 16452,
+   "size": 16567,
    "stargazers_count": 769,
    "watchers_count": 769,
    "language": "ABAP",
@@ -5105,7 +5105,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 202,
+   "open_issues_count": 201,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5114,7 +5114,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 344,
-   "open_issues": 202,
+   "open_issues": 201,
    "watchers": 769,
    "default_branch": "master",
    "permissions": {
@@ -5144,7 +5144,7 @@
     "site_admin": false
    },
    "network_count": 344,
-   "subscribers_count": 114
+   "subscribers_count": 115
   }
  },
  "abapGit/background_modes": {
@@ -6082,6 +6082,122 @@
    "temp_clone_token": "",
    "network_count": 1,
    "subscribers_count": 3
+  }
+ },
+ "albanleong/abapteachablemachine": {
+  "lines": 1504,
+  "startingFolder": "/src/",
+  "parsing": {
+   "version": "2.60.9",
+   "cloud": 39
+  },
+  "repo": {
+   "id": 315831765,
+   "node_id": "MDEwOlJlcG9zaXRvcnkzMTU4MzE3NjU=",
+   "name": "abapteachablemachine",
+   "full_name": "albanleong/abapteachablemachine",
+   "private": false,
+   "owner": {
+    "login": "albanleong",
+    "id": 177180,
+    "node_id": "MDQ6VXNlcjE3NzE4MA==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/177180?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/albanleong",
+    "html_url": "https://github.com/albanleong",
+    "followers_url": "https://api.github.com/users/albanleong/followers",
+    "following_url": "https://api.github.com/users/albanleong/following{/other_user}",
+    "gists_url": "https://api.github.com/users/albanleong/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/albanleong/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/albanleong/subscriptions",
+    "organizations_url": "https://api.github.com/users/albanleong/orgs",
+    "repos_url": "https://api.github.com/users/albanleong/repos",
+    "events_url": "https://api.github.com/users/albanleong/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/albanleong/received_events",
+    "type": "User",
+    "site_admin": false
+   },
+   "html_url": "https://github.com/albanleong/abapteachablemachine",
+   "description": "A basic flash card game developed in ABAP and Javascript and powered by SAP NetWeaver and Google's Teachable Machine",
+   "fork": false,
+   "url": "https://api.github.com/repos/albanleong/abapteachablemachine",
+   "forks_url": "https://api.github.com/repos/albanleong/abapteachablemachine/forks",
+   "keys_url": "https://api.github.com/repos/albanleong/abapteachablemachine/keys{/key_id}",
+   "collaborators_url": "https://api.github.com/repos/albanleong/abapteachablemachine/collaborators{/collaborator}",
+   "teams_url": "https://api.github.com/repos/albanleong/abapteachablemachine/teams",
+   "hooks_url": "https://api.github.com/repos/albanleong/abapteachablemachine/hooks",
+   "issue_events_url": "https://api.github.com/repos/albanleong/abapteachablemachine/issues/events{/number}",
+   "events_url": "https://api.github.com/repos/albanleong/abapteachablemachine/events",
+   "assignees_url": "https://api.github.com/repos/albanleong/abapteachablemachine/assignees{/user}",
+   "branches_url": "https://api.github.com/repos/albanleong/abapteachablemachine/branches{/branch}",
+   "tags_url": "https://api.github.com/repos/albanleong/abapteachablemachine/tags",
+   "blobs_url": "https://api.github.com/repos/albanleong/abapteachablemachine/git/blobs{/sha}",
+   "git_tags_url": "https://api.github.com/repos/albanleong/abapteachablemachine/git/tags{/sha}",
+   "git_refs_url": "https://api.github.com/repos/albanleong/abapteachablemachine/git/refs{/sha}",
+   "trees_url": "https://api.github.com/repos/albanleong/abapteachablemachine/git/trees{/sha}",
+   "statuses_url": "https://api.github.com/repos/albanleong/abapteachablemachine/statuses/{sha}",
+   "languages_url": "https://api.github.com/repos/albanleong/abapteachablemachine/languages",
+   "stargazers_url": "https://api.github.com/repos/albanleong/abapteachablemachine/stargazers",
+   "contributors_url": "https://api.github.com/repos/albanleong/abapteachablemachine/contributors",
+   "subscribers_url": "https://api.github.com/repos/albanleong/abapteachablemachine/subscribers",
+   "subscription_url": "https://api.github.com/repos/albanleong/abapteachablemachine/subscription",
+   "commits_url": "https://api.github.com/repos/albanleong/abapteachablemachine/commits{/sha}",
+   "git_commits_url": "https://api.github.com/repos/albanleong/abapteachablemachine/git/commits{/sha}",
+   "comments_url": "https://api.github.com/repos/albanleong/abapteachablemachine/comments{/number}",
+   "issue_comment_url": "https://api.github.com/repos/albanleong/abapteachablemachine/issues/comments{/number}",
+   "contents_url": "https://api.github.com/repos/albanleong/abapteachablemachine/contents/{+path}",
+   "compare_url": "https://api.github.com/repos/albanleong/abapteachablemachine/compare/{base}...{head}",
+   "merges_url": "https://api.github.com/repos/albanleong/abapteachablemachine/merges",
+   "archive_url": "https://api.github.com/repos/albanleong/abapteachablemachine/{archive_format}{/ref}",
+   "downloads_url": "https://api.github.com/repos/albanleong/abapteachablemachine/downloads",
+   "issues_url": "https://api.github.com/repos/albanleong/abapteachablemachine/issues{/number}",
+   "pulls_url": "https://api.github.com/repos/albanleong/abapteachablemachine/pulls{/number}",
+   "milestones_url": "https://api.github.com/repos/albanleong/abapteachablemachine/milestones{/number}",
+   "notifications_url": "https://api.github.com/repos/albanleong/abapteachablemachine/notifications{?since,all,participating}",
+   "labels_url": "https://api.github.com/repos/albanleong/abapteachablemachine/labels{/name}",
+   "releases_url": "https://api.github.com/repos/albanleong/abapteachablemachine/releases{/id}",
+   "deployments_url": "https://api.github.com/repos/albanleong/abapteachablemachine/deployments",
+   "created_at": "2020-11-25T04:48:46Z",
+   "updated_at": "2020-11-26T04:06:30Z",
+   "pushed_at": "2020-11-26T02:57:45Z",
+   "git_url": "git://github.com/albanleong/abapteachablemachine.git",
+   "ssh_url": "git@github.com:albanleong/abapteachablemachine.git",
+   "clone_url": "https://github.com/albanleong/abapteachablemachine.git",
+   "svn_url": "https://github.com/albanleong/abapteachablemachine",
+   "homepage": "",
+   "size": 6003,
+   "stargazers_count": 1,
+   "watchers_count": 1,
+   "language": "HTML",
+   "has_issues": true,
+   "has_projects": false,
+   "has_downloads": true,
+   "has_wiki": false,
+   "has_pages": false,
+   "forks_count": 0,
+   "mirror_url": null,
+   "archived": false,
+   "disabled": false,
+   "open_issues_count": 0,
+   "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+   },
+   "forks": 0,
+   "open_issues": 0,
+   "watchers": 1,
+   "default_branch": "main",
+   "permissions": {
+    "admin": false,
+    "push": false,
+    "pull": true
+   },
+   "temp_clone_token": "",
+   "network_count": 0,
+   "subscribers_count": 1
   }
  },
  "alborghetti/ABAPFire": {
@@ -9150,7 +9266,7 @@
    },
    "temp_clone_token": "",
    "network_count": 35,
-   "subscribers_count": 25
+   "subscribers_count": 24
   }
  },
  "flaiker/abap-log": {
@@ -11460,7 +11576,7 @@
   }
  },
  "jrodriguez-rc/abap-dev-utilities": {
-  "lines": 5060,
+  "lines": 5160,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.60.9",
@@ -11533,14 +11649,14 @@
    "releases_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/deployments",
    "created_at": "2020-08-06T16:43:59Z",
-   "updated_at": "2020-11-24T11:25:02Z",
-   "pushed_at": "2020-11-17T09:01:01Z",
+   "updated_at": "2020-11-26T09:11:25Z",
+   "pushed_at": "2020-11-26T09:11:23Z",
    "git_url": "git://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "ssh_url": "git@github.com:jrodriguez-rc/abap-dev-utilities.git",
    "clone_url": "https://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "svn_url": "https://github.com/jrodriguez-rc/abap-dev-utilities",
    "homepage": "",
-   "size": 151,
+   "size": 155,
    "stargazers_count": 12,
    "watchers_count": 12,
    "language": "ABAP",
@@ -12004,7 +12120,7 @@
    "releases_url": "https://api.github.com/repos/koemaeda/abap-markdown/releases{/id}",
    "deployments_url": "https://api.github.com/repos/koemaeda/abap-markdown/deployments",
    "created_at": "2015-09-14T21:02:51Z",
-   "updated_at": "2020-11-14T20:53:52Z",
+   "updated_at": "2020-11-27T07:29:20Z",
    "pushed_at": "2019-04-24T17:41:52Z",
    "git_url": "git://github.com/koemaeda/abap-markdown.git",
    "ssh_url": "git@github.com:koemaeda/abap-markdown.git",
@@ -12012,8 +12128,8 @@
    "svn_url": "https://github.com/koemaeda/abap-markdown",
    "homepage": null,
    "size": 119,
-   "stargazers_count": 28,
-   "watchers_count": 28,
+   "stargazers_count": 29,
+   "watchers_count": 29,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -12034,7 +12150,7 @@
    },
    "forks": 12,
    "open_issues": 1,
-   "watchers": 28,
+   "watchers": 29,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -12252,7 +12368,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
    "updated_at": "2020-11-25T10:10:11Z",
-   "pushed_at": "2020-11-25T15:46:36Z",
+   "pushed_at": "2020-11-26T09:57:49Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
    "clone_url": "https://github.com/larshp/ABAP-Swagger.git",
@@ -12290,7 +12406,7 @@
    },
    "temp_clone_token": "",
    "network_count": 26,
-   "subscribers_count": 16
+   "subscribers_count": 15
   }
  },
  "larshp/Datamatrix": {
@@ -12536,7 +12652,7 @@
    },
    "temp_clone_token": "",
    "network_count": 5,
-   "subscribers_count": 7
+   "subscribers_count": 6
   }
  },
  "larshp/abap-wasm": {
@@ -15989,7 +16105,7 @@
    "releases_url": "https://api.github.com/repos/peyn/IDoc-with-ABAP-OOP/releases{/id}",
    "deployments_url": "https://api.github.com/repos/peyn/IDoc-with-ABAP-OOP/deployments",
    "created_at": "2020-07-24T09:44:26Z",
-   "updated_at": "2020-09-29T14:04:23Z",
+   "updated_at": "2020-11-27T01:14:23Z",
    "pushed_at": "2020-07-24T10:25:36Z",
    "git_url": "git://github.com/peyn/IDoc-with-ABAP-OOP.git",
    "ssh_url": "git@github.com:peyn/IDoc-with-ABAP-OOP.git",
@@ -15997,8 +16113,8 @@
    "svn_url": "https://github.com/peyn/IDoc-with-ABAP-OOP",
    "homepage": null,
    "size": 8,
-   "stargazers_count": 5,
-   "watchers_count": 5,
+   "stargazers_count": 6,
+   "watchers_count": 6,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -16019,7 +16135,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 5,
+   "watchers": 6,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -17161,7 +17277,7 @@
     "site_admin": false
    },
    "network_count": 166,
-   "subscribers_count": 82
+   "subscribers_count": 81
   }
  },
  "sbcgua/abap-string-map": {
@@ -17776,7 +17892,7 @@
   }
  },
  "sbcgua/ajson": {
-  "lines": 4774,
+  "lines": 4776,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.60.9",
@@ -17849,14 +17965,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/ajson/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/ajson/deployments",
    "created_at": "2020-05-16T07:00:27Z",
-   "updated_at": "2020-10-23T19:00:46Z",
-   "pushed_at": "2020-11-25T15:31:04Z",
+   "updated_at": "2020-11-26T20:48:03Z",
+   "pushed_at": "2020-11-26T20:48:00Z",
    "git_url": "git://github.com/sbcgua/ajson.git",
    "ssh_url": "git@github.com:sbcgua/ajson.git",
    "clone_url": "https://github.com/sbcgua/ajson.git",
    "svn_url": "https://github.com/sbcgua/ajson",
    "homepage": null,
-   "size": 146,
+   "size": 164,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -17869,7 +17985,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 11,
+   "open_issues_count": 9,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -17878,7 +17994,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 11,
+   "open_issues": 9,
    "watchers": 4,
    "default_branch": "master",
    "permissions": {
@@ -18727,7 +18843,7 @@
   }
  },
  "stockbal/abap-tags-backend": {
-  "lines": 2664,
+  "lines": 2673,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.60.9",
@@ -18800,14 +18916,14 @@
    "releases_url": "https://api.github.com/repos/stockbal/abap-tags-backend/releases{/id}",
    "deployments_url": "https://api.github.com/repos/stockbal/abap-tags-backend/deployments",
    "created_at": "2020-07-10T13:21:43Z",
-   "updated_at": "2020-09-20T10:23:23Z",
-   "pushed_at": "2020-09-20T10:23:21Z",
+   "updated_at": "2020-11-26T17:54:00Z",
+   "pushed_at": "2020-11-26T17:53:55Z",
    "git_url": "git://github.com/stockbal/abap-tags-backend.git",
    "ssh_url": "git@github.com:stockbal/abap-tags-backend.git",
    "clone_url": "https://github.com/stockbal/abap-tags-backend.git",
    "svn_url": "https://github.com/stockbal/abap-tags-backend",
    "homepage": null,
-   "size": 81,
+   "size": 85,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -21246,7 +21362,7 @@
    "releases_url": "https://api.github.com/repos/ysichov/Simple-Data-Explorer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/Simple-Data-Explorer/deployments",
    "created_at": "2020-02-09T22:46:51Z",
-   "updated_at": "2020-11-15T19:33:16Z",
+   "updated_at": "2020-11-26T13:49:57Z",
    "pushed_at": "2020-11-11T13:12:00Z",
    "git_url": "git://github.com/ysichov/Simple-Data-Explorer.git",
    "ssh_url": "git@github.com:ysichov/Simple-Data-Explorer.git",
@@ -21254,8 +21370,8 @@
    "svn_url": "https://github.com/ysichov/Simple-Data-Explorer",
    "homepage": null,
    "size": 677,
-   "stargazers_count": 20,
-   "watchers_count": 20,
+   "stargazers_count": 21,
+   "watchers_count": 21,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -21276,7 +21392,7 @@
    },
    "forks": 9,
    "open_issues": 0,
-   "watchers": 20,
+   "watchers": 21,
    "default_branch": "master",
    "permissions": {
     "admin": false,
