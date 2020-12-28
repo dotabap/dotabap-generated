@@ -488,7 +488,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 4,
    "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -497,7 +497,7 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "forks": 0,
-   "open_issues": 0,
+   "open_issues": 4,
    "watchers": 0,
    "default_branch": "master",
    "permissions": {
@@ -5085,8 +5085,8 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2020-12-26T10:36:48Z",
-   "pushed_at": "2020-12-26T19:19:06Z",
+   "updated_at": "2020-12-27T17:01:05Z",
+   "pushed_at": "2020-12-27T17:03:48Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
@@ -5105,7 +5105,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 200,
+   "open_issues_count": 199,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5114,7 +5114,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 355,
-   "open_issues": 200,
+   "open_issues": 199,
    "watchers": 788,
    "default_branch": "master",
    "permissions": {
@@ -9472,7 +9472,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 3,
+   "open_issues_count": 2,
    "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -9481,7 +9481,7 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "forks": 38,
-   "open_issues": 3,
+   "open_issues": 2,
    "watchers": 68,
    "default_branch": "master",
    "permissions": {
@@ -15264,11 +15264,11 @@
   }
  },
  "openTCT/zotct_utils": {
-  "lines": 482,
+  "lines": 1092,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.63.2",
-   "cloud": 2
+   "cloud": 4
   },
   "repo": {
    "id": 312115267,
@@ -15337,14 +15337,14 @@
    "releases_url": "https://api.github.com/repos/openTCT/zotct_utils/releases{/id}",
    "deployments_url": "https://api.github.com/repos/openTCT/zotct_utils/deployments",
    "created_at": "2020-11-11T23:26:07Z",
-   "updated_at": "2020-11-20T12:08:28Z",
-   "pushed_at": "2020-11-20T12:08:26Z",
+   "updated_at": "2020-12-28T06:53:53Z",
+   "pushed_at": "2020-12-28T06:53:51Z",
    "git_url": "git://github.com/openTCT/zotct_utils.git",
    "ssh_url": "git@github.com:openTCT/zotct_utils.git",
    "clone_url": "https://github.com/openTCT/zotct_utils.git",
    "svn_url": "https://github.com/openTCT/zotct_utils",
    "homepage": null,
-   "size": 19,
+   "size": 37,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
