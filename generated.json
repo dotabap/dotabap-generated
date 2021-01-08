@@ -352,7 +352,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 18,
+   "open_issues_count": 19,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -361,7 +361,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 64,
-   "open_issues": 18,
+   "open_issues": 19,
    "watchers": 190,
    "default_branch": "master",
    "permissions": {
@@ -1221,7 +1221,7 @@
   }
  },
  "Goala/abap-metrics-provider": {
-  "lines": 1373,
+  "lines": 1397,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.63.9",
@@ -1294,14 +1294,14 @@
    "releases_url": "https://api.github.com/repos/Goala/abap-metrics-provider/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Goala/abap-metrics-provider/deployments",
    "created_at": "2020-02-29T19:14:24Z",
-   "updated_at": "2021-01-07T08:07:48Z",
-   "pushed_at": "2021-01-07T08:07:46Z",
+   "updated_at": "2021-01-08T07:15:28Z",
+   "pushed_at": "2021-01-08T07:15:26Z",
    "git_url": "git://github.com/Goala/abap-metrics-provider.git",
    "ssh_url": "git@github.com:Goala/abap-metrics-provider.git",
    "clone_url": "https://github.com/Goala/abap-metrics-provider.git",
    "svn_url": "https://github.com/Goala/abap-metrics-provider",
    "homepage": "",
-   "size": 241,
+   "size": 262,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -1314,7 +1314,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 15,
+   "open_issues_count": 11,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1323,7 +1323,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 1,
-   "open_issues": 15,
+   "open_issues": 11,
    "watchers": 5,
    "default_branch": "main",
    "permissions": {
@@ -3878,13 +3878,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
    "updated_at": "2020-12-29T17:44:18Z",
-   "pushed_at": "2021-01-06T20:05:34Z",
+   "pushed_at": "2021-01-07T16:21:32Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 2524,
+   "size": 2547,
    "stargazers_count": 106,
    "watchers_count": 106,
    "language": "ABAP",
@@ -5244,7 +5244,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 119648,
+  "lines": 119651,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.63.9",
@@ -5317,14 +5317,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-01-07T05:59:19Z",
-   "pushed_at": "2021-01-06T16:18:32Z",
+   "updated_at": "2021-01-07T17:14:31Z",
+   "pushed_at": "2021-01-07T23:00:36Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 16930,
+   "size": 16965,
    "stargazers_count": 796,
    "watchers_count": 796,
    "language": "ABAP",
@@ -5337,7 +5337,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 185,
+   "open_issues_count": 186,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5346,7 +5346,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 357,
-   "open_issues": 185,
+   "open_issues": 186,
    "watchers": 796,
    "default_branch": "master",
    "permissions": {
@@ -7886,7 +7886,7 @@
    },
    "temp_clone_token": "",
    "network_count": 30,
-   "subscribers_count": 22
+   "subscribers_count": 23
   }
  },
  "cesar-sap/abap_geocoder_ces": {
@@ -10162,7 +10162,7 @@
    "releases_url": "https://api.github.com/repos/germanysources/regression_test/releases{/id}",
    "deployments_url": "https://api.github.com/repos/germanysources/regression_test/deployments",
    "created_at": "2019-10-30T11:36:57Z",
-   "updated_at": "2021-01-05T11:38:31Z",
+   "updated_at": "2021-01-07T20:46:37Z",
    "pushed_at": "2020-12-29T10:00:04Z",
    "git_url": "git://github.com/germanysources/regression_test.git",
    "ssh_url": "git@github.com:germanysources/regression_test.git",
@@ -10170,8 +10170,8 @@
    "svn_url": "https://github.com/germanysources/regression_test",
    "homepage": "",
    "size": 398,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -10192,7 +10192,7 @@
    },
    "forks": 1,
    "open_issues": 1,
-   "watchers": 2,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -12381,7 +12381,7 @@
   }
  },
  "keremkoseoglu/addict": {
-  "lines": 8459,
+  "lines": 8497,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.63.9",
@@ -12454,14 +12454,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/addict/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/addict/deployments",
    "created_at": "2020-10-16T13:44:38Z",
-   "updated_at": "2021-01-01T14:07:05Z",
-   "pushed_at": "2021-01-01T14:07:03Z",
+   "updated_at": "2021-01-07T14:50:56Z",
+   "pushed_at": "2021-01-07T14:50:53Z",
    "git_url": "git://github.com/keremkoseoglu/addict.git",
    "ssh_url": "git@github.com:keremkoseoglu/addict.git",
    "clone_url": "https://github.com/keremkoseoglu/addict.git",
    "svn_url": "https://github.com/keremkoseoglu/addict",
    "homepage": null,
-   "size": 319,
+   "size": 336,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -15051,7 +15051,7 @@
   }
  },
  "nomssi/abap_scheme": {
-  "lines": 24612,
+  "lines": 24756,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -15066,7 +15066,7 @@
   ],
   "parsing": {
    "version": "2.63.9",
-   "cloud": 1527
+   "cloud": 1524
   },
   "repo": {
    "id": 109576420,
@@ -15135,14 +15135,14 @@
    "releases_url": "https://api.github.com/repos/nomssi/abap_scheme/releases{/id}",
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
-   "updated_at": "2021-01-06T16:49:28Z",
-   "pushed_at": "2021-01-06T16:49:25Z",
+   "updated_at": "2021-01-08T03:52:49Z",
+   "pushed_at": "2021-01-08T03:52:46Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": "",
-   "size": 5393,
+   "size": 5663,
    "stargazers_count": 11,
    "watchers_count": 11,
    "language": "ABAP",
@@ -18554,7 +18554,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -18566,7 +18566,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 5,
+   "forks": 6,
    "open_issues": 9,
    "watchers": 11,
    "default_branch": "master",
@@ -18576,7 +18576,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 2
   }
  },
@@ -22263,7 +22263,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 9,
+   "forks_count": 10,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -22275,7 +22275,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 9,
+   "forks": 10,
    "open_issues": 0,
    "watchers": 22,
    "default_branch": "master",
@@ -22285,7 +22285,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 9,
+   "network_count": 10,
    "subscribers_count": 1
   }
  }
