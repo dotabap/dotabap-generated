@@ -1221,11 +1221,11 @@
   }
  },
  "Goala/abap-metrics-provider": {
-  "lines": 1397,
+  "lines": 1449,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.63.9",
-   "cloud": 12
+   "cloud": 14
   },
   "repo": {
    "id": 244026943,
@@ -1294,14 +1294,14 @@
    "releases_url": "https://api.github.com/repos/Goala/abap-metrics-provider/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Goala/abap-metrics-provider/deployments",
    "created_at": "2020-02-29T19:14:24Z",
-   "updated_at": "2021-01-08T07:15:28Z",
-   "pushed_at": "2021-01-08T07:15:26Z",
+   "updated_at": "2021-01-08T16:43:55Z",
+   "pushed_at": "2021-01-08T16:43:52Z",
    "git_url": "git://github.com/Goala/abap-metrics-provider.git",
    "ssh_url": "git@github.com:Goala/abap-metrics-provider.git",
    "clone_url": "https://github.com/Goala/abap-metrics-provider.git",
    "svn_url": "https://github.com/Goala/abap-metrics-provider",
    "homepage": "",
-   "size": 262,
+   "size": 302,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -1310,11 +1310,11 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 11,
+   "open_issues_count": 14,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1322,8 +1322,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
-   "open_issues": 11,
+   "forks": 2,
+   "open_issues": 14,
    "watchers": 5,
    "default_branch": "main",
    "permissions": {
@@ -1332,7 +1332,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 2
   }
  },
@@ -3897,7 +3897,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 24,
+   "open_issues_count": 25,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -3906,7 +3906,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 16,
-   "open_issues": 24,
+   "open_issues": 25,
    "watchers": 106,
    "default_branch": "master",
    "permissions": {
@@ -4701,7 +4701,7 @@
    "releases_url": "https://api.github.com/repos/Sumu-Ning/AES/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Sumu-Ning/AES/deployments",
    "created_at": "2015-07-01T18:10:38Z",
-   "updated_at": "2020-12-11T13:43:28Z",
+   "updated_at": "2021-01-08T15:17:14Z",
    "pushed_at": "2020-09-26T16:31:18Z",
    "git_url": "git://github.com/Sumu-Ning/AES.git",
    "ssh_url": "git@github.com:Sumu-Ning/AES.git",
@@ -4709,8 +4709,8 @@
    "svn_url": "https://github.com/Sumu-Ning/AES",
    "homepage": "",
    "size": 87,
-   "stargazers_count": 44,
-   "watchers_count": 44,
+   "stargazers_count": 45,
+   "watchers_count": 45,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4731,7 +4731,7 @@
    },
    "forks": 18,
    "open_issues": 5,
-   "watchers": 44,
+   "watchers": 45,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5244,7 +5244,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 119651,
+  "lines": 120831,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.63.9",
@@ -5317,14 +5317,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-01-07T17:14:31Z",
-   "pushed_at": "2021-01-07T23:00:36Z",
+   "updated_at": "2021-01-08T12:09:41Z",
+   "pushed_at": "2021-01-08T13:40:23Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 16965,
+   "size": 16939,
    "stargazers_count": 796,
    "watchers_count": 796,
    "language": "ABAP",
@@ -5333,11 +5333,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 357,
+   "forks_count": 359,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 186,
+   "open_issues_count": 182,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5345,8 +5345,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 357,
-   "open_issues": 186,
+   "forks": 359,
+   "open_issues": 182,
    "watchers": 796,
    "default_branch": "master",
    "permissions": {
@@ -5375,7 +5375,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 357,
+   "network_count": 359,
    "subscribers_count": 116
   }
  },
@@ -15051,7 +15051,7 @@
   }
  },
  "nomssi/abap_scheme": {
-  "lines": 24756,
+  "lines": 24787,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -15135,14 +15135,14 @@
    "releases_url": "https://api.github.com/repos/nomssi/abap_scheme/releases{/id}",
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
-   "updated_at": "2021-01-08T03:52:49Z",
-   "pushed_at": "2021-01-08T03:52:46Z",
+   "updated_at": "2021-01-08T14:51:04Z",
+   "pushed_at": "2021-01-08T14:51:01Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": "",
-   "size": 5663,
+   "size": 5771,
    "stargazers_count": 11,
    "watchers_count": 11,
    "language": "ABAP",
@@ -15612,11 +15612,11 @@
   }
  },
  "openTCT/zotct_utils": {
-  "lines": 1041,
+  "lines": 1050,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.63.9",
-   "cloud": 4
+   "cloud": 5
   },
   "repo": {
    "id": 312115267,
@@ -15685,14 +15685,14 @@
    "releases_url": "https://api.github.com/repos/openTCT/zotct_utils/releases{/id}",
    "deployments_url": "https://api.github.com/repos/openTCT/zotct_utils/deployments",
    "created_at": "2020-11-11T23:26:07Z",
-   "updated_at": "2021-01-06T20:57:02Z",
-   "pushed_at": "2021-01-06T20:57:00Z",
+   "updated_at": "2021-01-08T16:14:24Z",
+   "pushed_at": "2021-01-08T16:14:22Z",
    "git_url": "git://github.com/openTCT/zotct_utils.git",
    "ssh_url": "git@github.com:openTCT/zotct_utils.git",
    "clone_url": "https://github.com/openTCT/zotct_utils.git",
    "svn_url": "https://github.com/openTCT/zotct_utils",
    "homepage": null,
-   "size": 41,
+   "size": 49,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -18539,7 +18539,7 @@
    "deployments_url": "https://api.github.com/repos/sbcgua/ajson/deployments",
    "created_at": "2020-05-16T07:00:27Z",
    "updated_at": "2021-01-04T19:10:27Z",
-   "pushed_at": "2021-01-04T19:10:24Z",
+   "pushed_at": "2021-01-08T12:41:52Z",
    "git_url": "git://github.com/sbcgua/ajson.git",
    "ssh_url": "git@github.com:sbcgua/ajson.git",
    "clone_url": "https://github.com/sbcgua/ajson.git",
@@ -18558,7 +18558,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 9,
+   "open_issues_count": 10,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -18567,7 +18567,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 6,
-   "open_issues": 9,
+   "open_issues": 10,
    "watchers": 11,
    "default_branch": "master",
    "permissions": {
