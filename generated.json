@@ -1221,7 +1221,7 @@
   }
  },
  "Goala/abap-metrics-provider": {
-  "lines": 1537,
+  "lines": 1538,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.63.16",
@@ -1294,14 +1294,14 @@
    "releases_url": "https://api.github.com/repos/Goala/abap-metrics-provider/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Goala/abap-metrics-provider/deployments",
    "created_at": "2020-02-29T19:14:24Z",
-   "updated_at": "2021-01-15T18:57:46Z",
-   "pushed_at": "2021-01-15T18:00:24Z",
+   "updated_at": "2021-01-16T20:09:40Z",
+   "pushed_at": "2021-01-16T20:09:37Z",
    "git_url": "git://github.com/Goala/abap-metrics-provider.git",
    "ssh_url": "git@github.com:Goala/abap-metrics-provider.git",
    "clone_url": "https://github.com/Goala/abap-metrics-provider.git",
    "svn_url": "https://github.com/Goala/abap-metrics-provider",
    "homepage": "",
-   "size": 327,
+   "size": 343,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
@@ -1314,7 +1314,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 28,
+   "open_issues_count": 25,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -1323,7 +1323,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 28,
+   "open_issues": 25,
    "watchers": 8,
    "default_branch": "main",
    "permissions": {
@@ -5244,7 +5244,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 121319,
+  "lines": 121397,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.63.16",
@@ -5317,14 +5317,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-01-16T08:36:48Z",
-   "pushed_at": "2021-01-15T19:57:09Z",
+   "updated_at": "2021-01-17T08:28:58Z",
+   "pushed_at": "2021-01-17T08:28:55Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 17023,
+   "size": 16905,
    "stargazers_count": 799,
    "watchers_count": 799,
    "language": "ABAP",
@@ -5337,7 +5337,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 180,
+   "open_issues_count": 179,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5346,7 +5346,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 358,
-   "open_issues": 180,
+   "open_issues": 179,
    "watchers": 799,
    "default_branch": "master",
    "permissions": {
@@ -15748,7 +15748,7 @@
   }
  },
  "openTCT/zotct_utils": {
-  "lines": 1061,
+  "lines": 1088,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.63.16",
@@ -15821,14 +15821,14 @@
    "releases_url": "https://api.github.com/repos/openTCT/zotct_utils/releases{/id}",
    "deployments_url": "https://api.github.com/repos/openTCT/zotct_utils/deployments",
    "created_at": "2020-11-11T23:26:07Z",
-   "updated_at": "2021-01-10T23:31:25Z",
-   "pushed_at": "2021-01-10T23:31:22Z",
+   "updated_at": "2021-01-17T02:30:21Z",
+   "pushed_at": "2021-01-17T02:30:19Z",
    "git_url": "git://github.com/openTCT/zotct_utils.git",
    "ssh_url": "git@github.com:openTCT/zotct_utils.git",
    "clone_url": "https://github.com/openTCT/zotct_utils.git",
    "svn_url": "https://github.com/openTCT/zotct_utils",
    "homepage": null,
-   "size": 52,
+   "size": 58,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -17928,7 +17928,7 @@
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2021-01-09T11:07:13Z",
-   "pushed_at": "2021-01-09T17:00:36Z",
+   "pushed_at": "2021-01-16T14:38:46Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
@@ -21783,7 +21783,7 @@
    "clone_url": "https://github.com/victorizbitskiy/zconcurrency_api.git",
    "svn_url": "https://github.com/victorizbitskiy/zconcurrency_api",
    "homepage": null,
-   "size": 422,
+   "size": 426,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
