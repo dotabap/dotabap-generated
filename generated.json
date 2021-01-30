@@ -4065,7 +4065,7 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2021-01-19T15:12:55Z",
+   "updated_at": "2021-01-30T06:50:15Z",
    "pushed_at": "2021-01-19T15:12:52Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
@@ -4073,8 +4073,8 @@
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
    "size": 4517,
-   "stargazers_count": 28,
-   "watchers_count": 28,
+   "stargazers_count": 29,
+   "watchers_count": 29,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4085,7 +4085,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 49,
+   "open_issues_count": 50,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4094,8 +4094,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 8,
-   "open_issues": 49,
-   "watchers": 28,
+   "open_issues": 50,
+   "watchers": 29,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4469,7 +4469,7 @@
    "releases_url": "https://api.github.com/repos/Sumu-Ning/AES/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Sumu-Ning/AES/deployments",
    "created_at": "2015-07-01T18:10:38Z",
-   "updated_at": "2021-01-19T18:24:41Z",
+   "updated_at": "2021-01-29T09:46:21Z",
    "pushed_at": "2020-09-26T16:31:18Z",
    "git_url": "git://github.com/Sumu-Ning/AES.git",
    "ssh_url": "git@github.com:Sumu-Ning/AES.git",
@@ -4477,8 +4477,8 @@
    "svn_url": "https://github.com/Sumu-Ning/AES",
    "homepage": "",
    "size": 87,
-   "stargazers_count": 46,
-   "watchers_count": 46,
+   "stargazers_count": 47,
+   "watchers_count": 47,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4499,7 +4499,7 @@
    },
    "forks": 19,
    "open_issues": 5,
-   "watchers": 46,
+   "watchers": 47,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4771,7 +4771,7 @@
   }
  },
  "abap-observability-tools/abap-metrics-provider": {
-  "lines": 1815,
+  "lines": 1951,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.66.0",
@@ -4844,14 +4844,14 @@
    "releases_url": "https://api.github.com/repos/abap-observability-tools/abap-metrics-provider/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-observability-tools/abap-metrics-provider/deployments",
    "created_at": "2020-02-29T19:14:24Z",
-   "updated_at": "2021-01-28T11:38:20Z",
-   "pushed_at": "2021-01-28T11:38:17Z",
+   "updated_at": "2021-01-29T20:22:38Z",
+   "pushed_at": "2021-01-29T20:22:36Z",
    "git_url": "git://github.com/abap-observability-tools/abap-metrics-provider.git",
    "ssh_url": "git@github.com:abap-observability-tools/abap-metrics-provider.git",
    "clone_url": "https://github.com/abap-observability-tools/abap-metrics-provider.git",
    "svn_url": "https://github.com/abap-observability-tools/abap-metrics-provider",
    "homepage": "",
-   "size": 336,
+   "size": 352,
    "stargazers_count": 9,
    "watchers_count": 9,
    "language": "ABAP",
@@ -4864,7 +4864,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 25,
+   "open_issues_count": 28,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4873,7 +4873,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 4,
-   "open_issues": 25,
+   "open_issues": 28,
    "watchers": 9,
    "default_branch": "main",
    "permissions": {
@@ -5373,11 +5373,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 362,
+   "forks_count": 361,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 186,
+   "open_issues_count": 187,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5385,8 +5385,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 362,
-   "open_issues": 186,
+   "forks": 361,
+   "open_issues": 187,
    "watchers": 811,
    "default_branch": "master",
    "permissions": {
@@ -5415,7 +5415,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 362,
+   "network_count": 361,
    "subscribers_count": 117
   }
  },
@@ -14102,7 +14102,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 51,
+   "forks_count": 50,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -14114,7 +14114,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 51,
+   "forks": 50,
    "open_issues": 292,
    "watchers": 148,
    "default_branch": "master",
@@ -14124,7 +14124,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 51,
+   "network_count": 50,
    "subscribers_count": 33
   }
  },
@@ -17590,7 +17590,7 @@
    "clone_url": "https://github.com/reyemsaibot/qtt.git",
    "svn_url": "https://github.com/reyemsaibot/qtt",
    "homepage": "",
-   "size": 329,
+   "size": 330,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -18083,7 +18083,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-01-22T04:02:37Z",
+   "updated_at": "2021-01-29T09:08:10Z",
    "pushed_at": "2021-01-29T07:04:05Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -18091,8 +18091,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 25095,
-   "stargazers_count": 336,
-   "watchers_count": 336,
+   "stargazers_count": 337,
+   "watchers_count": 337,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -18113,7 +18113,7 @@
    },
    "forks": 174,
    "open_issues": 125,
-   "watchers": 336,
+   "watchers": 337,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -18142,7 +18142,7 @@
     "site_admin": false
    },
    "network_count": 174,
-   "subscribers_count": 85
+   "subscribers_count": 84
   }
  },
  "sbcgua/abap-string-map": {
