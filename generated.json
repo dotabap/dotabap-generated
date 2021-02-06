@@ -2052,7 +2052,7 @@
    "releases_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2021-01-25T00:24:16Z",
+   "updated_at": "2021-02-05T11:13:28Z",
    "pushed_at": "2020-10-29T08:49:23Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
@@ -2060,8 +2060,8 @@
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
    "size": 18012,
-   "stargazers_count": 89,
-   "watchers_count": 89,
+   "stargazers_count": 90,
+   "watchers_count": 90,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2082,7 +2082,7 @@
    },
    "forks": 41,
    "open_issues": 10,
-   "watchers": 89,
+   "watchers": 90,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3646,13 +3646,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
    "updated_at": "2021-02-01T21:24:20Z",
-   "pushed_at": "2021-02-04T21:03:46Z",
+   "pushed_at": "2021-02-05T18:42:50Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 2610,
+   "size": 2574,
    "stargazers_count": 112,
    "watchers_count": 112,
    "language": "ABAP",
@@ -3981,7 +3981,7 @@
   }
  },
  "SAP2Moose/SAP2Moose": {
-  "lines": 23320,
+  "lines": 23215,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -4065,14 +4065,14 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2021-02-04T20:01:30Z",
-   "pushed_at": "2021-02-04T20:01:27Z",
+   "updated_at": "2021-02-05T12:34:07Z",
+   "pushed_at": "2021-02-05T12:34:04Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
    "clone_url": "https://github.com/SAP2Moose/SAP2Moose.git",
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
-   "size": 4570,
+   "size": 4602,
    "stargazers_count": 30,
    "watchers_count": 30,
    "language": "ABAP",
@@ -4844,14 +4844,14 @@
    "releases_url": "https://api.github.com/repos/abap-observability-tools/abap-metrics-provider/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-observability-tools/abap-metrics-provider/deployments",
    "created_at": "2020-02-29T19:14:24Z",
-   "updated_at": "2021-02-04T18:13:25Z",
-   "pushed_at": "2021-02-04T18:13:22Z",
+   "updated_at": "2021-02-05T23:20:44Z",
+   "pushed_at": "2021-02-06T08:14:52Z",
    "git_url": "git://github.com/abap-observability-tools/abap-metrics-provider.git",
    "ssh_url": "git@github.com:abap-observability-tools/abap-metrics-provider.git",
    "clone_url": "https://github.com/abap-observability-tools/abap-metrics-provider.git",
    "svn_url": "https://github.com/abap-observability-tools/abap-metrics-provider",
    "homepage": "",
-   "size": 387,
+   "size": 393,
    "stargazers_count": 13,
    "watchers_count": 13,
    "language": "ABAP",
@@ -4864,7 +4864,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 28,
+   "open_issues_count": 31,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4873,7 +4873,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 5,
-   "open_issues": 28,
+   "open_issues": 31,
    "watchers": 13,
    "default_branch": "main",
    "permissions": {
@@ -5357,16 +5357,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-02-05T06:18:42Z",
-   "pushed_at": "2021-02-05T06:56:08Z",
+   "updated_at": "2021-02-05T15:50:46Z",
+   "pushed_at": "2021-02-05T09:47:56Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 17490,
-   "stargazers_count": 811,
-   "watchers_count": 811,
+   "size": 17493,
+   "stargazers_count": 810,
+   "watchers_count": 810,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -5387,7 +5387,7 @@
    },
    "forks": 362,
    "open_issues": 191,
-   "watchers": 811,
+   "watchers": 810,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -10015,7 +10015,7 @@
    },
    "temp_clone_token": "",
    "network_count": 38,
-   "subscribers_count": 25
+   "subscribers_count": 24
   }
  },
  "flaiker/abap-log": {
@@ -15343,7 +15343,7 @@
   }
  },
  "nomssi/abap_scheme": {
-  "lines": 26405,
+  "lines": 26429,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -15358,7 +15358,7 @@
   ],
   "parsing": {
    "version": "2.66.3",
-   "cloud": 1546
+   "cloud": 1521
   },
   "repo": {
    "id": 109576420,
@@ -15427,14 +15427,14 @@
    "releases_url": "https://api.github.com/repos/nomssi/abap_scheme/releases{/id}",
    "deployments_url": "https://api.github.com/repos/nomssi/abap_scheme/deployments",
    "created_at": "2017-11-05T12:12:27Z",
-   "updated_at": "2021-02-04T13:30:05Z",
-   "pushed_at": "2021-02-04T13:30:02Z",
+   "updated_at": "2021-02-05T19:13:04Z",
+   "pushed_at": "2021-02-05T19:13:01Z",
    "git_url": "git://github.com/nomssi/abap_scheme.git",
    "ssh_url": "git@github.com:nomssi/abap_scheme.git",
    "clone_url": "https://github.com/nomssi/abap_scheme.git",
    "svn_url": "https://github.com/nomssi/abap_scheme",
    "homepage": "",
-   "size": 7182,
+   "size": 7299,
    "stargazers_count": 11,
    "watchers_count": 11,
    "language": "ABAP",
@@ -18142,7 +18142,7 @@
     "site_admin": false
    },
    "network_count": 175,
-   "subscribers_count": 84
+   "subscribers_count": 83
   }
  },
  "sbcgua/abap-string-map": {
@@ -20021,7 +20021,7 @@
    "releases_url": "https://api.github.com/repos/striezl/VariScan/releases{/id}",
    "deployments_url": "https://api.github.com/repos/striezl/VariScan/deployments",
    "created_at": "2020-12-17T11:34:42Z",
-   "updated_at": "2021-02-02T11:24:26Z",
+   "updated_at": "2021-02-05T17:00:24Z",
    "pushed_at": "2021-02-02T11:24:24Z",
    "git_url": "git://github.com/striezl/VariScan.git",
    "ssh_url": "git@github.com:striezl/VariScan.git",
@@ -20029,8 +20029,8 @@
    "svn_url": "https://github.com/striezl/VariScan",
    "homepage": "",
    "size": 165,
-   "stargazers_count": 6,
-   "watchers_count": 6,
+   "stargazers_count": 7,
+   "watchers_count": 7,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -20041,7 +20041,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -20050,8 +20050,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 1,
-   "open_issues": 0,
-   "watchers": 6,
+   "open_issues": 1,
+   "watchers": 7,
    "default_branch": "main",
    "permissions": {
     "admin": false,
