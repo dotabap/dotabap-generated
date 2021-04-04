@@ -8016,7 +8016,7 @@
    "releases_url": "https://api.github.com/repos/bizhuka/xtt/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/xtt/deployments",
    "created_at": "2018-02-08T06:31:13Z",
-   "updated_at": "2021-02-25T03:41:49Z",
+   "updated_at": "2021-04-03T12:54:50Z",
    "pushed_at": "2021-02-25T03:41:46Z",
    "git_url": "git://github.com/bizhuka/xtt.git",
    "ssh_url": "git@github.com:bizhuka/xtt.git",
@@ -8024,15 +8024,15 @@
    "svn_url": "https://github.com/bizhuka/xtt",
    "homepage": "https://bizhuka.github.io/xtt/",
    "size": 2081,
-   "stargazers_count": 14,
-   "watchers_count": 14,
+   "stargazers_count": 16,
+   "watchers_count": 16,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8044,9 +8044,9 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
    },
-   "forks": 5,
+   "forks": 6,
    "open_issues": 1,
-   "watchers": 14,
+   "watchers": 16,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -8054,7 +8054,7 @@
     "pull": true
    },
    "temp_clone_token": "",
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 8
   }
  },
@@ -20173,7 +20173,7 @@
    "deployments_url": "https://api.github.com/repos/stockbal/abap-db-browser/deployments",
    "created_at": "2019-11-19T20:22:00Z",
    "updated_at": "2021-03-31T19:26:13Z",
-   "pushed_at": "2021-03-30T16:27:25Z",
+   "pushed_at": "2021-04-03T17:51:28Z",
    "git_url": "git://github.com/stockbal/abap-db-browser.git",
    "ssh_url": "git@github.com:stockbal/abap-db-browser.git",
    "clone_url": "https://github.com/stockbal/abap-db-browser.git",
@@ -20192,7 +20192,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -20201,7 +20201,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 2,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 6,
    "default_branch": "main",
    "permissions": {
@@ -20540,7 +20540,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -20549,7 +20549,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 1,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 8,
    "default_branch": "main",
    "permissions": {
