@@ -108,7 +108,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -224,7 +224,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -285,7 +285,7 @@
     "site_admin": false
    },
    "html_url": "https://github.com/71tech/ODIN",
-   "description": "ODIN (Open Document Interface) is a flexible, extensible, easy to use, multi-purpose import interface for SAP FI documents.",
+   "description": "ODIN (Open Document Interface) is a flexible, extensible, easy to use import interface for SAP FI documents.",
    "fork": false,
    "url": "https://api.github.com/repos/71tech/ODIN",
    "forks_url": "https://api.github.com/repos/71tech/ODIN/forks",
@@ -325,7 +325,7 @@
    "releases_url": "https://api.github.com/repos/71tech/ODIN/releases{/id}",
    "deployments_url": "https://api.github.com/repos/71tech/ODIN/deployments",
    "created_at": "2021-04-12T19:45:32Z",
-   "updated_at": "2021-04-19T07:29:47Z",
+   "updated_at": "2021-04-19T11:02:20Z",
    "pushed_at": "2021-04-15T10:22:55Z",
    "git_url": "git://github.com/71tech/ODIN.git",
    "ssh_url": "git@github.com:71tech/ODIN.git",
@@ -333,8 +333,8 @@
    "svn_url": "https://github.com/71tech/ODIN",
    "homepage": "",
    "size": 440,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -355,12 +355,12 @@
    },
    "forks": 0,
    "open_issues": 0,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "main",
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -504,7 +504,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -640,7 +640,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -756,7 +756,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -872,7 +872,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -995,7 +995,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -1118,7 +1118,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -1234,7 +1234,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -1350,7 +1350,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 6,
@@ -1473,7 +1473,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -1616,7 +1616,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -1739,7 +1739,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -1862,7 +1862,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -1985,7 +1985,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -2108,7 +2108,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 5,
@@ -2224,7 +2224,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -2340,7 +2340,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -2476,7 +2476,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -2612,7 +2612,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -2728,7 +2728,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -2844,7 +2844,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -2960,7 +2960,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 4,
@@ -3078,7 +3078,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -3215,7 +3215,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -3352,7 +3352,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -3490,7 +3490,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -3628,7 +3628,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -3764,7 +3764,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -3907,7 +3907,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -4028,7 +4028,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 27,
+   "open_issues_count": 28,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -4037,13 +4037,13 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 21,
-   "open_issues": 27,
+   "open_issues": 28,
    "watchers": 131,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -4179,7 +4179,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -4316,7 +4316,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -4463,7 +4463,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -4606,7 +4606,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -4742,7 +4742,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -4867,7 +4867,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 19,
@@ -4990,7 +4990,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -5106,7 +5106,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -5242,7 +5242,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -5378,7 +5378,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -5514,7 +5514,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -5650,7 +5650,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -5766,7 +5766,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -5891,7 +5891,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -6008,7 +6008,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 382,
+   "forks_count": 381,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -6020,14 +6020,14 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 382,
+   "forks": 381,
    "open_issues": 191,
    "watchers": 852,
    "default_branch": "main",
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -6050,7 +6050,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 382,
+   "network_count": 381,
    "subscribers_count": 116
   }
  },
@@ -6171,7 +6171,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -6307,7 +6307,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -6451,7 +6451,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -6587,7 +6587,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -6732,7 +6732,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 4,
@@ -6848,7 +6848,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -6984,7 +6984,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -7100,7 +7100,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -7225,7 +7225,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 4,
@@ -7341,7 +7341,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -7484,7 +7484,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -7600,7 +7600,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -7716,7 +7716,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -7839,7 +7839,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 4,
@@ -7847,7 +7847,7 @@
   }
  },
  "bizhuka/aqo": {
-  "lines": 6543,
+  "lines": 6542,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.74.2",
@@ -7920,8 +7920,8 @@
    "releases_url": "https://api.github.com/repos/bizhuka/aqo/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/aqo/deployments",
    "created_at": "2018-03-14T04:02:03Z",
-   "updated_at": "2021-04-18T09:55:11Z",
-   "pushed_at": "2021-04-18T09:55:08Z",
+   "updated_at": "2021-04-19T12:36:21Z",
+   "pushed_at": "2021-04-19T12:36:19Z",
    "git_url": "git://github.com/bizhuka/aqo.git",
    "ssh_url": "git@github.com:bizhuka/aqo.git",
    "clone_url": "https://github.com/bizhuka/aqo.git",
@@ -7955,7 +7955,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 5,
@@ -7963,7 +7963,7 @@
   }
  },
  "bizhuka/eui": {
-  "lines": 11212,
+  "lines": 11226,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.74.2",
@@ -8036,14 +8036,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/eui/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/eui/deployments",
    "created_at": "2020-04-10T06:05:31Z",
-   "updated_at": "2021-04-18T09:54:48Z",
-   "pushed_at": "2021-04-18T09:54:46Z",
+   "updated_at": "2021-04-19T12:36:33Z",
+   "pushed_at": "2021-04-19T12:36:30Z",
    "git_url": "git://github.com/bizhuka/eui.git",
    "ssh_url": "git@github.com:bizhuka/eui.git",
    "clone_url": "https://github.com/bizhuka/eui.git",
    "svn_url": "https://github.com/bizhuka/eui",
    "homepage": "https://bizhuka.github.io/eui/",
-   "size": 675,
+   "size": 684,
    "stargazers_count": 21,
    "watchers_count": 21,
    "language": "ABAP",
@@ -8071,7 +8071,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -8187,7 +8187,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 6,
@@ -8303,7 +8303,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -8426,7 +8426,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -8562,7 +8562,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -8685,7 +8685,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -8809,7 +8809,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 29,
@@ -8932,7 +8932,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -9055,7 +9055,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -9184,7 +9184,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -9307,7 +9307,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -9423,7 +9423,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -9539,7 +9539,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -9655,7 +9655,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -9778,7 +9778,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 7,
@@ -9894,7 +9894,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -10017,7 +10017,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 9,
@@ -10140,7 +10140,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -10256,7 +10256,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -10379,7 +10379,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 15,
@@ -10510,7 +10510,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 36,
@@ -10626,7 +10626,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 12,
@@ -10749,7 +10749,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -10872,7 +10872,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -10988,7 +10988,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -11111,7 +11111,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -11234,7 +11234,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -11358,7 +11358,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -11481,7 +11481,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -11604,7 +11604,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -11720,7 +11720,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 14,
@@ -11836,7 +11836,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 5,
@@ -11952,7 +11952,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 11,
@@ -12068,7 +12068,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -12184,7 +12184,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -12300,7 +12300,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -12423,7 +12423,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -12539,7 +12539,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -12682,7 +12682,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 4,
@@ -12805,7 +12805,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -12932,7 +12932,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 13,
@@ -13048,7 +13048,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -13164,7 +13164,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 5,
@@ -13280,7 +13280,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -13396,7 +13396,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -13512,7 +13512,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -13635,7 +13635,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 12,
@@ -13758,7 +13758,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 7,
@@ -13882,7 +13882,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 28,
@@ -14005,7 +14005,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -14128,7 +14128,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 5,
@@ -14244,7 +14244,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -14367,7 +14367,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -14491,7 +14491,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 17,
@@ -14612,7 +14612,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -14736,7 +14736,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 50,
@@ -14860,7 +14860,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 4,
@@ -14980,7 +14980,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -15104,7 +15104,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -15227,7 +15227,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -15349,7 +15349,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 9,
@@ -15472,7 +15472,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -15595,7 +15595,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -15711,7 +15711,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -15834,7 +15834,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -15950,7 +15950,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 4,
@@ -16077,7 +16077,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 4,
@@ -16204,7 +16204,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -16348,7 +16348,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -16491,7 +16491,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -16627,7 +16627,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -16763,7 +16763,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -16906,7 +16906,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -17029,7 +17029,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -17152,7 +17152,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 6,
@@ -17268,7 +17268,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -17393,7 +17393,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 8,
@@ -17516,7 +17516,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -17640,7 +17640,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -17756,7 +17756,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -17880,7 +17880,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -18003,7 +18003,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -18129,7 +18129,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -18253,7 +18253,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -18369,7 +18369,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -18492,7 +18492,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -18608,7 +18608,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -18724,7 +18724,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -18752,7 +18752,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 46460,
+  "lines": 46459,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -18834,14 +18834,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-04-13T00:20:15Z",
-   "pushed_at": "2021-04-15T23:30:12Z",
+   "updated_at": "2021-04-19T11:14:45Z",
+   "pushed_at": "2021-04-19T11:14:42Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 25086,
+   "size": 25144,
    "stargazers_count": 352,
    "watchers_count": 352,
    "language": "ABAP",
@@ -18854,7 +18854,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 140,
+   "open_issues_count": 138,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -18863,13 +18863,13 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 181,
-   "open_issues": 140,
+   "open_issues": 138,
    "watchers": 352,
    "default_branch": "master",
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -19005,7 +19005,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -19129,7 +19129,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -19254,7 +19254,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -19377,7 +19377,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 4,
@@ -19500,7 +19500,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 4,
@@ -19616,7 +19616,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 5,
@@ -19732,7 +19732,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 11,
@@ -19848,7 +19848,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 6,
@@ -19964,7 +19964,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -20087,7 +20087,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -20211,7 +20211,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 6,
@@ -20335,7 +20335,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 15,
@@ -20459,7 +20459,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -20575,7 +20575,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -20691,7 +20691,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -20807,7 +20807,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -20930,7 +20930,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -21046,7 +21046,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -21169,7 +21169,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -21292,7 +21292,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -21415,7 +21415,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -21538,7 +21538,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -21661,7 +21661,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -21784,7 +21784,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -21900,7 +21900,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -22023,7 +22023,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -22159,7 +22159,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -22303,7 +22303,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -22446,7 +22446,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -22610,7 +22610,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 5,
@@ -22726,7 +22726,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -22842,7 +22842,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 2,
@@ -22958,7 +22958,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "organization": {
@@ -23094,7 +23094,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -23210,7 +23210,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 1,
@@ -23333,7 +23333,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 3,
@@ -23449,7 +23449,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 0,
@@ -23565,7 +23565,7 @@
    "permissions": {
     "admin": false,
     "push": false,
-    "pull": true
+    "pull": false
    },
    "temp_clone_token": "",
    "network_count": 13,
