@@ -5919,11 +5919,11 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 125875,
+  "lines": 126312,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.74.13",
-   "cloud": 173
+   "cloud": 175
   },
   "repo": {
    "id": 21115149,
@@ -5992,16 +5992,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-05-09T07:16:30Z",
-   "pushed_at": "2021-05-09T07:23:35Z",
+   "updated_at": "2021-05-09T18:58:34Z",
+   "pushed_at": "2021-05-09T08:58:45Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://docs.abapgit.org",
-   "size": 18212,
-   "stargazers_count": 860,
-   "watchers_count": 860,
+   "size": 18241,
+   "stargazers_count": 861,
+   "watchers_count": 861,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6012,7 +6012,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 195,
+   "open_issues_count": 188,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6021,8 +6021,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 386,
-   "open_issues": 195,
-   "watchers": 860,
+   "open_issues": 188,
+   "watchers": 861,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -6051,7 +6051,7 @@
     "site_admin": false
    },
    "network_count": 386,
-   "subscribers_count": 117
+   "subscribers_count": 118
   }
  },
  "abapGit/background_modes": {
@@ -18834,7 +18834,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-04-29T06:07:31Z",
+   "updated_at": "2021-05-09T19:00:28Z",
    "pushed_at": "2021-04-20T23:49:50Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -18842,8 +18842,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 25144,
-   "stargazers_count": 357,
-   "watchers_count": 357,
+   "stargazers_count": 358,
+   "watchers_count": 358,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -18864,7 +18864,7 @@
    },
    "forks": 182,
    "open_issues": 138,
-   "watchers": 357,
+   "watchers": 358,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -20425,7 +20425,7 @@
    "deployments_url": "https://api.github.com/repos/stockbal/abap-db-browser/deployments",
    "created_at": "2019-11-19T20:22:00Z",
    "updated_at": "2021-05-08T16:46:38Z",
-   "pushed_at": "2021-05-08T16:46:36Z",
+   "pushed_at": "2021-05-09T13:41:06Z",
    "git_url": "git://github.com/stockbal/abap-db-browser.git",
    "ssh_url": "git@github.com:stockbal/abap-db-browser.git",
    "clone_url": "https://github.com/stockbal/abap-db-browser.git",
@@ -23457,11 +23457,11 @@
   }
  },
  "ysichov/Simple-Data-Explorer": {
-  "lines": 22019,
+  "lines": 22106,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.74.13",
-   "cloud": 115
+   "cloud": 114
   },
   "repo": {
    "id": 239386136,
@@ -23530,14 +23530,14 @@
    "releases_url": "https://api.github.com/repos/ysichov/Simple-Data-Explorer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/Simple-Data-Explorer/deployments",
    "created_at": "2020-02-09T22:46:51Z",
-   "updated_at": "2021-04-02T18:08:20Z",
-   "pushed_at": "2021-04-02T18:08:18Z",
+   "updated_at": "2021-05-09T14:37:34Z",
+   "pushed_at": "2021-05-09T14:37:32Z",
    "git_url": "git://github.com/ysichov/Simple-Data-Explorer.git",
    "ssh_url": "git@github.com:ysichov/Simple-Data-Explorer.git",
    "clone_url": "https://github.com/ysichov/Simple-Data-Explorer.git",
    "svn_url": "https://github.com/ysichov/Simple-Data-Explorer",
    "homepage": null,
-   "size": 940,
+   "size": 932,
    "stargazers_count": 24,
    "watchers_count": 24,
    "language": "ABAP",
