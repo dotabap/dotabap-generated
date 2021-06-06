@@ -6035,7 +6035,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 127566,
+  "lines": 127568,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.74.31",
@@ -6108,14 +6108,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-06-04T18:07:04Z",
-   "pushed_at": "2021-06-05T06:52:34Z",
+   "updated_at": "2021-06-06T08:16:17Z",
+   "pushed_at": "2021-06-06T08:45:58Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 19030,
+   "size": 19027,
    "stargazers_count": 871,
    "watchers_count": 871,
    "language": "ABAP",
@@ -6128,7 +6128,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 192,
+   "open_issues_count": 189,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6137,7 +6137,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 393,
-   "open_issues": 192,
+   "open_issues": 189,
    "watchers": 871,
    "default_branch": "main",
    "permissions": {
@@ -8566,7 +8566,7 @@
     "site_admin": false
    },
    "network_count": 6,
-   "subscribers_count": 6
+   "subscribers_count": 7
   }
  },
  "bunysae/abap_db_preparator": {
@@ -16960,14 +16960,14 @@
    "releases_url": "https://api.github.com/repos/openTCT/zotcttr_ef/releases{/id}",
    "deployments_url": "https://api.github.com/repos/openTCT/zotcttr_ef/deployments",
    "created_at": "2021-03-22T18:20:49Z",
-   "updated_at": "2021-05-25T01:19:51Z",
-   "pushed_at": "2021-05-25T01:19:48Z",
+   "updated_at": "2021-06-06T01:00:56Z",
+   "pushed_at": "2021-06-06T01:00:52Z",
    "git_url": "git://github.com/openTCT/zotcttr_ef.git",
    "ssh_url": "git@github.com:openTCT/zotcttr_ef.git",
    "clone_url": "https://github.com/openTCT/zotcttr_ef.git",
    "svn_url": "https://github.com/openTCT/zotcttr_ef",
    "homepage": null,
-   "size": 287,
+   "size": 302,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -20575,7 +20575,7 @@
   }
  },
  "stockbal/abap-db-browser": {
-  "lines": 72484,
+  "lines": 72478,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -20656,14 +20656,14 @@
    "releases_url": "https://api.github.com/repos/stockbal/abap-db-browser/releases{/id}",
    "deployments_url": "https://api.github.com/repos/stockbal/abap-db-browser/deployments",
    "created_at": "2019-11-19T20:22:00Z",
-   "updated_at": "2021-06-04T18:38:47Z",
-   "pushed_at": "2021-06-04T18:38:44Z",
+   "updated_at": "2021-06-05T19:58:48Z",
+   "pushed_at": "2021-06-05T19:58:46Z",
    "git_url": "git://github.com/stockbal/abap-db-browser.git",
    "ssh_url": "git@github.com:stockbal/abap-db-browser.git",
    "clone_url": "https://github.com/stockbal/abap-db-browser.git",
    "svn_url": "https://github.com/stockbal/abap-db-browser",
    "homepage": "",
-   "size": 2258,
+   "size": 2286,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
