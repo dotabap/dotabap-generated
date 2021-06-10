@@ -325,14 +325,14 @@
    "releases_url": "https://api.github.com/repos/71tech/ODIN/releases{/id}",
    "deployments_url": "https://api.github.com/repos/71tech/ODIN/deployments",
    "created_at": "2021-04-12T19:45:32Z",
-   "updated_at": "2021-05-26T10:13:37Z",
-   "pushed_at": "2021-05-26T10:13:35Z",
+   "updated_at": "2021-06-09T10:30:14Z",
+   "pushed_at": "2021-06-09T10:30:12Z",
    "git_url": "git://github.com/71tech/ODIN.git",
    "ssh_url": "git@github.com:71tech/ODIN.git",
    "clone_url": "https://github.com/71tech/ODIN.git",
    "svn_url": "https://github.com/71tech/ODIN",
    "homepage": "",
-   "size": 604,
+   "size": 607,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -4144,7 +4144,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 39,
+   "open_issues_count": 37,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -4153,7 +4153,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 23,
-   "open_issues": 39,
+   "open_issues": 37,
    "watchers": 140,
    "default_branch": "master",
    "permissions": {
@@ -4183,7 +4183,7 @@
     "site_admin": false
    },
    "network_count": 23,
-   "subscribers_count": 14
+   "subscribers_count": 13
   }
  },
  "SAP/ewm-cloud-robotics-s4": {
@@ -6035,7 +6035,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 127570,
+  "lines": 127566,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.74.40",
@@ -6108,14 +6108,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-06-08T14:52:21Z",
-   "pushed_at": "2021-06-08T16:00:30Z",
+   "updated_at": "2021-06-10T08:03:22Z",
+   "pushed_at": "2021-06-10T08:03:18Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 18677,
+   "size": 18694,
    "stargazers_count": 871,
    "watchers_count": 871,
    "language": "ABAP",
@@ -6128,7 +6128,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 190,
+   "open_issues_count": 188,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6137,7 +6137,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 393,
-   "open_issues": 190,
+   "open_issues": 188,
    "watchers": 871,
    "default_branch": "main",
    "permissions": {
@@ -13361,7 +13361,7 @@
    "releases_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/deployments",
    "created_at": "2020-08-06T16:43:59Z",
-   "updated_at": "2021-05-30T01:05:01Z",
+   "updated_at": "2021-06-09T19:19:27Z",
    "pushed_at": "2021-05-12T15:31:51Z",
    "git_url": "git://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "ssh_url": "git@github.com:jrodriguez-rc/abap-dev-utilities.git",
@@ -13369,8 +13369,8 @@
    "svn_url": "https://github.com/jrodriguez-rc/abap-dev-utilities",
    "homepage": "",
    "size": 233,
-   "stargazers_count": 25,
-   "watchers_count": 25,
+   "stargazers_count": 26,
+   "watchers_count": 26,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -13391,7 +13391,7 @@
    },
    "forks": 5,
    "open_issues": 1,
-   "watchers": 25,
+   "watchers": 26,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -13400,7 +13400,7 @@
    },
    "temp_clone_token": "",
    "network_count": 5,
-   "subscribers_count": 4
+   "subscribers_count": 5
   }
  },
  "jrodriguez-rc/abap-tasks-tracker": {
@@ -14809,14 +14809,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapNTLM/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapNTLM/deployments",
    "created_at": "2015-01-11T11:41:22Z",
-   "updated_at": "2021-03-01T08:34:42Z",
-   "pushed_at": "2021-03-01T08:34:37Z",
+   "updated_at": "2021-06-09T12:23:01Z",
+   "pushed_at": "2021-06-10T07:54:25Z",
    "git_url": "git://github.com/larshp/abapNTLM.git",
    "ssh_url": "git@github.com:larshp/abapNTLM.git",
    "clone_url": "https://github.com/larshp/abapNTLM.git",
    "svn_url": "https://github.com/larshp/abapNTLM",
    "homepage": "",
-   "size": 81,
+   "size": 96,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -14825,11 +14825,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 3,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 6,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14837,8 +14837,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 3,
-   "open_issues": 0,
+   "forks": 4,
+   "open_issues": 6,
    "watchers": 2,
    "default_branch": "main",
    "permissions": {
@@ -14847,7 +14847,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 3,
+   "network_count": 4,
    "subscribers_count": 3
   }
  },
@@ -19125,7 +19125,7 @@
     "site_admin": false
    },
    "network_count": 189,
-   "subscribers_count": 80
+   "subscribers_count": 79
   }
  },
  "sbcgua/abap-string-map": {
@@ -20575,7 +20575,7 @@
   }
  },
  "stockbal/abap-db-browser": {
-  "lines": 72583,
+  "lines": 72637,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -20587,7 +20587,7 @@
   ],
   "parsing": {
    "version": "2.74.40",
-   "cloud": 946
+   "cloud": 953
   },
   "repo": {
    "id": 222782363,
@@ -20656,14 +20656,14 @@
    "releases_url": "https://api.github.com/repos/stockbal/abap-db-browser/releases{/id}",
    "deployments_url": "https://api.github.com/repos/stockbal/abap-db-browser/deployments",
    "created_at": "2019-11-19T20:22:00Z",
-   "updated_at": "2021-06-08T20:46:40Z",
-   "pushed_at": "2021-06-08T20:46:37Z",
+   "updated_at": "2021-06-10T06:57:32Z",
+   "pushed_at": "2021-06-10T06:57:29Z",
    "git_url": "git://github.com/stockbal/abap-db-browser.git",
    "ssh_url": "git@github.com:stockbal/abap-db-browser.git",
    "clone_url": "https://github.com/stockbal/abap-db-browser.git",
    "svn_url": "https://github.com/stockbal/abap-db-browser",
    "homepage": "",
-   "size": 2386,
+   "size": 2513,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
