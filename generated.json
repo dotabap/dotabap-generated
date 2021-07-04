@@ -248,7 +248,7 @@
     "site_admin": false
    },
    "network_count": 4,
-   "subscribers_count": 6
+   "subscribers_count": 7
   }
  },
  "71tech/ODIN": {
@@ -3471,7 +3471,7 @@
     "site_admin": false
    },
    "network_count": 11,
-   "subscribers_count": 4
+   "subscribers_count": 5
   }
  },
  "SAP-samples/abap-oo-basics": {
@@ -3608,7 +3608,7 @@
     "site_admin": false
    },
    "network_count": 18,
-   "subscribers_count": 18
+   "subscribers_count": 19
   }
  },
  "SAP-samples/abap-platform-jak": {
@@ -4020,7 +4020,7 @@
     "site_admin": false
    },
    "network_count": 2,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "SAP-samples/cloud-abap-rap": {
@@ -4104,7 +4104,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap/deployments",
    "created_at": "2020-05-18T21:27:35Z",
-   "updated_at": "2021-06-29T15:47:01Z",
+   "updated_at": "2021-07-04T06:10:38Z",
    "pushed_at": "2021-06-28T14:39:37Z",
    "git_url": "git://github.com/SAP-samples/cloud-abap-rap.git",
    "ssh_url": "git@github.com:SAP-samples/cloud-abap-rap.git",
@@ -4112,8 +4112,8 @@
    "svn_url": "https://github.com/SAP-samples/cloud-abap-rap",
    "homepage": "",
    "size": 497,
-   "stargazers_count": 59,
-   "watchers_count": 59,
+   "stargazers_count": 60,
+   "watchers_count": 60,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4134,7 +4134,7 @@
    },
    "forks": 14,
    "open_issues": 1,
-   "watchers": 59,
+   "watchers": 60,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4163,7 +4163,7 @@
     "site_admin": false
    },
    "network_count": 14,
-   "subscribers_count": 19
+   "subscribers_count": 20
   }
  },
  "SAP/code-pal-for-abap": {
@@ -9486,7 +9486,7 @@
    },
    "temp_clone_token": "",
    "network_count": 30,
-   "subscribers_count": 24
+   "subscribers_count": 23
   }
  },
  "cesar-sap/abap_geocoder_ces": {
@@ -17381,7 +17381,7 @@
    "releases_url": "https://api.github.com/repos/openTCT/zotct_utils/releases{/id}",
    "deployments_url": "https://api.github.com/repos/openTCT/zotct_utils/deployments",
    "created_at": "2020-11-11T23:26:07Z",
-   "updated_at": "2021-04-24T19:45:29Z",
+   "updated_at": "2021-07-04T04:46:09Z",
    "pushed_at": "2021-04-24T19:45:27Z",
    "git_url": "git://github.com/openTCT/zotct_utils.git",
    "ssh_url": "git@github.com:openTCT/zotct_utils.git",
@@ -17389,8 +17389,8 @@
    "svn_url": "https://github.com/openTCT/zotct_utils",
    "homepage": null,
    "size": 161,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -17411,7 +17411,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -17517,14 +17517,14 @@
    "releases_url": "https://api.github.com/repos/openTCT/zotcttr_ef/releases{/id}",
    "deployments_url": "https://api.github.com/repos/openTCT/zotcttr_ef/deployments",
    "created_at": "2021-03-22T18:20:49Z",
-   "updated_at": "2021-06-07T00:32:30Z",
-   "pushed_at": "2021-06-07T00:32:28Z",
+   "updated_at": "2021-07-04T01:20:15Z",
+   "pushed_at": "2021-07-04T01:20:13Z",
    "git_url": "git://github.com/openTCT/zotcttr_ef.git",
    "ssh_url": "git@github.com:openTCT/zotcttr_ef.git",
    "clone_url": "https://github.com/openTCT/zotcttr_ef.git",
    "svn_url": "https://github.com/openTCT/zotcttr_ef",
    "homepage": null,
-   "size": 318,
+   "size": 326,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -19541,7 +19541,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 46633,
+  "lines": 46668,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -19623,16 +19623,16 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-06-29T13:39:38Z",
-   "pushed_at": "2021-06-29T20:52:38Z",
+   "updated_at": "2021-07-03T17:07:22Z",
+   "pushed_at": "2021-07-03T17:07:18Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 25428,
-   "stargazers_count": 364,
-   "watchers_count": 364,
+   "size": 25524,
+   "stargazers_count": 365,
+   "watchers_count": 365,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -19643,7 +19643,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 134,
+   "open_issues_count": 132,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -19652,8 +19652,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 189,
-   "open_issues": 134,
-   "watchers": 364,
+   "open_issues": 132,
+   "watchers": 365,
    "default_branch": "master",
    "permissions": {
     "admin": false,
