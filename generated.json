@@ -764,11 +764,11 @@
   }
  },
  "AntonSikidin/zcl_docx": {
-  "lines": 5291,
+  "lines": 5391,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.75.4",
-   "cloud": 11
+   "cloud": 14
   },
   "repo": {
    "id": 135445941,
@@ -837,14 +837,14 @@
    "releases_url": "https://api.github.com/repos/AntonSikidin/zcl_docx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/AntonSikidin/zcl_docx/deployments",
    "created_at": "2018-05-30T13:22:09Z",
-   "updated_at": "2021-07-16T07:22:20Z",
-   "pushed_at": "2020-05-05T16:16:40Z",
+   "updated_at": "2021-07-16T09:36:20Z",
+   "pushed_at": "2021-07-16T09:36:17Z",
    "git_url": "git://github.com/AntonSikidin/zcl_docx.git",
    "ssh_url": "git@github.com:AntonSikidin/zcl_docx.git",
    "clone_url": "https://github.com/AntonSikidin/zcl_docx.git",
    "svn_url": "https://github.com/AntonSikidin/zcl_docx",
    "homepage": "",
-   "size": 7232,
+   "size": 7253,
    "stargazers_count": 12,
    "watchers_count": 12,
    "language": "ABAP",
@@ -2464,11 +2464,11 @@
   }
  },
  "Microsoft/ABAP-SDK-for-Azure": {
-  "lines": 9532,
+  "lines": 9650,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.75.4",
-   "cloud": 359
+   "cloud": 364
   },
   "repo": {
    "id": 124694095,
@@ -2537,14 +2537,14 @@
    "releases_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2021-07-11T06:27:10Z",
-   "pushed_at": "2021-06-16T07:40:40Z",
+   "updated_at": "2021-07-16T09:52:36Z",
+   "pushed_at": "2021-07-16T10:04:55Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
-   "size": 18012,
+   "size": 18022,
    "stargazers_count": 104,
    "watchers_count": 104,
    "language": "ABAP",
@@ -2553,11 +2553,11 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 45,
+   "forks_count": 44,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 12,
+   "open_issues_count": 11,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2565,8 +2565,8 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 45,
-   "open_issues": 12,
+   "forks": 44,
+   "open_issues": 11,
    "watchers": 104,
    "default_branch": "master",
    "permissions": {
@@ -2595,7 +2595,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 45,
+   "network_count": 44,
    "subscribers_count": 37
   }
  },
@@ -3555,14 +3555,14 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/abap-oo-basics/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-oo-basics/deployments",
    "created_at": "2020-04-18T00:02:53Z",
-   "updated_at": "2021-06-14T08:38:09Z",
-   "pushed_at": "2021-03-20T13:43:29Z",
+   "updated_at": "2021-07-16T16:22:52Z",
+   "pushed_at": "2021-07-16T16:22:49Z",
    "git_url": "git://github.com/SAP-samples/abap-oo-basics.git",
    "ssh_url": "git@github.com:SAP-samples/abap-oo-basics.git",
    "clone_url": "https://github.com/SAP-samples/abap-oo-basics.git",
    "svn_url": "https://github.com/SAP-samples/abap-oo-basics",
    "homepage": null,
-   "size": 75,
+   "size": 78,
    "stargazers_count": 63,
    "watchers_count": 63,
    "language": "ABAP",
@@ -4064,7 +4064,7 @@
     "site_admin": false
    },
    "html_url": "https://github.com/SAP-samples/cloud-abap-rap",
-   "description": "This repository contains several examples how to develop with the ABAP RESTful Application Programming Model (RAP) in SAP Cloud Platform, ABAP environment.",
+   "description": "This repository contains several examples how to develop with the ABAP RESTful Application Programming Model (RAP) in SAP BTP, ABAP environment.",
    "fork": false,
    "url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap",
    "forks_url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap/forks",
@@ -4104,7 +4104,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap/deployments",
    "created_at": "2020-05-18T21:27:35Z",
-   "updated_at": "2021-07-15T11:06:17Z",
+   "updated_at": "2021-07-16T16:03:00Z",
    "pushed_at": "2021-06-28T14:39:37Z",
    "git_url": "git://github.com/SAP-samples/cloud-abap-rap.git",
    "ssh_url": "git@github.com:SAP-samples/cloud-abap-rap.git",
@@ -6231,13 +6231,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2021-07-13T07:13:29Z",
-   "pushed_at": "2021-07-15T13:53:11Z",
+   "pushed_at": "2021-07-16T13:14:17Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 18602,
+   "size": 18610,
    "stargazers_count": 886,
    "watchers_count": 886,
    "language": "ABAP",
@@ -6717,11 +6717,11 @@
   }
  },
  "abapinho/abapTimeMachine": {
-  "lines": 4061,
+  "lines": 4249,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.75.4",
-   "cloud": 264
+   "cloud": 263
   },
   "repo": {
    "id": 222742898,
@@ -6790,16 +6790,16 @@
    "releases_url": "https://api.github.com/repos/abapinho/abapTimeMachine/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abapTimeMachine/deployments",
    "created_at": "2019-11-19T16:41:35Z",
-   "updated_at": "2021-07-15T10:32:33Z",
-   "pushed_at": "2021-07-14T17:35:27Z",
+   "updated_at": "2021-07-16T19:22:16Z",
+   "pushed_at": "2021-07-17T06:41:11Z",
    "git_url": "git://github.com/abapinho/abapTimeMachine.git",
    "ssh_url": "git@github.com:abapinho/abapTimeMachine.git",
    "clone_url": "https://github.com/abapinho/abapTimeMachine.git",
    "svn_url": "https://github.com/abapinho/abapTimeMachine",
    "homepage": "",
-   "size": 447,
-   "stargazers_count": 36,
-   "watchers_count": 36,
+   "size": 473,
+   "stargazers_count": 37,
+   "watchers_count": 37,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6810,7 +6810,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 20,
+   "open_issues_count": 18,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6819,8 +6819,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 4,
-   "open_issues": 20,
-   "watchers": 36,
+   "open_issues": 18,
+   "watchers": 37,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -14047,7 +14047,7 @@
    "clone_url": "https://github.com/jrodriguez-rc/abap-tasks-tracker.git",
    "svn_url": "https://github.com/jrodriguez-rc/abap-tasks-tracker",
    "homepage": null,
-   "size": 669,
+   "size": 670,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "HTML",
