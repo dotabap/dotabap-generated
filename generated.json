@@ -4240,7 +4240,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2021-07-07T13:56:15Z",
+   "updated_at": "2021-07-20T22:32:34Z",
    "pushed_at": "2021-07-09T18:33:43Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -4248,8 +4248,8 @@
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
    "size": 2676,
-   "stargazers_count": 143,
-   "watchers_count": 143,
+   "stargazers_count": 144,
+   "watchers_count": 144,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -4260,7 +4260,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 34,
+   "open_issues_count": 35,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -4269,8 +4269,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 24,
-   "open_issues": 34,
-   "watchers": 143,
+   "open_issues": 35,
+   "watchers": 144,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6230,14 +6230,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-07-18T11:17:28Z",
-   "pushed_at": "2021-07-19T07:35:35Z",
+   "updated_at": "2021-07-21T02:27:43Z",
+   "pushed_at": "2021-07-20T14:34:38Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 18497,
+   "size": 18518,
    "stargazers_count": 886,
    "watchers_count": 886,
    "language": "ABAP",
@@ -6250,7 +6250,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 198,
+   "open_issues_count": 195,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6259,7 +6259,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 398,
-   "open_issues": 198,
+   "open_issues": 195,
    "watchers": 886,
    "default_branch": "main",
    "permissions": {
@@ -6717,11 +6717,11 @@
   }
  },
  "abapinho/abapTimeMachine": {
-  "lines": 4248,
+  "lines": 4363,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.76.4",
-   "cloud": 263
+   "cloud": 264
   },
   "repo": {
    "id": 222742898,
@@ -6790,14 +6790,14 @@
    "releases_url": "https://api.github.com/repos/abapinho/abapTimeMachine/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abapTimeMachine/deployments",
    "created_at": "2019-11-19T16:41:35Z",
-   "updated_at": "2021-07-19T16:39:20Z",
-   "pushed_at": "2021-07-19T16:39:17Z",
+   "updated_at": "2021-07-20T18:22:26Z",
+   "pushed_at": "2021-07-20T18:22:24Z",
    "git_url": "git://github.com/abapinho/abapTimeMachine.git",
    "ssh_url": "git@github.com:abapinho/abapTimeMachine.git",
    "clone_url": "https://github.com/abapinho/abapTimeMachine.git",
    "svn_url": "https://github.com/abapinho/abapTimeMachine",
    "homepage": "",
-   "size": 479,
+   "size": 508,
    "stargazers_count": 37,
    "watchers_count": 37,
    "language": "ABAP",
@@ -6810,7 +6810,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 22,
+   "open_issues_count": 20,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6819,7 +6819,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 4,
-   "open_issues": 22,
+   "open_issues": 20,
    "watchers": 37,
    "default_branch": "master",
    "permissions": {
@@ -8506,7 +8506,7 @@
    "releases_url": "https://api.github.com/repos/bothzoli/ABAP-IoC-Container/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bothzoli/ABAP-IoC-Container/deployments",
    "created_at": "2019-10-18T13:01:40Z",
-   "updated_at": "2021-01-20T19:53:06Z",
+   "updated_at": "2021-07-21T07:39:37Z",
    "pushed_at": "2021-01-20T19:53:03Z",
    "git_url": "git://github.com/bothzoli/ABAP-IoC-Container.git",
    "ssh_url": "git@github.com:bothzoli/ABAP-IoC-Container.git",
@@ -8514,15 +8514,15 @@
    "svn_url": "https://github.com/bothzoli/ABAP-IoC-Container",
    "homepage": null,
    "size": 198,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8534,9 +8534,9 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -8544,7 +8544,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 4
   }
  },
@@ -8808,7 +8808,7 @@
   }
  },
  "cavabap/abapTableCompare": {
-  "lines": 829,
+  "lines": 833,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.76.4",
@@ -8881,14 +8881,14 @@
    "releases_url": "https://api.github.com/repos/cavabap/abapTableCompare/releases{/id}",
    "deployments_url": "https://api.github.com/repos/cavabap/abapTableCompare/deployments",
    "created_at": "2021-04-27T10:02:48Z",
-   "updated_at": "2021-06-24T14:21:11Z",
-   "pushed_at": "2021-06-24T14:21:08Z",
+   "updated_at": "2021-07-20T10:18:32Z",
+   "pushed_at": "2021-07-20T10:18:29Z",
    "git_url": "git://github.com/cavabap/abapTableCompare.git",
    "ssh_url": "git@github.com:cavabap/abapTableCompare.git",
    "clone_url": "https://github.com/cavabap/abapTableCompare.git",
    "svn_url": "https://github.com/cavabap/abapTableCompare",
    "homepage": null,
-   "size": 67,
+   "size": 71,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -12519,7 +12519,7 @@
    },
    "temp_clone_token": "",
    "network_count": 6,
-   "subscribers_count": 5
+   "subscribers_count": 4
   }
  },
  "hhelibeb/abap-fm-logger": {
@@ -17446,7 +17446,7 @@
     "site_admin": false
    },
    "network_count": 1,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "openTCT/zotcttr_ef": {
@@ -17582,7 +17582,7 @@
     "site_admin": false
    },
    "network_count": 0,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "pacheco7/MacGyver": {
@@ -19629,7 +19629,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-07-19T14:05:46Z",
+   "updated_at": "2021-07-21T06:51:16Z",
    "pushed_at": "2021-07-18T08:25:53Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -19637,8 +19637,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 25199,
-   "stargazers_count": 367,
-   "watchers_count": 367,
+   "stargazers_count": 368,
+   "watchers_count": 368,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -19659,7 +19659,7 @@
    },
    "forks": 192,
    "open_issues": 137,
-   "watchers": 367,
+   "watchers": 368,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -20419,11 +20419,11 @@
   }
  },
  "sbcgua/mockup_loader": {
-  "lines": 7667,
+  "lines": 7687,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.76.4",
-   "cloud": 221
+   "cloud": 220
   },
   "repo": {
    "id": 45481794,
@@ -20492,14 +20492,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/mockup_loader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/mockup_loader/deployments",
    "created_at": "2015-11-03T17:02:54Z",
-   "updated_at": "2021-06-10T14:03:18Z",
-   "pushed_at": "2021-04-22T20:49:28Z",
+   "updated_at": "2021-07-20T18:18:40Z",
+   "pushed_at": "2021-07-20T18:18:37Z",
    "git_url": "git://github.com/sbcgua/mockup_loader.git",
    "ssh_url": "git@github.com:sbcgua/mockup_loader.git",
    "clone_url": "https://github.com/sbcgua/mockup_loader.git",
    "svn_url": "https://github.com/sbcgua/mockup_loader",
    "homepage": "",
-   "size": 1204,
+   "size": 1330,
    "stargazers_count": 42,
    "watchers_count": 42,
    "language": "ABAP",
@@ -20512,7 +20512,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 11,
+   "open_issues_count": 9,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -20521,7 +20521,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 13,
-   "open_issues": 11,
+   "open_issues": 9,
    "watchers": 42,
    "default_branch": "master",
    "permissions": {
