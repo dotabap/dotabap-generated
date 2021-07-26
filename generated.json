@@ -1563,7 +1563,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 7,
+   "forks_count": 8,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -1575,7 +1575,7 @@
     "url": "https://api.github.com/licenses/unlicense",
     "node_id": "MDc6TGljZW5zZTE1"
    },
-   "forks": 7,
+   "forks": 8,
    "open_issues": 10,
    "watchers": 22,
    "default_branch": "master",
@@ -1585,7 +1585,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 7,
+   "network_count": 8,
    "subscribers_count": 4
   }
  },
@@ -14292,7 +14292,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 3,
+   "open_issues_count": 2,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -14301,7 +14301,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 2,
-   "open_issues": 3,
+   "open_issues": 2,
    "watchers": 2,
    "default_branch": "main",
    "permissions": {
@@ -19629,7 +19629,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-07-22T18:06:51Z",
+   "updated_at": "2021-07-25T19:38:51Z",
    "pushed_at": "2021-07-22T09:19:18Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -19637,8 +19637,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 25199,
-   "stargazers_count": 370,
-   "watchers_count": 370,
+   "stargazers_count": 371,
+   "watchers_count": 371,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -19659,7 +19659,7 @@
    },
    "forks": 193,
    "open_issues": 139,
-   "watchers": 370,
+   "watchers": 371,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -19692,7 +19692,7 @@
   }
  },
  "sbcgua/abap-string-map": {
-  "lines": 1076,
+  "lines": 1229,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.76.4",
@@ -19765,14 +19765,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/abap-string-map/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/abap-string-map/deployments",
    "created_at": "2020-06-21T07:32:00Z",
-   "updated_at": "2021-06-25T14:58:12Z",
-   "pushed_at": "2021-06-25T14:58:09Z",
+   "updated_at": "2021-07-25T20:25:03Z",
+   "pushed_at": "2021-07-25T20:26:05Z",
    "git_url": "git://github.com/sbcgua/abap-string-map.git",
    "ssh_url": "git@github.com:sbcgua/abap-string-map.git",
    "clone_url": "https://github.com/sbcgua/abap-string-map.git",
    "svn_url": "https://github.com/sbcgua/abap-string-map",
    "homepage": null,
-   "size": 99,
+   "size": 119,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
