@@ -1069,7 +1069,7 @@
    "releases_url": "https://api.github.com/repos/BenjaminWeisheit/ABAP-2-CODE-CHARTA/releases{/id}",
    "deployments_url": "https://api.github.com/repos/BenjaminWeisheit/ABAP-2-CODE-CHARTA/deployments",
    "created_at": "2021-01-25T12:27:12Z",
-   "updated_at": "2021-07-29T14:24:17Z",
+   "updated_at": "2021-08-07T04:20:27Z",
    "pushed_at": "2021-07-01T05:03:30Z",
    "git_url": "git://github.com/BenjaminWeisheit/ABAP-2-CODE-CHARTA.git",
    "ssh_url": "git@github.com:BenjaminWeisheit/ABAP-2-CODE-CHARTA.git",
@@ -1077,8 +1077,8 @@
    "svn_url": "https://github.com/BenjaminWeisheit/ABAP-2-CODE-CHARTA",
    "homepage": "",
    "size": 77,
-   "stargazers_count": 4,
-   "watchers_count": 4,
+   "stargazers_count": 5,
+   "watchers_count": 5,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1099,7 +1099,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 4,
+   "watchers": 5,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -6231,13 +6231,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2021-08-06T06:12:31Z",
-   "pushed_at": "2021-08-06T06:13:28Z",
+   "pushed_at": "2021-08-06T12:59:33Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 18578,
+   "size": 18581,
    "stargazers_count": 893,
    "watchers_count": 893,
    "language": "ABAP",
@@ -6810,7 +6810,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 18,
+   "open_issues_count": 19,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6819,7 +6819,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 4,
-   "open_issues": 18,
+   "open_issues": 19,
    "watchers": 38,
    "default_branch": "master",
    "permissions": {
@@ -15415,7 +15415,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 42592,
+  "lines": 42595,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -15496,8 +15496,8 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2021-07-30T08:40:19Z",
-   "pushed_at": "2021-08-05T11:16:40Z",
+   "updated_at": "2021-08-06T14:17:58Z",
+   "pushed_at": "2021-08-06T14:17:54Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
@@ -15516,7 +15516,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 298,
+   "open_issues_count": 297,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -15525,7 +15525,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 54,
-   "open_issues": 298,
+   "open_issues": 297,
    "watchers": 167,
    "default_branch": "main",
    "permissions": {
