@@ -3333,14 +3333,14 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/abap-alv-google-upload-sheet/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-alv-google-upload-sheet/deployments",
    "created_at": "2018-07-20T01:36:36Z",
-   "updated_at": "2021-06-18T15:49:38Z",
-   "pushed_at": "2021-05-21T08:59:59Z",
+   "updated_at": "2021-08-12T21:14:52Z",
+   "pushed_at": "2021-08-12T21:14:48Z",
    "git_url": "git://github.com/SAP-samples/abap-alv-google-upload-sheet.git",
    "ssh_url": "git@github.com:SAP-samples/abap-alv-google-upload-sheet.git",
    "clone_url": "https://github.com/SAP-samples/abap-alv-google-upload-sheet.git",
    "svn_url": "https://github.com/SAP-samples/abap-alv-google-upload-sheet",
    "homepage": "",
-   "size": 122,
+   "size": 124,
    "stargazers_count": 22,
    "watchers_count": 22,
    "language": "ABAP",
@@ -3358,7 +3358,7 @@
    "forks": 15,
    "open_issues": 1,
    "watchers": 22,
-   "default_branch": "master",
+   "default_branch": "main",
    "permissions": {
     "admin": false,
     "maintain": false,
@@ -4233,11 +4233,11 @@
   }
  },
  "SAP/code-pal-for-abap": {
-  "lines": 21925,
+  "lines": 23545,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.76.8",
-   "cloud": 98
+   "cloud": 99
   },
   "repo": {
    "id": 252472689,
@@ -4306,14 +4306,14 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2021-08-03T00:39:45Z",
-   "pushed_at": "2021-08-11T18:14:40Z",
+   "updated_at": "2021-08-12T14:06:23Z",
+   "pushed_at": "2021-08-12T17:09:35Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 2701,
+   "size": 2690,
    "stargazers_count": 147,
    "watchers_count": 147,
    "language": "ABAP",
@@ -6342,7 +6342,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 401,
+   "forks_count": 402,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -6354,7 +6354,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 401,
+   "forks": 402,
    "open_issues": 188,
    "watchers": 897,
    "default_branch": "main",
@@ -6386,7 +6386,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 401,
+   "network_count": 402,
    "subscribers_count": 115
   }
  },
@@ -15634,7 +15634,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -15643,7 +15643,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 4,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 6,
    "default_branch": "main",
    "permissions": {
@@ -19939,7 +19939,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-08-10T09:02:28Z",
+   "updated_at": "2021-08-13T04:13:03Z",
    "pushed_at": "2021-07-31T01:16:40Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -19947,8 +19947,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 25511,
-   "stargazers_count": 378,
-   "watchers_count": 378,
+   "stargazers_count": 379,
+   "watchers_count": 379,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -19969,7 +19969,7 @@
    },
    "forks": 195,
    "open_issues": 138,
-   "watchers": 378,
+   "watchers": 379,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -20718,7 +20718,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 8,
+   "open_issues_count": 9,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -20727,7 +20727,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 5,
-   "open_issues": 8,
+   "open_issues": 9,
    "watchers": 15,
    "default_branch": "master",
    "permissions": {
