@@ -3353,10 +3353,10 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": null,
    "forks": 15,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 22,
    "default_branch": "main",
    "permissions": {
@@ -4306,7 +4306,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2021-08-12T14:06:23Z",
+   "updated_at": "2021-08-14T19:54:13Z",
    "pushed_at": "2021-08-12T17:09:35Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -4314,8 +4314,8 @@
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
    "size": 2690,
-   "stargazers_count": 147,
-   "watchers_count": 147,
+   "stargazers_count": 148,
+   "watchers_count": 148,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -4336,7 +4336,7 @@
    },
    "forks": 26,
    "open_issues": 38,
-   "watchers": 147,
+   "watchers": 148,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -12556,7 +12556,7 @@
    "releases_url": "https://api.github.com/repos/hardyp/AbapToTheFuture03/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hardyp/AbapToTheFuture03/deployments",
    "created_at": "2019-02-22T11:02:40Z",
-   "updated_at": "2021-03-30T08:15:57Z",
+   "updated_at": "2021-08-14T11:19:06Z",
    "pushed_at": "2020-04-05T08:29:35Z",
    "git_url": "git://github.com/hardyp/AbapToTheFuture03.git",
    "ssh_url": "git@github.com:hardyp/AbapToTheFuture03.git",
@@ -12564,8 +12564,8 @@
    "svn_url": "https://github.com/hardyp/AbapToTheFuture03",
    "homepage": null,
    "size": 619,
-   "stargazers_count": 21,
-   "watchers_count": 21,
+   "stargazers_count": 22,
+   "watchers_count": 22,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -12586,7 +12586,7 @@
    },
    "forks": 15,
    "open_issues": 6,
-   "watchers": 21,
+   "watchers": 22,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -15634,7 +15634,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 2,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -15643,7 +15643,7 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "forks": 4,
-   "open_issues": 2,
+   "open_issues": 1,
    "watchers": 6,
    "default_branch": "main",
    "permissions": {
@@ -19939,7 +19939,7 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-08-13T04:13:03Z",
+   "updated_at": "2021-08-15T08:11:07Z",
    "pushed_at": "2021-07-31T01:16:40Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
@@ -19947,8 +19947,8 @@
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
    "size": 25511,
-   "stargazers_count": 379,
-   "watchers_count": 379,
+   "stargazers_count": 380,
+   "watchers_count": 380,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -19969,7 +19969,7 @@
    },
    "forks": 195,
    "open_issues": 138,
-   "watchers": 379,
+   "watchers": 380,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -20219,7 +20219,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -20231,7 +20231,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
    "watchers": 3,
    "default_branch": "master",
@@ -20243,7 +20243,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 2
   }
  },
@@ -20471,7 +20471,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 4,
+   "forks_count": 5,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -20483,7 +20483,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 4,
+   "forks": 5,
    "open_issues": 2,
    "watchers": 11,
    "default_branch": "master",
@@ -20495,7 +20495,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 4,
+   "network_count": 5,
    "subscribers_count": 5
   }
  },
@@ -20714,7 +20714,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -20726,7 +20726,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 5,
+   "forks": 6,
    "open_issues": 8,
    "watchers": 16,
    "default_branch": "master",
@@ -20738,7 +20738,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 3
   }
  },
@@ -20832,7 +20832,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": true,
-   "forks_count": 14,
+   "forks_count": 15,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -20844,7 +20844,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
    },
-   "forks": 14,
+   "forks": 15,
    "open_issues": 9,
    "watchers": 43,
    "default_branch": "master",
@@ -20856,7 +20856,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 14,
+   "network_count": 15,
    "subscribers_count": 11
   }
  },
@@ -22027,7 +22027,7 @@
    "releases_url": "https://api.github.com/repos/striezl/VariScan/releases{/id}",
    "deployments_url": "https://api.github.com/repos/striezl/VariScan/deployments",
    "created_at": "2020-12-17T11:34:42Z",
-   "updated_at": "2021-08-09T06:43:40Z",
+   "updated_at": "2021-08-14T15:06:00Z",
    "pushed_at": "2021-08-09T06:43:37Z",
    "git_url": "git://github.com/striezl/VariScan.git",
    "ssh_url": "git@github.com:striezl/VariScan.git",
@@ -22035,8 +22035,8 @@
    "svn_url": "https://github.com/striezl/VariScan",
    "homepage": "",
    "size": 188,
-   "stargazers_count": 9,
-   "watchers_count": 9,
+   "stargazers_count": 10,
+   "watchers_count": 10,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -22057,7 +22057,7 @@
    },
    "forks": 1,
    "open_issues": 0,
-   "watchers": 9,
+   "watchers": 10,
    "default_branch": "main",
    "permissions": {
     "admin": false,
