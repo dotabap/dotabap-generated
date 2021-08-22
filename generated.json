@@ -475,7 +475,7 @@
    "releases_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2021-08-17T14:42:20Z",
+   "updated_at": "2021-08-21T18:23:41Z",
    "pushed_at": "2021-07-29T16:48:14Z",
    "git_url": "git://github.com/ABAP-Logger/ABAP-Logger.git",
    "ssh_url": "git@github.com:ABAP-Logger/ABAP-Logger.git",
@@ -483,8 +483,8 @@
    "svn_url": "https://github.com/ABAP-Logger/ABAP-Logger",
    "homepage": null,
    "size": 271,
-   "stargazers_count": 215,
-   "watchers_count": 215,
+   "stargazers_count": 216,
+   "watchers_count": 216,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -505,7 +505,7 @@
    },
    "forks": 81,
    "open_issues": 18,
-   "watchers": 215,
+   "watchers": 216,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -4229,7 +4229,7 @@
     "site_admin": false
    },
    "network_count": 15,
-   "subscribers_count": 20
+   "subscribers_count": 21
   }
  },
  "SAP/code-pal-for-abap": {
@@ -14305,7 +14305,7 @@
   }
  },
  "keremkoseoglu/addict": {
-  "lines": 8917,
+  "lines": 8931,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.76.9",
@@ -14378,14 +14378,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/addict/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/addict/deployments",
    "created_at": "2020-10-16T13:44:38Z",
-   "updated_at": "2021-08-04T10:35:04Z",
-   "pushed_at": "2021-08-04T10:35:00Z",
+   "updated_at": "2021-08-21T11:23:20Z",
+   "pushed_at": "2021-08-21T11:23:17Z",
    "git_url": "git://github.com/keremkoseoglu/addict.git",
    "ssh_url": "git@github.com:keremkoseoglu/addict.git",
    "clone_url": "https://github.com/keremkoseoglu/addict.git",
    "svn_url": "https://github.com/keremkoseoglu/addict",
    "homepage": null,
-   "size": 558,
+   "size": 569,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
@@ -14398,7 +14398,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 2,
+   "open_issues_count": 1,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -14407,7 +14407,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 3,
-   "open_issues": 2,
+   "open_issues": 1,
    "watchers": 7,
    "default_branch": "main",
    "permissions": {
@@ -19939,14 +19939,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-08-19T14:11:07Z",
-   "pushed_at": "2021-08-16T06:54:43Z",
+   "updated_at": "2021-08-21T09:00:19Z",
+   "pushed_at": "2021-08-21T09:20:23Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 25511,
+   "size": 25515,
    "stargazers_count": 382,
    "watchers_count": 382,
    "language": "ABAP",
@@ -19959,7 +19959,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 138,
+   "open_issues_count": 136,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -19968,7 +19968,7 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "forks": 195,
-   "open_issues": 138,
+   "open_issues": 136,
    "watchers": 382,
    "default_branch": "master",
    "permissions": {
