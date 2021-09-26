@@ -3639,7 +3639,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/abap-oo-basics/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-oo-basics/deployments",
    "created_at": "2020-04-18T00:02:53Z",
-   "updated_at": "2021-09-23T13:14:02Z",
+   "updated_at": "2021-09-26T07:33:22Z",
    "pushed_at": "2021-07-16T16:22:49Z",
    "git_url": "git://github.com/SAP-samples/abap-oo-basics.git",
    "ssh_url": "git@github.com:SAP-samples/abap-oo-basics.git",
@@ -3647,24 +3647,24 @@
    "svn_url": "https://github.com/SAP-samples/abap-oo-basics",
    "homepage": null,
    "size": 78,
-   "stargazers_count": 70,
-   "watchers_count": 70,
+   "stargazers_count": 69,
+   "watchers_count": 69,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 25,
+   "forks_count": 24,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
    "open_issues_count": 0,
    "license": null,
    "allow_forking": true,
-   "forks": 25,
+   "forks": 24,
    "open_issues": 0,
-   "watchers": 70,
+   "watchers": 69,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -3694,7 +3694,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 25,
+   "network_count": 24,
    "subscribers_count": 19
   }
  },
@@ -6374,8 +6374,8 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-09-24T04:46:13Z",
-   "pushed_at": "2021-09-24T04:47:22Z",
+   "updated_at": "2021-09-26T07:33:23Z",
+   "pushed_at": "2021-09-26T06:47:20Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
@@ -6390,11 +6390,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 409,
+   "forks_count": 408,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 193,
+   "open_issues_count": 194,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6403,8 +6403,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
-   "forks": 409,
-   "open_issues": 193,
+   "forks": 408,
+   "open_issues": 194,
    "watchers": 910,
    "default_branch": "main",
    "permissions": {
@@ -6435,7 +6435,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 409,
+   "network_count": 408,
    "subscribers_count": 111
   }
  },
@@ -11196,7 +11196,7 @@
    },
    "temp_clone_token": "",
    "network_count": 3,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "fidley/Customers": {
@@ -11315,7 +11315,7 @@
    },
    "temp_clone_token": "",
    "network_count": 3,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "fidley/JSON2ABAPType": {
@@ -11441,7 +11441,7 @@
    },
    "temp_clone_token": "",
    "network_count": 17,
-   "subscribers_count": 10
+   "subscribers_count": 11
   }
  },
  "fidley/falv": {
@@ -11575,7 +11575,7 @@
    },
    "temp_clone_token": "",
    "network_count": 38,
-   "subscribers_count": 24
+   "subscribers_count": 25
   }
  },
  "flaiker/abap-log": {
@@ -15108,7 +15108,7 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Swagger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
-   "updated_at": "2021-09-17T12:44:39Z",
+   "updated_at": "2021-09-26T07:33:25Z",
    "pushed_at": "2021-09-17T12:44:35Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
@@ -15116,15 +15116,15 @@
    "svn_url": "https://github.com/larshp/ABAP-Swagger",
    "homepage": "",
    "size": 108,
-   "stargazers_count": 69,
-   "watchers_count": 69,
+   "stargazers_count": 68,
+   "watchers_count": 68,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 30,
+   "forks_count": 29,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -15137,9 +15137,9 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
-   "forks": 30,
+   "forks": 29,
    "open_issues": 21,
-   "watchers": 69,
+   "watchers": 68,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -15149,7 +15149,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 30,
+   "network_count": 29,
    "subscribers_count": 15
   }
  },
@@ -20252,7 +20252,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 46612,
+  "lines": 46734,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -20265,7 +20265,7 @@
   ],
   "parsing": {
    "version": "2.79.6",
-   "cloud": 912
+   "cloud": 872
   },
   "repo": {
    "id": 15457787,
@@ -20334,14 +20334,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-09-23T05:19:07Z",
-   "pushed_at": "2021-09-24T10:42:09Z",
+   "updated_at": "2021-09-26T08:17:35Z",
+   "pushed_at": "2021-09-26T08:17:53Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 25637,
+   "size": 25679,
    "stargazers_count": 390,
    "watchers_count": 390,
    "language": "ABAP",
@@ -20354,7 +20354,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 132,
+   "open_issues_count": 129,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -20364,7 +20364,7 @@
    },
    "allow_forking": true,
    "forks": 198,
-   "open_issues": 132,
+   "open_issues": 129,
    "watchers": 390,
    "default_branch": "master",
    "permissions": {
