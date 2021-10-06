@@ -6349,7 +6349,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 129301,
+  "lines": 129482,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.15",
@@ -6422,14 +6422,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-10-05T04:12:49Z",
-   "pushed_at": "2021-10-05T06:41:28Z",
+   "updated_at": "2021-10-06T06:04:12Z",
+   "pushed_at": "2021-10-06T06:05:28Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 19205,
+   "size": 19241,
    "stargazers_count": 911,
    "watchers_count": 911,
    "language": "ABAP",
@@ -6438,11 +6438,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 410,
+   "forks_count": 411,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 199,
+   "open_issues_count": 198,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6452,8 +6452,8 @@
    },
    "allow_forking": true,
    "visibility": "public",
-   "forks": 410,
-   "open_issues": 199,
+   "forks": 411,
+   "open_issues": 198,
    "watchers": 911,
    "default_branch": "main",
    "permissions": {
@@ -6484,7 +6484,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 410,
+   "network_count": 411,
    "subscribers_count": 111
   }
  },
@@ -7194,7 +7194,7 @@
   }
  },
  "abaplint/abaplint-sci-client": {
-  "lines": 6701,
+  "lines": 6629,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.15",
@@ -7267,14 +7267,14 @@
    "releases_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/deployments",
    "created_at": "2020-01-05T12:58:03Z",
-   "updated_at": "2021-09-30T20:44:04Z",
-   "pushed_at": "2021-09-13T06:12:34Z",
+   "updated_at": "2021-10-06T05:23:07Z",
+   "pushed_at": "2021-10-06T05:23:05Z",
    "git_url": "git://github.com/abaplint/abaplint-sci-client.git",
    "ssh_url": "git@github.com:abaplint/abaplint-sci-client.git",
    "clone_url": "https://github.com/abaplint/abaplint-sci-client.git",
    "svn_url": "https://github.com/abaplint/abaplint-sci-client",
    "homepage": "",
-   "size": 1054,
+   "size": 1070,
    "stargazers_count": 17,
    "watchers_count": 17,
    "language": "ABAP",
@@ -8337,7 +8337,7 @@
   }
  },
  "bizhuka/aqo": {
-  "lines": 5556,
+  "lines": 5558,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.15",
@@ -8410,14 +8410,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/aqo/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/aqo/deployments",
    "created_at": "2018-03-14T04:02:03Z",
-   "updated_at": "2021-10-03T11:37:25Z",
-   "pushed_at": "2021-10-03T11:37:22Z",
+   "updated_at": "2021-10-05T09:09:29Z",
+   "pushed_at": "2021-10-05T09:09:26Z",
    "git_url": "git://github.com/bizhuka/aqo.git",
    "ssh_url": "git@github.com:bizhuka/aqo.git",
    "clone_url": "https://github.com/bizhuka/aqo.git",
    "svn_url": "https://github.com/bizhuka/aqo",
    "homepage": "https://bizhuka.github.io/aqo/",
-   "size": 3119,
+   "size": 3120,
    "stargazers_count": 14,
    "watchers_count": 14,
    "language": "ABAP",
@@ -20411,7 +20411,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 46808,
+  "lines": 46812,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -20424,7 +20424,7 @@
   ],
   "parsing": {
    "version": "2.79.15",
-   "cloud": 872
+   "cloud": 833
   },
   "repo": {
    "id": 15457787,
@@ -20493,14 +20493,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-10-04T14:50:54Z",
-   "pushed_at": "2021-10-04T14:54:13Z",
+   "updated_at": "2021-10-06T06:08:14Z",
+   "pushed_at": "2021-10-06T06:47:23Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 26195,
+   "size": 26197,
    "stargazers_count": 392,
    "watchers_count": 392,
    "language": "ABAP",
@@ -20513,7 +20513,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 132,
+   "open_issues_count": 133,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -20524,7 +20524,7 @@
    "allow_forking": true,
    "visibility": "public",
    "forks": 200,
-   "open_issues": 132,
+   "open_issues": 133,
    "watchers": 392,
    "default_branch": "master",
    "permissions": {
