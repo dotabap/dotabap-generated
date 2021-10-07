@@ -102,6 +102,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 2,
@@ -222,6 +224,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 4,
    "open_issues": 0,
@@ -362,6 +366,16 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap2xlsx",
+    "abapgit",
+    "csv",
+    "excel",
+    "fi-document",
+    "odin",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 3,
@@ -510,6 +524,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "logger",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 83,
    "open_issues": 16,
@@ -650,6 +670,8 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 4,
@@ -770,6 +792,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -890,6 +914,10 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap"
+   ],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -1010,6 +1038,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -1130,6 +1160,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "charta",
+    "covert-abap-metrics"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -1257,6 +1293,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-oo",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -1384,6 +1426,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "dynamic-actions",
+    "hcm"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 1,
@@ -1504,11 +1553,142 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
    "watchers": 2,
    "default_branch": "main",
+   "permissions": {
+    "admin": false,
+    "maintain": false,
+    "push": false,
+    "triage": false,
+    "pull": false
+   },
+   "temp_clone_token": "",
+   "network_count": 0,
+   "subscribers_count": 1
+  }
+ },
+ "DryDumbHead/easyHtmlEmail": {
+  "lines": 663,
+  "startingFolder": "/src/",
+  "parsing": {
+   "version": "2.79.15",
+   "cloud": 21
+  },
+  "repo": {
+   "id": 411815450,
+   "node_id": "R_kgDOGIvOGg",
+   "name": "easyHtmlEmail",
+   "full_name": "DryDumbHead/easyHtmlEmail",
+   "private": false,
+   "owner": {
+    "login": "DryDumbHead",
+    "id": 84939847,
+    "node_id": "MDQ6VXNlcjg0OTM5ODQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/84939847?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DryDumbHead",
+    "html_url": "https://github.com/DryDumbHead",
+    "followers_url": "https://api.github.com/users/DryDumbHead/followers",
+    "following_url": "https://api.github.com/users/DryDumbHead/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DryDumbHead/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DryDumbHead/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DryDumbHead/subscriptions",
+    "organizations_url": "https://api.github.com/users/DryDumbHead/orgs",
+    "repos_url": "https://api.github.com/users/DryDumbHead/repos",
+    "events_url": "https://api.github.com/users/DryDumbHead/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DryDumbHead/received_events",
+    "type": "User",
+    "site_admin": false
+   },
+   "html_url": "https://github.com/DryDumbHead/easyHtmlEmail",
+   "description": "Easy to Generate & Maintain Email in SAP (ABAP + HTML/CSS)",
+   "fork": false,
+   "url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail",
+   "forks_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/forks",
+   "keys_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/keys{/key_id}",
+   "collaborators_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/collaborators{/collaborator}",
+   "teams_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/teams",
+   "hooks_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/hooks",
+   "issue_events_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/issues/events{/number}",
+   "events_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/events",
+   "assignees_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/assignees{/user}",
+   "branches_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/branches{/branch}",
+   "tags_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/tags",
+   "blobs_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/git/blobs{/sha}",
+   "git_tags_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/git/tags{/sha}",
+   "git_refs_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/git/refs{/sha}",
+   "trees_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/git/trees{/sha}",
+   "statuses_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/statuses/{sha}",
+   "languages_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/languages",
+   "stargazers_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/stargazers",
+   "contributors_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/contributors",
+   "subscribers_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/subscribers",
+   "subscription_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/subscription",
+   "commits_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/commits{/sha}",
+   "git_commits_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/git/commits{/sha}",
+   "comments_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/comments{/number}",
+   "issue_comment_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/issues/comments{/number}",
+   "contents_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/contents/{+path}",
+   "compare_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/compare/{base}...{head}",
+   "merges_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/merges",
+   "archive_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/{archive_format}{/ref}",
+   "downloads_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/downloads",
+   "issues_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/issues{/number}",
+   "pulls_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/pulls{/number}",
+   "milestones_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/milestones{/number}",
+   "notifications_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/notifications{?since,all,participating}",
+   "labels_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/labels{/name}",
+   "releases_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/releases{/id}",
+   "deployments_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/deployments",
+   "created_at": "2021-09-29T20:09:22Z",
+   "updated_at": "2021-10-05T14:25:00Z",
+   "pushed_at": "2021-09-30T21:44:01Z",
+   "git_url": "git://github.com/DryDumbHead/easyHtmlEmail.git",
+   "ssh_url": "git@github.com:DryDumbHead/easyHtmlEmail.git",
+   "clone_url": "https://github.com/DryDumbHead/easyHtmlEmail.git",
+   "svn_url": "https://github.com/DryDumbHead/easyHtmlEmail",
+   "homepage": "",
+   "size": 147,
+   "stargazers_count": 3,
+   "watchers_count": 3,
+   "language": "ABAP",
+   "has_issues": true,
+   "has_projects": true,
+   "has_downloads": true,
+   "has_wiki": true,
+   "has_pages": false,
+   "forks_count": 0,
+   "mirror_url": null,
+   "archived": false,
+   "disabled": false,
+   "open_issues_count": 0,
+   "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+   },
+   "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "easy-email",
+    "email",
+    "email-template",
+    "html-template",
+    "sap"
+   ],
+   "visibility": "public",
+   "forks": 0,
+   "open_issues": 0,
+   "watchers": 3,
+   "default_branch": "master",
    "permissions": {
     "admin": false,
     "maintain": false,
@@ -1624,6 +1804,11 @@
     "node_id": "MDc6TGljZW5zZTE1"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "turtles"
+   ],
    "visibility": "public",
    "forks": 8,
    "open_issues": 10,
@@ -1751,6 +1936,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "mqtt"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 8,
@@ -1898,6 +2088,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 1,
@@ -2025,6 +2217,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -2152,6 +2346,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -2279,6 +2475,17 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "favorites",
+    "gui",
+    "sap",
+    "sap-easy-access",
+    "sap-gui",
+    "synchronization",
+    "synchronize"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -2406,6 +2613,15 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "mqtt",
+    "mqtt-broker",
+    "mqtt-client",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 0,
@@ -2526,6 +2742,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 1,
@@ -2646,6 +2864,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-sdk",
+    "abapgit",
+    "azure",
+    "azuresdk"
+   ],
    "visibility": "public",
    "forks": 44,
    "open_issues": 11,
@@ -2786,6 +3012,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 3,
    "open_issues": 32,
@@ -2926,6 +3154,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-oo"
+   ],
    "visibility": "public",
    "forks": 4,
    "open_issues": 1,
@@ -3046,6 +3279,8 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -3166,6 +3401,15 @@
     "node_id": "MDc6TGljZW5zZTMy"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "c",
+    "hana",
+    "jaro-winkler-distance",
+    "levenshtein-distance",
+    "oracle"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -3286,6 +3530,16 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "python",
+    "rfc",
+    "rfc-connection",
+    "transport",
+    "webdynpro",
+    "zcts-browser"
+   ],
    "visibility": "public",
    "forks": 4,
    "open_issues": 1,
@@ -3408,6 +3662,15 @@
    "open_issues_count": 2,
    "license": null,
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "alv",
+    "google-drive",
+    "gui",
+    "sample",
+    "sample-code"
+   ],
    "visibility": "public",
    "forks": 18,
    "open_issues": 2,
@@ -3549,6 +3812,14 @@
    "open_issues_count": 2,
    "license": null,
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "http-service",
+    "sample",
+    "sample-code",
+    "sap-cloud-platform"
+   ],
    "visibility": "public",
    "forks": 13,
    "open_issues": 2,
@@ -3690,6 +3961,14 @@
    "open_issues_count": 0,
    "license": null,
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-oo",
+    "object-oriented",
+    "sample",
+    "sample-code"
+   ],
    "visibility": "public",
    "forks": 25,
    "open_issues": 0,
@@ -3832,6 +4111,13 @@
    "open_issues_count": 1,
    "license": null,
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "json",
+    "sample",
+    "sample-code"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 1,
@@ -3974,6 +4260,13 @@
    "open_issues_count": 0,
    "license": null,
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "sample",
+    "sample-code",
+    "sap-cloud-platform"
+   ],
    "visibility": "public",
    "forks": 6,
    "open_issues": 0,
@@ -4114,6 +4407,15 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-environment",
+    "exchange-rates",
+    "sample",
+    "sample-code",
+    "sap-btp-abap"
+   ],
    "visibility": "public",
    "forks": 3,
    "open_issues": 1,
@@ -4261,6 +4563,18 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-environment",
+    "abap-restful",
+    "odata",
+    "rap",
+    "sample",
+    "sample-code",
+    "sap-btp",
+    "sap-btp-abap"
+   ],
    "visibility": "public",
    "forks": 17,
    "open_issues": 2,
@@ -4372,7 +4686,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2021-09-21T22:13:44Z",
+   "updated_at": "2021-10-06T16:44:56Z",
    "pushed_at": "2021-09-30T18:01:25Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -4401,6 +4715,19 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "atc",
+    "check",
+    "clean-code",
+    "code-inspector",
+    "inspector",
+    "open-source",
+    "quality",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 28,
    "open_issues": 49,
@@ -4541,6 +4868,10 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "open-source"
+   ],
    "visibility": "public",
    "forks": 3,
    "open_issues": 1,
@@ -4688,6 +5019,12 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap-development",
+    "abapgit",
+    "sap-namespace"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 2,
@@ -4839,6 +5176,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 7,
    "open_issues": 51,
@@ -4986,6 +5325,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 14,
    "open_issues": 2,
@@ -5126,6 +5467,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -5255,6 +5598,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 18,
    "open_issues": 4,
@@ -5382,6 +5727,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -5502,6 +5849,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "logs",
+    "sap-netweaver"
+   ],
    "visibility": "public",
    "forks": 4,
    "open_issues": 13,
@@ -5642,6 +5995,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "hacktoberfest",
+    "metrics",
+    "sap-netweaver"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 31,
@@ -5782,6 +6142,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "sap-netweaver",
+    "traces"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 3,
@@ -5922,6 +6288,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "openapi",
+    "swagger"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 7,
@@ -6062,6 +6434,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "jwt",
+    "jwt-bearer-tokens",
+    "jwt-token",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 3,
    "open_issues": 1,
@@ -6075,6 +6455,112 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "template_repository": {
+    "id": 262467752,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyNjI0Njc3NTI=",
+    "name": "abap_template",
+    "full_name": "abapChaoLiu/abap_template",
+    "private": false,
+    "owner": {
+     "login": "abapChaoLiu",
+     "id": 48561271,
+     "node_id": "MDQ6VXNlcjQ4NTYxMjcx",
+     "avatar_url": "https://avatars.githubusercontent.com/u/48561271?v=4",
+     "gravatar_id": "",
+     "url": "https://api.github.com/users/abapChaoLiu",
+     "html_url": "https://github.com/abapChaoLiu",
+     "followers_url": "https://api.github.com/users/abapChaoLiu/followers",
+     "following_url": "https://api.github.com/users/abapChaoLiu/following{/other_user}",
+     "gists_url": "https://api.github.com/users/abapChaoLiu/gists{/gist_id}",
+     "starred_url": "https://api.github.com/users/abapChaoLiu/starred{/owner}{/repo}",
+     "subscriptions_url": "https://api.github.com/users/abapChaoLiu/subscriptions",
+     "organizations_url": "https://api.github.com/users/abapChaoLiu/orgs",
+     "repos_url": "https://api.github.com/users/abapChaoLiu/repos",
+     "events_url": "https://api.github.com/users/abapChaoLiu/events{/privacy}",
+     "received_events_url": "https://api.github.com/users/abapChaoLiu/received_events",
+     "type": "User",
+     "site_admin": false
+    },
+    "html_url": "https://github.com/abapChaoLiu/abap_template",
+    "description": "abap repo template",
+    "fork": false,
+    "url": "https://api.github.com/repos/abapChaoLiu/abap_template",
+    "forks_url": "https://api.github.com/repos/abapChaoLiu/abap_template/forks",
+    "keys_url": "https://api.github.com/repos/abapChaoLiu/abap_template/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/abapChaoLiu/abap_template/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/abapChaoLiu/abap_template/teams",
+    "hooks_url": "https://api.github.com/repos/abapChaoLiu/abap_template/hooks",
+    "issue_events_url": "https://api.github.com/repos/abapChaoLiu/abap_template/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/abapChaoLiu/abap_template/events",
+    "assignees_url": "https://api.github.com/repos/abapChaoLiu/abap_template/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/abapChaoLiu/abap_template/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/abapChaoLiu/abap_template/tags",
+    "blobs_url": "https://api.github.com/repos/abapChaoLiu/abap_template/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/abapChaoLiu/abap_template/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/abapChaoLiu/abap_template/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/abapChaoLiu/abap_template/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/abapChaoLiu/abap_template/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/abapChaoLiu/abap_template/languages",
+    "stargazers_url": "https://api.github.com/repos/abapChaoLiu/abap_template/stargazers",
+    "contributors_url": "https://api.github.com/repos/abapChaoLiu/abap_template/contributors",
+    "subscribers_url": "https://api.github.com/repos/abapChaoLiu/abap_template/subscribers",
+    "subscription_url": "https://api.github.com/repos/abapChaoLiu/abap_template/subscription",
+    "commits_url": "https://api.github.com/repos/abapChaoLiu/abap_template/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/abapChaoLiu/abap_template/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/abapChaoLiu/abap_template/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/abapChaoLiu/abap_template/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/abapChaoLiu/abap_template/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/abapChaoLiu/abap_template/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/abapChaoLiu/abap_template/merges",
+    "archive_url": "https://api.github.com/repos/abapChaoLiu/abap_template/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/abapChaoLiu/abap_template/downloads",
+    "issues_url": "https://api.github.com/repos/abapChaoLiu/abap_template/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/abapChaoLiu/abap_template/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/abapChaoLiu/abap_template/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/abapChaoLiu/abap_template/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/abapChaoLiu/abap_template/labels{/name}",
+    "releases_url": "https://api.github.com/repos/abapChaoLiu/abap_template/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/abapChaoLiu/abap_template/deployments",
+    "created_at": "2020-05-09T01:59:55Z",
+    "updated_at": "2020-05-09T13:37:01Z",
+    "pushed_at": "2020-05-09T13:36:59Z",
+    "git_url": "git://github.com/abapChaoLiu/abap_template.git",
+    "ssh_url": "git@github.com:abapChaoLiu/abap_template.git",
+    "clone_url": "https://github.com/abapChaoLiu/abap_template.git",
+    "svn_url": "https://github.com/abapChaoLiu/abap_template",
+    "homepage": null,
+    "size": 8,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": null,
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": true,
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "master",
+    "permissions": {
+     "admin": false,
+     "maintain": false,
+     "push": false,
+     "triage": false,
+     "pull": false
+    },
+    "temp_clone_token": ""
+   },
    "network_count": 3,
    "subscribers_count": 1
   }
@@ -6182,6 +6668,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -6311,6 +6802,10 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abapgit"
+   ],
    "visibility": "public",
    "forks": 9,
    "open_issues": 15,
@@ -6349,7 +6844,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 129482,
+  "lines": 129520,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.15",
@@ -6422,27 +6917,27 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-10-06T06:04:12Z",
-   "pushed_at": "2021-10-06T06:05:28Z",
+   "updated_at": "2021-10-07T08:10:45Z",
+   "pushed_at": "2021-10-07T08:16:24Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 19241,
-   "stargazers_count": 911,
-   "watchers_count": 911,
+   "size": 19345,
+   "stargazers_count": 913,
+   "watchers_count": 913,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 411,
+   "forks_count": 412,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 198,
+   "open_issues_count": 197,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6451,10 +6946,20 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "git-client",
+    "hacktoberfest",
+    "platform",
+    "sap",
+    "sap-gui"
+   ],
    "visibility": "public",
-   "forks": 411,
-   "open_issues": 198,
-   "watchers": 911,
+   "forks": 412,
+   "open_issues": 197,
+   "watchers": 913,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -6484,7 +6989,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 411,
+   "network_count": 412,
    "subscribers_count": 111
   }
  },
@@ -6599,6 +7104,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit"
+   ],
    "visibility": "public",
    "forks": 4,
    "open_issues": 3,
@@ -6739,6 +7249,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abapgit",
+    "continuous-delivery",
+    "continuous-integration",
+    "continuous-testing"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 4,
@@ -6887,6 +7404,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "constants",
+    "library",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 8,
@@ -7027,6 +7552,15 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "blame",
+    "git",
+    "git-blame",
+    "sap",
+    "versioning"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 20,
@@ -7176,6 +7710,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 5,
    "open_issues": 0,
@@ -7296,6 +7832,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-test-cockpit",
+    "abaplint",
+    "code-inspector",
+    "hacktoberfest"
+   ],
    "visibility": "public",
    "forks": 8,
    "open_issues": 13,
@@ -7436,6 +7980,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 1,
@@ -7556,6 +8102,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "machine-learning",
+    "sap",
+    "teachable-machine"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 1,
@@ -7685,6 +8238,15 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "firebase",
+    "firebase-auth",
+    "firebase-database",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 4,
    "open_issues": 1,
@@ -7805,6 +8367,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -7952,6 +8516,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "pwnedpasswords"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -8072,6 +8641,8 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -8192,6 +8763,8 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -8319,6 +8892,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 5,
    "open_issues": 0,
@@ -8439,6 +9014,15 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "json",
+    "options",
+    "sap",
+    "sapui5"
+   ],
    "visibility": "public",
    "forks": 6,
    "open_issues": 1,
@@ -8457,7 +9041,7 @@
   }
  },
  "bizhuka/eui": {
-  "lines": 12163,
+  "lines": 12169,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.15",
@@ -8530,14 +9114,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/eui/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/eui/deployments",
    "created_at": "2020-04-10T06:05:31Z",
-   "updated_at": "2021-10-03T11:36:15Z",
-   "pushed_at": "2021-10-03T11:36:12Z",
+   "updated_at": "2021-10-07T06:36:20Z",
+   "pushed_at": "2021-10-07T06:36:18Z",
    "git_url": "git://github.com/bizhuka/eui.git",
    "ssh_url": "git@github.com:bizhuka/eui.git",
    "clone_url": "https://github.com/bizhuka/eui.git",
    "svn_url": "https://github.com/bizhuka/eui",
    "homepage": "https://bizhuka.github.io/eui/",
-   "size": 824,
+   "size": 833,
    "stargazers_count": 31,
    "watchers_count": 31,
    "language": "ABAP",
@@ -8559,6 +9143,13 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "sap",
+    "user-interface"
+   ],
    "visibility": "public",
    "forks": 4,
    "open_issues": 0,
@@ -8679,6 +9270,15 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "office",
+    "sap",
+    "template",
+    "xml"
+   ],
    "visibility": "public",
    "forks": 6,
    "open_issues": 0,
@@ -8799,6 +9399,11 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "bopf"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -8919,6 +9524,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -9046,6 +9653,8 @@
     "node_id": "MDc6TGljZW5zZTQ="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 6,
    "open_issues": 2,
@@ -9186,6 +9795,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 4,
@@ -9306,6 +9917,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -9435,6 +10048,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -9544,6 +10159,8 @@
      "node_id": "MDc6TGljZW5zZTEz"
     },
     "allow_forking": true,
+    "is_template": false,
+    "topics": [],
     "visibility": "public",
     "forks": 1,
     "open_issues": 2,
@@ -9646,6 +10263,8 @@
      "node_id": "MDc6TGljZW5zZTEz"
     },
     "allow_forking": true,
+    "is_template": false,
+    "topics": [],
     "visibility": "public",
     "forks": 1,
     "open_issues": 2,
@@ -9766,6 +10385,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -9894,6 +10515,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 31,
    "open_issues": 3,
@@ -10021,6 +10644,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -10148,6 +10773,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -10281,6 +10908,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -10408,6 +11037,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -10528,6 +11159,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -10648,6 +11281,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 4,
    "open_issues": 0,
@@ -10768,6 +11403,15 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "latitude",
+    "longitude",
+    "openlocationcode",
+    "pluscode",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -10895,6 +11539,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "koans"
+   ],
    "visibility": "public",
    "forks": 7,
    "open_issues": 0,
@@ -11015,6 +11664,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -11142,6 +11793,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 9,
    "open_issues": 10,
@@ -11269,6 +11922,11 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 0,
@@ -11389,6 +12047,12 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 4,
    "open_issues": 1,
@@ -11516,6 +12180,13 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "json",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 18,
    "open_issues": 0,
@@ -11651,6 +12322,13 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "open-source",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 39,
    "open_issues": 4,
@@ -11771,6 +12449,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-log",
+    "abapgit",
+    "sap",
+    "zalog"
+   ],
    "visibility": "public",
    "forks": 13,
    "open_issues": 1,
@@ -11898,6 +12584,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 3,
@@ -12025,6 +12713,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 1,
@@ -12145,6 +12835,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "debugger-script",
+    "regression-tests"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 2,
@@ -12272,6 +12968,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -12399,6 +13097,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "gateway",
+    "netweaver",
+    "sap-netweaver"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -12527,6 +13232,12 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapplatform",
+    "platform"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 1,
@@ -12654,6 +13365,11 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "platform"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -12781,6 +13497,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -12901,6 +13619,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 15,
    "open_issues": 6,
@@ -13021,6 +13741,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "datavalidation",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 7,
    "open_issues": 1,
@@ -13141,6 +13867,12 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "logger",
+    "rfc"
+   ],
    "visibility": "public",
    "forks": 11,
    "open_issues": 3,
@@ -13261,6 +13993,13 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "blowfish",
+    "encryption",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 1,
@@ -13381,6 +14120,13 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "geohash",
+    "sap",
+    "utilities"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -13501,6 +14247,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -13621,6 +14369,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -13748,6 +14498,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit"
+   ],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -13868,6 +14623,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 4,
    "open_issues": 3,
@@ -14015,6 +14772,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 8,
    "open_issues": 0,
@@ -14142,6 +14901,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -14273,6 +15034,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "cds",
+    "fiori",
+    "sapui5"
+   ],
    "visibility": "public",
    "forks": 14,
    "open_issues": 1,
@@ -14393,6 +15161,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -14513,6 +15283,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-development"
+   ],
    "visibility": "public",
    "forks": 6,
    "open_issues": 1,
@@ -14633,6 +15408,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 1,
@@ -14753,6 +15530,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 5,
    "open_issues": 0,
@@ -14873,6 +15652,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -15000,6 +15781,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "markdown",
+    "markdown-parser"
+   ],
    "visibility": "public",
    "forks": 11,
    "open_issues": 1,
@@ -15127,6 +15914,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 9,
    "open_issues": 3,
@@ -15255,6 +16044,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "openapi",
+    "openapi-server",
+    "swagger"
+   ],
    "visibility": "public",
    "forks": 29,
    "open_issues": 21,
@@ -15382,6 +16178,10 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "datamatrix"
+   ],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -15509,6 +16309,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 5,
    "open_issues": 2,
@@ -15629,6 +16431,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "wasm",
+    "webassembly"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 6,
@@ -15756,6 +16564,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 3,
    "open_issues": 7,
@@ -15884,6 +16694,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "git",
+    "git-server"
+   ],
    "visibility": "public",
    "forks": 19,
    "open_issues": 55,
@@ -16009,6 +16826,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "ntlm"
+   ],
    "visibility": "public",
    "forks": 4,
    "open_issues": 1,
@@ -16137,6 +16959,16 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-code-inspector",
+    "abap-test-cockpit",
+    "abapgit",
+    "platform",
+    "sap",
+    "sap-code-inspector"
+   ],
    "visibility": "public",
    "forks": 57,
    "open_issues": 297,
@@ -16265,6 +17097,11 @@
     "node_id": "MDc6TGljZW5zZTg="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "code-review"
+   ],
    "visibility": "public",
    "forks": 6,
    "open_issues": 27,
@@ -16389,6 +17226,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 3,
@@ -16517,6 +17356,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "openpgp",
+    "pgp"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 9,
@@ -16644,6 +17489,10 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 3,
@@ -16770,6 +17619,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap-code-inspector",
+    "abap-test-cockpit",
+    "sap-code-inspector"
+   ],
    "visibility": "public",
    "forks": 10,
    "open_issues": 8,
@@ -16897,6 +17752,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -17024,6 +17881,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 1,
@@ -17144,6 +18003,8 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -17271,6 +18132,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -17391,6 +18254,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "xlsx"
+   ],
    "visibility": "public",
    "forks": 4,
    "open_issues": 0,
@@ -17522,6 +18391,15 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-scheme",
+    "lisp-interpreter",
+    "sap-netweaver",
+    "scheme-interpreter",
+    "workbench"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 5,
@@ -17653,6 +18531,11 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-debugger"
+   ],
    "visibility": "public",
    "forks": 9,
    "open_issues": 4,
@@ -17801,6 +18684,10 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 0,
@@ -17948,6 +18835,10 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -18088,6 +18979,8 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -18228,6 +19121,8 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -18375,6 +19270,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -18502,6 +19403,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -18629,6 +19532,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 6,
    "open_issues": 3,
@@ -18749,6 +19654,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "analitycs",
+    "bw",
+    "sap",
+    "sapbw"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -18878,6 +19791,15 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "analitycs",
+    "bw",
+    "hacktoberfest",
+    "sap",
+    "sapbw"
+   ],
    "visibility": "public",
    "forks": 9,
    "open_issues": 2,
@@ -19005,6 +19927,15 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "analitycs",
+    "bw",
+    "hacktoberfest",
+    "sap",
+    "sapbw"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -19133,6 +20064,12 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "rss-feed"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 1,
@@ -19253,6 +20190,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -19381,6 +20320,15 @@
     "node_id": "MDc6TGljZW5zZTg="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "raytracer",
+    "raytracing",
+    "render",
+    "renderer",
+    "rendering"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 5,
@@ -19508,6 +20456,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -19628,6 +20578,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "button",
+    "html",
+    "open-source",
+    "opensource"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -19758,6 +20716,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "bugtracker",
+    "sap",
+    "training"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 2,
@@ -19886,6 +20851,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "custom-code",
+    "interface",
+    "monitor",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 1,
@@ -20006,6 +20979,8 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -20133,6 +21108,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -20253,6 +21230,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -20373,6 +21352,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -20493,14 +21478,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-10-06T06:08:14Z",
-   "pushed_at": "2021-10-06T06:47:23Z",
+   "updated_at": "2021-10-07T04:33:52Z",
+   "pushed_at": "2021-10-07T06:42:41Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 26197,
+   "size": 26290,
    "stargazers_count": 392,
    "watchers_count": 392,
    "language": "ABAP",
@@ -20513,7 +21498,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 133,
+   "open_issues_count": 131,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -20522,9 +21507,25 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "backend",
+    "erp",
+    "excel",
+    "excel-export",
+    "excel-import",
+    "excelgenerator",
+    "excelreader",
+    "excelwriter",
+    "hacktoberfest",
+    "open-source",
+    "sap",
+    "sap-netweaver"
+   ],
    "visibility": "public",
    "forks": 200,
-   "open_issues": 133,
+   "open_issues": 131,
    "watchers": 392,
    "default_branch": "master",
    "permissions": {
@@ -20556,7 +21557,7 @@
     "site_admin": false
    },
    "network_count": 200,
-   "subscribers_count": 77
+   "subscribers_count": 76
   }
  },
  "sbcgua/abap-string-map": {
@@ -20662,6 +21663,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 1,
@@ -20790,6 +21793,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -20919,6 +21924,10 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 1,
@@ -21046,6 +22055,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-mustache",
+    "mustache",
+    "sap",
+    "templating"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 2,
@@ -21173,6 +22190,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 5,
    "open_issues": 1,
@@ -21293,6 +22315,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 6,
    "open_issues": 10,
@@ -21413,6 +22437,15 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "data-preparation",
+    "mockup-loader",
+    "sap",
+    "test-automation",
+    "unit-testing"
+   ],
    "visibility": "public",
    "forks": 15,
    "open_issues": 10,
@@ -21533,6 +22566,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-data-parser",
+    "hacktoberfest",
+    "parsing",
+    "text-parser"
+   ],
    "visibility": "public",
    "forks": 7,
    "open_issues": 3,
@@ -21653,6 +22694,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 2,
@@ -21780,6 +22823,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 1,
    "open_issues": 2,
@@ -21908,6 +22953,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 6,
    "open_issues": 1,
@@ -22036,6 +23083,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 17,
    "open_issues": 3,
@@ -22156,6 +23205,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -22284,6 +23335,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "analysis",
+    "sapgui",
+    "search",
+    "tools"
+   ],
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
@@ -22404,6 +23462,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "adt",
+    "on-premise",
+    "search"
+   ],
    "visibility": "public",
    "forks": 3,
    "open_issues": 1,
@@ -22524,6 +23588,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -22644,6 +23710,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "sap",
+    "variants"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -22771,6 +23844,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-di",
+    "dependency-injection-container"
+   ],
    "visibility": "public",
    "forks": 0,
    "open_issues": 2,
@@ -22891,6 +23970,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 4,
    "open_issues": 2,
@@ -23018,6 +24099,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -23145,6 +24228,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "selection-screen"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -23272,6 +24360,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -23399,6 +24489,13 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "game",
+    "hangman",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
@@ -23526,6 +24623,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -23653,6 +24752,8 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -23773,6 +24874,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 1,
@@ -23900,6 +25003,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 4,
    "open_issues": 0,
@@ -24040,6 +25145,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "alv-grid",
+    "table-maintenance"
+   ],
    "visibility": "public",
    "forks": 6,
    "open_issues": 11,
@@ -24188,6 +25298,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -24335,6 +25447,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 3,
    "open_issues": 5,
@@ -24503,6 +25617,8 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 5,
    "open_issues": 5,
@@ -24623,6 +25739,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 1,
@@ -24743,6 +25861,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abap-concurrency-api",
+    "parallel-processing-in-abap"
+   ],
    "visibility": "public",
    "forks": 6,
    "open_issues": 1,
@@ -24863,6 +25987,12 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "pdf",
+    "spool"
+   ],
    "visibility": "public",
    "forks": 1,
    "open_issues": 1,
@@ -24983,6 +26113,17 @@
     "node_id": "MDc6TGljZW5zZTI="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "abapgit",
+    "netweaver",
+    "s4hana",
+    "sap",
+    "sap-watson",
+    "watson",
+    "watson-developer-cloud"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
@@ -25123,6 +26264,8 @@
     "node_id": "MDc6TGljZW5zZTk="
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -25243,6 +26386,14 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "aunit",
+    "ci-cd",
+    "coverage",
+    "tdd"
+   ],
    "visibility": "public",
    "forks": 2,
    "open_issues": 1,
@@ -25363,6 +26514,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 2,
    "open_issues": 3,
@@ -25490,6 +26643,11 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "sap-hr"
+   ],
    "visibility": "public",
    "forks": 3,
    "open_issues": 1,
@@ -25610,6 +26768,8 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [],
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
@@ -25730,6 +26890,17 @@
     "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
+   "is_template": false,
+   "topics": [
+    "abap",
+    "data",
+    "erp",
+    "hcm",
+    "sap",
+    "sde",
+    "se16n",
+    "viewer"
+   ],
    "visibility": "public",
    "forks": 14,
    "open_issues": 0,
