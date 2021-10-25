@@ -7221,7 +7221,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 198,
+   "open_issues_count": 199,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7242,7 +7242,7 @@
    ],
    "visibility": "public",
    "forks": 414,
-   "open_issues": 198,
+   "open_issues": 199,
    "watchers": 920,
    "default_branch": "main",
    "permissions": {
@@ -19194,7 +19194,7 @@
   }
  },
  "mkysoft/zstrust": {
-  "lines": 283,
+  "lines": 309,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.30",
@@ -19267,16 +19267,16 @@
    "releases_url": "https://api.github.com/repos/mkysoft/zstrust/releases{/id}",
    "deployments_url": "https://api.github.com/repos/mkysoft/zstrust/deployments",
    "created_at": "2021-10-22T12:52:38Z",
-   "updated_at": "2021-10-22T17:44:41Z",
-   "pushed_at": "2021-10-22T13:22:16Z",
+   "updated_at": "2021-10-24T21:09:12Z",
+   "pushed_at": "2021-10-24T21:09:10Z",
    "git_url": "git://github.com/mkysoft/zstrust.git",
    "ssh_url": "git@github.com:mkysoft/zstrust.git",
    "clone_url": "https://github.com/mkysoft/zstrust.git",
    "svn_url": "https://github.com/mkysoft/zstrust",
    "homepage": null,
-   "size": 9,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "size": 12,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -19287,7 +19287,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -19300,8 +19300,8 @@
    "topics": [],
    "visibility": "public",
    "forks": 1,
-   "open_issues": 0,
-   "watchers": 1,
+   "open_issues": 1,
+   "watchers": 3,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -22681,7 +22681,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 48090,
+  "lines": 48407,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -22694,7 +22694,7 @@
   ],
   "parsing": {
    "version": "2.79.30",
-   "cloud": 865
+   "cloud": 870
   },
   "repo": {
    "id": 15457787,
@@ -22763,14 +22763,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-10-24T01:40:15Z",
-   "pushed_at": "2021-10-19T14:57:19Z",
+   "updated_at": "2021-10-25T07:16:24Z",
+   "pushed_at": "2021-10-24T17:17:14Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 26382,
+   "size": 26226,
    "stargazers_count": 396,
    "watchers_count": 396,
    "language": "ABAP",
@@ -22783,7 +22783,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 121,
+   "open_issues_count": 115,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -22810,7 +22810,7 @@
    ],
    "visibility": "public",
    "forks": 201,
-   "open_issues": 121,
+   "open_issues": 115,
    "watchers": 396,
    "default_branch": "master",
    "permissions": {
@@ -24591,7 +24591,7 @@
    "releases_url": "https://api.github.com/repos/stockbal/abap-db-browser/releases{/id}",
    "deployments_url": "https://api.github.com/repos/stockbal/abap-db-browser/deployments",
    "created_at": "2019-11-19T20:22:00Z",
-   "updated_at": "2021-10-02T22:19:48Z",
+   "updated_at": "2021-10-24T08:51:47Z",
    "pushed_at": "2021-06-22T19:28:16Z",
    "git_url": "git://github.com/stockbal/abap-db-browser.git",
    "ssh_url": "git@github.com:stockbal/abap-db-browser.git",
@@ -24599,8 +24599,8 @@
    "svn_url": "https://github.com/stockbal/abap-db-browser",
    "homepage": "",
    "size": 2567,
-   "stargazers_count": 8,
-   "watchers_count": 8,
+   "stargazers_count": 9,
+   "watchers_count": 9,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -24630,7 +24630,7 @@
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
-   "watchers": 8,
+   "watchers": 9,
    "default_branch": "main",
    "permissions": {
     "admin": false,
