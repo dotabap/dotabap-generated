@@ -7128,7 +7128,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 131655,
+  "lines": 131684,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.35",
@@ -7201,16 +7201,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-11-04T05:40:23Z",
-   "pushed_at": "2021-11-04T05:40:39Z",
+   "updated_at": "2021-11-05T07:28:27Z",
+   "pushed_at": "2021-11-05T08:14:26Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 19496,
-   "stargazers_count": 924,
-   "watchers_count": 924,
+   "size": 19619,
+   "stargazers_count": 923,
+   "watchers_count": 923,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7221,7 +7221,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 206,
+   "open_issues_count": 202,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7242,8 +7242,8 @@
    ],
    "visibility": "public",
    "forks": 414,
-   "open_issues": 206,
-   "watchers": 924,
+   "open_issues": 202,
+   "watchers": 923,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -7274,7 +7274,7 @@
     "site_admin": false
    },
    "network_count": 414,
-   "subscribers_count": 111
+   "subscribers_count": 110
   }
  },
  "abapGit/background_modes": {
@@ -9828,7 +9828,7 @@
   }
  },
  "boy0korea/ABAP2XLSX_HELPER": {
-  "lines": 2818,
+  "lines": 2839,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.35",
@@ -9901,14 +9901,14 @@
    "releases_url": "https://api.github.com/repos/boy0korea/ABAP2XLSX_HELPER/releases{/id}",
    "deployments_url": "https://api.github.com/repos/boy0korea/ABAP2XLSX_HELPER/deployments",
    "created_at": "2021-06-11T14:40:05Z",
-   "updated_at": "2021-10-13T06:15:40Z",
-   "pushed_at": "2021-10-12T08:46:09Z",
+   "updated_at": "2021-11-05T04:01:07Z",
+   "pushed_at": "2021-11-05T04:01:04Z",
    "git_url": "git://github.com/boy0korea/ABAP2XLSX_HELPER.git",
    "ssh_url": "git@github.com:boy0korea/ABAP2XLSX_HELPER.git",
    "clone_url": "https://github.com/boy0korea/ABAP2XLSX_HELPER.git",
    "svn_url": "https://github.com/boy0korea/ABAP2XLSX_HELPER",
    "homepage": "",
-   "size": 338,
+   "size": 355,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -9963,11 +9963,11 @@
   }
  },
  "boy0korea/ZFPM_TOOLS": {
-  "lines": 4935,
+  "lines": 4766,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.35",
-   "cloud": 92
+   "cloud": 89
   },
   "repo": {
    "id": 411178159,
@@ -10036,14 +10036,14 @@
    "releases_url": "https://api.github.com/repos/boy0korea/ZFPM_TOOLS/releases{/id}",
    "deployments_url": "https://api.github.com/repos/boy0korea/ZFPM_TOOLS/deployments",
    "created_at": "2021-09-28T07:23:18Z",
-   "updated_at": "2021-10-26T01:37:28Z",
-   "pushed_at": "2021-10-26T01:37:26Z",
+   "updated_at": "2021-11-05T04:01:45Z",
+   "pushed_at": "2021-11-05T04:01:42Z",
    "git_url": "git://github.com/boy0korea/ZFPM_TOOLS.git",
    "ssh_url": "git@github.com:boy0korea/ZFPM_TOOLS.git",
    "clone_url": "https://github.com/boy0korea/ZFPM_TOOLS.git",
    "svn_url": "https://github.com/boy0korea/ZFPM_TOOLS",
    "homepage": "",
-   "size": 233,
+   "size": 260,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -10088,7 +10088,7 @@
   }
  },
  "boy0korea/ZWD_CALENDAR_VH": {
-  "lines": 495,
+  "lines": 501,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.35",
@@ -10161,14 +10161,14 @@
    "releases_url": "https://api.github.com/repos/boy0korea/ZWD_CALENDAR_VH/releases{/id}",
    "deployments_url": "https://api.github.com/repos/boy0korea/ZWD_CALENDAR_VH/deployments",
    "created_at": "2021-07-02T06:52:10Z",
-   "updated_at": "2021-08-20T07:18:27Z",
-   "pushed_at": "2021-08-20T07:18:25Z",
+   "updated_at": "2021-11-05T04:05:45Z",
+   "pushed_at": "2021-11-05T04:05:43Z",
    "git_url": "git://github.com/boy0korea/ZWD_CALENDAR_VH.git",
    "ssh_url": "git@github.com:boy0korea/ZWD_CALENDAR_VH.git",
    "clone_url": "https://github.com/boy0korea/ZWD_CALENDAR_VH.git",
    "svn_url": "https://github.com/boy0korea/ZWD_CALENDAR_VH",
    "homepage": "",
-   "size": 116,
+   "size": 131,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -10213,7 +10213,7 @@
   }
  },
  "boy0korea/ZWD_CODE_SCANNER": {
-  "lines": 239,
+  "lines": 235,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.35",
@@ -10286,14 +10286,14 @@
    "releases_url": "https://api.github.com/repos/boy0korea/ZWD_CODE_SCANNER/releases{/id}",
    "deployments_url": "https://api.github.com/repos/boy0korea/ZWD_CODE_SCANNER/deployments",
    "created_at": "2021-08-24T06:04:59Z",
-   "updated_at": "2021-08-30T02:09:13Z",
-   "pushed_at": "2021-08-30T02:09:11Z",
+   "updated_at": "2021-11-05T04:06:11Z",
+   "pushed_at": "2021-11-05T04:06:08Z",
    "git_url": "git://github.com/boy0korea/ZWD_CODE_SCANNER.git",
    "ssh_url": "git@github.com:boy0korea/ZWD_CODE_SCANNER.git",
    "clone_url": "https://github.com/boy0korea/ZWD_CODE_SCANNER.git",
    "svn_url": "https://github.com/boy0korea/ZWD_CODE_SCANNER",
    "homepage": null,
-   "size": 5,
+   "size": 8,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -10335,11 +10335,11 @@
   }
  },
  "boy0korea/abap2json": {
-  "lines": 2446,
+  "lines": 1620,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.79.35",
-   "cloud": 32
+   "cloud": 28
   },
   "repo": {
    "id": 382879494,
@@ -10408,14 +10408,14 @@
    "releases_url": "https://api.github.com/repos/boy0korea/abap2json/releases{/id}",
    "deployments_url": "https://api.github.com/repos/boy0korea/abap2json/deployments",
    "created_at": "2021-07-04T15:01:33Z",
-   "updated_at": "2021-10-12T06:27:58Z",
-   "pushed_at": "2021-10-12T06:29:58Z",
+   "updated_at": "2021-11-05T04:00:15Z",
+   "pushed_at": "2021-11-05T04:00:12Z",
    "git_url": "git://github.com/boy0korea/abap2json.git",
    "ssh_url": "git@github.com:boy0korea/abap2json.git",
    "clone_url": "https://github.com/boy0korea/abap2json.git",
    "svn_url": "https://github.com/boy0korea/abap2json",
    "homepage": "",
-   "size": 85,
+   "size": 92,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -19693,7 +19693,7 @@
    "releases_url": "https://api.github.com/repos/oliverit/express.abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/oliverit/express.abap/deployments",
    "created_at": "2017-06-09T12:14:25Z",
-   "updated_at": "2021-05-20T13:16:19Z",
+   "updated_at": "2021-11-05T00:52:23Z",
    "pushed_at": "2020-02-19T13:18:32Z",
    "git_url": "git://github.com/oliverit/express.abap.git",
    "ssh_url": "git@github.com:oliverit/express.abap.git",
@@ -19701,8 +19701,8 @@
    "svn_url": "https://github.com/oliverit/express.abap",
    "homepage": null,
    "size": 35,
-   "stargazers_count": 17,
-   "watchers_count": 17,
+   "stargazers_count": 18,
+   "watchers_count": 18,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -19729,7 +19729,7 @@
    "visibility": "public",
    "forks": 5,
    "open_issues": 0,
-   "watchers": 17,
+   "watchers": 18,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -22681,7 +22681,7 @@
   }
  },
  "sapmentors/abap2xlsx": {
-  "lines": 50452,
+  "lines": 50486,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -22763,14 +22763,14 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-11-04T05:37:09Z",
-   "pushed_at": "2021-11-04T05:38:19Z",
+   "updated_at": "2021-11-05T04:14:31Z",
+   "pushed_at": "2021-11-05T07:41:09Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 26823,
+   "size": 26739,
    "stargazers_count": 401,
    "watchers_count": 401,
    "language": "ABAP",
@@ -22783,7 +22783,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 114,
+   "open_issues_count": 113,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -22810,7 +22810,7 @@
    ],
    "visibility": "public",
    "forks": 202,
-   "open_issues": 114,
+   "open_issues": 113,
    "watchers": 401,
    "default_branch": "master",
    "permissions": {
@@ -22842,7 +22842,7 @@
     "site_admin": false
    },
    "network_count": 202,
-   "subscribers_count": 71
+   "subscribers_count": 70
   }
  },
  "sbcgua/abap-string-map": {
