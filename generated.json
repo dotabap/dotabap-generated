@@ -4687,13 +4687,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
    "updated_at": "2021-11-09T11:10:34Z",
-   "pushed_at": "2021-11-09T19:41:30Z",
+   "pushed_at": "2021-11-10T12:47:35Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 3311,
+   "size": 3339,
    "stargazers_count": 166,
    "watchers_count": 166,
    "language": "ABAP",
@@ -4706,7 +4706,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 43,
+   "open_issues_count": 46,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -4730,7 +4730,7 @@
    ],
    "visibility": "public",
    "forks": 32,
-   "open_issues": 43,
+   "open_issues": 46,
    "watchers": 166,
    "default_branch": "master",
    "permissions": {
@@ -4762,7 +4762,7 @@
     "site_admin": false
    },
    "network_count": 32,
-   "subscribers_count": 14
+   "subscribers_count": 13
   }
  },
  "SAP/ewm-cloud-robotics-s4": {
@@ -6781,7 +6781,7 @@
    "releases_url": "https://api.github.com/repos/abapChaoLiu/abap_seltab_to_where/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapChaoLiu/abap_seltab_to_where/deployments",
    "created_at": "2019-03-19T22:08:22Z",
-   "updated_at": "2021-05-24T13:06:19Z",
+   "updated_at": "2021-11-10T10:15:38Z",
    "pushed_at": "2020-11-02T15:15:26Z",
    "git_url": "git://github.com/abapChaoLiu/abap_seltab_to_where.git",
    "ssh_url": "git@github.com:abapChaoLiu/abap_seltab_to_where.git",
@@ -6789,8 +6789,8 @@
    "svn_url": "https://github.com/abapChaoLiu/abap_seltab_to_where",
    "homepage": "",
    "size": 42,
-   "stargazers_count": 7,
-   "watchers_count": 7,
+   "stargazers_count": 8,
+   "watchers_count": 8,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -6818,7 +6818,7 @@
    "visibility": "public",
    "forks": 2,
    "open_issues": 1,
-   "watchers": 7,
+   "watchers": 8,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7128,7 +7128,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 131870,
+  "lines": 131918,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.80.8",
@@ -7201,16 +7201,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-11-10T06:05:58Z",
-   "pushed_at": "2021-11-09T22:26:58Z",
+   "updated_at": "2021-11-10T17:42:12Z",
+   "pushed_at": "2021-11-11T08:05:57Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 19912,
-   "stargazers_count": 926,
-   "watchers_count": 926,
+   "size": 19872,
+   "stargazers_count": 927,
+   "watchers_count": 927,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7221,7 +7221,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 195,
+   "open_issues_count": 193,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7242,8 +7242,8 @@
    ],
    "visibility": "public",
    "forks": 414,
-   "open_issues": 195,
-   "watchers": 926,
+   "open_issues": 193,
+   "watchers": 927,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -9269,14 +9269,14 @@
    "releases_url": "https://api.github.com/repos/bizhuka/aqo/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/aqo/deployments",
    "created_at": "2018-03-14T04:02:03Z",
-   "updated_at": "2021-11-04T07:19:46Z",
-   "pushed_at": "2021-11-04T07:19:44Z",
+   "updated_at": "2021-11-11T06:51:56Z",
+   "pushed_at": "2021-11-11T06:51:53Z",
    "git_url": "git://github.com/bizhuka/aqo.git",
    "ssh_url": "git@github.com:bizhuka/aqo.git",
    "clone_url": "https://github.com/bizhuka/aqo.git",
    "svn_url": "https://github.com/bizhuka/aqo",
    "homepage": "https://bizhuka.github.io/aqo/",
-   "size": 3227,
+   "size": 3229,
    "stargazers_count": 14,
    "watchers_count": 14,
    "language": "ABAP",
@@ -9908,7 +9908,7 @@
    "clone_url": "https://github.com/boy0korea/ABAP2XLSX_HELPER.git",
    "svn_url": "https://github.com/boy0korea/ABAP2XLSX_HELPER",
    "homepage": "",
-   "size": 355,
+   "size": 370,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -14754,7 +14754,7 @@
    "releases_url": "https://api.github.com/repos/hhelibeb/abap-fm-logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hhelibeb/abap-fm-logger/deployments",
    "created_at": "2020-08-06T13:21:39Z",
-   "updated_at": "2021-10-20T06:27:35Z",
+   "updated_at": "2021-11-11T01:09:35Z",
    "pushed_at": "2021-10-20T06:27:32Z",
    "git_url": "git://github.com/hhelibeb/abap-fm-logger.git",
    "ssh_url": "git@github.com:hhelibeb/abap-fm-logger.git",
@@ -14762,8 +14762,8 @@
    "svn_url": "https://github.com/hhelibeb/abap-fm-logger",
    "homepage": "",
    "size": 71,
-   "stargazers_count": 32,
-   "watchers_count": 32,
+   "stargazers_count": 33,
+   "watchers_count": 33,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -14792,7 +14792,7 @@
    "visibility": "public",
    "forks": 12,
    "open_issues": 3,
-   "watchers": 32,
+   "watchers": 33,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -17899,7 +17899,7 @@
    },
    "temp_clone_token": "",
    "network_count": 57,
-   "subscribers_count": 31
+   "subscribers_count": 30
   }
  },
  "larshp/abapOpenReview": {
@@ -22842,7 +22842,7 @@
     "site_admin": false
    },
    "network_count": 202,
-   "subscribers_count": 70
+   "subscribers_count": 69
   }
  },
  "sbcgua/abap-string-map": {
