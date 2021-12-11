@@ -4693,13 +4693,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
    "updated_at": "2021-12-10T04:31:21Z",
-   "pushed_at": "2021-12-09T18:10:27Z",
+   "pushed_at": "2021-12-10T16:27:24Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 3196,
+   "size": 3256,
    "stargazers_count": 175,
    "watchers_count": 175,
    "language": "ABAP",
@@ -4712,7 +4712,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 41,
+   "open_issues_count": 42,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -4736,7 +4736,7 @@
    ],
    "visibility": "public",
    "forks": 35,
-   "open_issues": 41,
+   "open_issues": 42,
    "watchers": 175,
    "default_branch": "master",
    "permissions": {
@@ -5069,7 +5069,7 @@
   }
  },
  "SAP2Moose/SAP2Moose": {
-  "lines": 23487,
+  "lines": 23607,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -5153,14 +5153,14 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2021-12-07T11:55:39Z",
-   "pushed_at": "2021-09-28T11:40:53Z",
+   "updated_at": "2021-12-10T21:06:29Z",
+   "pushed_at": "2021-12-10T21:06:25Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
    "clone_url": "https://github.com/SAP2Moose/SAP2Moose.git",
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
-   "size": 4629,
+   "size": 4647,
    "stargazers_count": 30,
    "watchers_count": 30,
    "language": "ABAP",
@@ -5173,7 +5173,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 51,
+   "open_issues_count": 52,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -5186,7 +5186,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 7,
-   "open_issues": 51,
+   "open_issues": 52,
    "watchers": 30,
    "default_branch": "master",
    "permissions": {
@@ -7134,7 +7134,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 131989,
+  "lines": 132148,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.82.14",
@@ -7207,14 +7207,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-12-10T04:31:23Z",
-   "pushed_at": "2021-12-09T21:09:25Z",
+   "updated_at": "2021-12-11T06:30:54Z",
+   "pushed_at": "2021-12-11T07:46:54Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 20066,
+   "size": 19952,
    "stargazers_count": 942,
    "watchers_count": 942,
    "language": "ABAP",
@@ -7227,7 +7227,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 192,
+   "open_issues_count": 191,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7248,7 +7248,7 @@
    ],
    "visibility": "public",
    "forks": 418,
-   "open_issues": 192,
+   "open_issues": 191,
    "watchers": 942,
    "default_branch": "main",
    "permissions": {
@@ -7280,7 +7280,7 @@
     "site_admin": false
    },
    "network_count": 418,
-   "subscribers_count": 111
+   "subscribers_count": 112
   }
  },
  "abapGit/background_modes": {
@@ -13866,7 +13866,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -13886,7 +13886,7 @@
     "regression-tests"
    ],
    "visibility": "public",
-   "forks": 1,
+   "forks": 2,
    "open_issues": 2,
    "watchers": 4,
    "default_branch": "master",
@@ -13898,7 +13898,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 1
   }
  },
@@ -16472,7 +16472,7 @@
   }
  },
  "keremkoseoglu/addict": {
-  "lines": 9396,
+  "lines": 9394,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.82.14",
@@ -16545,14 +16545,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/addict/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/addict/deployments",
    "created_at": "2020-10-16T13:44:38Z",
-   "updated_at": "2021-11-26T12:49:19Z",
-   "pushed_at": "2021-11-26T12:49:15Z",
+   "updated_at": "2021-12-10T11:01:42Z",
+   "pushed_at": "2021-12-10T11:01:39Z",
    "git_url": "git://github.com/keremkoseoglu/addict.git",
    "ssh_url": "git@github.com:keremkoseoglu/addict.git",
    "clone_url": "https://github.com/keremkoseoglu/addict.git",
    "svn_url": "https://github.com/keremkoseoglu/addict",
    "homepage": null,
-   "size": 638,
+   "size": 648,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
@@ -16565,7 +16565,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -16578,7 +16578,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 5,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 7,
    "default_branch": "main",
    "permissions": {
@@ -17446,7 +17446,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abap-wasm/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abap-wasm/deployments",
    "created_at": "2019-12-27T10:59:08Z",
-   "updated_at": "2021-09-02T06:38:15Z",
+   "updated_at": "2021-12-10T11:18:13Z",
    "pushed_at": "2021-08-05T07:54:55Z",
    "git_url": "git://github.com/larshp/abap-wasm.git",
    "ssh_url": "git@github.com:larshp/abap-wasm.git",
@@ -17454,8 +17454,8 @@
    "svn_url": "https://github.com/larshp/abap-wasm",
    "homepage": "",
    "size": 177,
-   "stargazers_count": 10,
-   "watchers_count": 10,
+   "stargazers_count": 11,
+   "watchers_count": 11,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -17484,7 +17484,7 @@
    "visibility": "public",
    "forks": 0,
    "open_issues": 6,
-   "watchers": 10,
+   "watchers": 11,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -19684,7 +19684,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 9,
+   "forks_count": 10,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -19703,7 +19703,7 @@
     "abap-debugger"
    ],
    "visibility": "public",
-   "forks": 9,
+   "forks": 10,
    "open_issues": 4,
    "watchers": 18,
    "default_branch": "master",
@@ -19735,7 +19735,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 9,
+   "network_count": 10,
    "subscribers_count": 7
   }
  },
@@ -22891,16 +22891,16 @@
    "releases_url": "https://api.github.com/repos/sapmentors/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sapmentors/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-12-10T04:31:24Z",
-   "pushed_at": "2021-12-07T21:25:25Z",
+   "updated_at": "2021-12-10T21:39:23Z",
+   "pushed_at": "2021-12-10T20:20:46Z",
    "git_url": "git://github.com/sapmentors/abap2xlsx.git",
    "ssh_url": "git@github.com:sapmentors/abap2xlsx.git",
    "clone_url": "https://github.com/sapmentors/abap2xlsx.git",
    "svn_url": "https://github.com/sapmentors/abap2xlsx",
    "homepage": "https://github.com/sapmentors/abap2xlsx",
-   "size": 28488,
-   "stargazers_count": 416,
-   "watchers_count": 416,
+   "size": 28683,
+   "stargazers_count": 417,
+   "watchers_count": 417,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -22911,7 +22911,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 91,
+   "open_issues_count": 92,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -22938,8 +22938,8 @@
    ],
    "visibility": "public",
    "forks": 208,
-   "open_issues": 91,
-   "watchers": 416,
+   "open_issues": 92,
+   "watchers": 417,
    "default_branch": "master",
    "permissions": {
     "admin": false,
