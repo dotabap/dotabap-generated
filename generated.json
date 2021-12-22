@@ -511,7 +511,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 86,
+   "forks_count": 85,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -531,7 +531,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 86,
+   "forks": 85,
    "open_issues": 11,
    "watchers": 227,
    "default_branch": "main",
@@ -563,7 +563,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 86,
+   "network_count": 85,
    "subscribers_count": 32
   }
  },
@@ -1695,11 +1695,11 @@
   }
  },
  "DryDumbHead/easyHtmlEmail": {
-  "lines": 663,
+  "lines": 703,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.83.1",
-   "cloud": 21
+   "cloud": 18
   },
   "repo": {
    "id": 411815450,
@@ -1768,14 +1768,14 @@
    "releases_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/releases{/id}",
    "deployments_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/deployments",
    "created_at": "2021-09-29T20:09:22Z",
-   "updated_at": "2021-12-19T21:31:56Z",
-   "pushed_at": "2021-09-30T21:44:01Z",
+   "updated_at": "2021-12-21T16:10:25Z",
+   "pushed_at": "2021-12-21T16:08:39Z",
    "git_url": "git://github.com/DryDumbHead/easyHtmlEmail.git",
    "ssh_url": "git@github.com:DryDumbHead/easyHtmlEmail.git",
    "clone_url": "https://github.com/DryDumbHead/easyHtmlEmail.git",
    "svn_url": "https://github.com/DryDumbHead/easyHtmlEmail",
    "homepage": "",
-   "size": 147,
+   "size": 157,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
@@ -1784,7 +1784,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -1807,7 +1807,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 0,
+   "forks": 1,
    "open_issues": 0,
    "watchers": 8,
    "default_branch": "master",
@@ -1819,7 +1819,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 3
   }
  },
@@ -5197,7 +5197,7 @@
   }
  },
  "SAP2Moose/SAP2Moose": {
-  "lines": 25929,
+  "lines": 25809,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -5281,14 +5281,14 @@
    "releases_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP2Moose/SAP2Moose/deployments",
    "created_at": "2016-01-22T10:18:32Z",
-   "updated_at": "2021-12-19T20:58:53Z",
-   "pushed_at": "2021-12-19T20:58:50Z",
+   "updated_at": "2021-12-21T21:02:59Z",
+   "pushed_at": "2021-12-21T21:02:56Z",
    "git_url": "git://github.com/SAP2Moose/SAP2Moose.git",
    "ssh_url": "git@github.com:SAP2Moose/SAP2Moose.git",
    "clone_url": "https://github.com/SAP2Moose/SAP2Moose.git",
    "svn_url": "https://github.com/SAP2Moose/SAP2Moose",
    "homepage": "",
-   "size": 4882,
+   "size": 4913,
    "stargazers_count": 30,
    "watchers_count": 30,
    "language": "ABAP",
@@ -6608,7 +6608,7 @@
   }
  },
  "abap2xlsx/abap2xlsx": {
-  "lines": 53028,
+  "lines": 53138,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -6621,7 +6621,7 @@
   ],
   "parsing": {
    "version": "2.83.1",
-   "cloud": 712
+   "cloud": 723
   },
   "repo": {
    "id": 15457787,
@@ -6690,27 +6690,27 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2021-12-20T21:16:16Z",
-   "pushed_at": "2021-12-21T08:06:50Z",
+   "updated_at": "2021-12-21T15:00:01Z",
+   "pushed_at": "2021-12-21T09:13:49Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
-   "size": 25921,
-   "stargazers_count": 421,
-   "watchers_count": 421,
+   "size": 25945,
+   "stargazers_count": 422,
+   "watchers_count": 422,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 209,
+   "forks_count": 210,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 92,
+   "open_issues_count": 90,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -6736,9 +6736,9 @@
     "sap-netweaver"
    ],
    "visibility": "public",
-   "forks": 209,
-   "open_issues": 92,
-   "watchers": 421,
+   "forks": 210,
+   "open_issues": 90,
+   "watchers": 422,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6768,7 +6768,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 209,
+   "network_count": 210,
    "subscribers_count": 69
   }
  },
@@ -7500,7 +7500,7 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2021-12-21T06:12:27Z",
+   "updated_at": "2021-12-21T16:16:28Z",
    "pushed_at": "2021-12-20T18:05:11Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
@@ -7508,8 +7508,8 @@
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
    "size": 19611,
-   "stargazers_count": 946,
-   "watchers_count": 946,
+   "stargazers_count": 947,
+   "watchers_count": 947,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7520,7 +7520,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 201,
+   "open_issues_count": 200,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7541,8 +7541,8 @@
    ],
    "visibility": "public",
    "forks": 420,
-   "open_issues": 201,
-   "watchers": 946,
+   "open_issues": 200,
+   "watchers": 947,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -9624,11 +9624,11 @@
   }
  },
  "bizhuka/eui": {
-  "lines": 12673,
+  "lines": 12859,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.83.1",
-   "cloud": 262
+   "cloud": 263
   },
   "repo": {
    "id": 254557167,
@@ -9697,8 +9697,8 @@
    "releases_url": "https://api.github.com/repos/bizhuka/eui/releases{/id}",
    "deployments_url": "https://api.github.com/repos/bizhuka/eui/deployments",
    "created_at": "2020-04-10T06:05:31Z",
-   "updated_at": "2021-12-14T17:09:26Z",
-   "pushed_at": "2021-12-14T17:09:22Z",
+   "updated_at": "2021-12-22T07:54:19Z",
+   "pushed_at": "2021-12-22T07:54:16Z",
    "git_url": "git://github.com/bizhuka/eui.git",
    "ssh_url": "git@github.com:bizhuka/eui.git",
    "clone_url": "https://github.com/bizhuka/eui.git",
@@ -13524,7 +13524,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 42,
+   "forks_count": 41,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -13545,7 +13545,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 42,
+   "forks": 41,
    "open_issues": 4,
    "watchers": 84,
    "default_branch": "master",
@@ -13557,7 +13557,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 42,
+   "network_count": 41,
    "subscribers_count": 26
   }
  },
@@ -15175,7 +15175,7 @@
    "releases_url": "https://api.github.com/repos/hhelibeb/abap-fm-logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/hhelibeb/abap-fm-logger/deployments",
    "created_at": "2020-08-06T13:21:39Z",
-   "updated_at": "2021-11-28T07:36:02Z",
+   "updated_at": "2021-12-22T06:02:38Z",
    "pushed_at": "2021-10-20T06:27:32Z",
    "git_url": "git://github.com/hhelibeb/abap-fm-logger.git",
    "ssh_url": "git@github.com:hhelibeb/abap-fm-logger.git",
@@ -15183,8 +15183,8 @@
    "svn_url": "https://github.com/hhelibeb/abap-fm-logger",
    "homepage": "",
    "size": 71,
-   "stargazers_count": 34,
-   "watchers_count": 34,
+   "stargazers_count": 35,
+   "watchers_count": 35,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -15213,7 +15213,7 @@
    "visibility": "public",
    "forks": 13,
    "open_issues": 3,
-   "watchers": 34,
+   "watchers": 35,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -27518,7 +27518,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 7,
+   "forks_count": 8,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -27538,7 +27538,7 @@
     "parallel-processing-in-abap"
    ],
    "visibility": "public",
-   "forks": 7,
+   "forks": 8,
    "open_issues": 1,
    "watchers": 15,
    "default_branch": "main",
@@ -27550,7 +27550,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 7,
+   "network_count": 8,
    "subscribers_count": 1
   }
  },
