@@ -6702,14 +6702,14 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2022-01-07T08:25:07Z",
-   "pushed_at": "2022-01-07T08:26:52Z",
+   "updated_at": "2022-01-09T06:25:03Z",
+   "pushed_at": "2022-01-09T08:15:09Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
-   "size": 28331,
+   "size": 28634,
    "stargazers_count": 425,
    "watchers_count": 425,
    "language": "ABAP",
@@ -6722,7 +6722,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 74,
+   "open_issues_count": 75,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -6749,7 +6749,7 @@
    ],
    "visibility": "public",
    "forks": 210,
-   "open_issues": 74,
+   "open_issues": 75,
    "watchers": 425,
    "default_branch": "master",
    "permissions": {
@@ -7513,13 +7513,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2022-01-08T06:58:43Z",
-   "pushed_at": "2022-01-08T07:09:27Z",
+   "pushed_at": "2022-01-08T16:15:38Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 19917,
+   "size": 19934,
    "stargazers_count": 959,
    "watchers_count": 959,
    "language": "ABAP",
@@ -7585,7 +7585,7 @@
     "site_admin": false
    },
    "network_count": 421,
-   "subscribers_count": 110
+   "subscribers_count": 111
   }
  },
  "abapGit/background_modes": {
@@ -23888,7 +23888,7 @@
   }
  },
  "sbcgua/ajson": {
-  "lines": 8691,
+  "lines": 8693,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.83.18",
@@ -23961,14 +23961,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/ajson/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/ajson/deployments",
    "created_at": "2020-05-16T07:00:27Z",
-   "updated_at": "2022-01-02T16:55:08Z",
-   "pushed_at": "2022-01-07T13:15:33Z",
+   "updated_at": "2022-01-08T13:58:05Z",
+   "pushed_at": "2022-01-08T13:58:02Z",
    "git_url": "git://github.com/sbcgua/ajson.git",
    "ssh_url": "git@github.com:sbcgua/ajson.git",
    "clone_url": "https://github.com/sbcgua/ajson.git",
    "svn_url": "https://github.com/sbcgua/ajson",
    "homepage": null,
-   "size": 892,
+   "size": 899,
    "stargazers_count": 20,
    "watchers_count": 20,
    "language": "ABAP",
@@ -23981,7 +23981,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 15,
+   "open_issues_count": 14,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -23994,7 +23994,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 7,
-   "open_issues": 15,
+   "open_issues": 14,
    "watchers": 20,
    "default_branch": "master",
    "permissions": {
