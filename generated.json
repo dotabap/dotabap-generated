@@ -4524,14 +4524,14 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/cloud-abap-exchange-rates/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/cloud-abap-exchange-rates/deployments",
    "created_at": "2020-05-07T15:45:04Z",
-   "updated_at": "2021-10-01T20:11:06Z",
-   "pushed_at": "2021-10-01T20:13:49Z",
+   "updated_at": "2022-01-10T06:04:57Z",
+   "pushed_at": "2022-01-10T06:04:54Z",
    "git_url": "git://github.com/SAP-samples/cloud-abap-exchange-rates.git",
    "ssh_url": "git@github.com:SAP-samples/cloud-abap-exchange-rates.git",
    "clone_url": "https://github.com/SAP-samples/cloud-abap-exchange-rates.git",
    "svn_url": "https://github.com/SAP-samples/cloud-abap-exchange-rates",
    "homepage": "",
-   "size": 92,
+   "size": 95,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -4755,7 +4755,7 @@
     "site_admin": false
    },
    "network_count": 20,
-   "subscribers_count": 23
+   "subscribers_count": 22
   }
  },
  "SAP/code-pal-for-abap": {
@@ -6620,7 +6620,7 @@
   }
  },
  "abap2xlsx/abap2xlsx": {
-  "lines": 54768,
+  "lines": 54895,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -6702,14 +6702,14 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2022-01-09T06:25:03Z",
-   "pushed_at": "2022-01-09T08:15:09Z",
+   "updated_at": "2022-01-09T12:07:25Z",
+   "pushed_at": "2022-01-09T16:03:07Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
-   "size": 28634,
+   "size": 26517,
    "stargazers_count": 425,
    "watchers_count": 425,
    "language": "ABAP",
@@ -6722,7 +6722,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 75,
+   "open_issues_count": 74,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -6749,7 +6749,7 @@
    ],
    "visibility": "public",
    "forks": 210,
-   "open_issues": 75,
+   "open_issues": 74,
    "watchers": 425,
    "default_branch": "master",
    "permissions": {
@@ -6781,7 +6781,7 @@
     "site_admin": false
    },
    "network_count": 210,
-   "subscribers_count": 67
+   "subscribers_count": 66
   }
  },
  "abapChaoLiu/abap_jwt_generator": {
@@ -7439,7 +7439,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 134213,
+  "lines": 134392,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.83.18",
@@ -7512,14 +7512,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2022-01-08T06:58:43Z",
-   "pushed_at": "2022-01-08T16:15:38Z",
+   "updated_at": "2022-01-10T08:19:57Z",
+   "pushed_at": "2022-01-10T08:19:54Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 19934,
+   "size": 19746,
    "stargazers_count": 959,
    "watchers_count": 959,
    "language": "ABAP",
@@ -7585,7 +7585,7 @@
     "site_admin": false
    },
    "network_count": 421,
-   "subscribers_count": 111
+   "subscribers_count": 110
   }
  },
  "abapGit/background_modes": {
@@ -20096,7 +20096,7 @@
    "deployments_url": "https://api.github.com/repos/objective-partner/abap_debugger_data_view_extension/deployments",
    "created_at": "2017-11-09T16:08:52Z",
    "updated_at": "2021-08-04T12:36:27Z",
-   "pushed_at": "2021-05-19T15:40:56Z",
+   "pushed_at": "2022-01-10T08:14:55Z",
    "git_url": "git://github.com/objective-partner/abap_debugger_data_view_extension.git",
    "ssh_url": "git@github.com:objective-partner/abap_debugger_data_view_extension.git",
    "clone_url": "https://github.com/objective-partner/abap_debugger_data_view_extension.git",
@@ -20115,7 +20115,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 4,
+   "open_issues_count": 5,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -20131,7 +20131,7 @@
    ],
    "visibility": "public",
    "forks": 10,
-   "open_issues": 4,
+   "open_issues": 5,
    "watchers": 18,
    "default_branch": "master",
    "permissions": {
