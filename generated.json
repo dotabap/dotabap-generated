@@ -1768,7 +1768,7 @@
    "releases_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/releases{/id}",
    "deployments_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/deployments",
    "created_at": "2021-09-29T20:09:22Z",
-   "updated_at": "2022-01-20T23:29:58Z",
+   "updated_at": "2022-02-03T20:11:38Z",
    "pushed_at": "2021-12-21T16:08:39Z",
    "git_url": "git://github.com/DryDumbHead/easyHtmlEmail.git",
    "ssh_url": "git@github.com:DryDumbHead/easyHtmlEmail.git",
@@ -1776,8 +1776,8 @@
    "svn_url": "https://github.com/DryDumbHead/easyHtmlEmail",
    "homepage": "",
    "size": 157,
-   "stargazers_count": 12,
-   "watchers_count": 12,
+   "stargazers_count": 13,
+   "watchers_count": 13,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1809,7 +1809,7 @@
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
-   "watchers": 12,
+   "watchers": 13,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -2957,7 +2957,7 @@
    "releases_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2022-02-02T03:34:02Z",
+   "updated_at": "2022-02-03T21:46:17Z",
    "pushed_at": "2021-07-16T10:04:55Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
@@ -2965,8 +2965,8 @@
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
    "size": 18022,
-   "stargazers_count": 108,
-   "watchers_count": 108,
+   "stargazers_count": 109,
+   "watchers_count": 109,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2997,7 +2997,7 @@
    "visibility": "public",
    "forks": 44,
    "open_issues": 14,
-   "watchers": 108,
+   "watchers": 109,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -6404,13 +6404,13 @@
    "deployments_url": "https://api.github.com/repos/abap-openapi/abap-openapi-client/deployments",
    "created_at": "2021-01-19T16:03:52Z",
    "updated_at": "2022-01-18T17:11:05Z",
-   "pushed_at": "2022-01-16T09:10:18Z",
+   "pushed_at": "2022-02-03T10:57:39Z",
    "git_url": "git://github.com/abap-openapi/abap-openapi-client.git",
    "ssh_url": "git@github.com:abap-openapi/abap-openapi-client.git",
    "clone_url": "https://github.com/abap-openapi/abap-openapi-client.git",
    "svn_url": "https://github.com/abap-openapi/abap-openapi-client",
    "homepage": "",
-   "size": 1183,
+   "size": 1185,
    "stargazers_count": 34,
    "watchers_count": 34,
    "language": "ABAP",
@@ -6423,7 +6423,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 8,
+   "open_issues_count": 9,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6440,7 +6440,7 @@
    ],
    "visibility": "public",
    "forks": 1,
-   "open_issues": 8,
+   "open_issues": 9,
    "watchers": 34,
    "default_branch": "main",
    "permissions": {
@@ -7368,16 +7368,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2022-02-03T00:03:36Z",
-   "pushed_at": "2022-02-03T05:43:08Z",
+   "updated_at": "2022-02-03T21:46:47Z",
+   "pushed_at": "2022-02-03T15:26:39Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 20403,
-   "stargazers_count": 971,
-   "watchers_count": 971,
+   "size": 20427,
+   "stargazers_count": 972,
+   "watchers_count": 972,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7388,7 +7388,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 182,
+   "open_issues_count": 185,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7409,8 +7409,8 @@
    ],
    "visibility": "public",
    "forks": 419,
-   "open_issues": 182,
-   "watchers": 971,
+   "open_issues": 185,
+   "watchers": 972,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -18565,7 +18565,7 @@
    },
    "temp_clone_token": "",
    "network_count": 6,
-   "subscribers_count": 13
+   "subscribers_count": 14
   }
  },
  "larshp/abapOrion": {
@@ -24622,7 +24622,7 @@
    },
    "temp_clone_token": "",
    "network_count": 6,
-   "subscribers_count": 5
+   "subscribers_count": 6
   }
  },
  "se38/zJSON": {
@@ -24959,7 +24959,7 @@
    "releases_url": "https://api.github.com/repos/stockbal/abap-db-browser/releases{/id}",
    "deployments_url": "https://api.github.com/repos/stockbal/abap-db-browser/deployments",
    "created_at": "2019-11-19T20:22:00Z",
-   "updated_at": "2021-10-24T08:51:47Z",
+   "updated_at": "2022-02-03T16:30:05Z",
    "pushed_at": "2021-06-22T19:28:16Z",
    "git_url": "git://github.com/stockbal/abap-db-browser.git",
    "ssh_url": "git@github.com:stockbal/abap-db-browser.git",
@@ -24967,8 +24967,8 @@
    "svn_url": "https://github.com/stockbal/abap-db-browser",
    "homepage": "",
    "size": 2567,
-   "stargazers_count": 9,
-   "watchers_count": 9,
+   "stargazers_count": 10,
+   "watchers_count": 10,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -24998,7 +24998,7 @@
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
-   "watchers": 9,
+   "watchers": 10,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -26987,7 +26987,7 @@
     "site_admin": false
    },
    "network_count": 2,
-   "subscribers_count": 4
+   "subscribers_count": 5
   }
  },
  "tricktresor/guidrasil": {
