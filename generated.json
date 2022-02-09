@@ -4759,11 +4759,11 @@
   }
  },
  "SAP/code-pal-for-abap": {
-  "lines": 24562,
+  "lines": 25081,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.85.12",
-   "cloud": 91
+   "cloud": 97
   },
   "repo": {
    "id": 252472689,
@@ -4832,16 +4832,16 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2022-02-06T12:31:50Z",
-   "pushed_at": "2022-01-26T08:46:52Z",
+   "updated_at": "2022-02-08T20:45:27Z",
+   "pushed_at": "2022-02-08T13:07:44Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
    "size": 3022,
-   "stargazers_count": 181,
-   "watchers_count": 181,
+   "stargazers_count": 183,
+   "watchers_count": 183,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -4852,7 +4852,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 46,
+   "open_issues_count": 44,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -4876,8 +4876,8 @@
    ],
    "visibility": "public",
    "forks": 39,
-   "open_issues": 46,
-   "watchers": 181,
+   "open_issues": 44,
+   "watchers": 183,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -5440,7 +5440,7 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/deployments",
    "created_at": "2021-07-06T09:15:31Z",
-   "updated_at": "2022-02-08T01:08:18Z",
+   "updated_at": "2022-02-08T13:12:43Z",
    "pushed_at": "2022-02-04T09:27:51Z",
    "git_url": "git://github.com/SchwarzIT/sap-usi-logging-api.git",
    "ssh_url": "git@github.com:SchwarzIT/sap-usi-logging-api.git",
@@ -5448,8 +5448,8 @@
    "svn_url": "https://github.com/SchwarzIT/sap-usi-logging-api",
    "homepage": "",
    "size": 670,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -5476,7 +5476,7 @@
    "visibility": "public",
    "forks": 0,
    "open_issues": 4,
-   "watchers": 2,
+   "watchers": 3,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -6474,7 +6474,7 @@
   }
  },
  "abap-openapi/abap-openapi-client": {
-  "lines": 60243,
+  "lines": 60245,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.85.12",
@@ -6548,13 +6548,13 @@
    "deployments_url": "https://api.github.com/repos/abap-openapi/abap-openapi-client/deployments",
    "created_at": "2021-01-19T16:03:52Z",
    "updated_at": "2022-01-18T17:11:05Z",
-   "pushed_at": "2022-02-05T09:10:13Z",
+   "pushed_at": "2022-02-08T09:06:57Z",
    "git_url": "git://github.com/abap-openapi/abap-openapi-client.git",
    "ssh_url": "git@github.com:abap-openapi/abap-openapi-client.git",
    "clone_url": "https://github.com/abap-openapi/abap-openapi-client.git",
    "svn_url": "https://github.com/abap-openapi/abap-openapi-client",
    "homepage": "",
-   "size": 1292,
+   "size": 1301,
    "stargazers_count": 34,
    "watchers_count": 34,
    "language": "ABAP",
@@ -6703,13 +6703,13 @@
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2022-02-05T16:25:50Z",
-   "pushed_at": "2022-02-07T15:37:07Z",
+   "pushed_at": "2022-02-08T14:13:43Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
-   "size": 27253,
+   "size": 27254,
    "stargazers_count": 430,
    "watchers_count": 430,
    "language": "ABAP",
@@ -7439,7 +7439,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 135887,
+  "lines": 135912,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.85.12",
@@ -7513,13 +7513,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2022-02-07T18:27:10Z",
-   "pushed_at": "2022-02-08T07:34:35Z",
+   "pushed_at": "2022-02-09T07:48:13Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 19886,
+   "size": 20000,
    "stargazers_count": 973,
    "watchers_count": 973,
    "language": "ABAP",
@@ -13151,7 +13151,7 @@
    },
    "temp_clone_token": "",
    "network_count": 0,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "fatihpense/zcl_mdp_json": {
