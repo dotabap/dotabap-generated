@@ -6908,7 +6908,7 @@
   }
  },
  "abap2xlsx/abap2xlsx": {
-  "lines": 56044,
+  "lines": 43207,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -6921,7 +6921,7 @@
   ],
   "parsing": {
    "version": "2.85.31",
-   "cloud": 643
+   "cloud": 135
   },
   "repo": {
    "id": 15457787,
@@ -6991,13 +6991,13 @@
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2022-03-05T22:22:56Z",
-   "pushed_at": "2022-02-26T09:13:08Z",
+   "pushed_at": "2022-03-06T19:54:21Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
-   "size": 27252,
+   "size": 27283,
    "stargazers_count": 441,
    "watchers_count": 441,
    "language": "ABAP",
@@ -7010,7 +7010,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 64,
+   "open_issues_count": 65,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7037,7 +7037,7 @@
    ],
    "visibility": "public",
    "forks": 215,
-   "open_issues": 64,
+   "open_issues": 65,
    "watchers": 441,
    "default_branch": "master",
    "permissions": {
@@ -7801,7 +7801,7 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2022-03-04T12:47:07Z",
-   "pushed_at": "2022-03-05T20:47:32Z",
+   "pushed_at": "2022-03-06T09:41:51Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
@@ -7820,7 +7820,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 190,
+   "open_issues_count": 191,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7841,7 +7841,7 @@
    ],
    "visibility": "public",
    "forks": 427,
-   "open_issues": 190,
+   "open_issues": 191,
    "watchers": 988,
    "default_branch": "main",
    "permissions": {
@@ -14102,7 +14102,7 @@
    },
    "temp_clone_token": "",
    "network_count": 41,
-   "subscribers_count": 26
+   "subscribers_count": 27
   }
  },
  "flaiker/abap-log": {
@@ -22885,7 +22885,7 @@
    },
    "temp_clone_token": "",
    "network_count": 1,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "rayatus/sapinterfacemonitor": {
