@@ -3933,7 +3933,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 15,
+   "forks_count": 16,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -3955,7 +3955,7 @@
     "sap-cloud-platform"
    ],
    "visibility": "public",
-   "forks": 15,
+   "forks": 16,
    "open_issues": 2,
    "watchers": 21,
    "default_branch": "main",
@@ -3987,7 +3987,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 15,
+   "network_count": 16,
    "subscribers_count": 6
   }
  },
@@ -4759,11 +4759,11 @@
   }
  },
  "SAP/abap-file-formats-tools": {
-  "lines": 13113,
+  "lines": 12960,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.85.45",
-   "cloud": 1590
+   "cloud": 1546
   },
   "repo": {
    "id": 459651539,
@@ -4832,14 +4832,14 @@
    "releases_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
-   "updated_at": "2022-03-24T15:26:35Z",
-   "pushed_at": "2022-03-25T07:56:58Z",
+   "updated_at": "2022-03-25T12:55:10Z",
+   "pushed_at": "2022-03-25T13:51:28Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
    "svn_url": "https://github.com/SAP/abap-file-formats-tools",
    "homepage": "",
-   "size": 645,
+   "size": 689,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -4852,7 +4852,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 7,
+   "open_issues_count": 5,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4868,7 +4868,7 @@
    ],
    "visibility": "public",
    "forks": 0,
-   "open_issues": 7,
+   "open_issues": 5,
    "watchers": 3,
    "default_branch": "main",
    "permissions": {
@@ -7139,7 +7139,7 @@
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2022-03-23T17:22:05Z",
-   "pushed_at": "2022-03-23T09:07:18Z",
+   "pushed_at": "2022-03-26T07:59:22Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
@@ -7158,7 +7158,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 69,
+   "open_issues_count": 67,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7185,7 +7185,7 @@
    ],
    "visibility": "public",
    "forks": 223,
-   "open_issues": 69,
+   "open_issues": 67,
    "watchers": 446,
    "default_branch": "main",
    "permissions": {
@@ -7948,16 +7948,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2022-03-24T21:52:55Z",
-   "pushed_at": "2022-03-25T05:58:34Z",
+   "updated_at": "2022-03-25T13:35:18Z",
+   "pushed_at": "2022-03-26T07:54:25Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 20116,
-   "stargazers_count": 1003,
-   "watchers_count": 1003,
+   "size": 20133,
+   "stargazers_count": 1005,
+   "watchers_count": 1005,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7968,7 +7968,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 191,
+   "open_issues_count": 192,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7989,8 +7989,8 @@
    ],
    "visibility": "public",
    "forks": 430,
-   "open_issues": 191,
-   "watchers": 1003,
+   "open_issues": 192,
+   "watchers": 1005,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -8728,7 +8728,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8744,7 +8744,7 @@
    "is_template": false,
    "topics": [],
    "visibility": "public",
-   "forks": 5,
+   "forks": 6,
    "open_issues": 0,
    "watchers": 13,
    "default_branch": "master",
@@ -8756,7 +8756,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 4
   }
  },
@@ -15879,7 +15879,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 7,
+   "forks_count": 8,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -15899,7 +15899,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 7,
+   "forks": 8,
    "open_issues": 1,
    "watchers": 25,
    "default_branch": "master",
@@ -15911,7 +15911,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 7,
+   "network_count": 8,
    "subscribers_count": 4
   }
  },
