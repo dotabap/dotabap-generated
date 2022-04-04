@@ -2977,7 +2977,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 16,
+   "open_issues_count": 17,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2996,7 +2996,7 @@
    ],
    "visibility": "public",
    "forks": 56,
-   "open_issues": 16,
+   "open_issues": 17,
    "watchers": 113,
    "default_branch": "master",
    "permissions": {
@@ -4759,7 +4759,7 @@
   }
  },
  "SAP/abap-file-formats-tools": {
-  "lines": 12964,
+  "lines": 12892,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.85.49",
@@ -4833,13 +4833,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
    "updated_at": "2022-04-01T05:59:35Z",
-   "pushed_at": "2022-04-01T16:22:56Z",
+   "pushed_at": "2022-04-04T06:28:08Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
    "svn_url": "https://github.com/SAP/abap-file-formats-tools",
    "homepage": "",
-   "size": 807,
+   "size": 775,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -4852,7 +4852,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 5,
+   "open_issues_count": 3,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4868,7 +4868,7 @@
    ],
    "visibility": "public",
    "forks": 0,
-   "open_issues": 5,
+   "open_issues": 3,
    "watchers": 5,
    "default_branch": "main",
    "permissions": {
@@ -7948,27 +7948,27 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2022-04-02T14:33:00Z",
-   "pushed_at": "2022-04-03T08:11:07Z",
+   "updated_at": "2022-04-03T21:50:42Z",
+   "pushed_at": "2022-04-03T20:32:11Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 20490,
-   "stargazers_count": 1012,
-   "watchers_count": 1012,
+   "size": 20556,
+   "stargazers_count": 1013,
+   "watchers_count": 1013,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 438,
+   "forks_count": 439,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 204,
+   "open_issues_count": 207,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -7988,9 +7988,9 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 438,
-   "open_issues": 204,
-   "watchers": 1012,
+   "forks": 439,
+   "open_issues": 207,
+   "watchers": 1013,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -8020,8 +8020,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 438,
-   "subscribers_count": 111
+   "network_count": 439,
+   "subscribers_count": 112
   }
  },
  "abapGit/background_modes": {
@@ -8399,13 +8399,13 @@
    "deployments_url": "https://api.github.com/repos/abapTools/abapDomCheck/deployments",
    "created_at": "2022-03-21T12:05:16Z",
    "updated_at": "2022-03-28T23:56:06Z",
-   "pushed_at": "2022-04-01T11:54:42Z",
+   "pushed_at": "2022-04-03T13:55:27Z",
    "git_url": "git://github.com/abapTools/abapDomCheck.git",
    "ssh_url": "git@github.com:abapTools/abapDomCheck.git",
    "clone_url": "https://github.com/abapTools/abapDomCheck.git",
    "svn_url": "https://github.com/abapTools/abapDomCheck",
    "homepage": "",
-   "size": 39,
+   "size": 42,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -9261,7 +9261,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 8,
+   "forks_count": 9,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9283,7 +9283,7 @@
     "hacktoberfest"
    ],
    "visibility": "public",
-   "forks": 8,
+   "forks": 9,
    "open_issues": 15,
    "watchers": 18,
    "default_branch": "main",
@@ -9315,7 +9315,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 8,
+   "network_count": 9,
    "subscribers_count": 6
   }
  },
@@ -13590,7 +13590,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -13603,7 +13603,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 6,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 14,
    "default_branch": "main",
    "permissions": {
@@ -19512,7 +19512,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 302,
+   "open_issues_count": 303,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -19533,7 +19533,7 @@
    ],
    "visibility": "public",
    "forks": 61,
-   "open_issues": 302,
+   "open_issues": 303,
    "watchers": 181,
    "default_branch": "main",
    "permissions": {
