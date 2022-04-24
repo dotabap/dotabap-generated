@@ -496,7 +496,7 @@
    "deployments_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
    "updated_at": "2022-04-08T00:27:18Z",
-   "pushed_at": "2022-01-20T12:03:09Z",
+   "pushed_at": "2022-04-23T16:55:02Z",
    "git_url": "git://github.com/ABAP-Logger/ABAP-Logger.git",
    "ssh_url": "git@github.com:ABAP-Logger/ABAP-Logger.git",
    "clone_url": "https://github.com/ABAP-Logger/ABAP-Logger.git",
@@ -515,7 +515,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 12,
+   "open_issues_count": 13,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -532,7 +532,7 @@
    ],
    "visibility": "public",
    "forks": 91,
-   "open_issues": 12,
+   "open_issues": 13,
    "watchers": 236,
    "default_branch": "main",
    "permissions": {
@@ -1180,7 +1180,7 @@
    },
    "temp_clone_token": "",
    "network_count": 2,
-   "subscribers_count": 2
+   "subscribers_count": 1
   }
  },
  "BiberM/ABAPParallelizationService": {
@@ -6560,7 +6560,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 5,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -6580,7 +6580,7 @@
     "sap-netweaver"
    ],
    "visibility": "public",
-   "forks": 5,
+   "forks": 4,
    "open_issues": 15,
    "watchers": 30,
    "default_branch": "main",
@@ -6612,7 +6612,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 5,
+   "network_count": 4,
    "subscribers_count": 5
   }
  },
@@ -7056,7 +7056,7 @@
   }
  },
  "abap2xlsx/abap2xlsx": {
-  "lines": 43206,
+  "lines": 43253,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -7139,13 +7139,13 @@
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2022-04-20T07:01:32Z",
-   "pushed_at": "2022-04-20T18:32:34Z",
+   "pushed_at": "2022-04-23T11:33:56Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
-   "size": 27308,
+   "size": 26236,
    "stargazers_count": 450,
    "watchers_count": 450,
    "language": "ABAP",
@@ -7158,7 +7158,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 76,
+   "open_issues_count": 73,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7185,7 +7185,7 @@
    ],
    "visibility": "public",
    "forks": 226,
-   "open_issues": 76,
+   "open_issues": 73,
    "watchers": 450,
    "default_branch": "main",
    "permissions": {
@@ -7949,13 +7949,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2022-04-22T13:08:25Z",
-   "pushed_at": "2022-04-22T14:21:50Z",
+   "pushed_at": "2022-04-23T15:25:37Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 20198,
+   "size": 20247,
    "stargazers_count": 1018,
    "watchers_count": 1018,
    "language": "ABAP",
@@ -19615,13 +19615,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2022-04-22T08:47:02Z",
-   "pushed_at": "2022-04-20T12:56:03Z",
+   "pushed_at": "2022-04-23T16:41:04Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2554,
+   "size": 2424,
    "stargazers_count": 182,
    "watchers_count": 182,
    "language": "ABAP",
@@ -19630,7 +19630,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 61,
+   "forks_count": 62,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -19654,7 +19654,7 @@
     "sap-code-inspector"
    ],
    "visibility": "public",
-   "forks": 61,
+   "forks": 62,
    "open_issues": 302,
    "watchers": 182,
    "default_branch": "main",
@@ -19666,7 +19666,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 61,
+   "network_count": 62,
    "subscribers_count": 29
   }
  },
@@ -26004,7 +26004,7 @@
    },
    "temp_clone_token": "",
    "network_count": 17,
-   "subscribers_count": 25
+   "subscribers_count": 24
   }
  },
  "srijan9864/zrfcread": {
