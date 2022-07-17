@@ -7077,7 +7077,7 @@
   }
  },
  "abap2xlsx/abap2xlsx": {
-  "lines": 43227,
+  "lines": 43229,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -7159,16 +7159,16 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2022-07-04T11:06:24Z",
-   "pushed_at": "2022-07-15T21:36:32Z",
+   "updated_at": "2022-07-16T20:09:05Z",
+   "pushed_at": "2022-07-16T17:38:46Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
-   "size": 26254,
-   "stargazers_count": 468,
-   "watchers_count": 468,
+   "size": 26255,
+   "stargazers_count": 470,
+   "watchers_count": 470,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7179,7 +7179,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 73,
+   "open_issues_count": 71,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7207,8 +7207,8 @@
    ],
    "visibility": "public",
    "forks": 231,
-   "open_issues": 73,
-   "watchers": 468,
+   "open_issues": 71,
+   "watchers": 470,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -7995,7 +7995,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 188,
+   "open_issues_count": 189,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8017,7 +8017,7 @@
    ],
    "visibility": "public",
    "forks": 454,
-   "open_issues": 188,
+   "open_issues": 189,
    "watchers": 1054,
    "default_branch": "main",
    "permissions": {
@@ -20531,7 +20531,7 @@
    "releases_url": "https://api.github.com/repos/larshp/mime_editor/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/mime_editor/deployments",
    "created_at": "2017-02-26T11:53:28Z",
-   "updated_at": "2022-02-11T09:47:55Z",
+   "updated_at": "2022-07-17T07:27:37Z",
    "pushed_at": "2022-04-04T12:05:58Z",
    "git_url": "git://github.com/larshp/mime_editor.git",
    "ssh_url": "git@github.com:larshp/mime_editor.git",
@@ -20539,8 +20539,8 @@
    "svn_url": "https://github.com/larshp/mime_editor",
    "homepage": "",
    "size": 91,
-   "stargazers_count": 5,
-   "watchers_count": 5,
+   "stargazers_count": 7,
+   "watchers_count": 7,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -20568,7 +20568,7 @@
    "visibility": "public",
    "forks": 2,
    "open_issues": 3,
-   "watchers": 5,
+   "watchers": 7,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -21919,7 +21919,7 @@
     "site_admin": false
    },
    "network_count": 3,
-   "subscribers_count": 3
+   "subscribers_count": 2
   }
  },
  "openTCT/zotct_utils": {
@@ -29280,7 +29280,7 @@
    "releases_url": "https://api.github.com/repos/valdirmendesdev/abap-json-encoder-decoder/releases{/id}",
    "deployments_url": "https://api.github.com/repos/valdirmendesdev/abap-json-encoder-decoder/deployments",
    "created_at": "2019-10-28T23:55:49Z",
-   "updated_at": "2022-07-07T17:46:08Z",
+   "updated_at": "2022-07-16T21:56:35Z",
    "pushed_at": "2022-07-07T02:08:20Z",
    "git_url": "git://github.com/valdirmendesdev/abap-json-encoder-decoder.git",
    "ssh_url": "git@github.com:valdirmendesdev/abap-json-encoder-decoder.git",
@@ -29288,8 +29288,8 @@
    "svn_url": "https://github.com/valdirmendesdev/abap-json-encoder-decoder",
    "homepage": "",
    "size": 50,
-   "stargazers_count": 6,
-   "watchers_count": 6,
+   "stargazers_count": 7,
+   "watchers_count": 7,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -29315,7 +29315,7 @@
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
-   "watchers": 6,
+   "watchers": 7,
    "default_branch": "master",
    "permissions": {
     "admin": false,
