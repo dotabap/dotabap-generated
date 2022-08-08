@@ -4764,7 +4764,7 @@
   }
  },
  "SAP/abap-file-formats-tools": {
-  "lines": 15444,
+  "lines": 15453,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.91.18",
@@ -4838,13 +4838,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
    "updated_at": "2022-05-23T10:01:01Z",
-   "pushed_at": "2022-08-05T15:48:38Z",
+   "pushed_at": "2022-08-08T06:56:43Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
    "svn_url": "https://github.com/SAP/abap-file-formats-tools",
    "homepage": "",
-   "size": 455,
+   "size": 449,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
@@ -4857,7 +4857,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 8,
+   "open_issues_count": 7,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4874,7 +4874,7 @@
    ],
    "visibility": "public",
    "forks": 2,
-   "open_issues": 8,
+   "open_issues": 7,
    "watchers": 8,
    "default_branch": "main",
    "permissions": {
@@ -5887,7 +5887,7 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/deployments",
    "created_at": "2021-07-06T09:15:31Z",
-   "updated_at": "2022-06-02T16:15:26Z",
+   "updated_at": "2022-08-07T17:41:21Z",
    "pushed_at": "2022-07-11T08:48:42Z",
    "git_url": "git://github.com/SchwarzIT/sap-usi-logging-api.git",
    "ssh_url": "git@github.com:SchwarzIT/sap-usi-logging-api.git",
@@ -7077,7 +7077,7 @@
   }
  },
  "abap2xlsx/abap2xlsx": {
-  "lines": 43229,
+  "lines": 43275,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -7159,16 +7159,16 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2022-08-07T03:30:54Z",
-   "pushed_at": "2022-08-03T15:20:41Z",
+   "updated_at": "2022-08-07T17:09:55Z",
+   "pushed_at": "2022-08-07T16:03:33Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
-   "size": 26264,
-   "stargazers_count": 474,
-   "watchers_count": 474,
+   "size": 26293,
+   "stargazers_count": 475,
+   "watchers_count": 475,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7179,7 +7179,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 72,
+   "open_issues_count": 68,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7207,8 +7207,8 @@
    ],
    "visibility": "public",
    "forks": 232,
-   "open_issues": 72,
-   "watchers": 474,
+   "open_issues": 68,
+   "watchers": 475,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -7902,7 +7902,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 141825,
+  "lines": 141827,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.91.18",
@@ -7976,13 +7976,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2022-08-07T03:30:49Z",
-   "pushed_at": "2022-08-07T06:38:58Z",
+   "pushed_at": "2022-08-08T07:03:06Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 20833,
+   "size": 20850,
    "stargazers_count": 1068,
    "watchers_count": 1068,
    "language": "ABAP",
@@ -7991,11 +7991,11 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 458,
+   "forks_count": 457,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 188,
+   "open_issues_count": 189,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8016,8 +8016,8 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 458,
-   "open_issues": 188,
+   "forks": 457,
+   "open_issues": 189,
    "watchers": 1068,
    "default_branch": "main",
    "permissions": {
@@ -8048,7 +8048,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 458,
+   "network_count": 457,
    "subscribers_count": 113
   }
  },
@@ -13906,7 +13906,7 @@
    "releases_url": "https://api.github.com/repos/coreline/ZUML_DIAGRAM/releases{/id}",
    "deployments_url": "https://api.github.com/repos/coreline/ZUML_DIAGRAM/deployments",
    "created_at": "2020-12-23T13:16:57Z",
-   "updated_at": "2022-05-24T05:42:28Z",
+   "updated_at": "2022-08-08T03:22:53Z",
    "pushed_at": "2022-03-31T15:58:41Z",
    "git_url": "git://github.com/coreline/ZUML_DIAGRAM.git",
    "ssh_url": "git@github.com:coreline/ZUML_DIAGRAM.git",
@@ -13914,8 +13914,8 @@
    "svn_url": "https://github.com/coreline/ZUML_DIAGRAM",
    "homepage": null,
    "size": 216,
-   "stargazers_count": 15,
-   "watchers_count": 15,
+   "stargazers_count": 16,
+   "watchers_count": 16,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -13941,7 +13941,7 @@
    "visibility": "public",
    "forks": 6,
    "open_issues": 0,
-   "watchers": 15,
+   "watchers": 16,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -19750,7 +19750,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 57,
+   "open_issues_count": 58,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -19769,7 +19769,7 @@
    ],
    "visibility": "public",
    "forks": 20,
-   "open_issues": 57,
+   "open_issues": 58,
    "watchers": 55,
    "default_branch": "main",
    "permissions": {
