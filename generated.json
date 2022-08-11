@@ -2995,7 +2995,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 54,
+   "forks_count": 50,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -3018,7 +3018,7 @@
     "azuresdk"
    ],
    "visibility": "public",
-   "forks": 54,
+   "forks": 50,
    "open_issues": 20,
    "watchers": 117,
    "default_branch": "master",
@@ -3050,7 +3050,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 54,
+   "network_count": 50,
    "subscribers_count": 39
   }
  },
@@ -4838,13 +4838,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
    "updated_at": "2022-05-23T10:01:01Z",
-   "pushed_at": "2022-08-10T06:50:06Z",
+   "pushed_at": "2022-08-11T08:17:01Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
    "svn_url": "https://github.com/SAP/abap-file-formats-tools",
    "homepage": "",
-   "size": 478,
+   "size": 436,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
@@ -4857,7 +4857,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 7,
+   "open_issues_count": 8,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4874,7 +4874,7 @@
    ],
    "visibility": "public",
    "forks": 2,
-   "open_issues": 7,
+   "open_issues": 8,
    "watchers": 8,
    "default_branch": "main",
    "permissions": {
@@ -7160,13 +7160,13 @@
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2022-08-07T17:09:55Z",
-   "pushed_at": "2022-08-09T14:19:51Z",
+   "pushed_at": "2022-08-11T05:25:53Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
-   "size": 26297,
+   "size": 26308,
    "stargazers_count": 475,
    "watchers_count": 475,
    "language": "ABAP",
@@ -7902,7 +7902,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 141849,
+  "lines": 142197,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.91.28",
@@ -7975,14 +7975,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2022-08-07T03:30:49Z",
-   "pushed_at": "2022-08-10T07:37:06Z",
+   "updated_at": "2022-08-10T13:22:22Z",
+   "pushed_at": "2022-08-11T07:25:17Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 20945,
+   "size": 20804,
    "stargazers_count": 1068,
    "watchers_count": 1068,
    "language": "ABAP",
@@ -7991,7 +7991,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 455,
+   "forks_count": 452,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8016,7 +8016,7 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 455,
+   "forks": 452,
    "open_issues": 189,
    "watchers": 1068,
    "default_branch": "main",
@@ -8048,8 +8048,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 455,
-   "subscribers_count": 113
+   "network_count": 452,
+   "subscribers_count": 112
   }
  },
  "abapGit/background_modes": {
@@ -26105,7 +26105,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 3,
+   "open_issues_count": 4,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -26119,7 +26119,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 19,
-   "open_issues": 3,
+   "open_issues": 4,
    "watchers": 71,
    "default_branch": "master",
    "permissions": {
