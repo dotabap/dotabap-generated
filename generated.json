@@ -2980,13 +2980,13 @@
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
    "updated_at": "2022-08-04T12:02:21Z",
-   "pushed_at": "2022-04-26T08:31:01Z",
+   "pushed_at": "2022-08-12T19:19:11Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
-   "size": 18022,
+   "size": 18025,
    "stargazers_count": 117,
    "watchers_count": 117,
    "language": "ABAP",
@@ -2999,7 +2999,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 20,
+   "open_issues_count": 22,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3019,7 +3019,7 @@
    ],
    "visibility": "public",
    "forks": 50,
-   "open_issues": 20,
+   "open_issues": 22,
    "watchers": 117,
    "default_branch": "master",
    "permissions": {
@@ -4838,13 +4838,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
    "updated_at": "2022-05-23T10:01:01Z",
-   "pushed_at": "2022-08-11T17:11:38Z",
+   "pushed_at": "2022-08-12T16:26:55Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
    "svn_url": "https://github.com/SAP/abap-file-formats-tools",
    "homepage": "",
-   "size": 531,
+   "size": 544,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
@@ -7003,7 +7003,7 @@
    "releases_url": "https://api.github.com/repos/abap-openapi/abap-openapi/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-openapi/abap-openapi/deployments",
    "created_at": "2021-01-19T16:03:52Z",
-   "updated_at": "2022-06-28T06:18:01Z",
+   "updated_at": "2022-08-13T05:16:40Z",
    "pushed_at": "2022-07-30T09:05:18Z",
    "git_url": "git://github.com/abap-openapi/abap-openapi.git",
    "ssh_url": "git@github.com:abap-openapi/abap-openapi.git",
@@ -7011,8 +7011,8 @@
    "svn_url": "https://github.com/abap-openapi/abap-openapi",
    "homepage": "",
    "size": 882,
-   "stargazers_count": 41,
-   "watchers_count": 41,
+   "stargazers_count": 43,
+   "watchers_count": 43,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7042,7 +7042,7 @@
    "visibility": "public",
    "forks": 2,
    "open_issues": 11,
-   "watchers": 41,
+   "watchers": 43,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -7160,7 +7160,7 @@
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2022-08-07T17:09:55Z",
-   "pushed_at": "2022-08-11T05:25:53Z",
+   "pushed_at": "2022-08-12T16:19:36Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
@@ -7179,7 +7179,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 68,
+   "open_issues_count": 65,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7207,7 +7207,7 @@
    ],
    "visibility": "public",
    "forks": 232,
-   "open_issues": 68,
+   "open_issues": 65,
    "watchers": 475,
    "default_branch": "main",
    "permissions": {
@@ -9444,7 +9444,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 15,
+   "open_issues_count": 16,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9464,7 +9464,7 @@
    ],
    "visibility": "public",
    "forks": 11,
-   "open_issues": 15,
+   "open_issues": 16,
    "watchers": 20,
    "default_branch": "main",
    "permissions": {
@@ -13057,7 +13057,7 @@
    },
    "temp_clone_token": "",
    "network_count": 35,
-   "subscribers_count": 24
+   "subscribers_count": 25
   }
  },
  "cesar-sap/abap_geocoder_ces": {
@@ -13317,7 +13317,7 @@
    },
    "temp_clone_token": "",
    "network_count": 1,
-   "subscribers_count": 5
+   "subscribers_count": 6
   }
  },
  "christianguenter2/ABAP_DeepL_client": {
