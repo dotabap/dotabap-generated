@@ -7159,7 +7159,7 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2022-08-15T16:06:21Z",
+   "updated_at": "2022-08-20T19:55:37Z",
    "pushed_at": "2022-08-19T19:50:27Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
@@ -7167,8 +7167,8 @@
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
    "size": 26373,
-   "stargazers_count": 477,
-   "watchers_count": 477,
+   "stargazers_count": 476,
+   "watchers_count": 476,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7208,7 +7208,7 @@
    "visibility": "public",
    "forks": 232,
    "open_issues": 66,
-   "watchers": 477,
+   "watchers": 476,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -7902,7 +7902,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 142250,
+  "lines": 142258,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.91.32",
@@ -7976,7 +7976,7 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2022-08-19T10:03:20Z",
-   "pushed_at": "2022-08-19T17:04:21Z",
+   "pushed_at": "2022-08-20T10:02:52Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
@@ -7995,7 +7995,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 192,
+   "open_issues_count": 191,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8017,7 +8017,7 @@
    ],
    "visibility": "public",
    "forks": 453,
-   "open_issues": 192,
+   "open_issues": 191,
    "watchers": 1072,
    "default_branch": "main",
    "permissions": {
