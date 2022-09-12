@@ -7975,16 +7975,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2022-09-10T13:22:56Z",
-   "pushed_at": "2022-09-11T08:10:20Z",
+   "updated_at": "2022-09-12T01:13:29Z",
+   "pushed_at": "2022-09-12T05:12:21Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 20916,
-   "stargazers_count": 1081,
-   "watchers_count": 1081,
+   "size": 21028,
+   "stargazers_count": 1082,
+   "watchers_count": 1082,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -8018,7 +8018,7 @@
    "visibility": "public",
    "forks": 454,
    "open_issues": 187,
-   "watchers": 1081,
+   "watchers": 1082,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -15230,7 +15230,7 @@
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 44,
+   "forks_count": 45,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -15252,7 +15252,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 44,
+   "forks": 45,
    "open_issues": 6,
    "watchers": 99,
    "default_branch": "master",
@@ -15264,7 +15264,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 44,
+   "network_count": 45,
    "subscribers_count": 25
   }
  },
@@ -29350,11 +29350,11 @@
   }
  },
  "valdirmendesdev/abap-json-encoder-decoder": {
-  "lines": 5359,
+  "lines": 5695,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.93.9",
-   "cloud": 26
+   "cloud": 46
   },
   "repo": {
    "id": 218167273,
@@ -29424,13 +29424,13 @@
    "deployments_url": "https://api.github.com/repos/valdirmendesdev/abap-json-encoder-decoder/deployments",
    "created_at": "2019-10-28T23:55:49Z",
    "updated_at": "2022-07-16T21:56:35Z",
-   "pushed_at": "2022-08-03T00:49:04Z",
+   "pushed_at": "2022-09-11T20:41:49Z",
    "git_url": "git://github.com/valdirmendesdev/abap-json-encoder-decoder.git",
    "ssh_url": "git@github.com:valdirmendesdev/abap-json-encoder-decoder.git",
    "clone_url": "https://github.com/valdirmendesdev/abap-json-encoder-decoder.git",
    "svn_url": "https://github.com/valdirmendesdev/abap-json-encoder-decoder",
    "homepage": "",
-   "size": 52,
+   "size": 59,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
