@@ -5215,7 +5215,7 @@
     "site_admin": false
    },
    "network_count": 49,
-   "subscribers_count": 17
+   "subscribers_count": 18
   }
  },
  "SAP/project-odense": {
@@ -5969,11 +5969,11 @@
   }
  },
  "SchwarzIT/sap-usi-logging-api": {
-  "lines": 17532,
+  "lines": 19638,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.93.29",
-   "cloud": 199
+   "cloud": 183
   },
   "repo": {
    "id": 383409546,
@@ -6043,13 +6043,13 @@
    "deployments_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/deployments",
    "created_at": "2021-07-06T09:15:31Z",
    "updated_at": "2022-08-07T17:41:21Z",
-   "pushed_at": "2022-07-11T08:48:42Z",
+   "pushed_at": "2022-09-27T20:27:15Z",
    "git_url": "git://github.com/SchwarzIT/sap-usi-logging-api.git",
    "ssh_url": "git@github.com:SchwarzIT/sap-usi-logging-api.git",
    "clone_url": "https://github.com/SchwarzIT/sap-usi-logging-api.git",
    "svn_url": "https://github.com/SchwarzIT/sap-usi-logging-api",
    "homepage": "",
-   "size": 689,
+   "size": 846,
    "stargazers_count": 16,
    "watchers_count": 16,
    "language": "ABAP",
@@ -6062,7 +6062,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 4,
+   "open_issues_count": 2,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -6079,7 +6079,7 @@
    ],
    "visibility": "public",
    "forks": 0,
-   "open_issues": 4,
+   "open_issues": 2,
    "watchers": 16,
    "default_branch": "main",
    "permissions": {
@@ -7314,7 +7314,7 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2022-09-26T09:38:20Z",
+   "updated_at": "2022-09-28T02:45:23Z",
    "pushed_at": "2022-09-26T10:59:07Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
@@ -7322,8 +7322,8 @@
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://github.com/abap2xlsx/abap2xlsx",
    "size": 26419,
-   "stargazers_count": 488,
-   "watchers_count": 488,
+   "stargazers_count": 489,
+   "watchers_count": 489,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7363,7 +7363,7 @@
    "visibility": "public",
    "forks": 235,
    "open_issues": 69,
-   "watchers": 488,
+   "watchers": 489,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -8131,13 +8131,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2022-09-26T17:58:00Z",
-   "pushed_at": "2022-09-27T06:43:35Z",
+   "pushed_at": "2022-09-27T12:35:01Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 21105,
+   "size": 21051,
    "stargazers_count": 1084,
    "watchers_count": 1084,
    "language": "ABAP",
@@ -8150,7 +8150,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 181,
+   "open_issues_count": 182,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8172,7 +8172,7 @@
    ],
    "visibility": "public",
    "forks": 458,
-   "open_issues": 181,
+   "open_issues": 182,
    "watchers": 1084,
    "default_branch": "main",
    "permissions": {
@@ -20283,13 +20283,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2022-09-16T08:14:24Z",
-   "pushed_at": "2022-09-13T14:36:55Z",
+   "pushed_at": "2022-09-27T12:24:15Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2505,
+   "size": 2451,
    "stargazers_count": 189,
    "watchers_count": 189,
    "language": "ABAP",
@@ -20302,7 +20302,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 303,
+   "open_issues_count": 304,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -20324,7 +20324,7 @@
    ],
    "visibility": "public",
    "forks": 63,
-   "open_issues": 303,
+   "open_issues": 304,
    "watchers": 189,
    "default_branch": "main",
    "permissions": {
@@ -25082,7 +25082,7 @@
    "releases_url": "https://api.github.com/repos/sbcgua/abap-string-map/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/abap-string-map/deployments",
    "created_at": "2020-06-21T07:32:00Z",
-   "updated_at": "2022-09-26T13:42:17Z",
+   "updated_at": "2022-09-27T16:04:13Z",
    "pushed_at": "2022-06-12T17:48:03Z",
    "git_url": "git://github.com/sbcgua/abap-string-map.git",
    "ssh_url": "git@github.com:sbcgua/abap-string-map.git",
@@ -25090,15 +25090,15 @@
    "svn_url": "https://github.com/sbcgua/abap-string-map",
    "homepage": "",
    "size": 34,
-   "stargazers_count": 4,
-   "watchers_count": 4,
+   "stargazers_count": 5,
+   "watchers_count": 5,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
    "has_pages": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -25118,9 +25118,9 @@
     "hacktoberfest"
    ],
    "visibility": "public",
-   "forks": 2,
+   "forks": 3,
    "open_issues": 1,
-   "watchers": 4,
+   "watchers": 5,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -25130,7 +25130,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 2,
+   "network_count": 3,
    "subscribers_count": 3
   }
  },
