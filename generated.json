@@ -3103,7 +3103,7 @@
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
    "updated_at": "2022-09-29T17:24:48Z",
-   "pushed_at": "2022-10-14T06:32:37Z",
+   "pushed_at": "2022-10-18T05:29:39Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
    "clone_url": "https://github.com/microsoft/ABAP-SDK-for-Azure.git",
@@ -3122,7 +3122,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 22,
+   "open_issues_count": 23,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3142,7 +3142,7 @@
    ],
    "visibility": "public",
    "forks": 51,
-   "open_issues": 22,
+   "open_issues": 23,
    "watchers": 122,
    "default_branch": "master",
    "permissions": {
@@ -7275,7 +7275,7 @@
    "deployments_url": "https://api.github.com/repos/abap-openapi/abap-openapi/deployments",
    "created_at": "2021-01-19T16:03:52Z",
    "updated_at": "2022-08-13T05:16:40Z",
-   "pushed_at": "2022-10-14T10:35:37Z",
+   "pushed_at": "2022-10-17T13:04:09Z",
    "git_url": "git://github.com/abap-openapi/abap-openapi.git",
    "ssh_url": "git@github.com:abap-openapi/abap-openapi.git",
    "clone_url": "https://github.com/abap-openapi/abap-openapi.git",
@@ -8173,11 +8173,11 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 145560,
+  "lines": 145301,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.93.29",
-   "cloud": 173
+   "cloud": 172
   },
   "repo": {
    "id": 21115149,
@@ -8246,14 +8246,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2022-10-14T10:13:13Z",
-   "pushed_at": "2022-10-17T07:29:38Z",
+   "updated_at": "2022-10-17T23:43:56Z",
+   "pushed_at": "2022-10-18T04:23:06Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 21103,
+   "size": 21168,
    "stargazers_count": 1094,
    "watchers_count": 1094,
    "language": "ABAP",
@@ -8266,7 +8266,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 187,
+   "open_issues_count": 184,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8288,7 +8288,7 @@
    ],
    "visibility": "public",
    "forks": 460,
-   "open_issues": 187,
+   "open_issues": 184,
    "watchers": 1094,
    "default_branch": "main",
    "permissions": {
@@ -14952,7 +14952,7 @@
    "releases_url": "https://api.github.com/repos/fatihpense/zcl_mdp_json/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fatihpense/zcl_mdp_json/deployments",
    "created_at": "2016-07-03T01:22:06Z",
-   "updated_at": "2021-07-27T03:31:16Z",
+   "updated_at": "2022-10-18T03:35:10Z",
    "pushed_at": "2019-04-04T19:19:16Z",
    "git_url": "git://github.com/fatihpense/zcl_mdp_json.git",
    "ssh_url": "git@github.com:fatihpense/zcl_mdp_json.git",
@@ -14960,8 +14960,8 @@
    "svn_url": "https://github.com/fatihpense/zcl_mdp_json",
    "homepage": "",
    "size": 12,
-   "stargazers_count": 21,
-   "watchers_count": 21,
+   "stargazers_count": 22,
+   "watchers_count": 22,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -14987,7 +14987,7 @@
    "visibility": "public",
    "forks": 9,
    "open_issues": 10,
-   "watchers": 21,
+   "watchers": 22,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -17090,7 +17090,7 @@
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.93.29",
-   "cloud": 114
+   "cloud": 113
   },
   "repo": {
    "id": 285577375,
@@ -17160,13 +17160,13 @@
    "deployments_url": "https://api.github.com/repos/hhelibeb/abap-fm-logger/deployments",
    "created_at": "2020-08-06T13:21:39Z",
    "updated_at": "2022-07-21T01:31:41Z",
-   "pushed_at": "2021-10-20T06:27:32Z",
+   "pushed_at": "2022-10-17T09:37:57Z",
    "git_url": "git://github.com/hhelibeb/abap-fm-logger.git",
    "ssh_url": "git@github.com:hhelibeb/abap-fm-logger.git",
    "clone_url": "https://github.com/hhelibeb/abap-fm-logger.git",
    "svn_url": "https://github.com/hhelibeb/abap-fm-logger",
    "homepage": "",
-   "size": 71,
+   "size": 77,
    "stargazers_count": 41,
    "watchers_count": 41,
    "language": "ABAP",
@@ -20414,7 +20414,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": true,
-   "forks_count": 63,
+   "forks_count": 64,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -20439,7 +20439,7 @@
     "sap-code-inspector"
    ],
    "visibility": "public",
-   "forks": 63,
+   "forks": 64,
    "open_issues": 304,
    "watchers": 191,
    "default_branch": "main",
@@ -20451,7 +20451,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 63,
+   "network_count": 64,
    "subscribers_count": 32
   }
  },
@@ -27532,7 +27532,7 @@
    "releases_url": "https://api.github.com/repos/techedgegroup-sap/abap2gsheet/releases{/id}",
    "deployments_url": "https://api.github.com/repos/techedgegroup-sap/abap2gsheet/deployments",
    "created_at": "2019-12-30T10:54:53Z",
-   "updated_at": "2022-02-22T21:39:12Z",
+   "updated_at": "2022-10-18T07:44:26Z",
    "pushed_at": "2020-01-15T12:06:03Z",
    "git_url": "git://github.com/techedgegroup-sap/abap2gsheet.git",
    "ssh_url": "git@github.com:techedgegroup-sap/abap2gsheet.git",
@@ -27540,8 +27540,8 @@
    "svn_url": "https://github.com/techedgegroup-sap/abap2gsheet",
    "homepage": null,
    "size": 209,
-   "stargazers_count": 13,
-   "watchers_count": 13,
+   "stargazers_count": 12,
+   "watchers_count": 12,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -27567,7 +27567,7 @@
    "visibility": "public",
    "forks": 4,
    "open_issues": 2,
-   "watchers": 13,
+   "watchers": 12,
    "default_branch": "master",
    "permissions": {
     "admin": false,
