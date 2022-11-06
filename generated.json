@@ -5116,13 +5116,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
    "updated_at": "2022-09-18T05:06:24Z",
-   "pushed_at": "2022-11-04T19:22:03Z",
+   "pushed_at": "2022-11-05T14:48:02Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
    "svn_url": "https://github.com/SAP/abap-file-formats-tools",
    "homepage": "",
-   "size": 472,
+   "size": 474,
    "stargazers_count": 9,
    "watchers_count": 9,
    "language": "ABAP",
@@ -6623,11 +6623,11 @@
   }
  },
  "ZEdwin/ZTCT": {
-  "lines": 5675,
+  "lines": 5671,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.93.29",
-   "cloud": 279
+   "cloud": 272
   },
   "repo": {
    "id": 12270932,
@@ -6697,13 +6697,13 @@
    "deployments_url": "https://api.github.com/repos/ZEdwin/ZTCT/deployments",
    "created_at": "2013-08-21T13:30:50Z",
    "updated_at": "2022-10-21T07:31:02Z",
-   "pushed_at": "2022-11-03T14:20:14Z",
+   "pushed_at": "2022-11-05T14:34:24Z",
    "git_url": "git://github.com/ZEdwin/ZTCT.git",
    "ssh_url": "git@github.com:ZEdwin/ZTCT.git",
    "clone_url": "https://github.com/ZEdwin/ZTCT.git",
    "svn_url": "https://github.com/ZEdwin/ZTCT",
    "homepage": null,
-   "size": 2072,
+   "size": 2128,
    "stargazers_count": 21,
    "watchers_count": 21,
    "language": "ABAP",
@@ -7405,13 +7405,13 @@
    "deployments_url": "https://api.github.com/repos/abap-openapi/abap-openapi/deployments",
    "created_at": "2021-01-19T16:03:52Z",
    "updated_at": "2022-08-13T05:16:40Z",
-   "pushed_at": "2022-10-17T13:04:09Z",
+   "pushed_at": "2022-11-05T10:06:50Z",
    "git_url": "git://github.com/abap-openapi/abap-openapi.git",
    "ssh_url": "git@github.com:abap-openapi/abap-openapi.git",
    "clone_url": "https://github.com/abap-openapi/abap-openapi.git",
    "svn_url": "https://github.com/abap-openapi/abap-openapi",
    "homepage": "",
-   "size": 785,
+   "size": 787,
    "stargazers_count": 43,
    "watchers_count": 43,
    "language": "ABAP",
@@ -7420,7 +7420,7 @@
    "has_downloads": true,
    "has_wiki": false,
    "has_pages": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -7441,7 +7441,7 @@
     "swagger"
    ],
    "visibility": "public",
-   "forks": 2,
+   "forks": 3,
    "open_issues": 11,
    "watchers": 43,
    "default_branch": "main",
@@ -7473,7 +7473,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 2,
+   "network_count": 3,
    "subscribers_count": 11
   }
  },
@@ -7580,7 +7580,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 73,
+   "open_issues_count": 74,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -7608,7 +7608,7 @@
    ],
    "visibility": "public",
    "forks": 239,
-   "open_issues": 73,
+   "open_issues": 74,
    "watchers": 501,
    "default_branch": "main",
    "permissions": {
@@ -8377,7 +8377,7 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2022-11-04T13:08:14Z",
-   "pushed_at": "2022-11-04T19:27:33Z",
+   "pushed_at": "2022-11-05T11:49:28Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
@@ -8396,7 +8396,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 188,
+   "open_issues_count": 189,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8418,7 +8418,7 @@
    ],
    "visibility": "public",
    "forks": 462,
-   "open_issues": 188,
+   "open_issues": 189,
    "watchers": 1099,
    "default_branch": "main",
    "permissions": {
@@ -21193,7 +21193,7 @@
    "releases_url": "https://api.github.com/repos/larshp/upDOWNci/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/upDOWNci/deployments",
    "created_at": "2015-07-29T18:19:17Z",
-   "updated_at": "2022-05-24T05:06:58Z",
+   "updated_at": "2022-11-05T16:43:27Z",
    "pushed_at": "2021-11-03T14:37:33Z",
    "git_url": "git://github.com/larshp/upDOWNci.git",
    "ssh_url": "git@github.com:larshp/upDOWNci.git",
@@ -21201,8 +21201,8 @@
    "svn_url": "https://github.com/larshp/upDOWNci",
    "homepage": "",
    "size": 98,
-   "stargazers_count": 18,
-   "watchers_count": 18,
+   "stargazers_count": 19,
+   "watchers_count": 19,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -21232,7 +21232,7 @@
    "visibility": "public",
    "forks": 12,
    "open_issues": 8,
-   "watchers": 18,
+   "watchers": 19,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -24065,11 +24065,11 @@
   }
  },
  "provideplatform/proUBC": {
-  "lines": 8972,
+  "lines": 11725,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.93.29",
-   "cloud": 215
+   "cloud": 119
   },
   "repo": {
    "id": 480578356,
@@ -24139,13 +24139,13 @@
    "deployments_url": "https://api.github.com/repos/provideplatform/proUBC/deployments",
    "created_at": "2022-04-11T22:57:33Z",
    "updated_at": "2022-09-20T13:37:06Z",
-   "pushed_at": "2022-11-03T03:46:04Z",
+   "pushed_at": "2022-11-05T15:26:10Z",
    "git_url": "git://github.com/provideplatform/proUBC.git",
    "ssh_url": "git@github.com:provideplatform/proUBC.git",
    "clone_url": "https://github.com/provideplatform/proUBC.git",
    "svn_url": "https://github.com/provideplatform/proUBC",
    "homepage": null,
-   "size": 1520,
+   "size": 1534,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
@@ -28370,7 +28370,7 @@
   }
  },
  "thedoginthewok/abapMermaid": {
-  "lines": 1435,
+  "lines": 1483,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.93.29",
@@ -28444,13 +28444,13 @@
    "deployments_url": "https://api.github.com/repos/thedoginthewok/abapMermaid/deployments",
    "created_at": "2022-04-10T20:16:59Z",
    "updated_at": "2022-10-02T07:36:51Z",
-   "pushed_at": "2022-07-08T23:50:00Z",
+   "pushed_at": "2022-11-06T01:48:21Z",
    "git_url": "git://github.com/thedoginthewok/abapMermaid.git",
    "ssh_url": "git@github.com:thedoginthewok/abapMermaid.git",
    "clone_url": "https://github.com/thedoginthewok/abapMermaid.git",
    "svn_url": "https://github.com/thedoginthewok/abapMermaid",
    "homepage": null,
-   "size": 1293,
+   "size": 1627,
    "stargazers_count": 5,
    "watchers_count": 5,
    "language": "ABAP",
