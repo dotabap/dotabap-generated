@@ -2875,7 +2875,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 3,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -2895,7 +2895,7 @@
    ],
    "visibility": "public",
    "forks": 55,
-   "open_issues": 3,
+   "open_issues": 2,
    "watchers": 131,
    "default_branch": "master",
    "permissions": {
@@ -4808,7 +4808,7 @@
   }
  },
  "SAP/abap-file-formats-tools": {
-  "lines": 15150,
+  "lines": 15293,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.94.14",
@@ -4882,13 +4882,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
    "updated_at": "2022-12-15T00:06:24Z",
-   "pushed_at": "2023-01-11T11:12:36Z",
+   "pushed_at": "2023-01-13T17:38:04Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
    "svn_url": "https://github.com/SAP/abap-file-formats-tools",
    "homepage": "",
-   "size": 568,
+   "size": 589,
    "stargazers_count": 11,
    "watchers_count": 11,
    "language": "ABAP",
@@ -7990,11 +7990,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 3,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 12,
+   "open_issues_count": 13,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8011,8 +8011,8 @@
     "swagger"
    ],
    "visibility": "public",
-   "forks": 3,
-   "open_issues": 12,
+   "forks": 4,
+   "open_issues": 13,
    "watchers": 47,
    "default_branch": "main",
    "permissions": {
@@ -8043,7 +8043,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 3,
+   "network_count": 4,
    "subscribers_count": 11
   }
  },
@@ -8879,7 +8879,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 148627,
+  "lines": 148639,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.94.14",
@@ -8953,13 +8953,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2023-01-12T14:36:04Z",
-   "pushed_at": "2023-01-12T23:01:51Z",
+   "pushed_at": "2023-01-13T17:01:59Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 21809,
+   "size": 21793,
    "stargazers_count": 1122,
    "watchers_count": 1122,
    "language": "ABAP",
@@ -11792,7 +11792,7 @@
   }
  },
  "bizhuka/aqo": {
-  "lines": 7191,
+  "lines": 7199,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.94.14",
@@ -11866,13 +11866,13 @@
    "deployments_url": "https://api.github.com/repos/bizhuka/aqo/deployments",
    "created_at": "2018-03-14T04:02:03Z",
    "updated_at": "2022-01-14T16:25:52Z",
-   "pushed_at": "2023-01-10T07:23:38Z",
+   "pushed_at": "2023-01-13T14:18:01Z",
    "git_url": "git://github.com/bizhuka/aqo.git",
    "ssh_url": "git@github.com:bizhuka/aqo.git",
    "clone_url": "https://github.com/bizhuka/aqo.git",
    "svn_url": "https://github.com/bizhuka/aqo",
    "homepage": "https://bizhuka.github.io/aqo/",
-   "size": 3423,
+   "size": 3432,
    "stargazers_count": 16,
    "watchers_count": 16,
    "language": "ABAP",
@@ -11923,7 +11923,7 @@
   }
  },
  "bizhuka/eui": {
-  "lines": 13274,
+  "lines": 13275,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.94.14",
@@ -11997,13 +11997,13 @@
    "deployments_url": "https://api.github.com/repos/bizhuka/eui/deployments",
    "created_at": "2020-04-10T06:05:31Z",
    "updated_at": "2023-01-10T07:24:59Z",
-   "pushed_at": "2023-01-12T07:53:43Z",
+   "pushed_at": "2023-01-13T14:18:10Z",
    "git_url": "git://github.com/bizhuka/eui.git",
    "ssh_url": "git@github.com:bizhuka/eui.git",
    "clone_url": "https://github.com/bizhuka/eui.git",
    "svn_url": "https://github.com/bizhuka/eui",
    "homepage": "https://bizhuka.github.io/eui/",
-   "size": 307,
+   "size": 324,
    "stargazers_count": 37,
    "watchers_count": 37,
    "language": "ABAP",
@@ -20195,7 +20195,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -20209,7 +20209,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 3,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 4,
    "default_branch": "main",
    "permissions": {
@@ -24862,7 +24862,7 @@
    "releases_url": "https://api.github.com/repos/peyn/IDoc-with-ABAP-OOP/releases{/id}",
    "deployments_url": "https://api.github.com/repos/peyn/IDoc-with-ABAP-OOP/deployments",
    "created_at": "2020-07-24T09:44:26Z",
-   "updated_at": "2022-06-22T17:27:43Z",
+   "updated_at": "2023-01-13T22:58:58Z",
    "pushed_at": "2020-07-24T10:25:36Z",
    "git_url": "git://github.com/peyn/IDoc-with-ABAP-OOP.git",
    "ssh_url": "git@github.com:peyn/IDoc-with-ABAP-OOP.git",
@@ -24870,8 +24870,8 @@
    "svn_url": "https://github.com/peyn/IDoc-with-ABAP-OOP",
    "homepage": null,
    "size": 8,
-   "stargazers_count": 13,
-   "watchers_count": 13,
+   "stargazers_count": 14,
+   "watchers_count": 14,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -24898,7 +24898,7 @@
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
-   "watchers": 13,
+   "watchers": 14,
    "default_branch": "master",
    "permissions": {
     "admin": false,
