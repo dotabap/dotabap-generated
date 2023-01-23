@@ -518,7 +518,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 97,
+   "forks_count": 98,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -539,7 +539,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 97,
+   "forks": 98,
    "open_issues": 17,
    "watchers": 259,
    "default_branch": "main",
@@ -571,7 +571,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 97,
+   "network_count": 98,
    "subscribers_count": 35
   }
  },
@@ -1523,7 +1523,7 @@
    "releases_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/releases{/id}",
    "deployments_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/deployments",
    "created_at": "2021-09-29T20:09:22Z",
-   "updated_at": "2023-01-17T07:47:49Z",
+   "updated_at": "2023-01-22T16:33:08Z",
    "pushed_at": "2022-05-27T19:25:58Z",
    "git_url": "git://github.com/DryDumbHead/easyHtmlEmail.git",
    "ssh_url": "git@github.com:DryDumbHead/easyHtmlEmail.git",
@@ -1531,8 +1531,8 @@
    "svn_url": "https://github.com/DryDumbHead/easyHtmlEmail",
    "homepage": "",
    "size": 169,
-   "stargazers_count": 20,
-   "watchers_count": 20,
+   "stargazers_count": 21,
+   "watchers_count": 21,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1566,7 +1566,7 @@
    "visibility": "public",
    "forks": 4,
    "open_issues": 2,
-   "watchers": 20,
+   "watchers": 21,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -3329,7 +3329,7 @@
    },
    "temp_clone_token": "",
    "network_count": 1,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "OlegBash599/CallABAP_samples": {
@@ -3453,7 +3453,7 @@
    },
    "temp_clone_token": "",
    "network_count": 4,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "OlegBash599/ZC8A_001": {
@@ -3584,7 +3584,7 @@
    },
    "temp_clone_token": "",
    "network_count": 0,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "OlegBash599/ZCTS_BROWSER": {
@@ -3716,7 +3716,7 @@
    },
    "temp_clone_token": "",
    "network_count": 4,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "SAP-samples/abap-alv-google-upload-sheet": {
@@ -8130,7 +8130,7 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2023-01-20T12:29:27Z",
+   "updated_at": "2023-01-23T07:00:16Z",
    "pushed_at": "2023-01-15T07:18:27Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
@@ -8138,8 +8138,8 @@
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://abap2xlsx.github.io/abap2xlsx/",
    "size": 26369,
-   "stargazers_count": 518,
-   "watchers_count": 518,
+   "stargazers_count": 519,
+   "watchers_count": 519,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -8180,7 +8180,7 @@
    "visibility": "public",
    "forks": 240,
    "open_issues": 68,
-   "watchers": 518,
+   "watchers": 519,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -8953,13 +8953,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2023-01-21T12:38:07Z",
-   "pushed_at": "2023-01-21T12:17:25Z",
+   "pushed_at": "2023-01-22T18:40:43Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 21892,
+   "size": 21937,
    "stargazers_count": 1125,
    "watchers_count": 1125,
    "language": "ABAP",
@@ -8973,7 +8973,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 122,
+   "open_issues_count": 123,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8995,7 +8995,7 @@
    ],
    "visibility": "public",
    "forks": 463,
-   "open_issues": 122,
+   "open_issues": 123,
    "watchers": 1125,
    "default_branch": "main",
    "permissions": {
@@ -21959,7 +21959,7 @@
   }
  },
  "larshp/mime_editor": {
-  "lines": 1165,
+  "lines": 1161,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -22040,13 +22040,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/mime_editor/deployments",
    "created_at": "2017-02-26T11:53:28Z",
    "updated_at": "2022-07-17T07:27:37Z",
-   "pushed_at": "2022-10-08T06:02:48Z",
+   "pushed_at": "2023-01-23T06:07:43Z",
    "git_url": "git://github.com/larshp/mime_editor.git",
    "ssh_url": "git@github.com:larshp/mime_editor.git",
    "clone_url": "https://github.com/larshp/mime_editor.git",
    "svn_url": "https://github.com/larshp/mime_editor",
    "homepage": "",
-   "size": 96,
+   "size": 60,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
@@ -25691,7 +25691,7 @@
    "releases_url": "https://api.github.com/repos/raketenstart-abap/abap-tvarvc/releases{/id}",
    "deployments_url": "https://api.github.com/repos/raketenstart-abap/abap-tvarvc/deployments",
    "created_at": "2022-11-09T16:36:21Z",
-   "updated_at": "2023-01-03T15:08:41Z",
+   "updated_at": "2023-01-22T14:53:31Z",
    "pushed_at": "2022-11-09T23:48:51Z",
    "git_url": "git://github.com/raketenstart-abap/abap-tvarvc.git",
    "ssh_url": "git@github.com:raketenstart-abap/abap-tvarvc.git",
@@ -25699,8 +25699,8 @@
    "svn_url": "https://github.com/raketenstart-abap/abap-tvarvc",
    "homepage": null,
    "size": 53,
-   "stargazers_count": 3,
-   "watchers_count": 3,
+   "stargazers_count": 4,
+   "watchers_count": 4,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -25727,7 +25727,7 @@
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
-   "watchers": 3,
+   "watchers": 4,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -28618,7 +28618,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -28637,7 +28637,7 @@
    ],
    "visibility": "public",
    "forks": 4,
-   "open_issues": 0,
+   "open_issues": 1,
    "watchers": 22,
    "default_branch": "main",
    "permissions": {
