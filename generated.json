@@ -2854,7 +2854,7 @@
    "releases_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2023-01-20T20:59:38Z",
+   "updated_at": "2023-01-25T01:08:17Z",
    "pushed_at": "2023-01-05T06:25:11Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
@@ -2862,8 +2862,8 @@
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
    "size": 18454,
-   "stargazers_count": 132,
-   "watchers_count": 132,
+   "stargazers_count": 133,
+   "watchers_count": 133,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2896,7 +2896,7 @@
    "visibility": "public",
    "forks": 55,
    "open_issues": 1,
-   "watchers": 132,
+   "watchers": 133,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4804,11 +4804,11 @@
     "site_admin": false
    },
    "network_count": 3,
-   "subscribers_count": 7
+   "subscribers_count": 8
   }
  },
  "SAP/abap-file-formats-tools": {
-  "lines": 15262,
+  "lines": 15266,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.95.6",
@@ -4882,13 +4882,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
    "updated_at": "2022-12-15T00:06:24Z",
-   "pushed_at": "2023-01-21T12:38:09Z",
+   "pushed_at": "2023-01-24T14:46:59Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
    "svn_url": "https://github.com/SAP/abap-file-formats-tools",
    "homepage": "",
-   "size": 547,
+   "size": 551,
    "stargazers_count": 11,
    "watchers_count": 11,
    "language": "ABAP",
@@ -4902,7 +4902,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 9,
+   "open_issues_count": 7,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -4919,7 +4919,7 @@
    ],
    "visibility": "public",
    "forks": 4,
-   "open_issues": 9,
+   "open_issues": 7,
    "watchers": 11,
    "default_branch": "main",
    "permissions": {
@@ -5959,7 +5959,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 4,
+   "open_issues_count": 5,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -5976,7 +5976,7 @@
    ],
    "visibility": "public",
    "forks": 0,
-   "open_issues": 4,
+   "open_issues": 5,
    "watchers": 16,
    "default_branch": "main",
    "permissions": {
@@ -8147,7 +8147,7 @@
    "has_wiki": false,
    "has_pages": true,
    "has_discussions": false,
-   "forks_count": 239,
+   "forks_count": 240,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8178,7 +8178,7 @@
     "sap-netweaver"
    ],
    "visibility": "public",
-   "forks": 239,
+   "forks": 240,
    "open_issues": 68,
    "watchers": 520,
    "default_branch": "main",
@@ -8210,7 +8210,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 239,
+   "network_count": 240,
    "subscribers_count": 67
   }
  },
@@ -8879,7 +8879,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 148942,
+  "lines": 148887,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.95.6",
@@ -8953,13 +8953,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2023-01-23T21:44:05Z",
-   "pushed_at": "2023-01-23T10:28:27Z",
+   "pushed_at": "2023-01-25T19:41:18Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 21938,
+   "size": 21855,
    "stargazers_count": 1126,
    "watchers_count": 1126,
    "language": "ABAP",
@@ -8973,7 +8973,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 122,
+   "open_issues_count": 121,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -8995,7 +8995,7 @@
    ],
    "visibility": "public",
    "forks": 463,
-   "open_issues": 122,
+   "open_issues": 121,
    "watchers": 1126,
    "default_branch": "main",
    "permissions": {
@@ -9027,7 +9027,7 @@
     "site_admin": false
    },
    "network_count": 463,
-   "subscribers_count": 116
+   "subscribers_count": 115
   }
  },
  "abapGit/background_modes": {
@@ -16273,7 +16273,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 7,
+   "open_issues_count": 6,
    "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -16292,7 +16292,7 @@
    ],
    "visibility": "public",
    "forks": 46,
-   "open_issues": 7,
+   "open_issues": 6,
    "watchers": 106,
    "default_branch": "master",
    "permissions": {
@@ -20356,7 +20356,7 @@
    },
    "temp_clone_token": "",
    "network_count": 12,
-   "subscribers_count": 12
+   "subscribers_count": 13
   }
  },
  "larshp/ABAP-Object-Visualizer": {
@@ -20589,7 +20589,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 35,
+   "forks_count": 36,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -20611,7 +20611,7 @@
     "swagger"
    ],
    "visibility": "public",
-   "forks": 35,
+   "forks": 36,
    "open_issues": 23,
    "watchers": 80,
    "default_branch": "main",
@@ -20623,7 +20623,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 35,
+   "network_count": 36,
    "subscribers_count": 16
   }
  },
@@ -25277,7 +25277,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 24,
+   "open_issues_count": 25,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -25291,7 +25291,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 2,
-   "open_issues": 24,
+   "open_issues": 25,
    "watchers": 8,
    "default_branch": "main",
    "permissions": {
