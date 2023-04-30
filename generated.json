@@ -502,7 +502,7 @@
    "deployments_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
    "updated_at": "2023-04-27T21:24:47Z",
-   "pushed_at": "2023-04-16T09:10:00Z",
+   "pushed_at": "2023-04-29T14:16:23Z",
    "git_url": "git://github.com/ABAP-Logger/ABAP-Logger.git",
    "ssh_url": "git@github.com:ABAP-Logger/ABAP-Logger.git",
    "clone_url": "https://github.com/ABAP-Logger/ABAP-Logger.git",
@@ -3017,7 +3017,7 @@
    "clone_url": "https://github.com/microsoft/aisdkforsapabap.git",
    "svn_url": "https://github.com/microsoft/aisdkforsapabap",
    "homepage": null,
-   "size": 690,
+   "size": 1865,
    "stargazers_count": 26,
    "watchers_count": 26,
    "language": "ABAP",
@@ -23579,7 +23579,7 @@
   }
  },
  "oblomov-dev/abap2ui5": {
-  "lines": 15756,
+  "lines": 15907,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.97.17",
@@ -23653,13 +23653,13 @@
    "deployments_url": "https://api.github.com/repos/oblomov-dev/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
    "updated_at": "2023-04-28T12:23:15Z",
-   "pushed_at": "2023-04-29T06:04:15Z",
+   "pushed_at": "2023-04-29T11:36:27Z",
    "git_url": "git://github.com/oblomov-dev/abap2UI5.git",
    "ssh_url": "git@github.com:oblomov-dev/abap2UI5.git",
    "clone_url": "https://github.com/oblomov-dev/abap2UI5.git",
    "svn_url": "https://github.com/oblomov-dev/abap2UI5",
    "homepage": "",
-   "size": 963,
+   "size": 973,
    "stargazers_count": 118,
    "watchers_count": 118,
    "language": "ABAP",
@@ -27891,7 +27891,7 @@
   }
  },
  "sbcgua/ajson": {
-  "lines": 11306,
+  "lines": 11332,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.97.17",
@@ -27965,7 +27965,7 @@
    "deployments_url": "https://api.github.com/repos/sbcgua/ajson/deployments",
    "created_at": "2020-05-16T07:00:27Z",
    "updated_at": "2023-04-09T18:08:49Z",
-   "pushed_at": "2023-04-28T13:52:33Z",
+   "pushed_at": "2023-04-29T10:33:50Z",
    "git_url": "git://github.com/sbcgua/ajson.git",
    "ssh_url": "git@github.com:sbcgua/ajson.git",
    "clone_url": "https://github.com/sbcgua/ajson.git",
@@ -27985,7 +27985,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 17,
+   "open_issues_count": 15,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -28003,7 +28003,7 @@
    ],
    "visibility": "public",
    "forks": 10,
-   "open_issues": 17,
+   "open_issues": 15,
    "watchers": 35,
    "default_branch": "master",
    "permissions": {
