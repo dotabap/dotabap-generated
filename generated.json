@@ -572,7 +572,7 @@
     "site_admin": false
    },
    "network_count": 105,
-   "subscribers_count": 38
+   "subscribers_count": 39
   }
  },
  "AkyshBaymuhammedov/ADT_TODO_Plugin_ABAP": {
@@ -2130,7 +2130,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 4,
+   "forks_count": 5,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -2151,7 +2151,7 @@
     "search"
    ],
    "visibility": "public",
-   "forks": 4,
+   "forks": 5,
    "open_issues": 1,
    "watchers": 18,
    "default_branch": "main",
@@ -2183,7 +2183,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 4,
+   "network_count": 5,
    "subscribers_count": 3
   }
  },
@@ -3919,7 +3919,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 6,
+   "open_issues_count": 5,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -3939,7 +3939,7 @@
    ],
    "visibility": "public",
    "forks": 59,
-   "open_issues": 6,
+   "open_issues": 5,
    "watchers": 156,
    "default_branch": "master",
    "permissions": {
@@ -6070,7 +6070,7 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
    "updated_at": "2023-08-14T04:41:18Z",
-   "pushed_at": "2023-08-15T11:04:18Z",
+   "pushed_at": "2023-08-16T17:04:30Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
@@ -6090,7 +6090,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 7,
+   "open_issues_count": 6,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6107,7 +6107,7 @@
    ],
    "visibility": "public",
    "forks": 6,
-   "open_issues": 7,
+   "open_issues": 6,
    "watchers": 19,
    "default_branch": "main",
    "permissions": {
@@ -6257,7 +6257,7 @@
   }
  },
  "SAP/code-pal-for-abap": {
-  "lines": 24805,
+  "lines": 25150,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.102.21",
@@ -6331,13 +6331,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
    "updated_at": "2023-08-09T14:32:52Z",
-   "pushed_at": "2023-08-14T07:09:10Z",
+   "pushed_at": "2023-08-16T11:36:46Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 3066,
+   "size": 3081,
    "stargazers_count": 267,
    "watchers_count": 267,
    "language": "ABAP",
@@ -9355,7 +9355,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 8204,
+  "lines": 8205,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.102.21",
@@ -9429,13 +9429,13 @@
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
    "updated_at": "2023-08-15T15:45:32Z",
-   "pushed_at": "2023-08-15T16:07:34Z",
+   "pushed_at": "2023-08-17T08:18:00Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "",
-   "size": 1506,
+   "size": 1542,
    "stargazers_count": 171,
    "watchers_count": 171,
    "language": "ABAP",
@@ -9445,11 +9445,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 31,
+   "forks_count": 32,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 20,
+   "open_issues_count": 21,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9468,8 +9468,8 @@
     "ui5"
    ],
    "visibility": "public",
-   "forks": 31,
-   "open_issues": 20,
+   "forks": 32,
+   "open_issues": 21,
    "watchers": 171,
    "default_branch": "main",
    "permissions": {
@@ -9500,7 +9500,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 31,
+   "network_count": 32,
    "subscribers_count": 13
   }
  },
@@ -9587,7 +9587,7 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2023-08-16T01:46:19Z",
+   "updated_at": "2023-08-16T18:45:12Z",
    "pushed_at": "2023-08-10T07:57:27Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
@@ -9595,8 +9595,8 @@
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://abap2xlsx.github.io/abap2xlsx/",
    "size": 26525,
-   "stargazers_count": 585,
-   "watchers_count": 585,
+   "stargazers_count": 586,
+   "watchers_count": 586,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -9604,7 +9604,7 @@
    "has_wiki": false,
    "has_pages": true,
    "has_discussions": false,
-   "forks_count": 263,
+   "forks_count": 264,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9635,9 +9635,9 @@
     "sap-netweaver"
    ],
    "visibility": "public",
-   "forks": 263,
+   "forks": 264,
    "open_issues": 92,
-   "watchers": 585,
+   "watchers": 586,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -9667,7 +9667,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 263,
+   "network_count": 264,
    "subscribers_count": 69
   }
  },
@@ -10336,11 +10336,11 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 161201,
+  "lines": 161310,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.102.21",
-   "cloud": 160
+   "cloud": 158
   },
   "repo": {
    "id": 21115149,
@@ -10409,16 +10409,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2023-08-15T22:15:32Z",
-   "pushed_at": "2023-08-16T04:21:21Z",
+   "updated_at": "2023-08-16T18:45:03Z",
+   "pushed_at": "2023-08-17T06:18:33Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 23749,
-   "stargazers_count": 1279,
-   "watchers_count": 1279,
+   "size": 23836,
+   "stargazers_count": 1280,
+   "watchers_count": 1280,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10453,7 +10453,7 @@
    "visibility": "public",
    "forks": 491,
    "open_issues": 112,
-   "watchers": 1279,
+   "watchers": 1280,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -13847,7 +13847,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 6,
+   "forks_count": 7,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -13869,7 +13869,7 @@
     "user-interface"
    ],
    "visibility": "public",
-   "forks": 6,
+   "forks": 7,
    "open_issues": 0,
    "watchers": 42,
    "default_branch": "master",
@@ -13881,7 +13881,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 6,
+   "network_count": 7,
    "subscribers_count": 5
   }
  },
@@ -23784,7 +23784,7 @@
    },
    "temp_clone_token": "",
    "network_count": 75,
-   "subscribers_count": 36
+   "subscribers_count": 37
   }
  },
  "larshp/abapOpenReview": {
@@ -25368,7 +25368,7 @@
   }
  },
  "objective-partner/abap_debugger_data_view_extension": {
-  "lines": 3993,
+  "lines": 4022,
   "startingFolder": "/",
   "ignoreFiles": [
    "/.gitignore",
@@ -25453,13 +25453,13 @@
    "deployments_url": "https://api.github.com/repos/objective-partner/abap_debugger_data_view_extension/deployments",
    "created_at": "2017-11-09T16:08:52Z",
    "updated_at": "2023-07-25T14:12:42Z",
-   "pushed_at": "2022-11-15T16:18:34Z",
+   "pushed_at": "2023-08-16T10:14:17Z",
    "git_url": "git://github.com/objective-partner/abap_debugger_data_view_extension.git",
    "ssh_url": "git@github.com:objective-partner/abap_debugger_data_view_extension.git",
    "clone_url": "https://github.com/objective-partner/abap_debugger_data_view_extension.git",
    "svn_url": "https://github.com/objective-partner/abap_debugger_data_view_extension",
    "homepage": null,
-   "size": 224,
+   "size": 250,
    "stargazers_count": 26,
    "watchers_count": 26,
    "language": "ABAP",
@@ -25473,7 +25473,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 6,
+   "open_issues_count": 4,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -25490,7 +25490,7 @@
    ],
    "visibility": "public",
    "forks": 12,
-   "open_issues": 6,
+   "open_issues": 4,
    "watchers": 26,
    "default_branch": "master",
    "permissions": {
@@ -27276,7 +27276,7 @@
   }
  },
  "provideplatform/provide-abap": {
-  "lines": 13208,
+  "lines": 13423,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.102.21",
@@ -27350,13 +27350,13 @@
    "deployments_url": "https://api.github.com/repos/provideplatform/provide-abap/deployments",
    "created_at": "2022-04-11T22:57:33Z",
    "updated_at": "2023-07-21T20:29:50Z",
-   "pushed_at": "2023-08-07T18:42:38Z",
+   "pushed_at": "2023-08-16T19:56:59Z",
    "git_url": "git://github.com/provideplatform/provide-abap.git",
    "ssh_url": "git@github.com:provideplatform/provide-abap.git",
    "clone_url": "https://github.com/provideplatform/provide-abap.git",
    "svn_url": "https://github.com/provideplatform/provide-abap",
    "homepage": null,
-   "size": 993,
+   "size": 994,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
