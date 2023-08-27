@@ -3971,7 +3971,7 @@
     "site_admin": false
    },
    "network_count": 59,
-   "subscribers_count": 45
+   "subscribers_count": 44
   }
  },
  "Microsoft/aisdkforsapabap": {
@@ -6330,7 +6330,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2023-08-25T23:12:05Z",
+   "updated_at": "2023-08-27T04:45:36Z",
    "pushed_at": "2023-08-23T11:05:17Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -9355,7 +9355,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 8703,
+  "lines": 8795,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.102.25",
@@ -9429,13 +9429,13 @@
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
    "updated_at": "2023-08-25T07:59:51Z",
-   "pushed_at": "2023-08-25T14:42:25Z",
+   "pushed_at": "2023-08-27T06:55:36Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "",
-   "size": 1568,
+   "size": 1657,
    "stargazers_count": 172,
    "watchers_count": 172,
    "language": "ABAP",
@@ -9588,7 +9588,7 @@
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2023-08-23T08:46:52Z",
-   "pushed_at": "2023-08-10T07:57:27Z",
+   "pushed_at": "2023-08-26T10:55:34Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
@@ -10410,7 +10410,7 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2023-08-25T20:44:24Z",
-   "pushed_at": "2023-08-26T06:06:54Z",
+   "pushed_at": "2023-08-27T00:23:32Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
@@ -10430,7 +10430,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 118,
+   "open_issues_count": 119,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10452,7 +10452,7 @@
    ],
    "visibility": "public",
    "forks": 493,
-   "open_issues": 118,
+   "open_issues": 119,
    "watchers": 1286,
    "default_branch": "main",
    "permissions": {
