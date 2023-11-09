@@ -9479,7 +9479,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 15075,
+  "lines": 15086,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.103.1",
@@ -9553,13 +9553,13 @@
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
    "updated_at": "2023-11-06T03:12:18Z",
-   "pushed_at": "2023-11-07T16:43:32Z",
+   "pushed_at": "2023-11-08T11:35:46Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 1925,
+   "size": 1698,
    "stargazers_count": 194,
    "watchers_count": 194,
    "language": "ABAP",
@@ -9573,7 +9573,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 20,
+   "open_issues_count": 17,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9594,7 +9594,7 @@
    ],
    "visibility": "public",
    "forks": 35,
-   "open_issues": 20,
+   "open_issues": 17,
    "watchers": 194,
    "default_branch": "main",
    "permissions": {
@@ -9712,7 +9712,7 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2023-11-04T09:35:40Z",
+   "updated_at": "2023-11-09T02:54:58Z",
    "pushed_at": "2023-11-06T17:20:41Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
@@ -10461,7 +10461,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 166283,
+  "lines": 166324,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.103.1",
@@ -10535,13 +10535,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2023-11-08T02:44:42Z",
-   "pushed_at": "2023-11-08T06:18:56Z",
+   "pushed_at": "2023-11-09T06:25:29Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24065,
+   "size": 23916,
    "stargazers_count": 1324,
    "watchers_count": 1324,
    "language": "ABAP",
@@ -10555,7 +10555,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 98,
+   "open_issues_count": 97,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10577,7 +10577,7 @@
    ],
    "visibility": "public",
    "forks": 500,
-   "open_issues": 98,
+   "open_issues": 97,
    "watchers": 1324,
    "default_branch": "main",
    "permissions": {
@@ -11253,7 +11253,7 @@
    "releases_url": "https://api.github.com/repos/abapify/promise/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapify/promise/deployments",
    "created_at": "2022-06-22T14:46:23Z",
-   "updated_at": "2023-10-19T22:04:32Z",
+   "updated_at": "2023-11-08T12:14:12Z",
    "pushed_at": "2023-10-18T11:42:44Z",
    "git_url": "git://github.com/abapify/promise.git",
    "ssh_url": "git@github.com:abapify/promise.git",
@@ -11261,8 +11261,8 @@
    "svn_url": "https://github.com/abapify/promise",
    "homepage": "",
    "size": 39,
-   "stargazers_count": 17,
-   "watchers_count": 17,
+   "stargazers_count": 18,
+   "watchers_count": 18,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -11270,7 +11270,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -11287,9 +11287,9 @@
    "web_commit_signoff_required": false,
    "topics": [],
    "visibility": "public",
-   "forks": 2,
+   "forks": 3,
    "open_issues": 0,
-   "watchers": 17,
+   "watchers": 18,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -11319,7 +11319,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 2,
+   "network_count": 3,
    "subscribers_count": 1
   }
  },
@@ -14878,7 +14878,7 @@
   }
  },
  "boy0korea/abap2json": {
-  "lines": 1628,
+  "lines": 1654,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.103.1",
@@ -14952,13 +14952,13 @@
    "deployments_url": "https://api.github.com/repos/boy0korea/abap2json/deployments",
    "created_at": "2021-07-04T15:01:33Z",
    "updated_at": "2023-05-21T07:10:48Z",
-   "pushed_at": "2023-04-18T08:28:23Z",
+   "pushed_at": "2023-11-09T05:51:03Z",
    "git_url": "git://github.com/boy0korea/abap2json.git",
    "ssh_url": "git@github.com:boy0korea/abap2json.git",
    "clone_url": "https://github.com/boy0korea/abap2json.git",
    "svn_url": "https://github.com/boy0korea/abap2json",
    "homepage": "",
-   "size": 103,
+   "size": 111,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -19385,7 +19385,7 @@
    },
    "temp_clone_token": "",
    "network_count": 3,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "gprs555/abap-soql-query": {
@@ -24105,7 +24105,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 10,
+   "forks_count": 11,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -24125,7 +24125,7 @@
     "code-review"
    ],
    "visibility": "public",
-   "forks": 10,
+   "forks": 11,
    "open_issues": 29,
    "watchers": 25,
    "default_branch": "main",
@@ -24137,7 +24137,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 10,
+   "network_count": 11,
    "subscribers_count": 15
   }
  },
