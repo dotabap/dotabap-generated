@@ -2238,13 +2238,13 @@
    "deployments_url": "https://api.github.com/repos/DevEpos/abap-search-tools/deployments",
    "created_at": "2019-08-01T19:35:06Z",
    "updated_at": "2023-10-24T03:48:51Z",
-   "pushed_at": "2023-11-07T12:20:55Z",
+   "pushed_at": "2023-11-12T20:11:20Z",
    "git_url": "git://github.com/DevEpos/abap-search-tools.git",
    "ssh_url": "git@github.com:DevEpos/abap-search-tools.git",
    "clone_url": "https://github.com/DevEpos/abap-search-tools.git",
    "svn_url": "https://github.com/DevEpos/abap-search-tools",
    "homepage": "",
-   "size": 1945,
+   "size": 1756,
    "stargazers_count": 22,
    "watchers_count": 22,
    "language": "ABAP",
@@ -9712,7 +9712,7 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2023-11-10T19:30:10Z",
+   "updated_at": "2023-11-13T08:07:28Z",
    "pushed_at": "2023-11-10T13:50:24Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
@@ -9720,8 +9720,8 @@
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://abap2xlsx.github.io/abap2xlsx/",
    "size": 26567,
-   "stargazers_count": 612,
-   "watchers_count": 612,
+   "stargazers_count": 614,
+   "watchers_count": 614,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -9762,7 +9762,7 @@
    "visibility": "public",
    "forks": 273,
    "open_issues": 95,
-   "watchers": 612,
+   "watchers": 614,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -10461,7 +10461,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 166393,
+  "lines": 166376,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.103.1",
@@ -10535,13 +10535,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2023-11-11T15:01:06Z",
-   "pushed_at": "2023-11-12T07:53:56Z",
+   "pushed_at": "2023-11-13T05:55:33Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24012,
+   "size": 23949,
    "stargazers_count": 1325,
    "watchers_count": 1325,
    "language": "ABAP",
@@ -10555,7 +10555,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 95,
+   "open_issues_count": 90,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10577,7 +10577,7 @@
    ],
    "visibility": "public",
    "forks": 502,
-   "open_issues": 95,
+   "open_issues": 90,
    "watchers": 1325,
    "default_branch": "main",
    "permissions": {
@@ -12810,11 +12810,11 @@
   }
  },
  "alwinvandeput/zscv_search_cds_views": {
-  "lines": 1871,
+  "lines": 2728,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.103.1",
-   "cloud": 94
+   "cloud": 124
   },
   "repo": {
    "id": 609607334,
@@ -12884,13 +12884,13 @@
    "deployments_url": "https://api.github.com/repos/alwinvandeput/zscv_search_cds_views/deployments",
    "created_at": "2023-03-04T17:33:15Z",
    "updated_at": "2023-10-26T05:42:04Z",
-   "pushed_at": "2023-11-04T15:39:18Z",
+   "pushed_at": "2023-11-12T15:18:27Z",
    "git_url": "git://github.com/alwinvandeput/zscv_search_cds_views.git",
    "ssh_url": "git@github.com:alwinvandeput/zscv_search_cds_views.git",
    "clone_url": "https://github.com/alwinvandeput/zscv_search_cds_views.git",
    "svn_url": "https://github.com/alwinvandeput/zscv_search_cds_views",
    "homepage": null,
-   "size": 84,
+   "size": 105,
    "stargazers_count": 20,
    "watchers_count": 20,
    "language": "ABAP",
@@ -17916,7 +17916,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 8,
+   "forks_count": 7,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -17933,7 +17933,7 @@
    "web_commit_signoff_required": false,
    "topics": [],
    "visibility": "public",
-   "forks": 8,
+   "forks": 7,
    "open_issues": 10,
    "watchers": 21,
    "default_branch": "master",
@@ -17945,8 +17945,8 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 8,
-   "subscribers_count": 10
+   "network_count": 7,
+   "subscribers_count": 9
   }
  },
  "fidley/ALVGridInNutshell": {
