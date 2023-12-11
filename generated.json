@@ -9739,7 +9739,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 18381,
+  "lines": 18472,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.104.2",
@@ -9812,16 +9812,16 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2023-12-05T14:59:08Z",
-   "pushed_at": "2023-12-09T17:17:17Z",
+   "updated_at": "2023-12-10T21:05:05Z",
+   "pushed_at": "2023-12-10T11:04:14Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 1949,
-   "stargazers_count": 205,
-   "watchers_count": 205,
+   "size": 1966,
+   "stargazers_count": 206,
+   "watchers_count": 206,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -9833,7 +9833,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 16,
+   "open_issues_count": 11,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9854,8 +9854,8 @@
    ],
    "visibility": "public",
    "forks": 37,
-   "open_issues": 16,
-   "watchers": 205,
+   "open_issues": 11,
+   "watchers": 206,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -9973,7 +9973,7 @@
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2023-12-09T22:09:48Z",
-   "pushed_at": "2023-12-07T13:32:45Z",
+   "pushed_at": "2023-12-11T07:12:17Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
@@ -10665,7 +10665,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 11,
+   "forks_count": 12,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -10684,7 +10684,7 @@
     "abapgit"
    ],
    "visibility": "public",
-   "forks": 11,
+   "forks": 12,
    "open_issues": 17,
    "watchers": 29,
    "default_branch": "main",
@@ -10716,7 +10716,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 11,
+   "network_count": 12,
    "subscribers_count": 15
   }
  },
@@ -12026,7 +12026,7 @@
   }
  },
  "abaplint/abaplint-sci-client": {
-  "lines": 6633,
+  "lines": 6666,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.104.2",
@@ -12100,13 +12100,13 @@
    "deployments_url": "https://api.github.com/repos/abaplint/abaplint-sci-client/deployments",
    "created_at": "2020-01-05T12:58:03Z",
    "updated_at": "2023-12-09T18:53:35Z",
-   "pushed_at": "2023-12-09T19:10:25Z",
+   "pushed_at": "2023-12-11T06:00:36Z",
    "git_url": "git://github.com/abaplint/abaplint-sci-client.git",
    "ssh_url": "git@github.com:abaplint/abaplint-sci-client.git",
    "clone_url": "https://github.com/abaplint/abaplint-sci-client.git",
    "svn_url": "https://github.com/abaplint/abaplint-sci-client",
    "homepage": "",
-   "size": 1013,
+   "size": 1039,
    "stargazers_count": 32,
    "watchers_count": 32,
    "language": "ABAP",
@@ -12120,7 +12120,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 22,
+   "open_issues_count": 20,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -12140,7 +12140,7 @@
    ],
    "visibility": "public",
    "forks": 19,
-   "open_issues": 22,
+   "open_issues": 20,
    "watchers": 32,
    "default_branch": "main",
    "permissions": {
@@ -23673,7 +23673,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abap-wasm/deployments",
    "created_at": "2019-12-27T10:59:08Z",
    "updated_at": "2023-11-24T06:02:31Z",
-   "pushed_at": "2023-10-24T14:47:35Z",
+   "pushed_at": "2023-12-10T13:11:07Z",
    "git_url": "git://github.com/larshp/abap-wasm.git",
    "ssh_url": "git@github.com:larshp/abap-wasm.git",
    "clone_url": "https://github.com/larshp/abap-wasm.git",
@@ -23693,7 +23693,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 8,
+   "open_issues_count": 7,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -23711,7 +23711,7 @@
    ],
    "visibility": "public",
    "forks": 0,
-   "open_issues": 8,
+   "open_issues": 7,
    "watchers": 12,
    "default_branch": "main",
    "permissions": {
