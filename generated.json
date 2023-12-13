@@ -420,7 +420,7 @@
   }
  },
  "ABAP-Logger/ABAP-Logger": {
-  "lines": 3547,
+  "lines": 3692,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -432,7 +432,7 @@
   ],
   "parsing": {
    "version": "2.104.6",
-   "cloud": 34
+   "cloud": 33
   },
   "repo": {
    "id": 23935101,
@@ -501,14 +501,14 @@
    "releases_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2023-11-14T10:53:19Z",
-   "pushed_at": "2023-12-11T22:25:56Z",
+   "updated_at": "2023-12-12T11:20:00Z",
+   "pushed_at": "2023-12-12T13:47:58Z",
    "git_url": "git://github.com/ABAP-Logger/ABAP-Logger.git",
    "ssh_url": "git@github.com:ABAP-Logger/ABAP-Logger.git",
    "clone_url": "https://github.com/ABAP-Logger/ABAP-Logger.git",
    "svn_url": "https://github.com/ABAP-Logger/ABAP-Logger",
    "homepage": null,
-   "size": 307,
+   "size": 263,
    "stargazers_count": 298,
    "watchers_count": 298,
    "language": "ABAP",
@@ -522,7 +522,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 11,
+   "open_issues_count": 4,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -540,7 +540,7 @@
    ],
    "visibility": "public",
    "forks": 108,
-   "open_issues": 11,
+   "open_issues": 4,
    "watchers": 298,
    "default_branch": "main",
    "permissions": {
@@ -572,7 +572,7 @@
     "site_admin": false
    },
    "network_count": 108,
-   "subscribers_count": 39
+   "subscribers_count": 38
   }
  },
  "AkyshBaymuhammedov/ADT_TODO_Plugin_ABAP": {
@@ -6167,7 +6167,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 5,
+   "open_issues_count": 0,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -6188,7 +6188,7 @@
    ],
    "visibility": "public",
    "forks": 4,
-   "open_issues": 5,
+   "open_issues": 0,
    "watchers": 13,
    "default_branch": "main",
    "permissions": {
@@ -9772,7 +9772,7 @@
     "site_admin": false
    },
    "html_url": "https://github.com/abap2UI5/abap2UI5",
-   "description": "Developing UI5 Apps in Pure ABAP",
+   "description": "Developing UI5 Apps Purely in ABAP",
    "fork": false,
    "url": "https://api.github.com/repos/abap2UI5/abap2UI5",
    "forks_url": "https://api.github.com/repos/abap2UI5/abap2UI5/forks",
@@ -9812,14 +9812,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2023-12-11T20:10:05Z",
-   "pushed_at": "2023-12-12T07:03:57Z",
+   "updated_at": "2023-12-12T12:30:09Z",
+   "pushed_at": "2023-12-12T12:37:29Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 1977,
+   "size": 1982,
    "stargazers_count": 207,
    "watchers_count": 207,
    "language": "ABAP",
@@ -9829,7 +9829,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 37,
+   "forks_count": 38,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9853,7 +9853,7 @@
     "ui5"
    ],
    "visibility": "public",
-   "forks": 37,
+   "forks": 38,
    "open_issues": 10,
    "watchers": 207,
    "default_branch": "main",
@@ -9885,7 +9885,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 37,
+   "network_count": 38,
    "subscribers_count": 12
   }
  },
@@ -10721,7 +10721,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 167575,
+  "lines": 167576,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.104.6",
@@ -10795,13 +10795,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2023-12-12T02:36:09Z",
-   "pushed_at": "2023-12-12T06:11:01Z",
+   "pushed_at": "2023-12-12T13:54:20Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24239,
+   "size": 24240,
    "stargazers_count": 1363,
    "watchers_count": 1363,
    "language": "ABAP",
@@ -17891,7 +17891,7 @@
    "releases_url": "https://api.github.com/repos/fabianlupa/abap-log/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fabianlupa/abap-log/deployments",
    "created_at": "2017-02-09T10:32:15Z",
-   "updated_at": "2023-12-07T08:43:00Z",
+   "updated_at": "2023-12-12T10:24:03Z",
    "pushed_at": "2023-09-29T11:44:50Z",
    "git_url": "git://github.com/fabianlupa/abap-log.git",
    "ssh_url": "git@github.com:fabianlupa/abap-log.git",
@@ -17899,8 +17899,8 @@
    "svn_url": "https://github.com/fabianlupa/abap-log",
    "homepage": null,
    "size": 195,
-   "stargazers_count": 29,
-   "watchers_count": 29,
+   "stargazers_count": 30,
+   "watchers_count": 30,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -17933,7 +17933,7 @@
    "visibility": "public",
    "forks": 13,
    "open_issues": 2,
-   "watchers": 29,
+   "watchers": 30,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -18696,7 +18696,7 @@
    "releases_url": "https://api.github.com/repos/fidley/falv/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/falv/deployments",
    "created_at": "2016-03-11T09:39:33Z",
-   "updated_at": "2023-10-12T08:23:22Z",
+   "updated_at": "2023-12-12T15:05:15Z",
    "pushed_at": "2023-08-30T13:10:51Z",
    "git_url": "git://github.com/fidley/falv.git",
    "ssh_url": "git@github.com:fidley/falv.git",
@@ -18704,8 +18704,8 @@
    "svn_url": "https://github.com/fidley/falv",
    "homepage": "https://abapblog.com",
    "size": 1468,
-   "stargazers_count": 123,
-   "watchers_count": 123,
+   "stargazers_count": 124,
+   "watchers_count": 124,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -18737,7 +18737,7 @@
    "visibility": "public",
    "forks": 46,
    "open_issues": 6,
-   "watchers": 123,
+   "watchers": 124,
    "default_branch": "master",
    "permissions": {
     "admin": false,
