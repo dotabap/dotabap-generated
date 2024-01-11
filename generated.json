@@ -243,6 +243,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "1DSAG",
     "id": 49951868,
@@ -395,6 +396,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "71tech",
     "id": 81565804,
@@ -501,7 +503,7 @@
    "releases_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2024-01-06T16:37:01Z",
+   "updated_at": "2024-01-10T16:37:38Z",
    "pushed_at": "2024-01-08T13:11:25Z",
    "git_url": "git://github.com/ABAP-Logger/ABAP-Logger.git",
    "ssh_url": "git@github.com:ABAP-Logger/ABAP-Logger.git",
@@ -509,8 +511,8 @@
    "svn_url": "https://github.com/ABAP-Logger/ABAP-Logger",
    "homepage": null,
    "size": 268,
-   "stargazers_count": 302,
-   "watchers_count": 302,
+   "stargazers_count": 303,
+   "watchers_count": 303,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -541,7 +543,7 @@
    "visibility": "public",
    "forks": 109,
    "open_issues": 7,
-   "watchers": 302,
+   "watchers": 303,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -551,6 +553,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "ABAP-Logger",
     "id": 73711091,
@@ -918,7 +921,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 3,
+   "open_issues_count": 4,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -934,7 +937,7 @@
    ],
    "visibility": "public",
    "forks": 12,
-   "open_issues": 3,
+   "open_issues": 4,
    "watchers": 32,
    "default_branch": "master",
    "permissions": {
@@ -1193,6 +1196,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "Apress",
     "id": 540720,
@@ -1831,6 +1835,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "DevEpos",
     "id": 134107580,
@@ -1930,7 +1935,7 @@
    "deployments_url": "https://api.github.com/repos/DevEpos/abap-code-search-tools/deployments",
    "created_at": "2021-03-09T13:39:59Z",
    "updated_at": "2024-01-08T13:14:24Z",
-   "pushed_at": "2024-01-09T18:34:20Z",
+   "pushed_at": "2024-01-10T13:39:39Z",
    "git_url": "git://github.com/DevEpos/abap-code-search-tools.git",
    "ssh_url": "git@github.com:DevEpos/abap-code-search-tools.git",
    "clone_url": "https://github.com/DevEpos/abap-code-search-tools.git",
@@ -1980,6 +1985,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "DevEpos",
     "id": 134107580,
@@ -2129,6 +2135,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "DevEpos",
     "id": 134107580,
@@ -2275,6 +2282,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "DevEpos",
     "id": 134107580,
@@ -2423,6 +2431,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "DevEpos",
     "id": 134107580,
@@ -2567,6 +2576,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "DevEpos",
     "id": 134107580,
@@ -2723,6 +2733,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "DevEpos",
     "id": 134107580,
@@ -3135,6 +3146,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "INVIXO",
     "id": 26713053,
@@ -3233,7 +3245,7 @@
    "releases_url": "https://api.github.com/repos/Kaszub09/abapToC/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Kaszub09/abapToC/deployments",
    "created_at": "2023-11-24T14:07:35Z",
-   "updated_at": "2024-01-02T05:37:07Z",
+   "updated_at": "2024-01-11T07:17:02Z",
    "pushed_at": "2024-01-07T09:48:04Z",
    "git_url": "git://github.com/Kaszub09/abapToC.git",
    "ssh_url": "git@github.com:Kaszub09/abapToC.git",
@@ -3241,8 +3253,8 @@
    "svn_url": "https://github.com/Kaszub09/abapToC",
    "homepage": "",
    "size": 51,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3269,7 +3281,7 @@
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -3280,7 +3292,7 @@
    },
    "temp_clone_token": "",
    "network_count": 2,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "Keller-Michael/cellular_automaton": {
@@ -4334,6 +4346,10 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {
+    "corporateManagementPortal": "https://aka.ms/opensource/portal?rid=124694095&oid=6154722",
+    "justInTimeAccess": "https://aka.ms/opensource/portal?rid=124694095&oid=6154722&action=jit"
+   },
    "organization": {
     "login": "microsoft",
     "id": 6154722,
@@ -4478,6 +4494,10 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {
+    "corporateManagementPortal": "https://aka.ms/opensource/portal?rid=629275389&oid=6154722",
+    "justInTimeAccess": "https://aka.ms/opensource/portal?rid=629275389&oid=6154722&action=jit"
+   },
    "organization": {
     "login": "microsoft",
     "id": 6154722,
@@ -4622,6 +4642,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "MindsetConsulting",
     "id": 8583610,
@@ -5426,6 +5447,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SAP-samples",
     "id": 50221243,
@@ -5583,6 +5605,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SAP-samples",
     "id": 50221243,
@@ -5734,6 +5757,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SAP-samples",
     "id": 50221243,
@@ -5891,6 +5915,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SAP-samples",
     "id": 50221243,
@@ -6048,6 +6073,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SAP-samples",
     "id": 50221243,
@@ -6199,6 +6225,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SAP-samples",
     "id": 50221243,
@@ -6355,6 +6382,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SAP-samples",
     "id": 50221243,
@@ -6616,6 +6644,7 @@
     },
     "temp_clone_token": ""
    },
+   "custom_properties": {},
    "organization": {
     "login": "SAP",
     "id": 2531208,
@@ -6771,6 +6800,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SAP",
     "id": 2531208,
@@ -6926,6 +6956,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SAP2Moose",
     "id": 30557254,
@@ -7077,6 +7108,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SchwarzIT",
     "id": 25613864,
@@ -7225,6 +7257,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SchwarzIT",
     "id": 25613864,
@@ -7373,6 +7406,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SchwarzIT",
     "id": 25613864,
@@ -7523,6 +7557,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "SchwarzIT",
     "id": 25613864,
@@ -8966,6 +9001,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abap-code-dojo",
     "id": 54913177,
@@ -9114,6 +9150,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abap-observability-tools",
     "id": 77533111,
@@ -9263,6 +9300,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abap-observability-tools",
     "id": 77533111,
@@ -9411,6 +9449,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abap-observability-tools",
     "id": 77533111,
@@ -9559,6 +9598,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abap-openapi",
     "id": 77685491,
@@ -9710,6 +9750,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abap2UI5",
     "id": 136813377,
@@ -9838,7 +9879,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 102,
+   "open_issues_count": 103,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -9866,7 +9907,7 @@
    ],
    "visibility": "public",
    "forks": 275,
-   "open_issues": 102,
+   "open_issues": 103,
    "watchers": 633,
    "default_branch": "main",
    "permissions": {
@@ -9877,6 +9918,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abap2xlsx",
     "id": 93635355,
@@ -10386,6 +10428,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abapGames",
     "id": 92445389,
@@ -10541,6 +10584,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abapGit",
     "id": 31628138,
@@ -10566,7 +10610,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 170162,
+  "lines": 170137,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.105.8",
@@ -10640,13 +10684,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2024-01-10T07:11:13Z",
-   "pushed_at": "2024-01-09T14:26:33Z",
+   "pushed_at": "2024-01-10T09:26:13Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24555,
+   "size": 24502,
    "stargazers_count": 1382,
    "watchers_count": 1382,
    "language": "ABAP",
@@ -10693,6 +10737,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abapGit",
     "id": 31628138,
@@ -10848,6 +10893,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abapGit",
     "id": 31628138,
@@ -10997,6 +11043,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abapGit",
     "id": 31628138,
@@ -11260,6 +11307,7 @@
     },
     "temp_clone_token": ""
    },
+   "custom_properties": {},
    "organization": {
     "login": "abapTools",
     "id": 90199656,
@@ -11404,6 +11452,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abapify",
     "id": 108010862,
@@ -11562,6 +11611,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abapinho",
     "id": 1764643,
@@ -11713,6 +11763,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abapinho",
     "id": 1764643,
@@ -11996,6 +12047,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "abaplint",
     "id": 39189338,
@@ -13158,6 +13210,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "appknight",
     "id": 12166145,
@@ -15236,6 +15289,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "btc-ag",
     "id": 29117712,
@@ -20410,6 +20464,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "heliconialabs",
     "id": 69616295,
@@ -20559,6 +20614,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "heliconialabs",
     "id": 69616295,
@@ -21351,6 +21407,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "isisdanismanlik",
     "id": 48299116,
@@ -23972,7 +24029,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 44146,
+  "lines": 44241,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -23984,7 +24041,7 @@
   ],
   "parsing": {
    "version": "2.105.8",
-   "cloud": 3020
+   "cloud": 3027
   },
   "repo": {
    "id": 21558384,
@@ -24054,13 +24111,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2024-01-06T05:02:06Z",
-   "pushed_at": "2024-01-05T14:02:44Z",
+   "pushed_at": "2024-01-10T15:51:17Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2524,
+   "size": 2543,
    "stargazers_count": 236,
    "watchers_count": 236,
    "language": "ABAP",
@@ -25825,6 +25882,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "objective-partner",
     "id": 3862752,
@@ -26214,6 +26272,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "open-abap",
     "id": 61476786,
@@ -26358,6 +26417,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "openTCT",
     "id": 68570023,
@@ -26502,6 +26562,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "openTCT",
     "id": 68570023,
@@ -27846,6 +27907,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "provideplatform",
     "id": 10083152,
@@ -27990,6 +28052,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "provideplatform",
     "id": 10083152,
@@ -28137,6 +28200,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "raketenstart-abap",
     "id": 121628044,
@@ -28281,6 +28345,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "raketenstart-abap",
     "id": 121628044,
@@ -29199,6 +29264,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "rku-it-GmbH",
     "id": 72602185,
@@ -29602,6 +29668,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "sap-russia",
     "id": 47413201,
@@ -32338,6 +32405,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "tricktresor",
     "id": 29763439,
@@ -32485,6 +32553,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "tricktresor",
     "id": 29763439,
@@ -32637,6 +32706,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "tricktresor",
     "id": 29763439,
@@ -32788,6 +32858,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "tricktresor",
     "id": 29763439,
@@ -32932,6 +33003,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "tricktresor",
     "id": 29763439,
@@ -34007,6 +34079,7 @@
     "pull": false
    },
    "temp_clone_token": "",
+   "custom_properties": {},
    "organization": {
     "login": "watson-developer-cloud",
     "id": 10017763,
