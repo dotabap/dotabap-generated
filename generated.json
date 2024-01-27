@@ -520,7 +520,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 108,
+   "forks_count": 109,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -541,7 +541,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 108,
+   "forks": 109,
    "open_issues": 8,
    "watchers": 304,
    "default_branch": "main",
@@ -574,7 +574,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 108,
+   "network_count": 109,
    "subscribers_count": 38
   }
  },
@@ -901,7 +901,7 @@
    "deployments_url": "https://api.github.com/repos/AntonSikidin/zcl_docx/deployments",
    "created_at": "2018-05-30T13:22:09Z",
    "updated_at": "2024-01-26T01:26:26Z",
-   "pushed_at": "2023-12-03T16:00:47Z",
+   "pushed_at": "2024-01-26T08:20:41Z",
    "git_url": "git://github.com/AntonSikidin/zcl_docx.git",
    "ssh_url": "git@github.com:AntonSikidin/zcl_docx.git",
    "clone_url": "https://github.com/AntonSikidin/zcl_docx.git",
@@ -4348,6 +4348,9 @@
    "temp_clone_token": "",
    "custom_properties": {
     "corporateManagementPortal": "https://aka.ms/opensource/portal?rid=124694095&oid=6154722",
+    "durableOwnershipDisable": "false",
+    "durableOwnershipNextCheckDate": "2024-02-05T09:49:20.064Z",
+    "durableOwnershipWarn": "false",
     "justInTimeAccess": "https://aka.ms/opensource/portal?rid=124694095&oid=6154722&action=jit"
    },
    "organization": {
@@ -7772,7 +7775,7 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/deployments",
    "created_at": "2021-07-06T09:15:31Z",
-   "updated_at": "2023-12-07T16:28:16Z",
+   "updated_at": "2024-01-26T14:05:01Z",
    "pushed_at": "2023-05-23T10:05:48Z",
    "git_url": "git://github.com/SchwarzIT/sap-usi-logging-api.git",
    "ssh_url": "git@github.com:SchwarzIT/sap-usi-logging-api.git",
@@ -7780,8 +7783,8 @@
    "svn_url": "https://github.com/SchwarzIT/sap-usi-logging-api",
    "homepage": "",
    "size": 911,
-   "stargazers_count": 17,
-   "watchers_count": 17,
+   "stargazers_count": 18,
+   "watchers_count": 18,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -7814,7 +7817,7 @@
    "visibility": "public",
    "forks": 0,
    "open_issues": 5,
-   "watchers": 17,
+   "watchers": 18,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -9891,7 +9894,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 30452,
+  "lines": 30684,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.105.12",
@@ -9965,13 +9968,13 @@
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
    "updated_at": "2024-01-22T16:36:06Z",
-   "pushed_at": "2024-01-26T08:15:26Z",
+   "pushed_at": "2024-01-26T20:52:53Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 2457,
+   "size": 2537,
    "stargazers_count": 220,
    "watchers_count": 220,
    "language": "ABAP",
@@ -9985,7 +9988,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 11,
+   "open_issues_count": 15,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10006,7 +10009,7 @@
    ],
    "visibility": "public",
    "forks": 38,
-   "open_issues": 11,
+   "open_issues": 15,
    "watchers": 220,
    "default_branch": "main",
    "permissions": {
@@ -10877,7 +10880,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 170448,
+  "lines": 170449,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.105.12",
@@ -10950,16 +10953,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-01-26T05:02:05Z",
-   "pushed_at": "2024-01-26T02:43:06Z",
+   "updated_at": "2024-01-26T09:53:01Z",
+   "pushed_at": "2024-01-26T20:21:54Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24542,
-   "stargazers_count": 1391,
-   "watchers_count": 1391,
+   "size": 24540,
+   "stargazers_count": 1390,
+   "watchers_count": 1390,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10967,11 +10970,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 518,
+   "forks_count": 519,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 97,
+   "open_issues_count": 98,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10992,9 +10995,9 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 518,
-   "open_issues": 97,
-   "watchers": 1391,
+   "forks": 519,
+   "open_issues": 98,
+   "watchers": 1390,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -11025,7 +11028,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 518,
+   "network_count": 519,
    "subscribers_count": 127
   }
  },
@@ -11977,7 +11980,7 @@
    "releases_url": "https://api.github.com/repos/abapinho/abapTimeMachine/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abapTimeMachine/deployments",
    "created_at": "2019-11-19T16:41:35Z",
-   "updated_at": "2024-01-08T06:49:18Z",
+   "updated_at": "2024-01-26T14:40:21Z",
    "pushed_at": "2023-07-31T10:18:58Z",
    "git_url": "git://github.com/abapinho/abapTimeMachine.git",
    "ssh_url": "git@github.com:abapinho/abapTimeMachine.git",
@@ -11985,8 +11988,8 @@
    "svn_url": "https://github.com/abapinho/abapTimeMachine",
    "homepage": "",
    "size": 256,
-   "stargazers_count": 60,
-   "watchers_count": 60,
+   "stargazers_count": 61,
+   "watchers_count": 61,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -12020,7 +12023,7 @@
    "visibility": "public",
    "forks": 12,
    "open_issues": 18,
-   "watchers": 60,
+   "watchers": 61,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -16302,7 +16305,7 @@
    },
    "temp_clone_token": "",
    "network_count": 1,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "cesar-sap/abap_fm_json": {
@@ -24378,7 +24381,7 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2024-01-23T22:36:44Z",
-   "pushed_at": "2024-01-25T13:56:49Z",
+   "pushed_at": "2024-01-27T08:18:23Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
@@ -25313,7 +25316,7 @@
    "releases_url": "https://api.github.com/repos/marcellourbani/abapgraph/releases{/id}",
    "deployments_url": "https://api.github.com/repos/marcellourbani/abapgraph/deployments",
    "created_at": "2018-09-02T19:30:02Z",
-   "updated_at": "2023-09-01T04:31:15Z",
+   "updated_at": "2024-01-26T15:21:21Z",
    "pushed_at": "2020-10-22T17:11:35Z",
    "git_url": "git://github.com/marcellourbani/abapgraph.git",
    "ssh_url": "git@github.com:marcellourbani/abapgraph.git",
@@ -25321,8 +25324,8 @@
    "svn_url": "https://github.com/marcellourbani/abapgraph",
    "homepage": "",
    "size": 28,
-   "stargazers_count": 15,
-   "watchers_count": 15,
+   "stargazers_count": 16,
+   "watchers_count": 16,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -25349,7 +25352,7 @@
    "visibility": "public",
    "forks": 3,
    "open_issues": 1,
-   "watchers": 15,
+   "watchers": 16,
    "default_branch": "master",
    "permissions": {
     "admin": false,
