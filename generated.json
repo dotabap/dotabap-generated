@@ -3,7 +3,7 @@
   "lines": 1475,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 13
   },
   "repo": {
@@ -127,7 +127,7 @@
   "lines": 1346,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 49
   },
   "repo": {
@@ -272,7 +272,7 @@
   "lines": 1684,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 93
   },
   "repo": {
@@ -433,7 +433,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 33
   },
   "repo": {
@@ -503,16 +503,16 @@
    "releases_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2024-02-15T13:39:22Z",
-   "pushed_at": "2024-02-02T14:56:04Z",
+   "updated_at": "2024-02-21T07:54:07Z",
+   "pushed_at": "2024-02-23T10:27:58Z",
    "git_url": "git://github.com/ABAP-Logger/ABAP-Logger.git",
    "ssh_url": "git@github.com:ABAP-Logger/ABAP-Logger.git",
    "clone_url": "https://github.com/ABAP-Logger/ABAP-Logger.git",
    "svn_url": "https://github.com/ABAP-Logger/ABAP-Logger",
    "homepage": null,
    "size": 261,
-   "stargazers_count": 308,
-   "watchers_count": 308,
+   "stargazers_count": 309,
+   "watchers_count": 309,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -524,7 +524,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 3,
+   "open_issues_count": 5,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -542,8 +542,8 @@
    ],
    "visibility": "public",
    "forks": 110,
-   "open_issues": 3,
-   "watchers": 308,
+   "open_issues": 5,
+   "watchers": 309,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -582,7 +582,7 @@
   "lines": 961,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 14
   },
   "repo": {
@@ -706,7 +706,7 @@
   "lines": 1180,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 4
   },
   "repo": {
@@ -830,7 +830,7 @@
   "lines": 6494,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 34
   },
   "repo": {
@@ -956,7 +956,7 @@
   "lines": 1991,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 43
   },
   "repo": {
@@ -1080,7 +1080,7 @@
   "lines": 3333,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 80
   },
   "repo": {
@@ -1225,7 +1225,7 @@
   "lines": 1530,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 33
   },
   "repo": {
@@ -1353,7 +1353,7 @@
   "lines": 6359,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 43
   },
   "repo": {
@@ -1477,7 +1477,7 @@
   "lines": 305,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -1597,11 +1597,140 @@
    "subscribers_count": 1
   }
  },
+ "Ctrl-Alt-Abel/ZAP": {
+  "lines": 687,
+  "startingFolder": "/src/",
+  "parsing": {
+   "version": "2.105.19",
+   "cloud": 31
+  },
+  "repo": {
+   "id": 111067173,
+   "node_id": "MDEwOlJlcG9zaXRvcnkxMTEwNjcxNzM=",
+   "name": "ZAP",
+   "full_name": "Ctrl-Alt-Abel/ZAP",
+   "private": false,
+   "owner": {
+    "login": "Ctrl-Alt-Abel",
+    "id": 10260252,
+    "node_id": "MDQ6VXNlcjEwMjYwMjUy",
+    "avatar_url": "https://avatars.githubusercontent.com/u/10260252?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Ctrl-Alt-Abel",
+    "html_url": "https://github.com/Ctrl-Alt-Abel",
+    "followers_url": "https://api.github.com/users/Ctrl-Alt-Abel/followers",
+    "following_url": "https://api.github.com/users/Ctrl-Alt-Abel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Ctrl-Alt-Abel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Ctrl-Alt-Abel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Ctrl-Alt-Abel/subscriptions",
+    "organizations_url": "https://api.github.com/users/Ctrl-Alt-Abel/orgs",
+    "repos_url": "https://api.github.com/users/Ctrl-Alt-Abel/repos",
+    "events_url": "https://api.github.com/users/Ctrl-Alt-Abel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Ctrl-Alt-Abel/received_events",
+    "type": "User",
+    "site_admin": false
+   },
+   "html_url": "https://github.com/Ctrl-Alt-Abel/ZAP",
+   "description": "Tiny DSL in ABAP for rapid report prototyping",
+   "fork": false,
+   "url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP",
+   "forks_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/forks",
+   "keys_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/keys{/key_id}",
+   "collaborators_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/collaborators{/collaborator}",
+   "teams_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/teams",
+   "hooks_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/hooks",
+   "issue_events_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/issues/events{/number}",
+   "events_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/events",
+   "assignees_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/assignees{/user}",
+   "branches_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/branches{/branch}",
+   "tags_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/tags",
+   "blobs_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/git/blobs{/sha}",
+   "git_tags_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/git/tags{/sha}",
+   "git_refs_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/git/refs{/sha}",
+   "trees_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/git/trees{/sha}",
+   "statuses_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/statuses/{sha}",
+   "languages_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/languages",
+   "stargazers_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/stargazers",
+   "contributors_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/contributors",
+   "subscribers_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/subscribers",
+   "subscription_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/subscription",
+   "commits_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/commits{/sha}",
+   "git_commits_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/git/commits{/sha}",
+   "comments_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/comments{/number}",
+   "issue_comment_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/issues/comments{/number}",
+   "contents_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/contents/{+path}",
+   "compare_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/compare/{base}...{head}",
+   "merges_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/merges",
+   "archive_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/{archive_format}{/ref}",
+   "downloads_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/downloads",
+   "issues_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/issues{/number}",
+   "pulls_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/pulls{/number}",
+   "milestones_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/milestones{/number}",
+   "notifications_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/notifications{?since,all,participating}",
+   "labels_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/labels{/name}",
+   "releases_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/releases{/id}",
+   "deployments_url": "https://api.github.com/repos/Ctrl-Alt-Abel/ZAP/deployments",
+   "created_at": "2017-11-17T06:33:51Z",
+   "updated_at": "2023-05-29T15:08:20Z",
+   "pushed_at": "2023-05-30T10:35:26Z",
+   "git_url": "git://github.com/Ctrl-Alt-Abel/ZAP.git",
+   "ssh_url": "git@github.com:Ctrl-Alt-Abel/ZAP.git",
+   "clone_url": "https://github.com/Ctrl-Alt-Abel/ZAP.git",
+   "svn_url": "https://github.com/Ctrl-Alt-Abel/ZAP",
+   "homepage": null,
+   "size": 26,
+   "stargazers_count": 2,
+   "watchers_count": 2,
+   "language": "ABAP",
+   "has_issues": true,
+   "has_projects": true,
+   "has_downloads": true,
+   "has_wiki": true,
+   "has_pages": false,
+   "has_discussions": false,
+   "forks_count": 1,
+   "mirror_url": null,
+   "archived": false,
+   "disabled": false,
+   "open_issues_count": 0,
+   "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+   },
+   "allow_forking": true,
+   "is_template": false,
+   "web_commit_signoff_required": false,
+   "topics": [
+    "abap",
+    "code-generation",
+    "domain-specific-language",
+    "sap"
+   ],
+   "visibility": "public",
+   "forks": 1,
+   "open_issues": 0,
+   "watchers": 2,
+   "default_branch": "master",
+   "permissions": {
+    "admin": false,
+    "maintain": false,
+    "push": false,
+    "triage": false,
+    "pull": false
+   },
+   "temp_clone_token": "",
+   "network_count": 1,
+   "subscribers_count": 2
+  }
+ },
  "DerGuteWolf/ABAP_TRANSLATION_HUB": {
   "lines": 421,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 48
   },
   "repo": {
@@ -1725,7 +1854,7 @@
   "lines": 4379,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 4
   },
   "repo": {
@@ -1864,7 +1993,7 @@
   "lines": 9335,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 79
   },
   "repo": {
@@ -2014,7 +2143,7 @@
   "lines": 72936,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 1134
   },
   "repo": {
@@ -2164,7 +2293,7 @@
   "lines": 7476,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 7
   },
   "repo": {
@@ -2311,7 +2440,7 @@
   "lines": 24096,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 27
   },
   "repo": {
@@ -2460,7 +2589,7 @@
   "lines": 6742,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 14
   },
   "repo": {
@@ -2612,7 +2741,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 126
   },
   "repo": {
@@ -2762,7 +2891,7 @@
   "lines": 767,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 21
   },
   "repo": {
@@ -2893,7 +3022,7 @@
   "lines": 1309,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 9
   },
   "repo": {
@@ -3027,7 +3156,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 52
   },
   "repo": {
@@ -3175,7 +3304,7 @@
   "lines": 423,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 40
   },
   "repo": {
@@ -3299,7 +3428,7 @@
   "lines": 561,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 21
   },
   "repo": {
@@ -3430,7 +3559,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 38
   },
   "repo": {
@@ -3561,7 +3690,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 47
   },
   "repo": {
@@ -3692,7 +3821,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 15
   },
   "repo": {
@@ -3829,7 +3958,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 71
   },
   "repo": {
@@ -3969,7 +4098,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 391
   },
   "repo": {
@@ -4100,7 +4229,7 @@
   "lines": 2021,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 352
   },
   "repo": {
@@ -4224,7 +4353,7 @@
   "lines": 1427,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 3
   },
   "repo": {
@@ -4348,7 +4477,7 @@
   "lines": 28561,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 1017
   },
   "repo": {
@@ -4418,7 +4547,7 @@
    "releases_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2024-02-15T13:39:57Z",
+   "updated_at": "2024-02-19T11:01:01Z",
    "pushed_at": "2023-12-21T03:32:20Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
@@ -4426,8 +4555,8 @@
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
    "size": 20271,
-   "stargazers_count": 164,
-   "watchers_count": 164,
+   "stargazers_count": 165,
+   "watchers_count": 165,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -4460,7 +4589,7 @@
    "visibility": "public",
    "forks": 61,
    "open_issues": 5,
-   "watchers": 164,
+   "watchers": 165,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -4473,7 +4602,7 @@
    "custom_properties": {
     "corporateManagementPortal": "https://aka.ms/opensource/portal?rid=124694095&oid=6154722",
     "durableOwnershipDisable": "false",
-    "durableOwnershipNextCheckDate": "2024-02-22T04:49:40.035Z",
+    "durableOwnershipNextCheckDate": "2024-03-05T04:48:58.521Z",
     "durableOwnershipWarn": "false",
     "justInTimeAccess": "https://aka.ms/opensource/portal?rid=124694095&oid=6154722&action=jit"
    },
@@ -4505,7 +4634,7 @@
   "lines": 8981,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 152
   },
   "repo": {
@@ -4575,7 +4704,7 @@
    "releases_url": "https://api.github.com/repos/microsoft/aisdkforsapabap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/aisdkforsapabap/deployments",
    "created_at": "2023-04-18T01:46:17Z",
-   "updated_at": "2024-02-15T13:40:06Z",
+   "updated_at": "2024-02-23T21:12:16Z",
    "pushed_at": "2023-12-04T17:29:17Z",
    "git_url": "git://github.com/microsoft/aisdkforsapabap.git",
    "ssh_url": "git@github.com:microsoft/aisdkforsapabap.git",
@@ -4583,8 +4712,8 @@
    "svn_url": "https://github.com/microsoft/aisdkforsapabap",
    "homepage": null,
    "size": 3110,
-   "stargazers_count": 97,
-   "watchers_count": 97,
+   "stargazers_count": 98,
+   "watchers_count": 98,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -4611,7 +4740,7 @@
    "visibility": "public",
    "forks": 12,
    "open_issues": 0,
-   "watchers": 97,
+   "watchers": 98,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -4649,14 +4778,14 @@
     "site_admin": false
    },
    "network_count": 12,
-   "subscribers_count": 14
+   "subscribers_count": 15
   }
  },
  "MindsetConsulting/MindsetAppAnalyzerFree": {
   "lines": 4907,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 8
   },
   "repo": {
@@ -4808,7 +4937,7 @@
    "/src/zabap_generator_ranges/zzrt_vbeln.ttyp.xml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 49
   },
   "repo": {
@@ -4935,7 +5064,7 @@
   "lines": 2481,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 53
   },
   "repo": {
@@ -5059,7 +5188,7 @@
   "lines": 12496,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 220
   },
   "repo": {
@@ -5183,7 +5312,7 @@
   "lines": 4709,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 44
   },
   "repo": {
@@ -5314,7 +5443,7 @@
   "lines": 1329,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 35
   },
   "repo": {
@@ -5454,7 +5583,7 @@
    "/NOTICE"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 52
   },
   "repo": {
@@ -5613,7 +5742,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -5764,7 +5893,7 @@
   "lines": 2709,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -5851,7 +5980,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 50,
+   "forks_count": 51,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -5875,7 +6004,7 @@
     "sample-code"
    ],
    "visibility": "public",
-   "forks": 50,
+   "forks": 51,
    "open_issues": 0,
    "watchers": 161,
    "default_branch": "main",
@@ -5908,7 +6037,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 50,
+   "network_count": 51,
    "subscribers_count": 28
   }
  },
@@ -5924,7 +6053,7 @@
    "/NOTICE"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -6082,7 +6211,7 @@
    "/NOTICE"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -6232,7 +6361,7 @@
   "lines": 374,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -6384,7 +6513,7 @@
   "lines": 28594,
   "startingFolder": "/ABAP/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 2143
   },
   "repo": {
@@ -6454,7 +6583,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/security-services-tools/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/security-services-tools/deployments",
    "created_at": "2022-07-21T16:26:34Z",
-   "updated_at": "2024-02-09T12:17:12Z",
+   "updated_at": "2024-02-23T21:30:27Z",
    "pushed_at": "2024-02-05T16:06:17Z",
    "git_url": "git://github.com/SAP-samples/security-services-tools.git",
    "ssh_url": "git@github.com:SAP-samples/security-services-tools.git",
@@ -6462,8 +6591,8 @@
    "svn_url": "https://github.com/SAP-samples/security-services-tools",
    "homepage": "",
    "size": 323,
-   "stargazers_count": 36,
-   "watchers_count": 36,
+   "stargazers_count": 37,
+   "watchers_count": 37,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -6502,7 +6631,7 @@
    "visibility": "public",
    "forks": 4,
    "open_issues": 6,
-   "watchers": 36,
+   "watchers": 37,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -6541,7 +6670,7 @@
   "lines": 15735,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 47
   },
   "repo": {
@@ -6612,13 +6741,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
    "updated_at": "2024-01-30T23:29:19Z",
-   "pushed_at": "2024-01-30T17:39:05Z",
+   "pushed_at": "2024-02-23T08:46:32Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
    "svn_url": "https://github.com/SAP/abap-file-formats-tools",
    "homepage": "",
-   "size": 633,
+   "size": 623,
    "stargazers_count": 22,
    "watchers_count": 22,
    "language": "ABAP",
@@ -6632,7 +6761,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 8,
+   "open_issues_count": 7,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6649,7 +6778,7 @@
    ],
    "visibility": "public",
    "forks": 6,
-   "open_issues": 8,
+   "open_issues": 7,
    "watchers": 22,
    "default_branch": "main",
    "permissions": {
@@ -6803,7 +6932,7 @@
   "lines": 6315,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 235
   },
   "repo": {
@@ -6873,7 +7002,7 @@
    "releases_url": "https://api.github.com/repos/SAP/abap-to-json/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/abap-to-json/deployments",
    "created_at": "2023-04-18T15:48:21Z",
-   "updated_at": "2024-02-07T16:17:05Z",
+   "updated_at": "2024-02-19T17:26:45Z",
    "pushed_at": "2024-02-15T11:29:01Z",
    "git_url": "git://github.com/SAP/abap-to-json.git",
    "ssh_url": "git@github.com:SAP/abap-to-json.git",
@@ -6881,8 +7010,8 @@
    "svn_url": "https://github.com/SAP/abap-to-json",
    "homepage": null,
    "size": 350,
-   "stargazers_count": 15,
-   "watchers_count": 15,
+   "stargazers_count": 16,
+   "watchers_count": 16,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -6917,7 +7046,7 @@
    "visibility": "public",
    "forks": 5,
    "open_issues": 0,
-   "watchers": 15,
+   "watchers": 16,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -7070,7 +7199,7 @@
   "lines": 25186,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 151
   },
   "repo": {
@@ -7140,7 +7269,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2024-02-18T04:45:46Z",
+   "updated_at": "2024-02-21T14:14:49Z",
    "pushed_at": "2024-01-15T08:30:47Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -7148,8 +7277,8 @@
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
    "size": 3100,
-   "stargazers_count": 310,
-   "watchers_count": 310,
+   "stargazers_count": 312,
+   "watchers_count": 312,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7157,7 +7286,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 59,
+   "forks_count": 60,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -7185,9 +7314,9 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 59,
+   "forks": 60,
    "open_issues": 28,
-   "watchers": 310,
+   "watchers": 312,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -7218,7 +7347,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 59,
+   "network_count": 60,
    "subscribers_count": 23
   }
  },
@@ -7237,7 +7366,7 @@
    "/changelog_release_in_preparation.txt"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 1020
   },
   "repo": {
@@ -7389,7 +7518,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 55
   },
   "repo": {
@@ -7534,7 +7663,7 @@
   "lines": 105,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 6
   },
   "repo": {
@@ -7683,7 +7812,7 @@
   "lines": 2372,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 24
   },
   "repo": {
@@ -7832,7 +7961,7 @@
   "lines": 20371,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 169
   },
   "repo": {
@@ -7983,7 +8112,7 @@
   "lines": 5862,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 91
   },
   "repo": {
@@ -8116,7 +8245,7 @@
    "/License.txt"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -8247,7 +8376,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 2
   },
   "repo": {
@@ -8378,7 +8507,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 111
   },
   "repo": {
@@ -8509,7 +8638,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 143
   },
   "repo": {
@@ -8643,7 +8772,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 14
   },
   "repo": {
@@ -8774,7 +8903,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 27
   },
   "repo": {
@@ -8910,7 +9039,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 46
   },
   "repo": {
@@ -9034,7 +9163,7 @@
   "lines": 1502,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 32
   },
   "repo": {
@@ -9158,7 +9287,7 @@
   "lines": 5477,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 149
   },
   "repo": {
@@ -9282,7 +9411,7 @@
   "lines": 2589,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 17
   },
   "repo": {
@@ -9427,7 +9556,7 @@
   "lines": 1073,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 42
   },
   "repo": {
@@ -9576,7 +9705,7 @@
   "lines": 2180,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 61
   },
   "repo": {
@@ -9726,7 +9855,7 @@
   "lines": 588,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 8
   },
   "repo": {
@@ -9872,10 +10001,10 @@
   }
  },
  "abap-openapi/abap-openapi": {
-  "lines": 62541,
+  "lines": 62519,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 3
   },
   "repo": {
@@ -9946,13 +10075,13 @@
    "deployments_url": "https://api.github.com/repos/abap-openapi/abap-openapi/deployments",
    "created_at": "2021-01-19T16:03:52Z",
    "updated_at": "2024-01-31T06:46:16Z",
-   "pushed_at": "2024-02-17T11:13:44Z",
+   "pushed_at": "2024-02-21T06:23:20Z",
    "git_url": "git://github.com/abap-openapi/abap-openapi.git",
    "ssh_url": "git@github.com:abap-openapi/abap-openapi.git",
    "clone_url": "https://github.com/abap-openapi/abap-openapi.git",
    "svn_url": "https://github.com/abap-openapi/abap-openapi",
    "homepage": "",
-   "size": 961,
+   "size": 963,
    "stargazers_count": 59,
    "watchers_count": 59,
    "language": "ABAP",
@@ -10021,10 +10150,10 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 41971,
+  "lines": 43766,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -10094,16 +10223,16 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2024-02-15T13:39:38Z",
-   "pushed_at": "2024-02-18T15:25:11Z",
+   "updated_at": "2024-02-20T07:33:41Z",
+   "pushed_at": "2024-02-24T03:16:26Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 3166,
-   "stargazers_count": 226,
-   "watchers_count": 226,
+   "size": 3293,
+   "stargazers_count": 228,
+   "watchers_count": 228,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10111,11 +10240,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 39,
+   "forks_count": 40,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 6,
+   "open_issues_count": 8,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10135,9 +10264,9 @@
     "ui5"
    ],
    "visibility": "public",
-   "forks": 39,
-   "open_issues": 6,
-   "watchers": 226,
+   "forks": 40,
+   "open_issues": 8,
+   "watchers": 228,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -10168,8 +10297,8 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 39,
-   "subscribers_count": 13
+   "network_count": 40,
+   "subscribers_count": 12
   }
  },
  "abap2xlsx/abap2xlsx": {
@@ -10185,7 +10314,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 93
   },
   "repo": {
@@ -10255,16 +10384,16 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2024-02-15T17:12:49Z",
-   "pushed_at": "2024-02-15T17:45:43Z",
+   "updated_at": "2024-02-22T11:17:51Z",
+   "pushed_at": "2024-02-20T14:18:21Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://abap2xlsx.github.io/abap2xlsx/",
    "size": 26272,
-   "stargazers_count": 647,
-   "watchers_count": 647,
+   "stargazers_count": 648,
+   "watchers_count": 648,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10272,11 +10401,11 @@
    "has_wiki": false,
    "has_pages": true,
    "has_discussions": true,
-   "forks_count": 279,
+   "forks_count": 280,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 100,
+   "open_issues_count": 101,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -10303,9 +10432,9 @@
     "sap-netweaver"
    ],
    "visibility": "public",
-   "forks": 279,
-   "open_issues": 100,
-   "watchers": 647,
+   "forks": 280,
+   "open_issues": 101,
+   "watchers": 648,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -10336,7 +10465,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 279,
+   "network_count": 280,
    "subscribers_count": 69
   }
  },
@@ -10344,7 +10473,7 @@
   "lines": 589,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -10582,7 +10711,7 @@
   "lines": 1015,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 19
   },
   "repo": {
@@ -10709,7 +10838,7 @@
   "lines": 509,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 132
   },
   "repo": {
@@ -10863,7 +10992,7 @@
    ".editorconfig"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 2
   },
   "repo": {
@@ -11007,11 +11136,11 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 170780,
+  "lines": 171623,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
-   "cloud": 165
+   "version": "2.105.19",
+   "cloud": 168
   },
   "repo": {
    "id": 21115149,
@@ -11080,16 +11209,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-02-18T07:15:33Z",
-   "pushed_at": "2024-02-19T08:14:01Z",
+   "updated_at": "2024-02-23T19:17:11Z",
+   "pushed_at": "2024-02-23T19:04:18Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24841,
-   "stargazers_count": 1398,
-   "watchers_count": 1398,
+   "size": 24793,
+   "stargazers_count": 1403,
+   "watchers_count": 1403,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -11097,11 +11226,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 519,
+   "forks_count": 513,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 98,
+   "open_issues_count": 91,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -11122,9 +11251,9 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 519,
-   "open_issues": 98,
-   "watchers": 1398,
+   "forks": 513,
+   "open_issues": 91,
+   "watchers": 1403,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -11155,7 +11284,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 519,
+   "network_count": 513,
    "subscribers_count": 130
   }
  },
@@ -11171,7 +11300,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -11319,7 +11448,7 @@
   "lines": 631,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 31
   },
   "repo": {
@@ -11469,7 +11598,7 @@
   "lines": 693,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 1
   },
   "repo": {
@@ -11733,7 +11862,7 @@
   "lines": 1684,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 2
   },
   "repo": {
@@ -11886,7 +12015,7 @@
    "/plantuml.txt"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 116
   },
   "repo": {
@@ -12037,7 +12166,7 @@
   "lines": 4935,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 274
   },
   "repo": {
@@ -12198,7 +12327,7 @@
    "/kapitel_18/zbook_dyn_selscr.fugr.zbook_dyn_selscr_template_incl.xml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 733
   },
   "repo": {
@@ -12322,7 +12451,7 @@
   "lines": 6636,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 254
   },
   "repo": {
@@ -12413,7 +12542,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 20,
+   "open_issues_count": 18,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -12433,7 +12562,7 @@
    ],
    "visibility": "public",
    "forks": 21,
-   "open_issues": 20,
+   "open_issues": 18,
    "watchers": 33,
    "default_branch": "main",
    "permissions": {
@@ -12469,140 +12598,11 @@
    "subscribers_count": 11
   }
  },
- "abeljohny/ZAP": {
-  "lines": 687,
-  "startingFolder": "/src/",
-  "parsing": {
-   "version": "2.105.16",
-   "cloud": 31
-  },
-  "repo": {
-   "id": 111067173,
-   "node_id": "MDEwOlJlcG9zaXRvcnkxMTEwNjcxNzM=",
-   "name": "ZAP",
-   "full_name": "abeljohny/ZAP",
-   "private": false,
-   "owner": {
-    "login": "abeljohny",
-    "id": 10260252,
-    "node_id": "MDQ6VXNlcjEwMjYwMjUy",
-    "avatar_url": "https://avatars.githubusercontent.com/u/10260252?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/abeljohny",
-    "html_url": "https://github.com/abeljohny",
-    "followers_url": "https://api.github.com/users/abeljohny/followers",
-    "following_url": "https://api.github.com/users/abeljohny/following{/other_user}",
-    "gists_url": "https://api.github.com/users/abeljohny/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/abeljohny/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/abeljohny/subscriptions",
-    "organizations_url": "https://api.github.com/users/abeljohny/orgs",
-    "repos_url": "https://api.github.com/users/abeljohny/repos",
-    "events_url": "https://api.github.com/users/abeljohny/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/abeljohny/received_events",
-    "type": "User",
-    "site_admin": false
-   },
-   "html_url": "https://github.com/abeljohny/ZAP",
-   "description": "Tiny DSL in ABAP for rapid report prototyping",
-   "fork": false,
-   "url": "https://api.github.com/repos/abeljohny/ZAP",
-   "forks_url": "https://api.github.com/repos/abeljohny/ZAP/forks",
-   "keys_url": "https://api.github.com/repos/abeljohny/ZAP/keys{/key_id}",
-   "collaborators_url": "https://api.github.com/repos/abeljohny/ZAP/collaborators{/collaborator}",
-   "teams_url": "https://api.github.com/repos/abeljohny/ZAP/teams",
-   "hooks_url": "https://api.github.com/repos/abeljohny/ZAP/hooks",
-   "issue_events_url": "https://api.github.com/repos/abeljohny/ZAP/issues/events{/number}",
-   "events_url": "https://api.github.com/repos/abeljohny/ZAP/events",
-   "assignees_url": "https://api.github.com/repos/abeljohny/ZAP/assignees{/user}",
-   "branches_url": "https://api.github.com/repos/abeljohny/ZAP/branches{/branch}",
-   "tags_url": "https://api.github.com/repos/abeljohny/ZAP/tags",
-   "blobs_url": "https://api.github.com/repos/abeljohny/ZAP/git/blobs{/sha}",
-   "git_tags_url": "https://api.github.com/repos/abeljohny/ZAP/git/tags{/sha}",
-   "git_refs_url": "https://api.github.com/repos/abeljohny/ZAP/git/refs{/sha}",
-   "trees_url": "https://api.github.com/repos/abeljohny/ZAP/git/trees{/sha}",
-   "statuses_url": "https://api.github.com/repos/abeljohny/ZAP/statuses/{sha}",
-   "languages_url": "https://api.github.com/repos/abeljohny/ZAP/languages",
-   "stargazers_url": "https://api.github.com/repos/abeljohny/ZAP/stargazers",
-   "contributors_url": "https://api.github.com/repos/abeljohny/ZAP/contributors",
-   "subscribers_url": "https://api.github.com/repos/abeljohny/ZAP/subscribers",
-   "subscription_url": "https://api.github.com/repos/abeljohny/ZAP/subscription",
-   "commits_url": "https://api.github.com/repos/abeljohny/ZAP/commits{/sha}",
-   "git_commits_url": "https://api.github.com/repos/abeljohny/ZAP/git/commits{/sha}",
-   "comments_url": "https://api.github.com/repos/abeljohny/ZAP/comments{/number}",
-   "issue_comment_url": "https://api.github.com/repos/abeljohny/ZAP/issues/comments{/number}",
-   "contents_url": "https://api.github.com/repos/abeljohny/ZAP/contents/{+path}",
-   "compare_url": "https://api.github.com/repos/abeljohny/ZAP/compare/{base}...{head}",
-   "merges_url": "https://api.github.com/repos/abeljohny/ZAP/merges",
-   "archive_url": "https://api.github.com/repos/abeljohny/ZAP/{archive_format}{/ref}",
-   "downloads_url": "https://api.github.com/repos/abeljohny/ZAP/downloads",
-   "issues_url": "https://api.github.com/repos/abeljohny/ZAP/issues{/number}",
-   "pulls_url": "https://api.github.com/repos/abeljohny/ZAP/pulls{/number}",
-   "milestones_url": "https://api.github.com/repos/abeljohny/ZAP/milestones{/number}",
-   "notifications_url": "https://api.github.com/repos/abeljohny/ZAP/notifications{?since,all,participating}",
-   "labels_url": "https://api.github.com/repos/abeljohny/ZAP/labels{/name}",
-   "releases_url": "https://api.github.com/repos/abeljohny/ZAP/releases{/id}",
-   "deployments_url": "https://api.github.com/repos/abeljohny/ZAP/deployments",
-   "created_at": "2017-11-17T06:33:51Z",
-   "updated_at": "2023-05-29T15:08:20Z",
-   "pushed_at": "2023-05-30T10:35:26Z",
-   "git_url": "git://github.com/abeljohny/ZAP.git",
-   "ssh_url": "git@github.com:abeljohny/ZAP.git",
-   "clone_url": "https://github.com/abeljohny/ZAP.git",
-   "svn_url": "https://github.com/abeljohny/ZAP",
-   "homepage": null,
-   "size": 26,
-   "stargazers_count": 2,
-   "watchers_count": 2,
-   "language": "ABAP",
-   "has_issues": true,
-   "has_projects": true,
-   "has_downloads": true,
-   "has_wiki": true,
-   "has_pages": false,
-   "has_discussions": false,
-   "forks_count": 1,
-   "mirror_url": null,
-   "archived": false,
-   "disabled": false,
-   "open_issues_count": 0,
-   "license": {
-    "key": "gpl-2.0",
-    "name": "GNU General Public License v2.0",
-    "spdx_id": "GPL-2.0",
-    "url": "https://api.github.com/licenses/gpl-2.0",
-    "node_id": "MDc6TGljZW5zZTg="
-   },
-   "allow_forking": true,
-   "is_template": false,
-   "web_commit_signoff_required": false,
-   "topics": [
-    "abap",
-    "code-generation",
-    "domain-specific-language",
-    "sap"
-   ],
-   "visibility": "public",
-   "forks": 1,
-   "open_issues": 0,
-   "watchers": 2,
-   "default_branch": "master",
-   "permissions": {
-    "admin": false,
-    "maintain": false,
-    "push": false,
-    "triage": false,
-    "pull": false
-   },
-   "temp_clone_token": "",
-   "network_count": 1,
-   "subscribers_count": 2
-  }
- },
  "aditheos/AttachmentCommentODataService": {
   "lines": 3581,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 5
   },
   "repo": {
@@ -12726,7 +12726,7 @@
   "lines": 1228,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 33
   },
   "repo": {
@@ -12850,7 +12850,7 @@
   "lines": 934,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 3
   },
   "repo": {
@@ -12974,7 +12974,7 @@
   "lines": 6434,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 79
   },
   "repo": {
@@ -13098,7 +13098,7 @@
   "lines": 1504,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 93
   },
   "repo": {
@@ -13236,7 +13236,7 @@
    "/docs/img/retrieve_keys.JPG"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 43
   },
   "repo": {
@@ -13367,7 +13367,7 @@
   "lines": 8224,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 187
   },
   "repo": {
@@ -13491,7 +13491,7 @@
   "lines": 426,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 14
   },
   "repo": {
@@ -13636,7 +13636,7 @@
   "lines": 1256,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 169
   },
   "repo": {
@@ -13773,7 +13773,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 5
   },
   "repo": {
@@ -13900,7 +13900,7 @@
   "lines": 7140,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 48
   },
   "repo": {
@@ -14024,7 +14024,7 @@
   "lines": 355,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 17
   },
   "repo": {
@@ -14148,7 +14148,7 @@
   "lines": 759,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 29
   },
   "repo": {
@@ -14269,11 +14269,11 @@
   }
  },
  "b-tocs/abap_btocs_ollama": {
-  "lines": 338,
+  "lines": 1140,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
-   "cloud": 20
+   "version": "2.105.19",
+   "cloud": 57
   },
   "repo": {
    "id": 745471131,
@@ -14342,16 +14342,16 @@
    "releases_url": "https://api.github.com/repos/b-tocs/abap_btocs_ollama/releases{/id}",
    "deployments_url": "https://api.github.com/repos/b-tocs/abap_btocs_ollama/deployments",
    "created_at": "2024-01-19T12:05:46Z",
-   "updated_at": "2024-02-08T17:11:05Z",
-   "pushed_at": "2024-02-09T09:37:12Z",
+   "updated_at": "2024-02-19T14:33:37Z",
+   "pushed_at": "2024-02-21T01:38:59Z",
    "git_url": "git://github.com/b-tocs/abap_btocs_ollama.git",
    "ssh_url": "git@github.com:b-tocs/abap_btocs_ollama.git",
    "clone_url": "https://github.com/b-tocs/abap_btocs_ollama.git",
    "svn_url": "https://github.com/b-tocs/abap_btocs_ollama",
    "homepage": null,
-   "size": 182,
-   "stargazers_count": 0,
-   "watchers_count": 0,
+   "size": 217,
+   "stargazers_count": 1,
+   "watchers_count": 1,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -14378,7 +14378,7 @@
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
-   "watchers": 0,
+   "watchers": 1,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -14396,7 +14396,7 @@
   "lines": 918,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 78
   },
   "repo": {
@@ -14520,7 +14520,7 @@
   "lines": 773,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 56
   },
   "repo": {
@@ -14651,7 +14651,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 11
   },
   "repo": {
@@ -14775,7 +14775,7 @@
   "lines": 7208,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 209
   },
   "repo": {
@@ -14906,7 +14906,7 @@
   "lines": 13279,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 312
   },
   "repo": {
@@ -15035,7 +15035,7 @@
   "lines": 17885,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 387
   },
   "repo": {
@@ -15126,7 +15126,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -15147,7 +15147,7 @@
    ],
    "visibility": "public",
    "forks": 6,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 30,
    "default_branch": "master",
    "permissions": {
@@ -15166,7 +15166,7 @@
   "lines": 3907,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 64
   },
   "repo": {
@@ -15293,7 +15293,7 @@
   "lines": 1612,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -15417,7 +15417,7 @@
   "lines": 3046,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 29
   },
   "repo": {
@@ -15554,7 +15554,7 @@
   "lines": 4862,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 148
   },
   "repo": {
@@ -15681,7 +15681,7 @@
   "lines": 501,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 2
   },
   "repo": {
@@ -15808,7 +15808,7 @@
   "lines": 235,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 9
   },
   "repo": {
@@ -15932,7 +15932,7 @@
   "lines": 1654,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 31
   },
   "repo": {
@@ -16066,7 +16066,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 23
   },
   "repo": {
@@ -16211,7 +16211,7 @@
   "lines": 5269,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 82
   },
   "repo": {
@@ -16335,7 +16335,7 @@
   "lines": 833,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 6
   },
   "repo": {
@@ -16468,7 +16468,7 @@
    "/src/zcl_btci.clas.xml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 17
   },
   "repo": {
@@ -16811,7 +16811,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 7
   },
   "repo": {
@@ -16943,7 +16943,7 @@
    "/SICF.jpg"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 128
   },
   "repo": {
@@ -17074,7 +17074,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 10
   },
   "repo": {
@@ -17205,7 +17205,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 123
   },
   "repo": {
@@ -17329,7 +17329,7 @@
   "lines": 310,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 9
   },
   "repo": {
@@ -17466,7 +17466,7 @@
    "/mimes/start_screen.jpg"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 43
   },
   "repo": {
@@ -17597,7 +17597,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 23
   },
   "repo": {
@@ -17721,7 +17721,7 @@
   "lines": 1036,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 117
   },
   "repo": {
@@ -17845,7 +17845,7 @@
   "lines": 930,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 45
   },
   "repo": {
@@ -17969,7 +17969,7 @@
   "lines": 2460,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -18107,7 +18107,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -18234,7 +18234,7 @@
   "lines": 888,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -18360,7 +18360,7 @@
   "lines": 1686,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -18489,7 +18489,7 @@
   "lines": 4516,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 45
   },
   "repo": {
@@ -18613,7 +18613,7 @@
   "lines": 3823,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 52
   },
   "repo": {
@@ -18750,7 +18750,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 129
   },
   "repo": {
@@ -18881,7 +18881,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 11
   },
   "repo": {
@@ -19012,7 +19012,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 231
   },
   "repo": {
@@ -19139,7 +19139,7 @@
   "lines": 6899,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 23
   },
   "repo": {
@@ -19274,7 +19274,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 210
   },
   "repo": {
@@ -19418,7 +19418,7 @@
    "/CODE/abapgit/readme"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 180
   },
   "repo": {
@@ -19547,7 +19547,7 @@
   "lines": 81,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 13
   },
   "repo": {
@@ -19671,7 +19671,7 @@
   "lines": 10020,
   "startingFolder": "/abap/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 65
   },
   "repo": {
@@ -19795,7 +19795,7 @@
   "lines": 1485,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 26
   },
   "repo": {
@@ -19926,7 +19926,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 34
   },
   "repo": {
@@ -20057,7 +20057,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 3
   },
   "repo": {
@@ -20185,7 +20185,7 @@
   "lines": 2286,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 54
   },
   "repo": {
@@ -20316,7 +20316,7 @@
   "lines": 3852,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 89
   },
   "repo": {
@@ -20451,7 +20451,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 31
   },
   "repo": {
@@ -20582,7 +20582,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 5
   },
   "repo": {
@@ -20719,7 +20719,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 6
   },
   "repo": {
@@ -20854,7 +20854,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 20
   },
   "repo": {
@@ -20988,7 +20988,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 2
   },
   "repo": {
@@ -21112,7 +21112,7 @@
   "lines": 20924,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 554
   },
   "repo": {
@@ -21236,7 +21236,7 @@
   "lines": 2956,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -21391,7 +21391,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 2
   },
   "repo": {
@@ -21536,7 +21536,7 @@
   "lines": 3186,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -21664,7 +21664,7 @@
   "lines": 1286,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 92
   },
   "repo": {
@@ -21792,7 +21792,7 @@
   "lines": 1193,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -21921,7 +21921,7 @@
   "lines": 902,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -22057,7 +22057,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 27
   },
   "repo": {
@@ -22184,7 +22184,7 @@
   "lines": 217,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 11
   },
   "repo": {
@@ -22336,7 +22336,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 105
   },
   "repo": {
@@ -22467,7 +22467,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 5
   },
   "repo": {
@@ -22602,7 +22602,7 @@
    "/DX134_49973_Presentation_1.pdf"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -22731,7 +22731,7 @@
   "lines": 965,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 93
   },
   "repo": {
@@ -22855,7 +22855,7 @@
   "lines": 2852,
   "startingFolder": "/code/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 96
   },
   "repo": {
@@ -22976,10 +22976,10 @@
   }
  },
  "jrodriguez-rc/abap-dev-utilities": {
-  "lines": 10181,
+  "lines": 10169,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 101
   },
   "repo": {
@@ -23050,13 +23050,13 @@
    "deployments_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/deployments",
    "created_at": "2020-08-06T16:43:59Z",
    "updated_at": "2024-02-15T11:53:21Z",
-   "pushed_at": "2024-02-14T09:52:30Z",
+   "pushed_at": "2024-02-19T11:18:36Z",
    "git_url": "git://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "ssh_url": "git@github.com:jrodriguez-rc/abap-dev-utilities.git",
    "clone_url": "https://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "svn_url": "https://github.com/jrodriguez-rc/abap-dev-utilities",
    "homepage": "",
-   "size": 369,
+   "size": 373,
    "stargazers_count": 61,
    "watchers_count": 61,
    "language": "ABAP",
@@ -23106,7 +23106,7 @@
   "lines": 1927,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 27
   },
   "repo": {
@@ -23230,7 +23230,7 @@
   "lines": 2903,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 25
   },
   "repo": {
@@ -23354,7 +23354,7 @@
   "lines": 10272,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 69
   },
   "repo": {
@@ -23478,7 +23478,7 @@
   "lines": 2737,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 59
   },
   "repo": {
@@ -23609,7 +23609,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 1
   },
   "repo": {
@@ -23737,7 +23737,7 @@
   "lines": 3676,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 48
   },
   "repo": {
@@ -23872,7 +23872,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 5
   },
   "repo": {
@@ -24004,7 +24004,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 110
   },
   "repo": {
@@ -24140,7 +24140,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 8
   },
   "repo": {
@@ -24273,7 +24273,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 23
   },
   "repo": {
@@ -24394,10 +24394,10 @@
   }
  },
  "larshp/abap-wasm": {
-  "lines": 10363,
+  "lines": 10792,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -24467,16 +24467,16 @@
    "releases_url": "https://api.github.com/repos/larshp/abap-wasm/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abap-wasm/deployments",
    "created_at": "2019-12-27T10:59:08Z",
-   "updated_at": "2024-01-25T12:43:52Z",
-   "pushed_at": "2024-02-18T12:09:06Z",
+   "updated_at": "2024-02-23T05:22:13Z",
+   "pushed_at": "2024-02-24T07:49:47Z",
    "git_url": "git://github.com/larshp/abap-wasm.git",
    "ssh_url": "git@github.com:larshp/abap-wasm.git",
    "clone_url": "https://github.com/larshp/abap-wasm.git",
    "svn_url": "https://github.com/larshp/abap-wasm",
    "homepage": "https://larshp.github.io/abap-wasm-web/testsuite.html",
-   "size": 1301,
-   "stargazers_count": 16,
-   "watchers_count": 16,
+   "size": 1342,
+   "stargazers_count": 17,
+   "watchers_count": 17,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -24488,7 +24488,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 4,
+   "open_issues_count": 3,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -24506,8 +24506,8 @@
    ],
    "visibility": "public",
    "forks": 1,
-   "open_issues": 4,
-   "watchers": 16,
+   "open_issues": 3,
+   "watchers": 17,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -24532,7 +24532,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 27
   },
   "repo": {
@@ -24664,7 +24664,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 76
   },
   "repo": {
@@ -24798,7 +24798,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 18
   },
   "repo": {
@@ -24933,7 +24933,7 @@
    "/.gitignore"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 3060
   },
   "repo": {
@@ -25004,13 +25004,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
    "updated_at": "2024-02-15T11:53:16Z",
-   "pushed_at": "2024-02-16T12:43:20Z",
+   "pushed_at": "2024-02-19T12:33:47Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2513,
+   "size": 2496,
    "stargazers_count": 244,
    "watchers_count": 244,
    "language": "ABAP",
@@ -25024,7 +25024,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 307,
+   "open_issues_count": 305,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -25046,7 +25046,7 @@
    ],
    "visibility": "public",
    "forks": 77,
-   "open_issues": 307,
+   "open_issues": 305,
    "watchers": 244,
    "default_branch": "main",
    "permissions": {
@@ -25073,7 +25073,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 76
   },
   "repo": {
@@ -25204,7 +25204,7 @@
    "/README.md"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 68
   },
   "repo": {
@@ -25336,7 +25336,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 192
   },
   "repo": {
@@ -25471,7 +25471,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 60
   },
   "repo": {
@@ -25603,7 +25603,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 24
   },
   "repo": {
@@ -25738,7 +25738,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 6
   },
   "repo": {
@@ -25869,7 +25869,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 58
   },
   "repo": {
@@ -25993,7 +25993,7 @@
   "lines": 5026,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 220
   },
   "repo": {
@@ -26127,7 +26127,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 4
   },
   "repo": {
@@ -26251,7 +26251,7 @@
   "lines": 280,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -26379,7 +26379,7 @@
   "lines": 342,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 9
   },
   "repo": {
@@ -26514,7 +26514,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 214
   },
   "repo": {
@@ -26656,7 +26656,7 @@
    "/zop_custom_event_rec.clas.testclasses.abap"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 10
   },
   "repo": {
@@ -26726,7 +26726,7 @@
    "releases_url": "https://api.github.com/repos/objective-partner/abap_debugger_data_view_extension/releases{/id}",
    "deployments_url": "https://api.github.com/repos/objective-partner/abap_debugger_data_view_extension/deployments",
    "created_at": "2017-11-09T16:08:52Z",
-   "updated_at": "2024-01-30T23:31:47Z",
+   "updated_at": "2024-02-21T14:12:11Z",
    "pushed_at": "2023-08-16T10:14:17Z",
    "git_url": "git://github.com/objective-partner/abap_debugger_data_view_extension.git",
    "ssh_url": "git@github.com:objective-partner/abap_debugger_data_view_extension.git",
@@ -26734,8 +26734,8 @@
    "svn_url": "https://github.com/objective-partner/abap_debugger_data_view_extension",
    "homepage": null,
    "size": 250,
-   "stargazers_count": 26,
-   "watchers_count": 26,
+   "stargazers_count": 27,
+   "watchers_count": 27,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -26765,7 +26765,7 @@
    "visibility": "public",
    "forks": 12,
    "open_issues": 5,
-   "watchers": 26,
+   "watchers": 27,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -26804,7 +26804,7 @@
   "lines": 4028,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 65
   },
   "repo": {
@@ -26874,7 +26874,7 @@
    "releases_url": "https://api.github.com/repos/oisee/zvdb/releases{/id}",
    "deployments_url": "https://api.github.com/repos/oisee/zvdb/deployments",
    "created_at": "2023-11-19T21:22:14Z",
-   "updated_at": "2024-01-31T07:08:05Z",
+   "updated_at": "2024-02-20T08:55:28Z",
    "pushed_at": "2023-11-23T11:13:57Z",
    "git_url": "git://github.com/oisee/zvdb.git",
    "ssh_url": "git@github.com:oisee/zvdb.git",
@@ -26882,8 +26882,8 @@
    "svn_url": "https://github.com/oisee/zvdb",
    "homepage": "",
    "size": 2192,
-   "stargazers_count": 20,
-   "watchers_count": 20,
+   "stargazers_count": 21,
+   "watchers_count": 21,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -26913,7 +26913,7 @@
    "visibility": "public",
    "forks": 4,
    "open_issues": 0,
-   "watchers": 20,
+   "watchers": 21,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -26931,7 +26931,7 @@
   "lines": 1651,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 98
   },
   "repo": {
@@ -27049,7 +27049,7 @@
   "lines": 444,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -27194,7 +27194,7 @@
   "lines": 3390,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 37
   },
   "repo": {
@@ -27339,7 +27339,7 @@
   "lines": 228,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 619
   },
   "repo": {
@@ -27491,7 +27491,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 25
   },
   "repo": {
@@ -27622,7 +27622,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 14
   },
   "repo": {
@@ -27746,7 +27746,7 @@
   "lines": 252,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -27885,7 +27885,7 @@
    "/CONTRIBUTING.md"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 87
   },
   "repo": {
@@ -28023,7 +28023,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 9
   },
   "repo": {
@@ -28162,7 +28162,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -28290,7 +28290,7 @@
   "lines": 552,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 1
   },
   "repo": {
@@ -28360,7 +28360,7 @@
    "releases_url": "https://api.github.com/repos/peyn/IDoc-with-ABAP-OOP/releases{/id}",
    "deployments_url": "https://api.github.com/repos/peyn/IDoc-with-ABAP-OOP/deployments",
    "created_at": "2020-07-24T09:44:26Z",
-   "updated_at": "2023-11-04T09:46:07Z",
+   "updated_at": "2024-02-20T09:26:24Z",
    "pushed_at": "2023-05-08T12:25:04Z",
    "git_url": "git://github.com/peyn/IDoc-with-ABAP-OOP.git",
    "ssh_url": "git@github.com:peyn/IDoc-with-ABAP-OOP.git",
@@ -28368,8 +28368,8 @@
    "svn_url": "https://github.com/peyn/IDoc-with-ABAP-OOP",
    "homepage": null,
    "size": 13,
-   "stargazers_count": 21,
-   "watchers_count": 21,
+   "stargazers_count": 22,
+   "watchers_count": 22,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -28396,7 +28396,7 @@
    "visibility": "public",
    "forks": 4,
    "open_issues": 1,
-   "watchers": 21,
+   "watchers": 22,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -28422,7 +28422,7 @@
    "/changelog.txt"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 86
   },
   "repo": {
@@ -28560,7 +28560,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 275
   },
   "repo": {
@@ -28684,7 +28684,7 @@
   "lines": 11831,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 27
   },
   "repo": {
@@ -28829,7 +28829,7 @@
   "lines": 1094,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 41
   },
   "repo": {
@@ -28974,7 +28974,7 @@
   "lines": 280,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 9
   },
   "repo": {
@@ -29122,7 +29122,7 @@
   "lines": 386,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 10
   },
   "repo": {
@@ -29192,7 +29192,7 @@
    "releases_url": "https://api.github.com/repos/raketenstart-abap/abap-tvarvc/releases{/id}",
    "deployments_url": "https://api.github.com/repos/raketenstart-abap/abap-tvarvc/deployments",
    "created_at": "2022-11-09T16:36:21Z",
-   "updated_at": "2023-12-28T12:57:33Z",
+   "updated_at": "2024-02-20T14:09:33Z",
    "pushed_at": "2023-12-28T11:54:39Z",
    "git_url": "git://github.com/raketenstart-abap/abap-tvarvc.git",
    "ssh_url": "git@github.com:raketenstart-abap/abap-tvarvc.git",
@@ -29200,8 +29200,8 @@
    "svn_url": "https://github.com/raketenstart-abap/abap-tvarvc",
    "homepage": null,
    "size": 53,
-   "stargazers_count": 6,
-   "watchers_count": 6,
+   "stargazers_count": 7,
+   "watchers_count": 7,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -29228,7 +29228,7 @@
    "visibility": "public",
    "forks": 1,
    "open_issues": 1,
-   "watchers": 6,
+   "watchers": 7,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -29271,7 +29271,7 @@
    "/src/zcl_abapgit_user_exit.clas.xml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 5
   },
   "repo": {
@@ -29399,7 +29399,7 @@
    "/wiki/ToDo.wiki"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 532
   },
   "repo": {
@@ -29536,7 +29536,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 110
   },
   "repo": {
@@ -29666,7 +29666,7 @@
   "lines": 346,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 9
   },
   "repo": {
@@ -29790,7 +29790,7 @@
   "lines": 526,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 14
   },
   "repo": {
@@ -29917,7 +29917,7 @@
   "lines": 627,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 10
   },
   "repo": {
@@ -30041,7 +30041,7 @@
   "lines": 7937,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 147
   },
   "repo": {
@@ -30193,7 +30193,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 31
   },
   "repo": {
@@ -30317,7 +30317,7 @@
   "lines": 4544,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 43
   },
   "repo": {
@@ -30441,7 +30441,7 @@
   "lines": 1636,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 67
   },
   "repo": {
@@ -30590,7 +30590,7 @@
   "lines": 1321,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -30725,7 +30725,7 @@
    "/abaplint.json"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 49
   },
   "repo": {
@@ -30856,7 +30856,7 @@
    "/changelog.txt"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 106
   },
   "repo": {
@@ -30989,7 +30989,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 152
   },
   "repo": {
@@ -31127,7 +31127,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 141
   },
   "repo": {
@@ -31251,10 +31251,10 @@
   }
  },
  "sbcgua/ajson": {
-  "lines": 11544,
+  "lines": 11580,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 11
   },
   "repo": {
@@ -31325,13 +31325,13 @@
    "deployments_url": "https://api.github.com/repos/sbcgua/ajson/deployments",
    "created_at": "2020-05-16T07:00:27Z",
    "updated_at": "2024-01-18T18:46:47Z",
-   "pushed_at": "2024-02-05T13:11:08Z",
+   "pushed_at": "2024-02-23T16:57:33Z",
    "git_url": "git://github.com/sbcgua/ajson.git",
    "ssh_url": "git@github.com:sbcgua/ajson.git",
    "clone_url": "https://github.com/sbcgua/ajson.git",
    "svn_url": "https://github.com/sbcgua/ajson",
    "homepage": "",
-   "size": 642,
+   "size": 670,
    "stargazers_count": 43,
    "watchers_count": 43,
    "language": "ABAP",
@@ -31382,7 +31382,7 @@
   "lines": 9789,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 226
   },
   "repo": {
@@ -31515,7 +31515,7 @@
   "lines": 6113,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 50
   },
   "repo": {
@@ -31645,7 +31645,7 @@
   "lines": 938,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 6
   },
   "repo": {
@@ -31776,7 +31776,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 6
   },
   "repo": {
@@ -31908,7 +31908,7 @@
    "/README.rst"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 5
   },
   "repo": {
@@ -32040,7 +32040,7 @@
    "/.gitattributes"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 10
   },
   "repo": {
@@ -32164,7 +32164,7 @@
   "lines": 697,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 2
   },
   "repo": {
@@ -32288,7 +32288,7 @@
   "lines": 600,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 27
   },
   "repo": {
@@ -32417,7 +32417,7 @@
   "lines": 210,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 25
   },
   "repo": {
@@ -32542,7 +32542,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 5
   },
   "repo": {
@@ -32670,7 +32670,7 @@
   "lines": 16799,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 68
   },
   "repo": {
@@ -32794,7 +32794,7 @@
   "lines": 1824,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 2
   },
   "repo": {
@@ -32927,7 +32927,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 15
   },
   "repo": {
@@ -33051,7 +33051,7 @@
   "lines": 574,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -33182,7 +33182,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 30
   },
   "repo": {
@@ -33327,7 +33327,7 @@
   "lines": 2361,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 38
   },
   "repo": {
@@ -33483,7 +33483,7 @@
    "/Logo_Gladius_01.png"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 81
   },
   "repo": {
@@ -33635,7 +33635,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 162
   },
   "repo": {
@@ -33780,7 +33780,7 @@
   "lines": 7285,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 274
   },
   "repo": {
@@ -33932,7 +33932,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 8
   },
   "repo": {
@@ -34084,7 +34084,7 @@
    "/mockA_build/mockA_daily.nugg.zip"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 84
   },
   "repo": {
@@ -34208,7 +34208,7 @@
   "lines": 463,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 8
   },
   "repo": {
@@ -34332,7 +34332,7 @@
   "lines": 5695,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 31
   },
   "repo": {
@@ -34456,7 +34456,7 @@
   "lines": 1781,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 38
   },
   "repo": {
@@ -34584,7 +34584,7 @@
   "lines": 902,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 10
   },
   "repo": {
@@ -34712,7 +34712,7 @@
   "lines": 2678,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 81
   },
   "repo": {
@@ -34847,7 +34847,7 @@
   "lines": 42547,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -35001,7 +35001,7 @@
   "lines": 445,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 6
   },
   "repo": {
@@ -35125,7 +35125,7 @@
   "lines": 4900,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 29
   },
   "repo": {
@@ -35255,7 +35255,7 @@
   "lines": 3014,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 6
   },
   "repo": {
@@ -35325,7 +35325,7 @@
    "releases_url": "https://api.github.com/repos/xinitrc86/zthread/releases{/id}",
    "deployments_url": "https://api.github.com/repos/xinitrc86/zthread/deployments",
    "created_at": "2021-08-25T10:57:45Z",
-   "updated_at": "2024-01-31T07:24:15Z",
+   "updated_at": "2024-02-23T14:06:52Z",
    "pushed_at": "2023-09-14T20:12:20Z",
    "git_url": "git://github.com/xinitrc86/zthread.git",
    "ssh_url": "git@github.com:xinitrc86/zthread.git",
@@ -35333,8 +35333,8 @@
    "svn_url": "https://github.com/xinitrc86/zthread",
    "homepage": null,
    "size": 169,
-   "stargazers_count": 37,
-   "watchers_count": 37,
+   "stargazers_count": 38,
+   "watchers_count": 38,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -35361,7 +35361,7 @@
    "visibility": "public",
    "forks": 8,
    "open_issues": 3,
-   "watchers": 37,
+   "watchers": 38,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -35386,7 +35386,7 @@
    "/.travis.yml"
   ],
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
@@ -35513,7 +35513,7 @@
   "lines": 4205,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 43
   },
   "repo": {
@@ -35637,7 +35637,7 @@
   "lines": 22099,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 95
   },
   "repo": {
@@ -35770,7 +35770,7 @@
   "lines": 2687,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 2
   },
   "repo": {
@@ -35899,7 +35899,7 @@
   "lines": 2783,
   "startingFolder": "/src/",
   "parsing": {
-   "version": "2.105.16",
+   "version": "2.105.19",
    "cloud": 0
   },
   "repo": {
