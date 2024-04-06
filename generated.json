@@ -575,7 +575,7 @@
     "site_admin": false
    },
    "network_count": 107,
-   "subscribers_count": 38
+   "subscribers_count": 37
   }
  },
  "AkyshBaymuhammedov/ADT_TODO_Plugin_ABAP": {
@@ -3386,7 +3386,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 4,
+   "forks_count": 5,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -3403,7 +3403,7 @@
    "web_commit_signoff_required": false,
    "topics": [],
    "visibility": "public",
-   "forks": 4,
+   "forks": 5,
    "open_issues": 0,
    "watchers": 3,
    "default_branch": "main",
@@ -3415,7 +3415,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 4,
+   "network_count": 5,
    "subscribers_count": 3
   }
  },
@@ -4624,7 +4624,7 @@
    "custom_properties": {
     "corporateManagementPortal": "https://aka.ms/opensource/portal?rid=629275389&oid=6154722",
     "durableOwnershipDisable": "false",
-    "durableOwnershipNextCheckDate": "2024-02-07T23:54:43.434Z",
+    "durableOwnershipNextCheckDate": "2024-04-16T00:43:10.088Z",
     "durableOwnershipWarn": "false",
     "justInTimeAccess": "https://aka.ms/opensource/portal?rid=629275389&oid=6154722&action=jit"
    },
@@ -6612,13 +6612,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-file-formats-tools/deployments",
    "created_at": "2022-02-15T16:06:52Z",
    "updated_at": "2024-03-28T17:44:59Z",
-   "pushed_at": "2024-04-03T12:58:19Z",
+   "pushed_at": "2024-04-05T14:33:36Z",
    "git_url": "git://github.com/SAP/abap-file-formats-tools.git",
    "ssh_url": "git@github.com:SAP/abap-file-formats-tools.git",
    "clone_url": "https://github.com/SAP/abap-file-formats-tools.git",
    "svn_url": "https://github.com/SAP/abap-file-formats-tools",
    "homepage": "",
-   "size": 628,
+   "size": 631,
    "stargazers_count": 23,
    "watchers_count": 23,
    "language": "ABAP",
@@ -6632,7 +6632,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 7,
+   "open_issues_count": 8,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -6649,7 +6649,7 @@
    ],
    "visibility": "public",
    "forks": 6,
-   "open_issues": 7,
+   "open_issues": 8,
    "watchers": 23,
    "default_branch": "main",
    "permissions": {
@@ -6800,7 +6800,7 @@
   }
  },
  "SAP/abap-to-json": {
-  "lines": 6639,
+  "lines": 6697,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.106.5",
@@ -6874,13 +6874,13 @@
    "deployments_url": "https://api.github.com/repos/SAP/abap-to-json/deployments",
    "created_at": "2023-04-18T15:48:21Z",
    "updated_at": "2024-03-16T10:56:03Z",
-   "pushed_at": "2024-04-03T13:46:41Z",
+   "pushed_at": "2024-04-04T14:48:39Z",
    "git_url": "git://github.com/SAP/abap-to-json.git",
    "ssh_url": "git@github.com:SAP/abap-to-json.git",
    "clone_url": "https://github.com/SAP/abap-to-json.git",
    "svn_url": "https://github.com/SAP/abap-to-json",
    "homepage": null,
-   "size": 463,
+   "size": 509,
    "stargazers_count": 20,
    "watchers_count": 20,
    "language": "ABAP",
@@ -6894,7 +6894,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 0,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -6916,7 +6916,7 @@
    ],
    "visibility": "public",
    "forks": 6,
-   "open_issues": 1,
+   "open_issues": 0,
    "watchers": 20,
    "default_branch": "main",
    "permissions": {
@@ -10469,7 +10469,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 44350,
+  "lines": 44485,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.106.5",
@@ -10543,13 +10543,13 @@
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
    "updated_at": "2024-04-02T20:16:52Z",
-   "pushed_at": "2024-04-02T14:04:27Z",
+   "pushed_at": "2024-04-05T16:07:15Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 3765,
+   "size": 3744,
    "stargazers_count": 237,
    "watchers_count": 237,
    "language": "ABAP",
@@ -10559,11 +10559,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 43,
+   "forks_count": 44,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 3,
+   "open_issues_count": 4,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -10583,8 +10583,8 @@
     "ui5"
    ],
    "visibility": "public",
-   "forks": 43,
-   "open_issues": 3,
+   "forks": 44,
+   "open_issues": 4,
    "watchers": 237,
    "default_branch": "main",
    "permissions": {
@@ -10616,7 +10616,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 43,
+   "network_count": 44,
    "subscribers_count": 11
   }
  },
@@ -11455,7 +11455,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 173260,
+  "lines": 173439,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.106.5",
@@ -11529,13 +11529,13 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2024-04-02T07:51:27Z",
-   "pushed_at": "2024-04-04T08:11:25Z",
+   "pushed_at": "2024-04-05T20:22:06Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24748,
+   "size": 24773,
    "stargazers_count": 1439,
    "watchers_count": 1439,
    "language": "ABAP",
@@ -11545,11 +11545,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 523,
+   "forks_count": 522,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 97,
+   "open_issues_count": 96,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -11570,8 +11570,8 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 523,
-   "open_issues": 97,
+   "forks": 522,
+   "open_issues": 96,
    "watchers": 1439,
    "default_branch": "main",
    "permissions": {
@@ -11603,7 +11603,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 523,
+   "network_count": 522,
    "subscribers_count": 134
   }
  },
@@ -13885,7 +13885,7 @@
    "releases_url": "https://api.github.com/repos/alwinvandeput/zscv_search_cds_views/releases{/id}",
    "deployments_url": "https://api.github.com/repos/alwinvandeput/zscv_search_cds_views/deployments",
    "created_at": "2023-03-04T17:33:15Z",
-   "updated_at": "2024-03-18T20:20:21Z",
+   "updated_at": "2024-04-05T17:30:45Z",
    "pushed_at": "2024-02-24T10:34:18Z",
    "git_url": "git://github.com/alwinvandeput/zscv_search_cds_views.git",
    "ssh_url": "git@github.com:alwinvandeput/zscv_search_cds_views.git",
@@ -13893,8 +13893,8 @@
    "svn_url": "https://github.com/alwinvandeput/zscv_search_cds_views",
    "homepage": null,
    "size": 201,
-   "stargazers_count": 28,
-   "watchers_count": 28,
+   "stargazers_count": 29,
+   "watchers_count": 29,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -13921,7 +13921,7 @@
    "visibility": "public",
    "forks": 5,
    "open_issues": 0,
-   "watchers": 28,
+   "watchers": 29,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -14419,13 +14419,13 @@
    "deployments_url": "https://api.github.com/repos/b-tocs/abap_btocs_core/deployments",
    "created_at": "2024-01-04T13:19:30Z",
    "updated_at": "2024-02-09T16:05:05Z",
-   "pushed_at": "2024-04-03T13:05:10Z",
+   "pushed_at": "2024-04-05T13:10:12Z",
    "git_url": "git://github.com/b-tocs/abap_btocs_core.git",
    "ssh_url": "git@github.com:b-tocs/abap_btocs_core.git",
    "clone_url": "https://github.com/b-tocs/abap_btocs_core.git",
    "svn_url": "https://github.com/b-tocs/abap_btocs_core",
    "homepage": null,
-   "size": 209,
+   "size": 303,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -20133,7 +20133,7 @@
    },
    "temp_clone_token": "",
    "network_count": 48,
-   "subscribers_count": 26
+   "subscribers_count": 25
   }
  },
  "fleischr/abap-nft": {
@@ -25485,11 +25485,11 @@
    "has_wiki": false,
    "has_pages": true,
    "has_discussions": false,
-   "forks_count": 78,
+   "forks_count": 77,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 306,
+   "open_issues_count": 305,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -25510,8 +25510,8 @@
     "sap-code-inspector"
    ],
    "visibility": "public",
-   "forks": 78,
-   "open_issues": 306,
+   "forks": 77,
+   "open_issues": 305,
    "watchers": 248,
    "default_branch": "main",
    "permissions": {
@@ -25522,8 +25522,8 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 78,
-   "subscribers_count": 37
+   "network_count": 77,
+   "subscribers_count": 38
   }
  },
  "larshp/abapOpenReview": {
@@ -26059,7 +26059,7 @@
   }
  },
  "larshp/upDOWNci": {
-  "lines": 1673,
+  "lines": 1986,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/LICENSE",
@@ -26069,7 +26069,7 @@
   ],
   "parsing": {
    "version": "2.106.5",
-   "cloud": 24
+   "cloud": 35
   },
   "repo": {
    "id": 39909089,
@@ -26139,13 +26139,13 @@
    "deployments_url": "https://api.github.com/repos/larshp/upDOWNci/deployments",
    "created_at": "2015-07-29T18:19:17Z",
    "updated_at": "2024-03-28T15:27:24Z",
-   "pushed_at": "2024-04-03T14:24:27Z",
+   "pushed_at": "2024-04-05T10:43:12Z",
    "git_url": "git://github.com/larshp/upDOWNci.git",
    "ssh_url": "git@github.com:larshp/upDOWNci.git",
    "clone_url": "https://github.com/larshp/upDOWNci.git",
    "svn_url": "https://github.com/larshp/upDOWNci",
    "homepage": "",
-   "size": 114,
+   "size": 109,
    "stargazers_count": 25,
    "watchers_count": 25,
    "language": "ABAP",
@@ -26155,11 +26155,11 @@
    "has_wiki": false,
    "has_pages": true,
    "has_discussions": false,
-   "forks_count": 12,
+   "forks_count": 11,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 10,
+   "open_issues_count": 9,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -26176,8 +26176,8 @@
     "sap-code-inspector"
    ],
    "visibility": "public",
-   "forks": 12,
-   "open_issues": 10,
+   "forks": 11,
+   "open_issues": 9,
    "watchers": 25,
    "default_branch": "main",
    "permissions": {
@@ -26188,7 +26188,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 12,
+   "network_count": 11,
    "subscribers_count": 9
   }
  },
@@ -31277,7 +31277,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -31294,7 +31294,7 @@
    "web_commit_signoff_required": false,
    "topics": [],
    "visibility": "public",
-   "forks": 5,
+   "forks": 6,
    "open_issues": 0,
    "watchers": 5,
    "default_branch": "master",
@@ -31306,7 +31306,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 4
   }
  },
