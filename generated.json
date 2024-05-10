@@ -6407,7 +6407,7 @@
    "releases_url": "https://api.github.com/repos/microsoft/aisdkforsapabap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/aisdkforsapabap/deployments",
    "created_at": "2023-04-18T01:46:17Z",
-   "updated_at": "2024-04-30T11:41:23Z",
+   "updated_at": "2024-05-09T10:30:52Z",
    "pushed_at": "2024-05-08T16:12:17Z",
    "git_url": "git://github.com/microsoft/aisdkforsapabap.git",
    "ssh_url": "git@github.com:microsoft/aisdkforsapabap.git",
@@ -7518,7 +7518,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/abap-file-uploader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-file-uploader/deployments",
    "created_at": "2020-06-18T17:33:26Z",
-   "updated_at": "2024-03-22T17:52:07Z",
+   "updated_at": "2024-05-09T11:44:10Z",
    "pushed_at": "2024-01-02T17:15:09Z",
    "git_url": "git://github.com/SAP-samples/abap-file-uploader.git",
    "ssh_url": "git@github.com:SAP-samples/abap-file-uploader.git",
@@ -7526,8 +7526,8 @@
    "svn_url": "https://github.com/SAP-samples/abap-file-uploader",
    "homepage": "",
    "size": 320,
-   "stargazers_count": 41,
-   "watchers_count": 41,
+   "stargazers_count": 42,
+   "watchers_count": 42,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -7560,7 +7560,7 @@
    "visibility": "public",
    "forks": 20,
    "open_issues": 0,
-   "watchers": 41,
+   "watchers": 42,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -12304,7 +12304,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 44889,
+  "lines": 44894,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.107.4",
@@ -12377,8 +12377,8 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2024-05-06T21:01:48Z",
-   "pushed_at": "2024-05-06T21:01:44Z",
+   "updated_at": "2024-05-10T07:42:16Z",
+   "pushed_at": "2024-05-10T07:42:12Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
@@ -12398,7 +12398,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 4,
+   "open_issues_count": 2,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -12419,7 +12419,7 @@
    ],
    "visibility": "public",
    "forks": 46,
-   "open_issues": 4,
+   "open_issues": 2,
    "watchers": 243,
    "default_branch": "main",
    "permissions": {
@@ -12539,7 +12539,7 @@
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2024-05-07T03:51:50Z",
-   "pushed_at": "2024-05-07T13:42:58Z",
+   "pushed_at": "2024-05-09T15:08:15Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
@@ -12559,7 +12559,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 105,
+   "open_issues_count": 106,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -12587,7 +12587,7 @@
    ],
    "visibility": "public",
    "forks": 283,
-   "open_issues": 105,
+   "open_issues": 106,
    "watchers": 669,
    "default_branch": "main",
    "permissions": {
@@ -13363,7 +13363,7 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-05-04T20:39:06Z",
+   "updated_at": "2024-05-09T18:55:17Z",
    "pushed_at": "2024-04-29T05:12:57Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
@@ -13380,7 +13380,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 523,
+   "forks_count": 524,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -13405,7 +13405,7 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 523,
+   "forks": 524,
    "open_issues": 90,
    "watchers": 1454,
    "default_branch": "main",
@@ -13438,7 +13438,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 523,
+   "network_count": 524,
    "subscribers_count": 134
   }
  },
