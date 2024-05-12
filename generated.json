@@ -8975,7 +8975,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2024-05-10T10:39:10Z",
+   "updated_at": "2024-05-12T04:45:48Z",
    "pushed_at": "2024-01-15T08:30:47Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -12456,7 +12456,7 @@
   }
  },
  "abap2xlsx/abap2xlsx": {
-  "lines": 44760,
+  "lines": 44843,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -12538,14 +12538,14 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2024-05-07T03:51:50Z",
-   "pushed_at": "2024-05-09T15:08:15Z",
+   "updated_at": "2024-05-11T15:34:10Z",
+   "pushed_at": "2024-05-11T15:34:06Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://abap2xlsx.github.io/abap2xlsx/",
-   "size": 26324,
+   "size": 26430,
    "stargazers_count": 669,
    "watchers_count": 669,
    "language": "ABAP",
@@ -12559,7 +12559,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 105,
+   "open_issues_count": 104,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -12587,7 +12587,7 @@
    ],
    "visibility": "public",
    "forks": 283,
-   "open_issues": 105,
+   "open_issues": 104,
    "watchers": 669,
    "default_branch": "main",
    "permissions": {
@@ -13384,7 +13384,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 90,
+   "open_issues_count": 91,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -13406,7 +13406,7 @@
    ],
    "visibility": "public",
    "forks": 524,
-   "open_issues": 90,
+   "open_issues": 91,
    "watchers": 1454,
    "default_branch": "main",
    "permissions": {
