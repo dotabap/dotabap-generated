@@ -6250,7 +6250,7 @@
    "releases_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2024-05-15T23:51:12Z",
+   "updated_at": "2024-05-23T17:38:07Z",
    "pushed_at": "2024-05-14T07:44:38Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
@@ -6258,8 +6258,8 @@
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
    "size": 20428,
-   "stargazers_count": 172,
-   "watchers_count": 172,
+   "stargazers_count": 173,
+   "watchers_count": 173,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -6292,7 +6292,7 @@
    "visibility": "public",
    "forks": 60,
    "open_issues": 5,
-   "watchers": 172,
+   "watchers": 173,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -12304,7 +12304,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 45180,
+  "lines": 45182,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.108.8",
@@ -12377,8 +12377,8 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2024-05-22T20:22:01Z",
-   "pushed_at": "2024-05-22T20:21:57Z",
+   "updated_at": "2024-05-24T07:51:38Z",
+   "pushed_at": "2024-05-24T07:51:35Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
@@ -12398,7 +12398,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 5,
+   "open_issues_count": 4,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -12419,7 +12419,7 @@
    ],
    "visibility": "public",
    "forks": 46,
-   "open_issues": 5,
+   "open_issues": 4,
    "watchers": 250,
    "default_branch": "main",
    "permissions": {
@@ -12555,7 +12555,7 @@
    "has_wiki": false,
    "has_pages": true,
    "has_discussions": true,
-   "forks_count": 283,
+   "forks_count": 284,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -12586,7 +12586,7 @@
     "sap-netweaver"
    ],
    "visibility": "public",
-   "forks": 283,
+   "forks": 284,
    "open_issues": 101,
    "watchers": 675,
    "default_branch": "main",
@@ -12619,7 +12619,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 283,
+   "network_count": 284,
    "subscribers_count": 69
   }
  },
@@ -13290,7 +13290,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 175674,
+  "lines": 175686,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.108.8",
@@ -13363,16 +13363,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-05-22T21:04:57Z",
-   "pushed_at": "2024-05-23T04:28:28Z",
+   "updated_at": "2024-05-24T06:49:38Z",
+   "pushed_at": "2024-05-24T05:06:27Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24837,
-   "stargazers_count": 1465,
-   "watchers_count": 1465,
+   "size": 24848,
+   "stargazers_count": 1466,
+   "watchers_count": 1466,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -13384,7 +13384,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 92,
+   "open_issues_count": 91,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -13406,8 +13406,8 @@
    ],
    "visibility": "public",
    "forks": 525,
-   "open_issues": 92,
-   "watchers": 1465,
+   "open_issues": 91,
+   "watchers": 1466,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -31112,7 +31112,7 @@
   }
  },
  "pokrakam/abapDevSysInit": {
-  "lines": 2775,
+  "lines": 2776,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.108.8",
@@ -31185,14 +31185,14 @@
    "releases_url": "https://api.github.com/repos/pokrakam/abapDevSysInit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/pokrakam/abapDevSysInit/deployments",
    "created_at": "2024-04-08T15:57:17Z",
-   "updated_at": "2024-05-20T22:21:17Z",
-   "pushed_at": "2024-05-20T22:21:13Z",
+   "updated_at": "2024-05-23T17:34:00Z",
+   "pushed_at": "2024-05-23T17:33:56Z",
    "git_url": "git://github.com/pokrakam/abapDevSysInit.git",
    "ssh_url": "git@github.com:pokrakam/abapDevSysInit.git",
    "clone_url": "https://github.com/pokrakam/abapDevSysInit.git",
    "svn_url": "https://github.com/pokrakam/abapDevSysInit",
    "homepage": null,
-   "size": 316,
+   "size": 333,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -31206,7 +31206,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 3,
+   "open_issues_count": 4,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -31220,7 +31220,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 0,
-   "open_issues": 3,
+   "open_issues": 4,
    "watchers": 6,
    "default_branch": "main",
    "permissions": {
