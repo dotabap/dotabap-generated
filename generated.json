@@ -1810,7 +1810,7 @@
    "releases_url": "https://api.github.com/repos/DevEpos/abap-code-search-tools/releases{/id}",
    "deployments_url": "https://api.github.com/repos/DevEpos/abap-code-search-tools/deployments",
    "created_at": "2021-03-09T13:39:59Z",
-   "updated_at": "2024-04-24T09:50:48Z",
+   "updated_at": "2024-05-25T17:22:16Z",
    "pushed_at": "2024-05-24T17:51:53Z",
    "git_url": "git://github.com/DevEpos/abap-code-search-tools.git",
    "ssh_url": "git@github.com:DevEpos/abap-code-search-tools.git",
@@ -1818,8 +1818,8 @@
    "svn_url": "https://github.com/DevEpos/abap-code-search-tools",
    "homepage": "",
    "size": 378,
-   "stargazers_count": 19,
-   "watchers_count": 19,
+   "stargazers_count": 20,
+   "watchers_count": 20,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1827,7 +1827,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 7,
+   "forks_count": 8,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -1849,9 +1849,9 @@
     "tools"
    ],
    "visibility": "public",
-   "forks": 7,
+   "forks": 8,
    "open_issues": 4,
-   "watchers": 19,
+   "watchers": 20,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -1882,7 +1882,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 7,
+   "network_count": 8,
    "subscribers_count": 4
   }
  },
@@ -8975,7 +8975,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2024-05-21T11:47:15Z",
+   "updated_at": "2024-05-26T04:45:34Z",
    "pushed_at": "2024-05-17T12:49:24Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -13384,7 +13384,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 90,
+   "open_issues_count": 89,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -13406,7 +13406,7 @@
    ],
    "visibility": "public",
    "forks": 525,
-   "open_issues": 90,
+   "open_issues": 89,
    "watchers": 1467,
    "default_branch": "main",
    "permissions": {
