@@ -2966,7 +2966,7 @@
    "releases_url": "https://api.github.com/repos/IBM/abap-sdk-nwas-x/releases{/id}",
    "deployments_url": "https://api.github.com/repos/IBM/abap-sdk-nwas-x/deployments",
    "created_at": "2024-03-25T11:35:10Z",
-   "updated_at": "2024-06-27T15:37:47Z",
+   "updated_at": "2024-06-28T18:39:54Z",
    "pushed_at": "2024-06-27T15:43:41Z",
    "git_url": "git://github.com/IBM/abap-sdk-nwas-x.git",
    "ssh_url": "git@github.com:IBM/abap-sdk-nwas-x.git",
@@ -2974,8 +2974,8 @@
    "svn_url": "https://github.com/IBM/abap-sdk-nwas-x",
    "homepage": "",
    "size": 192,
-   "stargazers_count": 1,
-   "watchers_count": 1,
+   "stargazers_count": 2,
+   "watchers_count": 2,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3002,7 +3002,7 @@
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
-   "watchers": 1,
+   "watchers": 2,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -3034,7 +3034,7 @@
     "site_admin": false
    },
    "network_count": 1,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "INVIXO/abapMQ": {
@@ -12398,7 +12398,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 8,
+   "open_issues_count": 9,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -12419,7 +12419,7 @@
    ],
    "visibility": "public",
    "forks": 50,
-   "open_issues": 8,
+   "open_issues": 9,
    "watchers": 266,
    "default_branch": "main",
    "permissions": {
@@ -13290,7 +13290,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 175991,
+  "lines": 176170,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.110.1",
@@ -13363,14 +13363,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-06-27T14:56:18Z",
-   "pushed_at": "2024-06-27T14:56:25Z",
+   "updated_at": "2024-06-28T12:11:21Z",
+   "pushed_at": "2024-06-28T14:29:02Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24877,
+   "size": 24891,
    "stargazers_count": 1487,
    "watchers_count": 1487,
    "language": "ABAP",
@@ -27310,7 +27310,7 @@
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2545,
+   "size": 2557,
    "stargazers_count": 257,
    "watchers_count": 257,
    "language": "ABAP",
