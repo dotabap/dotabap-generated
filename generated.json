@@ -12304,7 +12304,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 48647,
+  "lines": 48660,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.110.2",
@@ -12377,14 +12377,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2024-07-05T07:23:19Z",
-   "pushed_at": "2024-07-06T02:15:51Z",
+   "updated_at": "2024-07-06T14:32:20Z",
+   "pushed_at": "2024-07-06T14:32:16Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 3740,
+   "size": 3798,
    "stargazers_count": 268,
    "watchers_count": 268,
    "language": "ABAP",
@@ -13363,14 +13363,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-07-05T12:32:50Z",
-   "pushed_at": "2024-07-05T10:12:42Z",
+   "updated_at": "2024-07-06T08:52:44Z",
+   "pushed_at": "2024-07-06T08:52:50Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24964,
+   "size": 24967,
    "stargazers_count": 1492,
    "watchers_count": 1492,
    "language": "ABAP",
@@ -16646,7 +16646,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -16660,7 +16660,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 0,
-   "open_issues": 0,
+   "open_issues": 1,
    "watchers": 6,
    "default_branch": "main",
    "permissions": {
@@ -23272,7 +23272,7 @@
   }
  },
  "gregorwolf/abapOAuthAzure": {
-  "lines": 279,
+  "lines": 418,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -23283,7 +23283,7 @@
   ],
   "parsing": {
    "version": "2.110.2",
-   "cloud": 20
+   "cloud": 40
   },
   "repo": {
    "id": 133160673,
@@ -23352,14 +23352,14 @@
    "releases_url": "https://api.github.com/repos/gregorwolf/abapOAuthAzure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/gregorwolf/abapOAuthAzure/deployments",
    "created_at": "2018-05-12T15:54:03Z",
-   "updated_at": "2024-07-05T16:32:11Z",
-   "pushed_at": "2024-07-05T16:32:08Z",
+   "updated_at": "2024-07-06T15:16:40Z",
+   "pushed_at": "2024-07-06T15:16:37Z",
    "git_url": "git://github.com/gregorwolf/abapOAuthAzure.git",
    "ssh_url": "git@github.com:gregorwolf/abapOAuthAzure.git",
    "clone_url": "https://github.com/gregorwolf/abapOAuthAzure.git",
    "svn_url": "https://github.com/gregorwolf/abapOAuthAzure",
    "homepage": null,
-   "size": 20,
+   "size": 35,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
