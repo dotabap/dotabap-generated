@@ -503,7 +503,7 @@
    "releases_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2024-07-05T08:37:58Z",
+   "updated_at": "2024-07-10T16:38:57Z",
    "pushed_at": "2024-06-26T10:45:49Z",
    "git_url": "git://github.com/ABAP-Logger/ABAP-Logger.git",
    "ssh_url": "git@github.com:ABAP-Logger/ABAP-Logger.git",
@@ -511,8 +511,8 @@
    "svn_url": "https://github.com/ABAP-Logger/ABAP-Logger",
    "homepage": null,
    "size": 279,
-   "stargazers_count": 329,
-   "watchers_count": 329,
+   "stargazers_count": 330,
+   "watchers_count": 330,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -543,7 +543,7 @@
    "visibility": "public",
    "forks": 109,
    "open_issues": 6,
-   "watchers": 329,
+   "watchers": 330,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -7669,7 +7669,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/abap-oo-basics/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-oo-basics/deployments",
    "created_at": "2020-04-18T00:02:53Z",
-   "updated_at": "2024-07-04T10:09:41Z",
+   "updated_at": "2024-07-10T16:50:31Z",
    "pushed_at": "2024-01-02T16:39:09Z",
    "git_url": "git://github.com/SAP-samples/abap-oo-basics.git",
    "ssh_url": "git@github.com:SAP-samples/abap-oo-basics.git",
@@ -7677,8 +7677,8 @@
    "svn_url": "https://github.com/SAP-samples/abap-oo-basics",
    "homepage": "",
    "size": 113,
-   "stargazers_count": 177,
-   "watchers_count": 177,
+   "stargazers_count": 178,
+   "watchers_count": 178,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -7712,7 +7712,7 @@
    "visibility": "public",
    "forks": 49,
    "open_issues": 0,
-   "watchers": 177,
+   "watchers": 178,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -8369,7 +8369,7 @@
     "site_admin": false
    },
    "network_count": 5,
-   "subscribers_count": 18
+   "subscribers_count": 19
   }
  },
  "SAP/abap-file-formats-tools": {
@@ -9370,7 +9370,7 @@
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.110.6",
-   "cloud": 6
+   "cloud": 4
   },
   "repo": {
    "id": 383410447,
@@ -9439,14 +9439,14 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/sap-usi-authority-check/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/sap-usi-authority-check/deployments",
    "created_at": "2021-07-06T09:18:52Z",
-   "updated_at": "2023-01-31T14:21:34Z",
-   "pushed_at": "2024-03-12T09:22:43Z",
+   "updated_at": "2024-07-10T12:59:23Z",
+   "pushed_at": "2024-07-10T12:59:19Z",
    "git_url": "git://github.com/SchwarzIT/sap-usi-authority-check.git",
    "ssh_url": "git@github.com:SchwarzIT/sap-usi-authority-check.git",
    "clone_url": "https://github.com/SchwarzIT/sap-usi-authority-check.git",
    "svn_url": "https://github.com/SchwarzIT/sap-usi-authority-check",
    "homepage": "",
-   "size": 85,
+   "size": 87,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -9519,7 +9519,7 @@
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.110.6",
-   "cloud": 24
+   "cloud": 18
   },
   "repo": {
    "id": 383410804,
@@ -9588,14 +9588,14 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/sap-usi-exception/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/sap-usi-exception/deployments",
    "created_at": "2021-07-06T09:20:06Z",
-   "updated_at": "2023-01-31T14:21:19Z",
-   "pushed_at": "2024-03-12T09:22:59Z",
+   "updated_at": "2024-07-10T12:42:39Z",
+   "pushed_at": "2024-07-10T12:42:07Z",
    "git_url": "git://github.com/SchwarzIT/sap-usi-exception.git",
    "ssh_url": "git@github.com:SchwarzIT/sap-usi-exception.git",
    "clone_url": "https://github.com/SchwarzIT/sap-usi-exception.git",
    "svn_url": "https://github.com/SchwarzIT/sap-usi-exception",
    "homepage": "",
-   "size": 120,
+   "size": 123,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -9668,7 +9668,7 @@
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.110.6",
-   "cloud": 170
+   "cloud": 148
   },
   "repo": {
    "id": 383409546,
@@ -9737,14 +9737,14 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/deployments",
    "created_at": "2021-07-06T09:15:31Z",
-   "updated_at": "2024-07-09T09:36:51Z",
-   "pushed_at": "2024-07-09T09:36:48Z",
+   "updated_at": "2024-07-10T10:00:32Z",
+   "pushed_at": "2024-07-10T10:00:29Z",
    "git_url": "git://github.com/SchwarzIT/sap-usi-logging-api.git",
    "ssh_url": "git@github.com:SchwarzIT/sap-usi-logging-api.git",
    "clone_url": "https://github.com/SchwarzIT/sap-usi-logging-api.git",
    "svn_url": "https://github.com/SchwarzIT/sap-usi-logging-api",
    "homepage": "",
-   "size": 867,
+   "size": 886,
    "stargazers_count": 21,
    "watchers_count": 21,
    "language": "ABAP",
@@ -12398,7 +12398,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 8,
+   "open_issues_count": 10,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -12419,7 +12419,7 @@
    ],
    "visibility": "public",
    "forks": 51,
-   "open_issues": 8,
+   "open_issues": 10,
    "watchers": 270,
    "default_branch": "main",
    "permissions": {
@@ -12538,7 +12538,7 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2024-07-08T03:10:33Z",
+   "updated_at": "2024-07-10T16:38:19Z",
    "pushed_at": "2024-07-09T13:19:33Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
@@ -12546,8 +12546,8 @@
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://abap2xlsx.github.io/abap2xlsx/",
    "size": 26354,
-   "stargazers_count": 687,
-   "watchers_count": 687,
+   "stargazers_count": 688,
+   "watchers_count": 688,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -12588,7 +12588,7 @@
    "visibility": "public",
    "forks": 284,
    "open_issues": 108,
-   "watchers": 687,
+   "watchers": 688,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -13290,7 +13290,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 176654,
+  "lines": 176763,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.110.6",
@@ -13363,16 +13363,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-07-09T19:22:17Z",
-   "pushed_at": "2024-07-09T21:48:02Z",
+   "updated_at": "2024-07-11T07:25:10Z",
+   "pushed_at": "2024-07-11T08:13:06Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24922,
-   "stargazers_count": 1493,
-   "watchers_count": 1493,
+   "size": 24967,
+   "stargazers_count": 1495,
+   "watchers_count": 1495,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -13380,11 +13380,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 530,
+   "forks_count": 529,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 100,
+   "open_issues_count": 104,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -13405,9 +13405,9 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 530,
-   "open_issues": 100,
-   "watchers": 1493,
+   "forks": 529,
+   "open_issues": 104,
+   "watchers": 1495,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -13438,7 +13438,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 530,
+   "network_count": 529,
    "subscribers_count": 133
   }
  },
