@@ -8708,7 +8708,7 @@
    "releases_url": "https://api.github.com/repos/SAP/abap-to-json/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/abap-to-json/deployments",
    "created_at": "2023-04-18T15:48:21Z",
-   "updated_at": "2024-08-07T16:58:59Z",
+   "updated_at": "2024-08-21T07:32:40Z",
    "pushed_at": "2024-08-07T16:58:55Z",
    "git_url": "git://github.com/SAP/abap-to-json.git",
    "ssh_url": "git@github.com:SAP/abap-to-json.git",
@@ -8716,8 +8716,8 @@
    "svn_url": "https://github.com/SAP/abap-to-json",
    "homepage": null,
    "size": 493,
-   "stargazers_count": 32,
-   "watchers_count": 32,
+   "stargazers_count": 33,
+   "watchers_count": 33,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -8752,7 +8752,7 @@
    "visibility": "public",
    "forks": 8,
    "open_issues": 0,
-   "watchers": 32,
+   "watchers": 33,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -12539,7 +12539,7 @@
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
    "updated_at": "2024-08-18T12:52:56Z",
-   "pushed_at": "2024-08-19T14:48:28Z",
+   "pushed_at": "2024-08-21T06:57:36Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
@@ -13290,7 +13290,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 177513,
+  "lines": 177674,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.112.17",
@@ -13363,14 +13363,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-08-15T12:12:38Z",
-   "pushed_at": "2024-08-20T06:44:10Z",
+   "updated_at": "2024-08-20T14:21:09Z",
+   "pushed_at": "2024-08-20T14:21:05Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24987,
+   "size": 24952,
    "stargazers_count": 1508,
    "watchers_count": 1508,
    "language": "ABAP",
@@ -13384,7 +13384,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 96,
+   "open_issues_count": 93,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -13406,7 +13406,7 @@
    ],
    "visibility": "public",
    "forks": 533,
-   "open_issues": 96,
+   "open_issues": 93,
    "watchers": 1508,
    "default_branch": "main",
    "permissions": {
@@ -13439,7 +13439,7 @@
     "site_admin": false
    },
    "network_count": 533,
-   "subscribers_count": 133
+   "subscribers_count": 134
   }
  },
  "abapGit/background_modes": {
@@ -22635,7 +22635,7 @@
    "releases_url": "https://api.github.com/repos/fidley/falv/releases{/id}",
    "deployments_url": "https://api.github.com/repos/fidley/falv/deployments",
    "created_at": "2016-03-11T09:39:33Z",
-   "updated_at": "2024-08-08T08:52:56Z",
+   "updated_at": "2024-08-21T05:44:23Z",
    "pushed_at": "2024-08-08T08:52:52Z",
    "git_url": "git://github.com/fidley/falv.git",
    "ssh_url": "git@github.com:fidley/falv.git",
@@ -22643,8 +22643,8 @@
    "svn_url": "https://github.com/fidley/falv",
    "homepage": "https://abapblog.com",
    "size": 1475,
-   "stargazers_count": 138,
-   "watchers_count": 138,
+   "stargazers_count": 139,
+   "watchers_count": 139,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -22676,7 +22676,7 @@
    "visibility": "public",
    "forks": 52,
    "open_issues": 6,
-   "watchers": 138,
+   "watchers": 139,
    "default_branch": "master",
    "permissions": {
     "admin": false,
