@@ -520,7 +520,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 109,
+   "forks_count": 110,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -541,7 +541,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 109,
+   "forks": 110,
    "open_issues": 8,
    "watchers": 336,
    "default_branch": "main",
@@ -574,7 +574,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 109,
+   "network_count": 110,
    "subscribers_count": 38
   }
  },
@@ -1967,7 +1967,7 @@
    "clone_url": "https://github.com/DevEpos/abap-db-browser.git",
    "svn_url": "https://github.com/DevEpos/abap-db-browser",
    "homepage": "",
-   "size": 2473,
+   "size": 2585,
    "stargazers_count": 30,
    "watchers_count": 30,
    "language": "ABAP",
@@ -12302,7 +12302,7 @@
   }
  },
  "abap2UI5-apps/table-content-loader": {
-  "lines": 2189,
+  "lines": 2108,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.3",
@@ -12335,7 +12335,7 @@
     "site_admin": false
    },
    "html_url": "https://github.com/abap2UI5-apps/table-content-loader",
-   "description": "Download, Edit & Upload Table Content",
+   "description": "Upload & Download Table Content",
    "fork": false,
    "url": "https://api.github.com/repos/abap2UI5-apps/table-content-loader",
    "forks_url": "https://api.github.com/repos/abap2UI5-apps/table-content-loader/forks",
@@ -12375,14 +12375,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5-apps/table-content-loader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5-apps/table-content-loader/deployments",
    "created_at": "2024-01-15T15:13:20Z",
-   "updated_at": "2024-09-01T10:55:05Z",
-   "pushed_at": "2024-08-30T08:59:32Z",
+   "updated_at": "2024-09-05T05:55:22Z",
+   "pushed_at": "2024-09-05T05:55:19Z",
    "git_url": "git://github.com/abap2UI5-apps/table-content-loader.git",
    "ssh_url": "git@github.com:abap2UI5-apps/table-content-loader.git",
    "clone_url": "https://github.com/abap2UI5-apps/table-content-loader.git",
    "svn_url": "https://github.com/abap2UI5-apps/table-content-loader",
    "homepage": "",
-   "size": 88,
+   "size": 95,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -12452,7 +12452,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 33982,
+  "lines": 33601,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.3",
@@ -12525,14 +12525,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2024-09-04T07:35:53Z",
-   "pushed_at": "2024-09-04T08:18:25Z",
+   "updated_at": "2024-09-05T05:21:08Z",
+   "pushed_at": "2024-09-05T05:21:07Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 3874,
+   "size": 3897,
    "stargazers_count": 280,
    "watchers_count": 280,
    "language": "ABAP",
@@ -12688,7 +12688,7 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2024-09-01T11:13:15Z",
+   "updated_at": "2024-09-04T11:57:14Z",
    "pushed_at": "2024-09-02T09:31:23Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
@@ -12696,8 +12696,8 @@
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://abap2xlsx.github.io/abap2xlsx/",
    "size": 26382,
-   "stargazers_count": 698,
-   "watchers_count": 698,
+   "stargazers_count": 699,
+   "watchers_count": 699,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -12705,7 +12705,7 @@
    "has_wiki": false,
    "has_pages": true,
    "has_discussions": true,
-   "forks_count": 286,
+   "forks_count": 287,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -12736,9 +12736,9 @@
     "sap-netweaver"
    ],
    "visibility": "public",
-   "forks": 286,
+   "forks": 287,
    "open_issues": 111,
-   "watchers": 698,
+   "watchers": 699,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -12769,7 +12769,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 286,
+   "network_count": 287,
    "subscribers_count": 71
   }
  },
@@ -13440,7 +13440,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 177721,
+  "lines": 177762,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.3",
@@ -13513,14 +13513,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-09-03T15:06:59Z",
-   "pushed_at": "2024-09-03T20:25:18Z",
+   "updated_at": "2024-09-05T05:51:47Z",
+   "pushed_at": "2024-09-05T05:52:09Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 24988,
+   "size": 25029,
    "stargazers_count": 1515,
    "watchers_count": 1515,
    "language": "ABAP",
@@ -13530,7 +13530,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 533,
+   "forks_count": 534,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -13555,7 +13555,7 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 533,
+   "forks": 534,
    "open_issues": 103,
    "watchers": 1515,
    "default_branch": "main",
@@ -13588,7 +13588,7 @@
     "type": "Organization",
     "site_admin": false
    },
-   "network_count": 533,
+   "network_count": 534,
    "subscribers_count": 134
   }
  },
@@ -27371,7 +27371,7 @@
    "releases_url": "https://api.github.com/repos/larshp/ABAP-Swagger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/ABAP-Swagger/deployments",
    "created_at": "2016-06-26T08:15:24Z",
-   "updated_at": "2024-09-03T20:36:32Z",
+   "updated_at": "2024-09-04T10:47:04Z",
    "pushed_at": "2022-11-10T15:42:07Z",
    "git_url": "git://github.com/larshp/ABAP-Swagger.git",
    "ssh_url": "git@github.com:larshp/ABAP-Swagger.git",
@@ -27379,8 +27379,8 @@
    "svn_url": "https://github.com/larshp/ABAP-Swagger",
    "homepage": "",
    "size": 114,
-   "stargazers_count": 94,
-   "watchers_count": 94,
+   "stargazers_count": 95,
+   "watchers_count": 95,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -27412,7 +27412,7 @@
    "visibility": "public",
    "forks": 40,
    "open_issues": 24,
-   "watchers": 94,
+   "watchers": 95,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -34774,7 +34774,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 15,
+   "forks_count": 14,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -34795,7 +34795,7 @@
     "json-parser"
    ],
    "visibility": "public",
-   "forks": 15,
+   "forks": 14,
    "open_issues": 19,
    "watchers": 50,
    "default_branch": "master",
@@ -34807,7 +34807,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 15,
+   "network_count": 14,
    "subscribers_count": 8
   }
  },
