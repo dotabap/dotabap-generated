@@ -503,7 +503,7 @@
    "releases_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ABAP-Logger/ABAP-Logger/deployments",
    "created_at": "2014-09-11T20:47:00Z",
-   "updated_at": "2024-08-27T08:57:44Z",
+   "updated_at": "2024-09-07T17:09:34Z",
    "pushed_at": "2024-06-26T10:45:49Z",
    "git_url": "git://github.com/ABAP-Logger/ABAP-Logger.git",
    "ssh_url": "git@github.com:ABAP-Logger/ABAP-Logger.git",
@@ -511,8 +511,8 @@
    "svn_url": "https://github.com/ABAP-Logger/ABAP-Logger",
    "homepage": null,
    "size": 279,
-   "stargazers_count": 336,
-   "watchers_count": 336,
+   "stargazers_count": 335,
+   "watchers_count": 335,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -543,7 +543,7 @@
    "visibility": "public",
    "forks": 110,
    "open_issues": 8,
-   "watchers": 336,
+   "watchers": 335,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -575,7 +575,7 @@
     "site_admin": false
    },
    "network_count": 110,
-   "subscribers_count": 38
+   "subscribers_count": 37
   }
  },
  "AkyshBaymuhammedov/ADT_TODO_Plugin_ABAP": {
@@ -1295,7 +1295,7 @@
    "releases_url": "https://api.github.com/repos/BenjaminWeisheit/ABAP-2-CODE-CHARTA/releases{/id}",
    "deployments_url": "https://api.github.com/repos/BenjaminWeisheit/ABAP-2-CODE-CHARTA/deployments",
    "created_at": "2021-01-25T12:27:12Z",
-   "updated_at": "2023-08-05T03:23:49Z",
+   "updated_at": "2024-09-07T19:51:21Z",
    "pushed_at": "2021-07-01T05:03:30Z",
    "git_url": "git://github.com/BenjaminWeisheit/ABAP-2-CODE-CHARTA.git",
    "ssh_url": "git@github.com:BenjaminWeisheit/ABAP-2-CODE-CHARTA.git",
@@ -1303,8 +1303,8 @@
    "svn_url": "https://github.com/BenjaminWeisheit/ABAP-2-CODE-CHARTA",
    "homepage": "",
    "size": 77,
-   "stargazers_count": 12,
-   "watchers_count": 12,
+   "stargazers_count": 13,
+   "watchers_count": 13,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -1335,7 +1335,7 @@
    "visibility": "public",
    "forks": 3,
    "open_issues": 1,
-   "watchers": 12,
+   "watchers": 13,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -1346,7 +1346,7 @@
    },
    "temp_clone_token": "",
    "network_count": 3,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "BiberM/ABAPParallelizationService": {
@@ -12226,14 +12226,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5-apps/abap-sql-console/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5-apps/abap-sql-console/deployments",
    "created_at": "2024-01-16T06:41:34Z",
-   "updated_at": "2024-09-05T11:44:07Z",
-   "pushed_at": "2024-09-05T11:44:04Z",
+   "updated_at": "2024-09-07T14:36:18Z",
+   "pushed_at": "2024-09-07T14:36:15Z",
    "git_url": "git://github.com/abap2UI5-apps/abap-sql-console.git",
    "ssh_url": "git@github.com:abap2UI5-apps/abap-sql-console.git",
    "clone_url": "https://github.com/abap2UI5-apps/abap-sql-console.git",
    "svn_url": "https://github.com/abap2UI5-apps/abap-sql-console",
    "homepage": "",
-   "size": 127,
+   "size": 137,
    "stargazers_count": 7,
    "watchers_count": 7,
    "language": "ABAP",
@@ -12375,14 +12375,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5-apps/table-content-loader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5-apps/table-content-loader/deployments",
    "created_at": "2024-01-15T15:13:20Z",
-   "updated_at": "2024-09-05T11:45:00Z",
-   "pushed_at": "2024-09-05T11:44:57Z",
+   "updated_at": "2024-09-07T14:13:39Z",
+   "pushed_at": "2024-09-07T14:13:36Z",
    "git_url": "git://github.com/abap2UI5-apps/table-content-loader.git",
    "ssh_url": "git@github.com:abap2UI5-apps/table-content-loader.git",
    "clone_url": "https://github.com/abap2UI5-apps/table-content-loader.git",
    "svn_url": "https://github.com/abap2UI5-apps/table-content-loader",
    "homepage": "",
-   "size": 97,
+   "size": 99,
    "stargazers_count": 1,
    "watchers_count": 1,
    "language": "ABAP",
@@ -12452,7 +12452,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 33490,
+  "lines": 33954,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.3",
@@ -12525,14 +12525,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2024-09-07T07:07:01Z",
-   "pushed_at": "2024-09-07T07:06:58Z",
+   "updated_at": "2024-09-08T07:48:35Z",
+   "pushed_at": "2024-09-08T07:48:33Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 3888,
+   "size": 3950,
    "stargazers_count": 281,
    "watchers_count": 281,
    "language": "ABAP",
@@ -13514,7 +13514,7 @@
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
    "updated_at": "2024-09-07T05:17:24Z",
-   "pushed_at": "2024-09-06T06:57:21Z",
+   "pushed_at": "2024-09-08T08:02:33Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
@@ -17398,7 +17398,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -17412,7 +17412,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 0,
-   "open_issues": 0,
+   "open_issues": 1,
    "watchers": 1,
    "default_branch": "main",
    "permissions": {
@@ -34774,11 +34774,11 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 14,
+   "forks_count": 15,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 21,
+   "open_issues_count": 22,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -34795,8 +34795,8 @@
     "json-parser"
    ],
    "visibility": "public",
-   "forks": 14,
-   "open_issues": 21,
+   "forks": 15,
+   "open_issues": 22,
    "watchers": 50,
    "default_branch": "master",
    "permissions": {
@@ -34807,7 +34807,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 14,
+   "network_count": 15,
    "subscribers_count": 8
   }
  },
