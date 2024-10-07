@@ -12826,13 +12826,13 @@
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
    "updated_at": "2024-10-06T06:58:28Z",
-   "pushed_at": "2024-10-06T06:59:57Z",
+   "pushed_at": "2024-10-06T15:37:53Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 4292,
+   "size": 4290,
    "stargazers_count": 290,
    "watchers_count": 290,
    "language": "ABAP",
@@ -12846,7 +12846,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 10,
+   "open_issues_count": 8,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -12869,7 +12869,7 @@
    ],
    "visibility": "public",
    "forks": 56,
-   "open_issues": 10,
+   "open_issues": 8,
    "watchers": 290,
    "default_branch": "main",
    "permissions": {
@@ -13385,7 +13385,7 @@
    "releases_url": "https://api.github.com/repos/abapChaoLiu/abap_seltab_to_where/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapChaoLiu/abap_seltab_to_where/deployments",
    "created_at": "2019-03-19T22:08:22Z",
-   "updated_at": "2023-12-22T11:32:42Z",
+   "updated_at": "2024-10-06T20:25:10Z",
    "pushed_at": "2020-11-02T15:15:26Z",
    "git_url": "git://github.com/abapChaoLiu/abap_seltab_to_where.git",
    "ssh_url": "git@github.com:abapChaoLiu/abap_seltab_to_where.git",
@@ -13393,8 +13393,8 @@
    "svn_url": "https://github.com/abapChaoLiu/abap_seltab_to_where",
    "homepage": "",
    "size": 42,
-   "stargazers_count": 16,
-   "watchers_count": 16,
+   "stargazers_count": 17,
+   "watchers_count": 17,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -13424,7 +13424,7 @@
    "visibility": "public",
    "forks": 7,
    "open_issues": 1,
-   "watchers": 16,
+   "watchers": 17,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -13666,7 +13666,7 @@
    "releases_url": "https://api.github.com/repos/abapGit/ADT_Backend/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/ADT_Backend/deployments",
    "created_at": "2018-03-21T04:59:51Z",
-   "updated_at": "2024-07-09T09:39:45Z",
+   "updated_at": "2024-10-07T07:35:17Z",
    "pushed_at": "2024-03-04T09:10:45Z",
    "git_url": "git://github.com/abapGit/ADT_Backend.git",
    "ssh_url": "git@github.com:abapGit/ADT_Backend.git",
@@ -13674,8 +13674,8 @@
    "svn_url": "https://github.com/abapGit/ADT_Backend",
    "homepage": "",
    "size": 157,
-   "stargazers_count": 31,
-   "watchers_count": 31,
+   "stargazers_count": 32,
+   "watchers_count": 32,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -13704,7 +13704,7 @@
    "visibility": "public",
    "forks": 13,
    "open_issues": 17,
-   "watchers": 31,
+   "watchers": 32,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -13813,7 +13813,7 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-10-04T11:39:32Z",
+   "updated_at": "2024-10-06T18:09:20Z",
    "pushed_at": "2024-10-04T17:33:16Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
@@ -13821,8 +13821,8 @@
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
    "size": 25056,
-   "stargazers_count": 1527,
-   "watchers_count": 1527,
+   "stargazers_count": 1528,
+   "watchers_count": 1528,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -13857,7 +13857,7 @@
    "visibility": "public",
    "forks": 534,
    "open_issues": 101,
-   "watchers": 1527,
+   "watchers": 1528,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -13889,7 +13889,7 @@
     "site_admin": false
    },
    "network_count": 534,
-   "subscribers_count": 135
+   "subscribers_count": 136
   }
  },
  "abapGit/background_modes": {
@@ -28651,7 +28651,7 @@
    },
    "temp_clone_token": "",
    "network_count": 78,
-   "subscribers_count": 39
+   "subscribers_count": 40
   }
  },
  "larshp/abapOpenReview": {
