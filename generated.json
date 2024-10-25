@@ -6319,7 +6319,7 @@
    "releases_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/ABAP-SDK-for-Azure/deployments",
    "created_at": "2018-03-10T20:01:50Z",
-   "updated_at": "2024-10-13T15:52:13Z",
+   "updated_at": "2024-10-24T12:42:17Z",
    "pushed_at": "2024-05-14T07:44:38Z",
    "git_url": "git://github.com/microsoft/ABAP-SDK-for-Azure.git",
    "ssh_url": "git@github.com:microsoft/ABAP-SDK-for-Azure.git",
@@ -6327,8 +6327,8 @@
    "svn_url": "https://github.com/microsoft/ABAP-SDK-for-Azure",
    "homepage": null,
    "size": 20428,
-   "stargazers_count": 175,
-   "watchers_count": 175,
+   "stargazers_count": 176,
+   "watchers_count": 176,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -6361,7 +6361,7 @@
    "visibility": "public",
    "forks": 62,
    "open_issues": 6,
-   "watchers": 175,
+   "watchers": 176,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -8377,7 +8377,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/cloud-abap-exchange-rates/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/cloud-abap-exchange-rates/deployments",
    "created_at": "2020-05-07T15:45:04Z",
-   "updated_at": "2024-10-02T11:24:07Z",
+   "updated_at": "2024-10-25T06:37:18Z",
    "pushed_at": "2024-03-04T08:33:38Z",
    "git_url": "git://github.com/SAP-samples/cloud-abap-exchange-rates.git",
    "ssh_url": "git@github.com:SAP-samples/cloud-abap-exchange-rates.git",
@@ -8385,8 +8385,8 @@
    "svn_url": "https://github.com/SAP-samples/cloud-abap-exchange-rates",
    "homepage": "",
    "size": 98,
-   "stargazers_count": 19,
-   "watchers_count": 19,
+   "stargazers_count": 20,
+   "watchers_count": 20,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -8420,7 +8420,7 @@
    "visibility": "public",
    "forks": 4,
    "open_issues": 2,
-   "watchers": 19,
+   "watchers": 20,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -12081,7 +12081,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 22,
+   "open_issues_count": 23,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -12099,7 +12099,7 @@
    ],
    "visibility": "public",
    "forks": 9,
-   "open_issues": 22,
+   "open_issues": 23,
    "watchers": 73,
    "default_branch": "main",
    "permissions": {
@@ -16325,7 +16325,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -16342,7 +16342,7 @@
    "web_commit_signoff_required": false,
    "topics": [],
    "visibility": "public",
-   "forks": 0,
+   "forks": 1,
    "open_issues": 0,
    "watchers": 6,
    "default_branch": "main",
@@ -16354,7 +16354,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 1
   }
  },
@@ -28800,7 +28800,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 45798,
+  "lines": 46118,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -28812,7 +28812,7 @@
   ],
   "parsing": {
    "version": "2.113.26",
-   "cloud": 3272
+   "cloud": 3481
   },
   "repo": {
    "id": 21558384,
@@ -28882,14 +28882,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2024-10-15T08:37:44Z",
-   "pushed_at": "2024-10-02T11:17:28Z",
+   "updated_at": "2024-10-24T08:25:08Z",
+   "pushed_at": "2024-10-24T08:25:03Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2567,
+   "size": 2578,
    "stargazers_count": 265,
    "watchers_count": 265,
    "language": "ABAP",
@@ -28903,7 +28903,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 306,
+   "open_issues_count": 304,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -28925,7 +28925,7 @@
    ],
    "visibility": "public",
    "forks": 79,
-   "open_issues": 306,
+   "open_issues": 304,
    "watchers": 265,
    "default_branch": "main",
    "permissions": {
