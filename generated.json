@@ -5087,7 +5087,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 2,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -5110,7 +5110,7 @@
     "tools"
    ],
    "visibility": "public",
-   "forks": 2,
+   "forks": 1,
    "open_issues": 0,
    "watchers": 3,
    "default_branch": "main",
@@ -5144,7 +5144,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 2,
+   "network_count": 1,
    "subscribers_count": 1
   }
  },
@@ -9242,7 +9242,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 66,
+   "forks_count": 65,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9270,7 +9270,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 66,
+   "forks": 65,
    "open_issues": 30,
    "watchers": 348,
    "default_branch": "master",
@@ -9304,7 +9304,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 66,
+   "network_count": 65,
    "subscribers_count": 25
   }
  },
@@ -12895,7 +12895,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 34717,
+  "lines": 35019,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.26",
@@ -12969,14 +12969,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2024-10-21T13:25:01Z",
-   "pushed_at": "2024-10-23T18:48:27Z",
+   "updated_at": "2024-10-25T11:35:01Z",
+   "pushed_at": "2024-10-25T11:34:58Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 4308,
+   "size": 4292,
    "stargazers_count": 293,
    "watchers_count": 293,
    "language": "ABAP",
@@ -13051,7 +13051,7 @@
   }
  },
  "abap2xlsx/abap2xlsx": {
-  "lines": 44916,
+  "lines": 44914,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -13064,7 +13064,7 @@
   ],
   "parsing": {
    "version": "2.113.26",
-   "cloud": 94
+   "cloud": 96
   },
   "repo": {
    "id": 15457787,
@@ -13134,14 +13134,14 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2024-10-23T14:29:28Z",
-   "pushed_at": "2024-10-10T09:13:16Z",
+   "updated_at": "2024-10-25T18:36:50Z",
+   "pushed_at": "2024-10-25T18:11:01Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
    "clone_url": "https://github.com/abap2xlsx/abap2xlsx.git",
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://abap2xlsx.github.io/abap2xlsx/",
-   "size": 26359,
+   "size": 26338,
    "stargazers_count": 712,
    "watchers_count": 712,
    "language": "ABAP",
@@ -13155,7 +13155,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 117,
+   "open_issues_count": 115,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -13183,7 +13183,7 @@
    ],
    "visibility": "public",
    "forks": 291,
-   "open_issues": 117,
+   "open_issues": 115,
    "watchers": 712,
    "default_branch": "main",
    "permissions": {
@@ -13985,7 +13985,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 534,
+   "forks_count": 533,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -14010,7 +14010,7 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 534,
+   "forks": 533,
    "open_issues": 101,
    "watchers": 1538,
    "default_branch": "main",
@@ -14044,7 +14044,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 534,
+   "network_count": 533,
    "subscribers_count": 135
   }
  },
@@ -21898,7 +21898,7 @@
    },
    "temp_clone_token": "",
    "network_count": 10,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "damir-majer/ABAPKoans": {
