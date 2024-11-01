@@ -8531,7 +8531,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/security-services-tools/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/security-services-tools/deployments",
    "created_at": "2022-07-21T16:26:34Z",
-   "updated_at": "2024-10-09T12:49:50Z",
+   "updated_at": "2024-10-31T22:10:53Z",
    "pushed_at": "2024-08-02T10:11:19Z",
    "git_url": "git://github.com/SAP-samples/security-services-tools.git",
    "ssh_url": "git@github.com:SAP-samples/security-services-tools.git",
@@ -8539,8 +8539,8 @@
    "svn_url": "https://github.com/SAP-samples/security-services-tools",
    "homepage": "",
    "size": 571,
-   "stargazers_count": 47,
-   "watchers_count": 47,
+   "stargazers_count": 48,
+   "watchers_count": 48,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -8579,7 +8579,7 @@
    "visibility": "public",
    "forks": 10,
    "open_issues": 8,
-   "watchers": 47,
+   "watchers": 48,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -13155,7 +13155,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 115,
+   "open_issues_count": 116,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -13183,7 +13183,7 @@
    ],
    "visibility": "public",
    "forks": 291,
-   "open_issues": 115,
+   "open_issues": 116,
    "watchers": 712,
    "default_branch": "main",
    "permissions": {
@@ -13985,7 +13985,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 533,
+   "forks_count": 534,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -14010,7 +14010,7 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 533,
+   "forks": 534,
    "open_issues": 97,
    "watchers": 1538,
    "default_branch": "main",
@@ -14044,7 +14044,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 533,
+   "network_count": 534,
    "subscribers_count": 135
   }
  },
