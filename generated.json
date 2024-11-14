@@ -9563,11 +9563,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 66,
+   "forks_count": 67,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 33,
+   "open_issues_count": 34,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -9591,8 +9591,8 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 66,
-   "open_issues": 33,
+   "forks": 67,
+   "open_issues": 34,
    "watchers": 351,
    "default_branch": "master",
    "permissions": {
@@ -9625,7 +9625,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 66,
+   "network_count": 67,
    "subscribers_count": 25
   }
  },
@@ -12684,7 +12684,7 @@
    "deployments_url": "https://api.github.com/repos/abap2UI5-apps/SE16/deployments",
    "created_at": "2024-09-22T12:55:23Z",
    "updated_at": "2024-11-02T17:48:34Z",
-   "pushed_at": "2024-11-02T17:48:30Z",
+   "pushed_at": "2024-11-13T18:12:21Z",
    "git_url": "git://github.com/abap2UI5-apps/SE16.git",
    "ssh_url": "git@github.com:abap2UI5-apps/SE16.git",
    "clone_url": "https://github.com/abap2UI5-apps/SE16.git",
@@ -13216,7 +13216,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 34974,
+  "lines": 34976,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.45",
@@ -13290,14 +13290,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2024-11-12T01:57:40Z",
-   "pushed_at": "2024-11-10T07:11:45Z",
+   "updated_at": "2024-11-14T08:08:57Z",
+   "pushed_at": "2024-11-14T08:08:54Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "http://www.abap2UI5.org",
-   "size": 4449,
+   "size": 4526,
    "stargazers_count": 298,
    "watchers_count": 298,
    "language": "ABAP",
@@ -16499,7 +16499,7 @@
    "releases_url": "https://api.github.com/repos/abeljohny/ZAP/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abeljohny/ZAP/deployments",
    "created_at": "2017-11-17T06:33:51Z",
-   "updated_at": "2024-11-09T23:20:49Z",
+   "updated_at": "2024-11-14T07:17:34Z",
    "pushed_at": "2024-11-09T23:20:46Z",
    "git_url": "git://github.com/abeljohny/ZAP.git",
    "ssh_url": "git@github.com:abeljohny/ZAP.git",
@@ -16507,8 +16507,8 @@
    "svn_url": "https://github.com/abeljohny/ZAP",
    "homepage": null,
    "size": 28,
-   "stargazers_count": 2,
-   "watchers_count": 2,
+   "stargazers_count": 3,
+   "watchers_count": 3,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -16520,7 +16520,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -16539,8 +16539,8 @@
    ],
    "visibility": "public",
    "forks": 1,
-   "open_issues": 0,
-   "watchers": 2,
+   "open_issues": 1,
+   "watchers": 3,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -16551,7 +16551,7 @@
    },
    "temp_clone_token": "",
    "network_count": 1,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "aditheos/AttachmentCommentODataService": {
@@ -25825,7 +25825,7 @@
     "site_admin": false
    },
    "network_count": 1,
-   "subscribers_count": 1
+   "subscribers_count": 2
   }
  },
  "heliconialabs/abap-protobuf": {
@@ -29350,7 +29350,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2024-11-11T10:54:38Z",
+   "updated_at": "2024-11-13T19:43:27Z",
    "pushed_at": "2024-10-24T08:25:03Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -29358,8 +29358,8 @@
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
    "size": 2578,
-   "stargazers_count": 266,
-   "watchers_count": 266,
+   "stargazers_count": 267,
+   "watchers_count": 267,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -29394,7 +29394,7 @@
    "visibility": "public",
    "forks": 79,
    "open_issues": 305,
-   "watchers": 266,
+   "watchers": 267,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -34911,7 +34911,7 @@
    "releases_url": "https://api.github.com/repos/rob786541/ValueObjects/releases{/id}",
    "deployments_url": "https://api.github.com/repos/rob786541/ValueObjects/deployments",
    "created_at": "2024-10-21T08:43:06Z",
-   "updated_at": "2024-11-10T15:21:02Z",
+   "updated_at": "2024-11-14T07:17:11Z",
    "pushed_at": "2024-11-10T15:20:59Z",
    "git_url": "git://github.com/rob786541/ValueObjects.git",
    "ssh_url": "git@github.com:rob786541/ValueObjects.git",
@@ -34919,8 +34919,8 @@
    "svn_url": "https://github.com/rob786541/ValueObjects",
    "homepage": null,
    "size": 137,
-   "stargazers_count": 0,
-   "watchers_count": 0,
+   "stargazers_count": 1,
+   "watchers_count": 1,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -34947,7 +34947,7 @@
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
-   "watchers": 0,
+   "watchers": 1,
    "default_branch": "main",
    "permissions": {
     "admin": false,
