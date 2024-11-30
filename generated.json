@@ -7354,11 +7354,11 @@
   }
  },
  "RegestaItalia/trm-server": {
-  "lines": 1950,
+  "lines": 2126,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.67",
-   "cloud": 23
+   "cloud": 11
   },
   "repo": {
    "id": 711184138,
@@ -7428,14 +7428,14 @@
    "releases_url": "https://api.github.com/repos/RegestaItalia/trm-server/releases{/id}",
    "deployments_url": "https://api.github.com/repos/RegestaItalia/trm-server/deployments",
    "created_at": "2023-10-28T13:16:18Z",
-   "updated_at": "2024-10-15T07:51:35Z",
-   "pushed_at": "2024-11-27T20:05:34Z",
+   "updated_at": "2024-11-29T18:21:58Z",
+   "pushed_at": "2024-11-29T18:22:06Z",
    "git_url": "git://github.com/RegestaItalia/trm-server.git",
    "ssh_url": "git@github.com:RegestaItalia/trm-server.git",
    "clone_url": "https://github.com/RegestaItalia/trm-server.git",
    "svn_url": "https://github.com/RegestaItalia/trm-server",
    "homepage": "https://trmregistry.com",
-   "size": 287,
+   "size": 291,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -7500,7 +7500,7 @@
     "site_admin": false
    },
    "network_count": 0,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "SAP-samples/abap-alv-google-upload-sheet": {
@@ -7920,7 +7920,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 51,
+   "forks_count": 52,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -7944,7 +7944,7 @@
     "sample-code"
    ],
    "visibility": "public",
-   "forks": 51,
+   "forks": 52,
    "open_issues": 0,
    "watchers": 186,
    "default_branch": "main",
@@ -7978,7 +7978,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 51,
+   "network_count": 52,
    "subscribers_count": 29
   }
  },
@@ -9472,7 +9472,7 @@
   }
  },
  "SAP/code-pal-for-abap": {
-  "lines": 25185,
+  "lines": 25417,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.67",
@@ -9546,14 +9546,14 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2024-11-23T13:16:26Z",
-   "pushed_at": "2024-08-19T08:00:33Z",
+   "updated_at": "2024-11-29T11:55:06Z",
+   "pushed_at": "2024-11-29T11:55:01Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 3092,
+   "size": 3098,
    "stargazers_count": 353,
    "watchers_count": 353,
    "language": "ABAP",
@@ -9567,7 +9567,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 34,
+   "open_issues_count": 33,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -9592,7 +9592,7 @@
    ],
    "visibility": "public",
    "forks": 67,
-   "open_issues": 34,
+   "open_issues": 33,
    "watchers": 353,
    "default_branch": "master",
    "permissions": {
@@ -13216,7 +13216,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 35642,
+  "lines": 35670,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.67",
@@ -13290,16 +13290,16 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2024-11-28T14:15:04Z",
-   "pushed_at": "2024-11-28T14:14:59Z",
+   "updated_at": "2024-11-30T01:36:05Z",
+   "pushed_at": "2024-11-30T01:36:01Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "https://www.abap2UI5.org",
-   "size": 4696,
-   "stargazers_count": 302,
-   "watchers_count": 302,
+   "size": 4780,
+   "stargazers_count": 303,
+   "watchers_count": 303,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -13311,7 +13311,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 8,
+   "open_issues_count": 9,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -13334,8 +13334,8 @@
    ],
    "visibility": "public",
    "forks": 61,
-   "open_issues": 8,
-   "watchers": 302,
+   "open_issues": 9,
+   "watchers": 303,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -13476,7 +13476,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 119,
+   "open_issues_count": 120,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -13504,7 +13504,7 @@
    ],
    "visibility": "public",
    "forks": 291,
-   "open_issues": 119,
+   "open_issues": 120,
    "watchers": 719,
    "default_branch": "main",
    "permissions": {
@@ -14215,7 +14215,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 178591,
+  "lines": 178615,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.67",
@@ -14289,14 +14289,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2024-11-29T07:24:04Z",
-   "pushed_at": "2024-11-29T07:24:11Z",
+   "updated_at": "2024-11-29T12:13:23Z",
+   "pushed_at": "2024-11-29T12:13:35Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 25218,
+   "size": 25234,
    "stargazers_count": 1551,
    "watchers_count": 1551,
    "language": "ABAP",
@@ -14310,7 +14310,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 105,
+   "open_issues_count": 102,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14332,7 +14332,7 @@
    ],
    "visibility": "public",
    "forks": 536,
-   "open_issues": 105,
+   "open_issues": 102,
    "watchers": 1551,
    "default_branch": "main",
    "permissions": {
@@ -20525,7 +20525,7 @@
    "releases_url": "https://api.github.com/repos/btc-ag/Featuretoggle/releases{/id}",
    "deployments_url": "https://api.github.com/repos/btc-ag/Featuretoggle/deployments",
    "created_at": "2017-05-10T05:49:35Z",
-   "updated_at": "2024-11-29T07:15:55Z",
+   "updated_at": "2024-11-30T05:40:16Z",
    "pushed_at": "2018-05-08T14:26:18Z",
    "git_url": "git://github.com/btc-ag/Featuretoggle.git",
    "ssh_url": "git@github.com:btc-ag/Featuretoggle.git",
@@ -20533,8 +20533,8 @@
    "svn_url": "https://github.com/btc-ag/Featuretoggle",
    "homepage": null,
    "size": 66,
-   "stargazers_count": 21,
-   "watchers_count": 21,
+   "stargazers_count": 22,
+   "watchers_count": 22,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -20561,7 +20561,7 @@
    "visibility": "public",
    "forks": 5,
    "open_issues": 2,
-   "watchers": 21,
+   "watchers": 22,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -38668,7 +38668,7 @@
    "releases_url": "https://api.github.com/repos/tricktresor/zapcommander/releases{/id}",
    "deployments_url": "https://api.github.com/repos/tricktresor/zapcommander/deployments",
    "created_at": "2019-09-24T15:08:10Z",
-   "updated_at": "2024-10-08T08:07:54Z",
+   "updated_at": "2024-11-29T14:07:33Z",
    "pushed_at": "2024-02-27T16:36:13Z",
    "git_url": "git://github.com/tricktresor/zapcommander.git",
    "ssh_url": "git@github.com:tricktresor/zapcommander.git",
@@ -38676,8 +38676,8 @@
    "svn_url": "https://github.com/tricktresor/zapcommander",
    "homepage": null,
    "size": 206,
-   "stargazers_count": 24,
-   "watchers_count": 24,
+   "stargazers_count": 25,
+   "watchers_count": 25,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -38704,7 +38704,7 @@
    "visibility": "public",
    "forks": 10,
    "open_issues": 0,
-   "watchers": 24,
+   "watchers": 25,
    "default_branch": "master",
    "permissions": {
     "admin": false,
