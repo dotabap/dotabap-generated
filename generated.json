@@ -3729,7 +3729,7 @@
   }
  },
  "Kaszub09/abapDataToTableImport": {
-  "lines": 1876,
+  "lines": 1881,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.85",
@@ -3803,14 +3803,14 @@
    "releases_url": "https://api.github.com/repos/Kaszub09/abapDataToTableImport/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Kaszub09/abapDataToTableImport/deployments",
    "created_at": "2024-11-18T13:05:03Z",
-   "updated_at": "2024-12-10T10:43:30Z",
-   "pushed_at": "2024-12-10T10:43:27Z",
+   "updated_at": "2024-12-31T09:25:11Z",
+   "pushed_at": "2024-12-31T09:25:08Z",
    "git_url": "git://github.com/Kaszub09/abapDataToTableImport.git",
    "ssh_url": "git@github.com:Kaszub09/abapDataToTableImport.git",
    "clone_url": "https://github.com/Kaszub09/abapDataToTableImport.git",
    "svn_url": "https://github.com/Kaszub09/abapDataToTableImport",
    "homepage": "",
-   "size": 114,
+   "size": 121,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -7339,11 +7339,11 @@
   }
  },
  "OlegBash599/AnyTabUpdateTask": {
-  "lines": 2481,
+  "lines": 2878,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.85",
-   "cloud": 53
+   "cloud": 54
   },
   "repo": {
    "id": 508722227,
@@ -7413,14 +7413,14 @@
    "releases_url": "https://api.github.com/repos/OlegBash599/AnyTabUpdateTask/releases{/id}",
    "deployments_url": "https://api.github.com/repos/OlegBash599/AnyTabUpdateTask/deployments",
    "created_at": "2022-06-29T14:19:06Z",
-   "updated_at": "2024-12-30T22:49:27Z",
-   "pushed_at": "2024-11-17T19:06:56Z",
+   "updated_at": "2024-12-31T23:08:57Z",
+   "pushed_at": "2024-12-31T23:08:53Z",
    "git_url": "git://github.com/OlegBash599/AnyTabUpdateTask.git",
    "ssh_url": "git@github.com:OlegBash599/AnyTabUpdateTask.git",
    "clone_url": "https://github.com/OlegBash599/AnyTabUpdateTask.git",
    "svn_url": "https://github.com/OlegBash599/AnyTabUpdateTask",
    "homepage": null,
-   "size": 174,
+   "size": 146,
    "stargazers_count": 25,
    "watchers_count": 25,
    "language": "ABAP",
@@ -7436,11 +7436,11 @@
    "disabled": false,
    "open_issues_count": 1,
    "license": {
-    "key": "mpl-2.0",
-    "name": "Mozilla Public License 2.0",
-    "spdx_id": "MPL-2.0",
-    "url": "https://api.github.com/licenses/mpl-2.0",
-    "node_id": "MDc6TGljZW5zZTE0"
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
    },
    "allow_forking": true,
    "is_template": false,
@@ -10063,7 +10063,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 67,
+   "forks_count": 68,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -10091,7 +10091,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 67,
+   "forks": 68,
    "open_issues": 33,
    "watchers": 355,
    "default_branch": "master",
@@ -10125,7 +10125,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 67,
+   "network_count": 68,
    "subscribers_count": 25
   }
  },
@@ -12280,7 +12280,7 @@
    "releases_url": "https://api.github.com/repos/abap-ai/llm_client/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-ai/llm_client/deployments",
    "created_at": "2024-12-29T12:15:00Z",
-   "updated_at": "2024-12-31T05:43:01Z",
+   "updated_at": "2024-12-31T12:09:56Z",
    "pushed_at": "2024-12-29T14:52:43Z",
    "git_url": "git://github.com/abap-ai/llm_client.git",
    "ssh_url": "git@github.com:abap-ai/llm_client.git",
@@ -12288,8 +12288,8 @@
    "svn_url": "https://github.com/abap-ai/llm_client",
    "homepage": null,
    "size": 59,
-   "stargazers_count": 3,
-   "watchers_count": 3,
+   "stargazers_count": 4,
+   "watchers_count": 4,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -12316,7 +12316,7 @@
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
-   "watchers": 3,
+   "watchers": 4,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -14957,7 +14957,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 87,
+   "open_issues_count": 88,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14979,7 +14979,7 @@
    ],
    "visibility": "public",
    "forks": 540,
-   "open_issues": 87,
+   "open_issues": 88,
    "watchers": 1565,
    "default_branch": "main",
    "permissions": {
