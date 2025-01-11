@@ -8271,7 +8271,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -8291,7 +8291,7 @@
    ],
    "visibility": "public",
    "forks": 20,
-   "open_issues": 0,
+   "open_issues": 1,
    "watchers": 46,
    "default_branch": "main",
    "permissions": {
@@ -8557,7 +8557,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/abap-platform-fiori-feature-showcase/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-platform-fiori-feature-showcase/deployments",
    "created_at": "2022-10-10T07:11:03Z",
-   "updated_at": "2025-01-09T19:41:19Z",
+   "updated_at": "2025-01-10T15:24:35Z",
    "pushed_at": "2024-07-18T14:49:17Z",
    "git_url": "git://github.com/SAP-samples/abap-platform-fiori-feature-showcase.git",
    "ssh_url": "git@github.com:SAP-samples/abap-platform-fiori-feature-showcase.git",
@@ -8565,8 +8565,8 @@
    "svn_url": "https://github.com/SAP-samples/abap-platform-fiori-feature-showcase",
    "homepage": "",
    "size": 27808,
-   "stargazers_count": 175,
-   "watchers_count": 175,
+   "stargazers_count": 176,
+   "watchers_count": 176,
    "language": null,
    "has_issues": true,
    "has_projects": true,
@@ -8574,11 +8574,11 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 39,
+   "forks_count": 40,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 2,
+   "open_issues_count": 3,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -8601,9 +8601,9 @@
     "sap-cloud-platform"
    ],
    "visibility": "public",
-   "forks": 39,
-   "open_issues": 2,
-   "watchers": 175,
+   "forks": 40,
+   "open_issues": 3,
+   "watchers": 176,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -8635,7 +8635,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 39,
+   "network_count": 40,
    "subscribers_count": 24
   }
  },
@@ -12206,11 +12206,11 @@
   }
  },
  "abap-ai/llm_client": {
-  "lines": 6422,
+  "lines": 8611,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.86",
-   "cloud": 116
+   "cloud": 117
   },
   "repo": {
    "id": 909661840,
@@ -12280,14 +12280,14 @@
    "releases_url": "https://api.github.com/repos/abap-ai/llm_client/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-ai/llm_client/deployments",
    "created_at": "2024-12-29T12:15:00Z",
-   "updated_at": "2025-01-09T06:45:22Z",
-   "pushed_at": "2025-01-06T21:22:07Z",
+   "updated_at": "2025-01-10T22:43:19Z",
+   "pushed_at": "2025-01-10T22:43:16Z",
    "git_url": "git://github.com/abap-ai/llm_client.git",
    "ssh_url": "git@github.com:abap-ai/llm_client.git",
    "clone_url": "https://github.com/abap-ai/llm_client.git",
    "svn_url": "https://github.com/abap-ai/llm_client",
    "homepage": null,
-   "size": 254,
+   "size": 273,
    "stargazers_count": 18,
    "watchers_count": 18,
    "language": "ABAP",
@@ -12954,7 +12954,7 @@
   }
  },
  "abap-openapi/abap-openapi": {
-  "lines": 65929,
+  "lines": 65983,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.86",
@@ -13028,14 +13028,14 @@
    "releases_url": "https://api.github.com/repos/abap-openapi/abap-openapi/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-openapi/abap-openapi/deployments",
    "created_at": "2021-01-19T16:03:52Z",
-   "updated_at": "2025-01-09T15:27:07Z",
-   "pushed_at": "2025-01-09T19:40:52Z",
+   "updated_at": "2025-01-10T09:24:30Z",
+   "pushed_at": "2025-01-10T09:24:28Z",
    "git_url": "git://github.com/abap-openapi/abap-openapi.git",
    "ssh_url": "git@github.com:abap-openapi/abap-openapi.git",
    "clone_url": "https://github.com/abap-openapi/abap-openapi.git",
    "svn_url": "https://github.com/abap-openapi/abap-openapi",
    "homepage": "https://abap-openapi.github.io/web-openapi-client/",
-   "size": 1101,
+   "size": 1100,
    "stargazers_count": 75,
    "watchers_count": 75,
    "language": "ABAP",
@@ -13049,7 +13049,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 26,
+   "open_issues_count": 25,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -13067,7 +13067,7 @@
    ],
    "visibility": "public",
    "forks": 10,
-   "open_issues": 26,
+   "open_issues": 25,
    "watchers": 75,
    "default_branch": "main",
    "permissions": {
@@ -14102,7 +14102,7 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2025-01-09T21:42:36Z",
+   "updated_at": "2025-01-10T09:34:27Z",
    "pushed_at": "2025-01-05T14:16:31Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
@@ -14110,8 +14110,8 @@
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://abap2xlsx.github.io/abap2xlsx/",
    "size": 26322,
-   "stargazers_count": 732,
-   "watchers_count": 732,
+   "stargazers_count": 733,
+   "watchers_count": 733,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -14152,7 +14152,7 @@
    "visibility": "public",
    "forks": 293,
    "open_issues": 120,
-   "watchers": 732,
+   "watchers": 733,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -14862,7 +14862,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 179526,
+  "lines": 179491,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.86",
@@ -14936,16 +14936,16 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2025-01-09T21:42:37Z",
-   "pushed_at": "2025-01-08T18:25:54Z",
+   "updated_at": "2025-01-10T15:54:05Z",
+   "pushed_at": "2025-01-10T12:01:14Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 25283,
-   "stargazers_count": 1566,
-   "watchers_count": 1566,
+   "size": 25279,
+   "stargazers_count": 1567,
+   "watchers_count": 1567,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -14953,7 +14953,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 541,
+   "forks_count": 543,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -14978,9 +14978,9 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 541,
+   "forks": 543,
    "open_issues": 85,
-   "watchers": 1566,
+   "watchers": 1567,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -15012,7 +15012,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 541,
+   "network_count": 543,
    "subscribers_count": 136
   }
  },
@@ -28083,11 +28083,11 @@
   }
  },
  "jrodriguez-rc/abap-dev-utilities": {
-  "lines": 10363,
+  "lines": 10283,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.86",
-   "cloud": 101
+   "cloud": 178
   },
   "repo": {
    "id": 285622128,
@@ -28157,14 +28157,14 @@
    "releases_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jrodriguez-rc/abap-dev-utilities/deployments",
    "created_at": "2020-08-06T16:43:59Z",
-   "updated_at": "2025-01-09T21:42:40Z",
-   "pushed_at": "2024-11-28T11:18:52Z",
+   "updated_at": "2025-01-10T08:55:09Z",
+   "pushed_at": "2025-01-10T08:55:06Z",
    "git_url": "git://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "ssh_url": "git@github.com:jrodriguez-rc/abap-dev-utilities.git",
    "clone_url": "https://github.com/jrodriguez-rc/abap-dev-utilities.git",
    "svn_url": "https://github.com/jrodriguez-rc/abap-dev-utilities",
    "homepage": "",
-   "size": 269,
+   "size": 334,
    "stargazers_count": 70,
    "watchers_count": 70,
    "language": "ABAP",
