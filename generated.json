@@ -10046,7 +10046,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2024-12-20T17:16:34Z",
+   "updated_at": "2025-01-12T07:48:30Z",
    "pushed_at": "2024-11-29T11:55:01Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -10054,8 +10054,8 @@
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
    "size": 3098,
-   "stargazers_count": 355,
-   "watchers_count": 355,
+   "stargazers_count": 356,
+   "watchers_count": 356,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10093,7 +10093,7 @@
    "visibility": "public",
    "forks": 67,
    "open_issues": 33,
-   "watchers": 355,
+   "watchers": 356,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -12206,11 +12206,11 @@
   }
  },
  "abap-ai/llm_client": {
-  "lines": 8611,
+  "lines": 8118,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.86",
-   "cloud": 117
+   "cloud": 111
   },
   "repo": {
    "id": 909661840,
@@ -12280,16 +12280,16 @@
    "releases_url": "https://api.github.com/repos/abap-ai/llm_client/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-ai/llm_client/deployments",
    "created_at": "2024-12-29T12:15:00Z",
-   "updated_at": "2025-01-10T22:43:19Z",
-   "pushed_at": "2025-01-10T22:43:16Z",
+   "updated_at": "2025-01-11T20:01:14Z",
+   "pushed_at": "2025-01-11T13:55:02Z",
    "git_url": "git://github.com/abap-ai/llm_client.git",
    "ssh_url": "git@github.com:abap-ai/llm_client.git",
    "clone_url": "https://github.com/abap-ai/llm_client.git",
    "svn_url": "https://github.com/abap-ai/llm_client",
    "homepage": null,
-   "size": 273,
-   "stargazers_count": 18,
-   "watchers_count": 18,
+   "size": 311,
+   "stargazers_count": 19,
+   "watchers_count": 19,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -12316,7 +12316,7 @@
    "visibility": "public",
    "forks": 1,
    "open_issues": 0,
-   "watchers": 18,
+   "watchers": 19,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -12349,7 +12349,7 @@
     "site_admin": false
    },
    "network_count": 1,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "abap-code-dojo/abapdicer": {
@@ -14936,7 +14936,7 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2025-01-10T15:54:05Z",
+   "updated_at": "2025-01-11T20:39:49Z",
    "pushed_at": "2025-01-10T12:01:14Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
@@ -14944,8 +14944,8 @@
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
    "size": 25279,
-   "stargazers_count": 1567,
-   "watchers_count": 1567,
+   "stargazers_count": 1568,
+   "watchers_count": 1568,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -14980,7 +14980,7 @@
    "visibility": "public",
    "forks": 543,
    "open_issues": 85,
-   "watchers": 1567,
+   "watchers": 1568,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -28461,11 +28461,11 @@
   }
  },
  "keremkoseoglu/addict": {
-  "lines": 10858,
+  "lines": 10912,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.86",
-   "cloud": 68
+   "cloud": 69
   },
   "repo": {
    "id": 304639446,
@@ -28535,14 +28535,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/addict/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/addict/deployments",
    "created_at": "2020-10-16T13:44:38Z",
-   "updated_at": "2025-01-03T15:15:11Z",
-   "pushed_at": "2025-01-03T15:15:06Z",
+   "updated_at": "2025-01-11T10:32:28Z",
+   "pushed_at": "2025-01-11T10:32:24Z",
    "git_url": "git://github.com/keremkoseoglu/addict.git",
    "ssh_url": "git@github.com:keremkoseoglu/addict.git",
    "clone_url": "https://github.com/keremkoseoglu/addict.git",
    "svn_url": "https://github.com/keremkoseoglu/addict",
    "homepage": null,
-   "size": 3183,
+   "size": 3225,
    "stargazers_count": 20,
    "watchers_count": 20,
    "language": "ABAP",
