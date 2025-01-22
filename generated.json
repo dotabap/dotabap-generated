@@ -3553,7 +3553,7 @@
    "releases_url": "https://api.github.com/repos/Kaszub09/ZABAP_TABLE_EDIT/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Kaszub09/ZABAP_TABLE_EDIT/deployments",
    "created_at": "2024-02-23T20:20:12Z",
-   "updated_at": "2025-01-15T11:42:16Z",
+   "updated_at": "2025-01-21T11:40:39Z",
    "pushed_at": "2025-01-15T11:42:15Z",
    "git_url": "git://github.com/Kaszub09/ZABAP_TABLE_EDIT.git",
    "ssh_url": "git@github.com:Kaszub09/ZABAP_TABLE_EDIT.git",
@@ -3561,8 +3561,8 @@
    "svn_url": "https://github.com/Kaszub09/ZABAP_TABLE_EDIT",
    "homepage": null,
    "size": 330,
-   "stargazers_count": 9,
-   "watchers_count": 9,
+   "stargazers_count": 10,
+   "watchers_count": 10,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -3589,7 +3589,7 @@
    "visibility": "public",
    "forks": 3,
    "open_issues": 0,
-   "watchers": 9,
+   "watchers": 10,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -3604,7 +3604,7 @@
   }
  },
  "Kaszub09/ZABAP_TRANSLATIONS": {
-  "lines": 4187,
+  "lines": 4221,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.89",
@@ -3678,14 +3678,14 @@
    "releases_url": "https://api.github.com/repos/Kaszub09/ZABAP_TRANSLATIONS/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Kaszub09/ZABAP_TRANSLATIONS/deployments",
    "created_at": "2024-06-24T08:51:35Z",
-   "updated_at": "2024-12-18T13:01:42Z",
-   "pushed_at": "2024-12-18T13:01:38Z",
+   "updated_at": "2025-01-21T08:44:42Z",
+   "pushed_at": "2025-01-21T08:44:39Z",
    "git_url": "git://github.com/Kaszub09/ZABAP_TRANSLATIONS.git",
    "ssh_url": "git@github.com:Kaszub09/ZABAP_TRANSLATIONS.git",
    "clone_url": "https://github.com/Kaszub09/ZABAP_TRANSLATIONS.git",
    "svn_url": "https://github.com/Kaszub09/ZABAP_TRANSLATIONS",
    "homepage": null,
-   "size": 134,
+   "size": 150,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -6872,11 +6872,9 @@
    },
    "temp_clone_token": "",
    "custom_properties": {
-    "corporateManagementPortal": "https://aka.ms/opensource/portal?rid=124694095&oid=6154722",
     "durableOwnershipDisable": "false",
     "durableOwnershipNextCheckDate": "2024-04-16T20:43:38.769Z",
-    "durableOwnershipWarn": "false",
-    "justInTimeAccess": "https://aka.ms/opensource/portal?rid=124694095&oid=6154722&action=jit"
+    "durableOwnershipWarn": "false"
    },
    "organization": {
     "login": "microsoft",
@@ -6978,7 +6976,7 @@
    "releases_url": "https://api.github.com/repos/microsoft/aisdkforsapabap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/aisdkforsapabap/deployments",
    "created_at": "2023-04-18T01:46:17Z",
-   "updated_at": "2025-01-18T23:22:53Z",
+   "updated_at": "2025-01-21T13:38:34Z",
    "pushed_at": "2024-05-08T16:12:17Z",
    "git_url": "git://github.com/microsoft/aisdkforsapabap.git",
    "ssh_url": "git@github.com:microsoft/aisdkforsapabap.git",
@@ -6986,8 +6984,8 @@
    "svn_url": "https://github.com/microsoft/aisdkforsapabap",
    "homepage": null,
    "size": 3110,
-   "stargazers_count": 122,
-   "watchers_count": 122,
+   "stargazers_count": 123,
+   "watchers_count": 123,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -7014,7 +7012,7 @@
    "visibility": "public",
    "forks": 20,
    "open_issues": 7,
-   "watchers": 122,
+   "watchers": 123,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -7025,11 +7023,9 @@
    },
    "temp_clone_token": "",
    "custom_properties": {
-    "corporateManagementPortal": "https://aka.ms/opensource/portal?rid=629275389&oid=6154722",
     "durableOwnershipDisable": "false",
     "durableOwnershipNextCheckDate": "2024-04-16T00:43:10.088Z",
-    "durableOwnershipWarn": "false",
-    "justInTimeAccess": "https://aka.ms/opensource/portal?rid=629275389&oid=6154722&action=jit"
+    "durableOwnershipWarn": "false"
    },
    "organization": {
     "login": "microsoft",
@@ -7413,7 +7409,7 @@
    "releases_url": "https://api.github.com/repos/OlegBash599/AnyTabUpdateTask/releases{/id}",
    "deployments_url": "https://api.github.com/repos/OlegBash599/AnyTabUpdateTask/deployments",
    "created_at": "2022-06-29T14:19:06Z",
-   "updated_at": "2025-01-04T16:37:46Z",
+   "updated_at": "2025-01-21T11:57:15Z",
    "pushed_at": "2024-12-31T23:08:53Z",
    "git_url": "git://github.com/OlegBash599/AnyTabUpdateTask.git",
    "ssh_url": "git@github.com:OlegBash599/AnyTabUpdateTask.git",
@@ -7421,8 +7417,8 @@
    "svn_url": "https://github.com/OlegBash599/AnyTabUpdateTask",
    "homepage": null,
    "size": 146,
-   "stargazers_count": 26,
-   "watchers_count": 26,
+   "stargazers_count": 27,
+   "watchers_count": 27,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -7449,7 +7445,7 @@
    "visibility": "public",
    "forks": 5,
    "open_issues": 1,
-   "watchers": 26,
+   "watchers": 27,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -8403,7 +8399,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/abap-oo-basics/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-oo-basics/deployments",
    "created_at": "2020-04-18T00:02:53Z",
-   "updated_at": "2025-01-15T05:49:39Z",
+   "updated_at": "2025-01-21T08:55:39Z",
    "pushed_at": "2024-01-02T16:39:09Z",
    "git_url": "git://github.com/SAP-samples/abap-oo-basics.git",
    "ssh_url": "git@github.com:SAP-samples/abap-oo-basics.git",
@@ -8411,8 +8407,8 @@
    "svn_url": "https://github.com/SAP-samples/abap-oo-basics",
    "homepage": "",
    "size": 113,
-   "stargazers_count": 190,
-   "watchers_count": 190,
+   "stargazers_count": 191,
+   "watchers_count": 191,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -8420,7 +8416,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 53,
+   "forks_count": 54,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8444,9 +8440,9 @@
     "sample-code"
    ],
    "visibility": "public",
-   "forks": 53,
+   "forks": 54,
    "open_issues": 0,
-   "watchers": 190,
+   "watchers": 191,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -8478,8 +8474,8 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 53,
-   "subscribers_count": 29
+   "network_count": 54,
+   "subscribers_count": 30
   }
  },
  "SAP-samples/abap-platform-fiori-feature-showcase": {
@@ -8574,7 +8570,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 42,
+   "forks_count": 41,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8601,7 +8597,7 @@
     "sap-cloud-platform"
    ],
    "visibility": "public",
-   "forks": 42,
+   "forks": 41,
    "open_issues": 3,
    "watchers": 181,
    "default_branch": "main",
@@ -8635,7 +8631,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 42,
+   "network_count": 41,
    "subscribers_count": 24
   }
  },
@@ -9278,11 +9274,11 @@
   }
  },
  "SAP-samples/security-services-tools": {
-  "lines": 35418,
+  "lines": 36333,
   "startingFolder": "/ABAP/",
   "parsing": {
    "version": "2.113.89",
-   "cloud": 2964
+   "cloud": 3005
   },
   "repo": {
    "id": 516444827,
@@ -9352,14 +9348,14 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/security-services-tools/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/security-services-tools/deployments",
    "created_at": "2022-07-21T16:26:34Z",
-   "updated_at": "2025-01-17T16:45:47Z",
-   "pushed_at": "2025-01-17T16:45:46Z",
+   "updated_at": "2025-01-21T09:31:04Z",
+   "pushed_at": "2025-01-21T09:31:00Z",
    "git_url": "git://github.com/SAP-samples/security-services-tools.git",
    "ssh_url": "git@github.com:SAP-samples/security-services-tools.git",
    "clone_url": "https://github.com/SAP-samples/security-services-tools.git",
    "svn_url": "https://github.com/SAP-samples/security-services-tools",
    "homepage": "",
-   "size": 589,
+   "size": 601,
    "stargazers_count": 50,
    "watchers_count": 50,
    "language": "ABAP",
@@ -13937,14 +13933,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2025-01-20T17:27:04Z",
-   "pushed_at": "2025-01-20T17:27:04Z",
+   "updated_at": "2025-01-21T17:55:53Z",
+   "pushed_at": "2025-01-21T17:55:51Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "https://www.abap2UI5.org",
-   "size": 5393,
+   "size": 5397,
    "stargazers_count": 314,
    "watchers_count": 314,
    "language": "ABAP",
@@ -14102,7 +14098,7 @@
    "releases_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2xlsx/abap2xlsx/deployments",
    "created_at": "2013-12-26T18:09:03Z",
-   "updated_at": "2025-01-16T04:49:00Z",
+   "updated_at": "2025-01-21T17:19:53Z",
    "pushed_at": "2025-01-16T10:36:31Z",
    "git_url": "git://github.com/abap2xlsx/abap2xlsx.git",
    "ssh_url": "git@github.com:abap2xlsx/abap2xlsx.git",
@@ -14110,8 +14106,8 @@
    "svn_url": "https://github.com/abap2xlsx/abap2xlsx",
    "homepage": "https://abap2xlsx.github.io/abap2xlsx/",
    "size": 26408,
-   "stargazers_count": 735,
-   "watchers_count": 735,
+   "stargazers_count": 736,
+   "watchers_count": 736,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -14123,7 +14119,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 123,
+   "open_issues_count": 124,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -14151,8 +14147,8 @@
    ],
    "visibility": "public",
    "forks": 293,
-   "open_issues": 123,
-   "watchers": 735,
+   "open_issues": 124,
+   "watchers": 736,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -15013,7 +15009,7 @@
     "site_admin": false
    },
    "network_count": 544,
-   "subscribers_count": 137
+   "subscribers_count": 138
   }
  },
  "abapGit/background_modes": {
@@ -28461,7 +28457,7 @@
   }
  },
  "keremkoseoglu/addict": {
-  "lines": 10912,
+  "lines": 10976,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.89",
@@ -28535,14 +28531,14 @@
    "releases_url": "https://api.github.com/repos/keremkoseoglu/addict/releases{/id}",
    "deployments_url": "https://api.github.com/repos/keremkoseoglu/addict/deployments",
    "created_at": "2020-10-16T13:44:38Z",
-   "updated_at": "2025-01-11T10:32:28Z",
-   "pushed_at": "2025-01-11T10:32:24Z",
+   "updated_at": "2025-01-22T06:46:10Z",
+   "pushed_at": "2025-01-22T06:46:07Z",
    "git_url": "git://github.com/keremkoseoglu/addict.git",
    "ssh_url": "git@github.com:keremkoseoglu/addict.git",
    "clone_url": "https://github.com/keremkoseoglu/addict.git",
    "svn_url": "https://github.com/keremkoseoglu/addict",
    "homepage": null,
-   "size": 3225,
+   "size": 3245,
    "stargazers_count": 20,
    "watchers_count": 20,
    "language": "ABAP",
@@ -29997,7 +29993,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2025-01-19T00:19:11Z",
+   "updated_at": "2025-01-21T15:44:25Z",
    "pushed_at": "2024-12-11T13:06:35Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -30005,8 +30001,8 @@
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
    "size": 2583,
-   "stargazers_count": 274,
-   "watchers_count": 274,
+   "stargazers_count": 275,
+   "watchers_count": 275,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -30041,7 +30037,7 @@
    "visibility": "public",
    "forks": 79,
    "open_issues": 305,
-   "watchers": 274,
+   "watchers": 275,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -31197,13 +31193,13 @@
    "deployments_url": "https://api.github.com/repos/miggi92/odata-fw/deployments",
    "created_at": "2022-06-02T15:27:07Z",
    "updated_at": "2025-01-15T09:28:25Z",
-   "pushed_at": "2025-01-20T20:12:36Z",
+   "pushed_at": "2025-01-21T18:53:57Z",
    "git_url": "git://github.com/miggi92/odata-fw.git",
    "ssh_url": "git@github.com:miggi92/odata-fw.git",
    "clone_url": "https://github.com/miggi92/odata-fw.git",
    "svn_url": "https://github.com/miggi92/odata-fw",
    "homepage": "https://miggi92.github.io/odata-fw/",
-   "size": 2226,
+   "size": 2070,
    "stargazers_count": 9,
    "watchers_count": 9,
    "language": "ABAP",
@@ -36821,11 +36817,11 @@
   }
  },
  "sbcgua/mockup_loader": {
-  "lines": 9857,
+  "lines": 9849,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.89",
-   "cloud": 226
+   "cloud": 225
   },
   "repo": {
    "id": 45481794,
@@ -36895,8 +36891,8 @@
    "releases_url": "https://api.github.com/repos/sbcgua/mockup_loader/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/mockup_loader/deployments",
    "created_at": "2015-11-03T17:02:54Z",
-   "updated_at": "2025-01-20T20:52:34Z",
-   "pushed_at": "2025-01-20T20:52:30Z",
+   "updated_at": "2025-01-22T07:36:41Z",
+   "pushed_at": "2025-01-22T07:37:33Z",
    "git_url": "git://github.com/sbcgua/mockup_loader.git",
    "ssh_url": "git@github.com:sbcgua/mockup_loader.git",
    "clone_url": "https://github.com/sbcgua/mockup_loader.git",
@@ -36916,7 +36912,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 12,
+   "open_issues_count": 11,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -36939,7 +36935,7 @@
    ],
    "visibility": "public",
    "forks": 16,
-   "open_issues": 12,
+   "open_issues": 11,
    "watchers": 67,
    "default_branch": "master",
    "permissions": {
@@ -36955,8 +36951,16 @@
   }
  },
  "sbcgua/text2tab": {
-  "lines": 6113,
+  "lines": 6119,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/changelog.txt",
+   "/abaplint.jsonc",
+   "/README.md",
+   "/CONTRIBUTING.md"
+  ],
   "parsing": {
    "version": "2.113.89",
    "cloud": 50
@@ -37029,8 +37033,8 @@
    "releases_url": "https://api.github.com/repos/sbcgua/text2tab/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/text2tab/deployments",
    "created_at": "2016-08-13T09:37:35Z",
-   "updated_at": "2024-12-07T22:24:28Z",
-   "pushed_at": "2024-12-12T15:53:54Z",
+   "updated_at": "2025-01-22T07:24:32Z",
+   "pushed_at": "2025-01-22T07:25:52Z",
    "git_url": "git://github.com/sbcgua/text2tab.git",
    "ssh_url": "git@github.com:sbcgua/text2tab.git",
    "clone_url": "https://github.com/sbcgua/text2tab.git",
@@ -37050,7 +37054,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 7,
+   "open_issues_count": 6,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -37070,7 +37074,7 @@
    ],
    "visibility": "public",
    "forks": 10,
-   "open_issues": 7,
+   "open_issues": 6,
    "watchers": 24,
    "default_branch": "master",
    "permissions": {
@@ -37938,7 +37942,7 @@
    "releases_url": "https://api.github.com/repos/stud0709/z_doom/releases{/id}",
    "deployments_url": "https://api.github.com/repos/stud0709/z_doom/deployments",
    "created_at": "2021-10-02T20:45:41Z",
-   "updated_at": "2024-11-29T05:14:59Z",
+   "updated_at": "2025-01-21T14:28:42Z",
    "pushed_at": "2021-10-02T22:28:35Z",
    "git_url": "git://github.com/stud0709/z_doom.git",
    "ssh_url": "git@github.com:stud0709/z_doom.git",
@@ -37946,8 +37950,8 @@
    "svn_url": "https://github.com/stud0709/z_doom",
    "homepage": null,
    "size": 7260,
-   "stargazers_count": 13,
-   "watchers_count": 13,
+   "stargazers_count": 14,
+   "watchers_count": 14,
    "language": "CSS",
    "has_issues": true,
    "has_projects": true,
@@ -37968,7 +37972,7 @@
    "visibility": "public",
    "forks": 2,
    "open_issues": 0,
-   "watchers": 13,
+   "watchers": 14,
    "default_branch": "main",
    "permissions": {
     "admin": false,
