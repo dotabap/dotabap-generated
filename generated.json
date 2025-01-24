@@ -10740,7 +10740,7 @@
   }
  },
  "SchwarzIT/sap-usi-logging-api": {
-  "lines": 19554,
+  "lines": 19609,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.89",
@@ -10814,14 +10814,14 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/deployments",
    "created_at": "2021-07-06T09:15:31Z",
-   "updated_at": "2024-12-20T13:58:50Z",
-   "pushed_at": "2024-12-20T14:12:24Z",
+   "updated_at": "2025-01-23T16:10:25Z",
+   "pushed_at": "2025-01-23T16:12:51Z",
    "git_url": "git://github.com/SchwarzIT/sap-usi-logging-api.git",
    "ssh_url": "git@github.com:SchwarzIT/sap-usi-logging-api.git",
    "clone_url": "https://github.com/SchwarzIT/sap-usi-logging-api.git",
    "svn_url": "https://github.com/SchwarzIT/sap-usi-logging-api",
    "homepage": "",
-   "size": 922,
+   "size": 933,
    "stargazers_count": 24,
    "watchers_count": 24,
    "language": "ABAP",
@@ -10835,7 +10835,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 4,
+   "open_issues_count": 3,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -10855,7 +10855,7 @@
    ],
    "visibility": "public",
    "forks": 0,
-   "open_issues": 4,
+   "open_issues": 3,
    "watchers": 24,
    "default_branch": "main",
    "permissions": {
@@ -13252,7 +13252,7 @@
   }
  },
  "abap2UI5-apps/SE16": {
-  "lines": 570,
+  "lines": 571,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.89",
@@ -13326,14 +13326,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5-apps/SE16/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5-apps/SE16/deployments",
    "created_at": "2024-09-22T12:55:23Z",
-   "updated_at": "2024-12-22T07:01:43Z",
-   "pushed_at": "2024-11-24T21:55:52Z",
+   "updated_at": "2025-01-24T06:53:22Z",
+   "pushed_at": "2025-01-24T06:53:18Z",
    "git_url": "git://github.com/abap2UI5-apps/SE16.git",
    "ssh_url": "git@github.com:abap2UI5-apps/SE16.git",
    "clone_url": "https://github.com/abap2UI5-apps/SE16.git",
    "svn_url": "https://github.com/abap2UI5-apps/SE16",
    "homepage": "",
-   "size": 38,
+   "size": 42,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -13343,7 +13343,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -13360,7 +13360,7 @@
    "web_commit_signoff_required": false,
    "topics": [],
    "visibility": "public",
-   "forks": 2,
+   "forks": 3,
    "open_issues": 1,
    "watchers": 3,
    "default_branch": "main",
@@ -13394,7 +13394,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 2,
+   "network_count": 3,
    "subscribers_count": 1
   }
  },
@@ -14858,7 +14858,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 179496,
+  "lines": 179547,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.89",
@@ -14932,14 +14932,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2025-01-22T23:57:51Z",
-   "pushed_at": "2025-01-17T14:45:17Z",
+   "updated_at": "2025-01-23T20:31:09Z",
+   "pushed_at": "2025-01-23T20:31:04Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 25509,
+   "size": 25522,
    "stargazers_count": 1580,
    "watchers_count": 1580,
    "language": "ABAP",
@@ -14953,7 +14953,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 91,
+   "open_issues_count": 88,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14975,7 +14975,7 @@
    ],
    "visibility": "public",
    "forks": 546,
-   "open_issues": 91,
+   "open_issues": 88,
    "watchers": 1580,
    "default_branch": "main",
    "permissions": {
@@ -15009,7 +15009,7 @@
     "site_admin": false
    },
    "network_count": 546,
-   "subscribers_count": 138
+   "subscribers_count": 137
   }
  },
  "abapGit/background_modes": {
@@ -24713,7 +24713,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -24727,7 +24727,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 1,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 1,
    "default_branch": "main",
    "permissions": {
@@ -29993,7 +29993,7 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2025-01-21T15:44:25Z",
+   "updated_at": "2025-01-23T19:25:01Z",
    "pushed_at": "2024-12-11T13:06:35Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
@@ -30001,8 +30001,8 @@
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
    "size": 2583,
-   "stargazers_count": 275,
-   "watchers_count": 275,
+   "stargazers_count": 276,
+   "watchers_count": 276,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -30037,7 +30037,7 @@
    "visibility": "public",
    "forks": 79,
    "open_issues": 305,
-   "watchers": 275,
+   "watchers": 276,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -31193,13 +31193,13 @@
    "deployments_url": "https://api.github.com/repos/miggi92/odata-fw/deployments",
    "created_at": "2022-06-02T15:27:07Z",
    "updated_at": "2025-01-15T09:28:25Z",
-   "pushed_at": "2025-01-22T21:51:35Z",
+   "pushed_at": "2025-01-23T18:08:23Z",
    "git_url": "git://github.com/miggi92/odata-fw.git",
    "ssh_url": "git@github.com:miggi92/odata-fw.git",
    "clone_url": "https://github.com/miggi92/odata-fw.git",
    "svn_url": "https://github.com/miggi92/odata-fw",
    "homepage": "https://miggi92.github.io/odata-fw/",
-   "size": 2070,
+   "size": 2039,
    "stargazers_count": 9,
    "watchers_count": 9,
    "language": "ABAP",
@@ -34781,7 +34781,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 3,
+   "open_issues_count": 4,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -34800,7 +34800,7 @@
    ],
    "visibility": "public",
    "forks": 1,
-   "open_issues": 3,
+   "open_issues": 4,
    "watchers": 8,
    "default_branch": "master",
    "permissions": {
