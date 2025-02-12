@@ -11744,11 +11744,11 @@
   }
  },
  "abap-ai/llm_client": {
-  "lines": 13461,
+  "lines": 13620,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.101",
-   "cloud": 142
+   "cloud": 143
   },
   "repo": {
    "id": 909661840,
@@ -11818,14 +11818,14 @@
    "releases_url": "https://api.github.com/repos/abap-ai/llm_client/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-ai/llm_client/deployments",
    "created_at": "2024-12-29T12:15:00Z",
-   "updated_at": "2025-02-10T21:00:09Z",
-   "pushed_at": "2025-02-10T21:00:06Z",
+   "updated_at": "2025-02-11T18:46:43Z",
+   "pushed_at": "2025-02-11T19:31:42Z",
    "git_url": "git://github.com/abap-ai/llm_client.git",
    "ssh_url": "git@github.com:abap-ai/llm_client.git",
    "clone_url": "https://github.com/abap-ai/llm_client.git",
    "svn_url": "https://github.com/abap-ai/llm_client",
    "homepage": null,
-   "size": 176,
+   "size": 187,
    "stargazers_count": 23,
    "watchers_count": 23,
    "language": "ABAP",
@@ -11839,7 +11839,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 5,
+   "open_issues_count": 4,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -11853,7 +11853,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 2,
-   "open_issues": 5,
+   "open_issues": 4,
    "watchers": 23,
    "default_branch": "main",
    "permissions": {
@@ -16546,7 +16546,7 @@
    "releases_url": "https://api.github.com/repos/abapinho/abaK/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapinho/abaK/deployments",
    "created_at": "2019-01-31T18:54:18Z",
-   "updated_at": "2024-12-30T22:37:46Z",
+   "updated_at": "2025-02-11T10:44:28Z",
    "pushed_at": "2023-05-01T12:52:18Z",
    "git_url": "git://github.com/abapinho/abaK.git",
    "ssh_url": "git@github.com:abapinho/abaK.git",
@@ -16554,8 +16554,8 @@
    "svn_url": "https://github.com/abapinho/abaK",
    "homepage": "",
    "size": 192,
-   "stargazers_count": 34,
-   "watchers_count": 34,
+   "stargazers_count": 35,
+   "watchers_count": 35,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -16588,7 +16588,7 @@
    "visibility": "public",
    "forks": 3,
    "open_issues": 12,
-   "watchers": 34,
+   "watchers": 35,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -16621,7 +16621,7 @@
     "site_admin": false
    },
    "network_count": 3,
-   "subscribers_count": 10
+   "subscribers_count": 11
   }
  },
  "abapinho/abapTimeMachine": {
@@ -28675,7 +28675,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 1,
+   "open_issues_count": 2,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -28689,7 +28689,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 3,
-   "open_issues": 1,
+   "open_issues": 2,
    "watchers": 8,
    "default_branch": "main",
    "permissions": {
@@ -33512,7 +33512,7 @@
    "releases_url": "https://api.github.com/repos/peyn/IDoc-with-ABAP-OOP/releases{/id}",
    "deployments_url": "https://api.github.com/repos/peyn/IDoc-with-ABAP-OOP/deployments",
    "created_at": "2020-07-24T09:44:26Z",
-   "updated_at": "2024-12-30T01:56:51Z",
+   "updated_at": "2025-02-11T16:23:10Z",
    "pushed_at": "2023-05-08T12:25:04Z",
    "git_url": "git://github.com/peyn/IDoc-with-ABAP-OOP.git",
    "ssh_url": "git@github.com:peyn/IDoc-with-ABAP-OOP.git",
