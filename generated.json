@@ -2739,7 +2739,7 @@
    "releases_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/releases{/id}",
    "deployments_url": "https://api.github.com/repos/DryDumbHead/easyHtmlEmail/deployments",
    "created_at": "2021-09-29T20:09:22Z",
-   "updated_at": "2025-03-04T16:18:29Z",
+   "updated_at": "2025-04-01T11:17:51Z",
    "pushed_at": "2022-05-27T19:25:58Z",
    "git_url": "git://github.com/DryDumbHead/easyHtmlEmail.git",
    "ssh_url": "git@github.com:DryDumbHead/easyHtmlEmail.git",
@@ -2747,8 +2747,8 @@
    "svn_url": "https://github.com/DryDumbHead/easyHtmlEmail",
    "homepage": "",
    "size": 169,
-   "stargazers_count": 27,
-   "watchers_count": 27,
+   "stargazers_count": 28,
+   "watchers_count": 28,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -2782,7 +2782,7 @@
    "visibility": "public",
    "forks": 8,
    "open_issues": 2,
-   "watchers": 27,
+   "watchers": 28,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -9711,7 +9711,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2025-03-28T05:40:50Z",
+   "updated_at": "2025-04-01T19:13:01Z",
    "pushed_at": "2025-03-24T14:21:14Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -9719,8 +9719,8 @@
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
    "size": 3100,
-   "stargazers_count": 369,
-   "watchers_count": 369,
+   "stargazers_count": 370,
+   "watchers_count": 370,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -9758,7 +9758,7 @@
    "visibility": "public",
    "forks": 69,
    "open_issues": 32,
-   "watchers": 369,
+   "watchers": 370,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -11962,7 +11962,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 3,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -11979,7 +11979,7 @@
    "web_commit_signoff_required": false,
    "topics": [],
    "visibility": "public",
-   "forks": 3,
+   "forks": 4,
    "open_issues": 1,
    "watchers": 35,
    "default_branch": "main",
@@ -12013,7 +12013,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 3,
+   "network_count": 4,
    "subscribers_count": 5
   }
  },
@@ -14380,7 +14380,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 181025,
+  "lines": 181118,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.108",
@@ -14454,14 +14454,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2025-04-01T04:58:00Z",
-   "pushed_at": "2025-04-01T06:19:14Z",
+   "updated_at": "2025-04-01T16:32:02Z",
+   "pushed_at": "2025-04-01T16:31:59Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 25575,
+   "size": 25592,
    "stargazers_count": 1604,
    "watchers_count": 1604,
    "language": "ABAP",
@@ -14475,7 +14475,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 93,
+   "open_issues_count": 86,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14497,7 +14497,7 @@
    ],
    "visibility": "public",
    "forks": 550,
-   "open_issues": 93,
+   "open_issues": 86,
    "watchers": 1604,
    "default_branch": "main",
    "permissions": {
@@ -31784,7 +31784,7 @@
   }
  },
  "miggi92/odata-fw": {
-  "lines": 6446,
+  "lines": 6456,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/CHANGELOG.md"
@@ -31861,8 +31861,8 @@
    "releases_url": "https://api.github.com/repos/miggi92/odata-fw/releases{/id}",
    "deployments_url": "https://api.github.com/repos/miggi92/odata-fw/deployments",
    "created_at": "2022-06-02T15:27:07Z",
-   "updated_at": "2025-02-12T10:22:56Z",
-   "pushed_at": "2025-03-31T20:36:16Z",
+   "updated_at": "2025-04-02T07:49:14Z",
+   "pushed_at": "2025-04-02T08:02:49Z",
    "git_url": "git://github.com/miggi92/odata-fw.git",
    "ssh_url": "git@github.com:miggi92/odata-fw.git",
    "clone_url": "https://github.com/miggi92/odata-fw.git",
@@ -32142,7 +32142,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -32163,7 +32163,7 @@
     "xlsx"
    ],
    "visibility": "public",
-   "forks": 5,
+   "forks": 6,
    "open_issues": 0,
    "watchers": 11,
    "default_branch": "master",
@@ -32175,7 +32175,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 2
   }
  },
