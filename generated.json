@@ -4104,7 +4104,7 @@
   }
  },
  "Kaszub09/abapToC": {
-  "lines": 923,
+  "lines": 990,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.108",
@@ -4178,8 +4178,8 @@
    "releases_url": "https://api.github.com/repos/Kaszub09/abapToC/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Kaszub09/abapToC/deployments",
    "created_at": "2023-11-24T14:07:35Z",
-   "updated_at": "2025-04-10T12:07:06Z",
-   "pushed_at": "2025-04-10T11:12:31Z",
+   "updated_at": "2025-04-16T07:35:08Z",
+   "pushed_at": "2025-04-16T07:35:03Z",
    "git_url": "git://github.com/Kaszub09/abapToC.git",
    "ssh_url": "git@github.com:Kaszub09/abapToC.git",
    "clone_url": "https://github.com/Kaszub09/abapToC.git",
@@ -6643,7 +6643,7 @@
    "releases_url": "https://api.github.com/repos/microsoft/aisdkforsapabap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/microsoft/aisdkforsapabap/deployments",
    "created_at": "2023-04-18T01:46:17Z",
-   "updated_at": "2025-04-09T07:30:27Z",
+   "updated_at": "2025-04-16T01:04:04Z",
    "pushed_at": "2024-05-08T16:12:17Z",
    "git_url": "git://github.com/microsoft/aisdkforsapabap.git",
    "ssh_url": "git@github.com:microsoft/aisdkforsapabap.git",
@@ -6651,8 +6651,8 @@
    "svn_url": "https://github.com/microsoft/aisdkforsapabap",
    "homepage": null,
    "size": 3110,
-   "stargazers_count": 126,
-   "watchers_count": 126,
+   "stargazers_count": 127,
+   "watchers_count": 127,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -6679,7 +6679,7 @@
    "visibility": "public",
    "forks": 21,
    "open_issues": 8,
-   "watchers": 126,
+   "watchers": 127,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -8877,7 +8877,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 61,
+   "forks_count": 62,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8904,7 +8904,7 @@
     "sap-btp-abap"
    ],
    "visibility": "public",
-   "forks": 61,
+   "forks": 62,
    "open_issues": 17,
    "watchers": 242,
    "default_branch": "main",
@@ -8938,7 +8938,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 61,
+   "network_count": 62,
    "subscribers_count": 36
   }
  },
@@ -9458,7 +9458,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": true,
-   "forks_count": 8,
+   "forks_count": 9,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9483,7 +9483,7 @@
     "serializer"
    ],
    "visibility": "public",
-   "forks": 8,
+   "forks": 9,
    "open_issues": 0,
    "watchers": 56,
    "default_branch": "main",
@@ -9632,7 +9632,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 8,
+   "network_count": 9,
    "subscribers_count": 4
   }
  },
@@ -9728,7 +9728,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 69,
+   "forks_count": 70,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9756,7 +9756,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 69,
+   "forks": 70,
    "open_issues": 32,
    "watchers": 373,
    "default_branch": "master",
@@ -9790,7 +9790,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 69,
+   "network_count": 70,
    "subscribers_count": 25
   }
  },
@@ -12710,7 +12710,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 12,
+   "forks_count": 13,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -12731,7 +12731,7 @@
     "swagger"
    ],
    "visibility": "public",
-   "forks": 12,
+   "forks": 13,
    "open_issues": 26,
    "watchers": 78,
    "default_branch": "main",
@@ -12765,7 +12765,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 12,
+   "network_count": 13,
    "subscribers_count": 11
   }
  },
@@ -13472,7 +13472,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 61,
+   "forks_count": 62,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -13498,7 +13498,7 @@
     "ui5"
    ],
    "visibility": "public",
-   "forks": 61,
+   "forks": 62,
    "open_issues": 10,
    "watchers": 324,
    "default_branch": "main",
@@ -13532,7 +13532,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 61,
+   "network_count": 62,
    "subscribers_count": 12
   }
  },
@@ -14454,14 +14454,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2025-04-14T12:42:04Z",
-   "pushed_at": "2025-04-14T12:42:17Z",
+   "updated_at": "2025-04-16T05:59:26Z",
+   "pushed_at": "2025-04-16T05:59:23Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 25815,
+   "size": 25817,
    "stargazers_count": 1609,
    "watchers_count": 1609,
    "language": "ABAP",
@@ -14471,7 +14471,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 550,
+   "forks_count": 549,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -14496,7 +14496,7 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 550,
+   "forks": 549,
    "open_issues": 88,
    "watchers": 1609,
    "default_branch": "main",
@@ -14530,7 +14530,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 550,
+   "network_count": 549,
    "subscribers_count": 134
   }
  },
@@ -14617,14 +14617,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/background_modes/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/background_modes/deployments",
    "created_at": "2018-08-04T09:05:15Z",
-   "updated_at": "2025-03-20T09:50:35Z",
-   "pushed_at": "2025-03-20T09:50:32Z",
+   "updated_at": "2025-04-16T06:54:26Z",
+   "pushed_at": "2025-04-16T06:54:24Z",
    "git_url": "git://github.com/abapGit/background_modes.git",
    "ssh_url": "git@github.com:abapGit/background_modes.git",
    "clone_url": "https://github.com/abapGit/background_modes.git",
    "svn_url": "https://github.com/abapGit/background_modes",
    "homepage": "",
-   "size": 47,
+   "size": 54,
    "stargazers_count": 3,
    "watchers_count": 3,
    "language": "ABAP",
@@ -17425,7 +17425,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 20,
+   "forks_count": 19,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -17448,7 +17448,7 @@
     "hacktoberfest"
    ],
    "visibility": "public",
-   "forks": 20,
+   "forks": 19,
    "open_issues": 17,
    "watchers": 39,
    "default_branch": "main",
@@ -17482,7 +17482,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 20,
+   "network_count": 19,
    "subscribers_count": 10
   }
  },
@@ -20678,7 +20678,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 1,
+   "forks_count": 2,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -20695,7 +20695,7 @@
    "web_commit_signoff_required": false,
    "topics": [],
    "visibility": "public",
-   "forks": 1,
+   "forks": 2,
    "open_issues": 0,
    "watchers": 2,
    "default_branch": "main",
@@ -20729,7 +20729,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 1,
+   "network_count": 2,
    "subscribers_count": 1
   }
  },
@@ -23910,7 +23910,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 2,
+   "forks_count": 3,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -23932,7 +23932,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 2,
+   "forks": 3,
    "open_issues": 0,
    "watchers": 19,
    "default_branch": "main",
@@ -23944,7 +23944,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 2,
+   "network_count": 3,
    "subscribers_count": 2
   }
  },
@@ -30641,14 +30641,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapGitServer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapGitServer/deployments",
    "created_at": "2015-07-05T06:34:15Z",
-   "updated_at": "2025-02-18T03:35:46Z",
-   "pushed_at": "2023-05-13T10:52:57Z",
+   "updated_at": "2025-04-16T07:02:24Z",
+   "pushed_at": "2025-04-16T07:02:21Z",
    "git_url": "git://github.com/larshp/abapGitServer.git",
    "ssh_url": "git@github.com:larshp/abapGitServer.git",
    "clone_url": "https://github.com/larshp/abapGitServer.git",
    "svn_url": "https://github.com/larshp/abapGitServer",
    "homepage": "",
-   "size": 586,
+   "size": 587,
    "stargazers_count": 67,
    "watchers_count": 67,
    "language": "ABAP",
@@ -32112,13 +32112,13 @@
    "deployments_url": "https://api.github.com/repos/miggi92/odata-fw/deployments",
    "created_at": "2022-06-02T15:27:07Z",
    "updated_at": "2025-04-14T10:15:34Z",
-   "pushed_at": "2025-04-14T20:21:08Z",
+   "pushed_at": "2025-04-15T19:26:24Z",
    "git_url": "git://github.com/miggi92/odata-fw.git",
    "ssh_url": "git@github.com:miggi92/odata-fw.git",
    "clone_url": "https://github.com/miggi92/odata-fw.git",
    "svn_url": "https://github.com/miggi92/odata-fw",
    "homepage": "https://miggi92.github.io/odata-fw/",
-   "size": 2155,
+   "size": 2156,
    "stargazers_count": 11,
    "watchers_count": 11,
    "language": "ABAP",
@@ -32128,11 +32128,11 @@
    "has_wiki": false,
    "has_pages": true,
    "has_discussions": true,
-   "forks_count": 4,
+   "forks_count": 5,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 13,
+   "open_issues_count": 14,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -32152,8 +32152,8 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 4,
-   "open_issues": 13,
+   "forks": 5,
+   "open_issues": 14,
    "watchers": 11,
    "default_branch": "master",
    "permissions": {
@@ -32164,7 +32164,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 4,
+   "network_count": 5,
    "subscribers_count": 0
   }
  },
