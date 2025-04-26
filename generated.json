@@ -8877,7 +8877,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 62,
+   "forks_count": 63,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8904,7 +8904,7 @@
     "sap-btp-abap"
    ],
    "visibility": "public",
-   "forks": 62,
+   "forks": 63,
    "open_issues": 17,
    "watchers": 245,
    "default_branch": "main",
@@ -8938,7 +8938,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 62,
+   "network_count": 63,
    "subscribers_count": 36
   }
  },
@@ -9197,7 +9197,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 8,
+   "open_issues_count": 9,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -9214,7 +9214,7 @@
    ],
    "visibility": "public",
    "forks": 7,
-   "open_issues": 8,
+   "open_issues": 9,
    "watchers": 26,
    "default_branch": "main",
    "permissions": {
@@ -14527,7 +14527,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 182232,
+  "lines": 182102,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.110",
@@ -14601,14 +14601,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2025-04-24T10:07:22Z",
-   "pushed_at": "2025-04-24T11:42:59Z",
+   "updated_at": "2025-04-25T11:29:23Z",
+   "pushed_at": "2025-04-25T12:40:42Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 25862,
+   "size": 25896,
    "stargazers_count": 1611,
    "watchers_count": 1611,
    "language": "ABAP",
@@ -14622,7 +14622,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 95,
+   "open_issues_count": 94,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14644,7 +14644,7 @@
    ],
    "visibility": "public",
    "forks": 551,
-   "open_issues": 95,
+   "open_issues": 94,
    "watchers": 1611,
    "default_branch": "main",
    "permissions": {
@@ -25125,7 +25125,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 29,
+   "forks_count": 30,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -25147,7 +25147,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 29,
+   "forks": 30,
    "open_issues": 0,
    "watchers": 68,
    "default_branch": "master",
@@ -25159,7 +25159,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 29,
+   "network_count": 30,
    "subscribers_count": 12
   }
  },
@@ -28464,7 +28464,7 @@
    "releases_url": "https://api.github.com/repos/jasper07/Teched17/releases{/id}",
    "deployments_url": "https://api.github.com/repos/jasper07/Teched17/deployments",
    "created_at": "2017-08-11T07:41:30Z",
-   "updated_at": "2024-07-27T18:48:03Z",
+   "updated_at": "2025-04-25T08:41:58Z",
    "pushed_at": "2020-10-10T09:07:25Z",
    "git_url": "git://github.com/jasper07/Teched17.git",
    "ssh_url": "git@github.com:jasper07/Teched17.git",
@@ -28472,8 +28472,8 @@
    "svn_url": "https://github.com/jasper07/Teched17",
    "homepage": "",
    "size": 11366,
-   "stargazers_count": 48,
-   "watchers_count": 48,
+   "stargazers_count": 47,
+   "watchers_count": 47,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -28505,7 +28505,7 @@
    "visibility": "public",
    "forks": 13,
    "open_issues": 1,
-   "watchers": 48,
+   "watchers": 47,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -40583,7 +40583,7 @@
     "site_admin": false
    },
    "network_count": 10,
-   "subscribers_count": 2
+   "subscribers_count": 3
   }
  },
  "uweku/Vise_for_ABAP": {
