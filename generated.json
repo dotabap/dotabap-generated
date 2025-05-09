@@ -3729,11 +3729,11 @@
   }
  },
  "Kaszub09/ZABAP_TRANSLATIONS": {
-  "lines": 4221,
+  "lines": 4276,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.110",
-   "cloud": 78
+   "cloud": 102
   },
   "repo": {
    "id": 819309801,
@@ -3803,14 +3803,14 @@
    "releases_url": "https://api.github.com/repos/Kaszub09/ZABAP_TRANSLATIONS/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Kaszub09/ZABAP_TRANSLATIONS/deployments",
    "created_at": "2024-06-24T08:51:35Z",
-   "updated_at": "2025-04-26T17:04:19Z",
-   "pushed_at": "2025-01-21T08:44:39Z",
+   "updated_at": "2025-05-08T11:23:06Z",
+   "pushed_at": "2025-05-08T11:23:00Z",
    "git_url": "git://github.com/Kaszub09/ZABAP_TRANSLATIONS.git",
    "ssh_url": "git@github.com:Kaszub09/ZABAP_TRANSLATIONS.git",
    "clone_url": "https://github.com/Kaszub09/ZABAP_TRANSLATIONS.git",
    "svn_url": "https://github.com/Kaszub09/ZABAP_TRANSLATIONS",
    "homepage": null,
-   "size": 150,
+   "size": 156,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -9017,14 +9017,14 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/security-services-tools/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/security-services-tools/deployments",
    "created_at": "2022-07-21T16:26:34Z",
-   "updated_at": "2025-04-24T09:58:35Z",
-   "pushed_at": "2025-04-16T12:11:21Z",
+   "updated_at": "2025-05-08T09:19:55Z",
+   "pushed_at": "2025-05-08T09:19:52Z",
    "git_url": "git://github.com/SAP-samples/security-services-tools.git",
    "ssh_url": "git@github.com:SAP-samples/security-services-tools.git",
    "clone_url": "https://github.com/SAP-samples/security-services-tools.git",
    "svn_url": "https://github.com/SAP-samples/security-services-tools",
    "homepage": "",
-   "size": 423,
+   "size": 430,
    "stargazers_count": 59,
    "watchers_count": 59,
    "language": "ABAP",
@@ -14622,7 +14622,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 89,
+   "open_issues_count": 88,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14644,7 +14644,7 @@
    ],
    "visibility": "public",
    "forks": 552,
-   "open_issues": 89,
+   "open_issues": 88,
    "watchers": 1619,
    "default_branch": "main",
    "permissions": {
@@ -31102,7 +31102,7 @@
   }
  },
  "larshp/abapOpenChecks": {
-  "lines": 46169,
+  "lines": 46165,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.travis.yml",
@@ -31114,7 +31114,7 @@
   ],
   "parsing": {
    "version": "2.113.110",
-   "cloud": 3483
+   "cloud": 3493
   },
   "repo": {
    "id": 21558384,
@@ -31184,14 +31184,14 @@
    "releases_url": "https://api.github.com/repos/larshp/abapOpenChecks/releases{/id}",
    "deployments_url": "https://api.github.com/repos/larshp/abapOpenChecks/deployments",
    "created_at": "2014-07-07T05:57:23Z",
-   "updated_at": "2025-05-07T08:49:25Z",
-   "pushed_at": "2025-05-07T08:49:22Z",
+   "updated_at": "2025-05-08T14:38:54Z",
+   "pushed_at": "2025-05-08T14:38:49Z",
    "git_url": "git://github.com/larshp/abapOpenChecks.git",
    "ssh_url": "git@github.com:larshp/abapOpenChecks.git",
    "clone_url": "https://github.com/larshp/abapOpenChecks.git",
    "svn_url": "https://github.com/larshp/abapOpenChecks",
    "homepage": "https://docs.abapopenchecks.org",
-   "size": 2473,
+   "size": 2476,
    "stargazers_count": 281,
    "watchers_count": 281,
    "language": "ABAP",
