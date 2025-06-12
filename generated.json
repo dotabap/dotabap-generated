@@ -7768,7 +7768,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 24,
+   "forks_count": 25,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -7795,7 +7795,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 24,
+   "forks": 25,
    "open_issues": 0,
    "watchers": 36,
    "default_branch": "main",
@@ -7829,7 +7829,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 24,
+   "network_count": 25,
    "subscribers_count": 10
   }
  },
@@ -7932,7 +7932,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 20,
+   "forks_count": 21,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -7955,7 +7955,7 @@
     "sap-cloud-platform"
    ],
    "visibility": "public",
-   "forks": 20,
+   "forks": 21,
    "open_issues": 1,
    "watchers": 52,
    "default_branch": "main",
@@ -7989,7 +7989,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 20,
+   "network_count": 21,
    "subscribers_count": 11
   }
  },
@@ -8085,7 +8085,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 57,
+   "forks_count": 58,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8109,7 +8109,7 @@
     "sample-code"
    ],
    "visibility": "public",
-   "forks": 57,
+   "forks": 58,
    "open_issues": 0,
    "watchers": 198,
    "default_branch": "main",
@@ -8143,7 +8143,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 57,
+   "network_count": 58,
    "subscribers_count": 29
   }
  },
@@ -8716,7 +8716,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 4,
+   "forks_count": 5,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8740,7 +8740,7 @@
     "sap-btp-abap"
    ],
    "visibility": "public",
-   "forks": 4,
+   "forks": 5,
    "open_issues": 0,
    "watchers": 23,
    "default_branch": "main",
@@ -8774,7 +8774,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 4,
+   "network_count": 5,
    "subscribers_count": 4
   }
  },
@@ -9441,7 +9441,7 @@
    "releases_url": "https://api.github.com/repos/SAP/abap-to-json/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/abap-to-json/deployments",
    "created_at": "2023-04-18T15:48:21Z",
-   "updated_at": "2025-06-02T13:39:10Z",
+   "updated_at": "2025-06-12T08:11:31Z",
    "pushed_at": "2025-06-02T13:39:06Z",
    "git_url": "git://github.com/SAP/abap-to-json.git",
    "ssh_url": "git@github.com:SAP/abap-to-json.git",
@@ -9449,8 +9449,8 @@
    "svn_url": "https://github.com/SAP/abap-to-json",
    "homepage": null,
    "size": 563,
-   "stargazers_count": 61,
-   "watchers_count": 61,
+   "stargazers_count": 62,
+   "watchers_count": 62,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -9485,7 +9485,7 @@
    "visibility": "public",
    "forks": 9,
    "open_issues": 0,
-   "watchers": 61,
+   "watchers": 62,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -10770,7 +10770,7 @@
    "releases_url": "https://api.github.com/repos/Sumu-Ning/AES/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Sumu-Ning/AES/deployments",
    "created_at": "2015-07-01T18:10:38Z",
-   "updated_at": "2025-06-09T04:56:01Z",
+   "updated_at": "2025-06-11T13:23:59Z",
    "pushed_at": "2025-05-03T15:19:53Z",
    "git_url": "git://github.com/Sumu-Ning/AES.git",
    "ssh_url": "git@github.com:Sumu-Ning/AES.git",
@@ -10778,8 +10778,8 @@
    "svn_url": "https://github.com/Sumu-Ning/AES",
    "homepage": "",
    "size": 118,
-   "stargazers_count": 82,
-   "watchers_count": 82,
+   "stargazers_count": 83,
+   "watchers_count": 83,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -10806,7 +10806,7 @@
    "visibility": "public",
    "forks": 20,
    "open_issues": 3,
-   "watchers": 82,
+   "watchers": 83,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -14527,7 +14527,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 184810,
+  "lines": 184845,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.126",
@@ -14601,14 +14601,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2025-06-10T08:48:04Z",
-   "pushed_at": "2025-06-10T07:31:08Z",
+   "updated_at": "2025-06-12T05:20:53Z",
+   "pushed_at": "2025-06-12T07:43:56Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 26079,
+   "size": 26118,
    "stargazers_count": 1630,
    "watchers_count": 1630,
    "language": "ABAP",
@@ -14618,11 +14618,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 557,
+   "forks_count": 556,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 92,
+   "open_issues_count": 91,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14643,8 +14643,8 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 557,
-   "open_issues": 92,
+   "forks": 556,
+   "open_issues": 91,
    "watchers": 1630,
    "default_branch": "main",
    "permissions": {
@@ -14677,7 +14677,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 557,
+   "network_count": 556,
    "subscribers_count": 134
   }
  },
@@ -37933,13 +37933,13 @@
    "deployments_url": "https://api.github.com/repos/sbcgua/abap_include_assembler/deployments",
    "created_at": "2016-03-20T07:28:37Z",
    "updated_at": "2023-12-24T16:03:17Z",
-   "pushed_at": "2025-06-10T19:45:24Z",
+   "pushed_at": "2025-06-11T08:45:15Z",
    "git_url": "git://github.com/sbcgua/abap_include_assembler.git",
    "ssh_url": "git@github.com:sbcgua/abap_include_assembler.git",
    "clone_url": "https://github.com/sbcgua/abap_include_assembler.git",
    "svn_url": "https://github.com/sbcgua/abap_include_assembler",
    "homepage": null,
-   "size": 215,
+   "size": 226,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -38259,8 +38259,16 @@
   }
  },
  "sbcgua/ajson": {
-  "lines": 12257,
+  "lines": 12340,
   "startingFolder": "/src/",
+  "ignoreFiles": [
+   "/.gitignore",
+   "/LICENSE",
+   "/README.md",
+   "/package.json",
+   "/abaplint.jsonc",
+   "/changelog.txt"
+  ],
   "parsing": {
    "version": "2.113.126",
    "cloud": 14
@@ -38333,14 +38341,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/ajson/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/ajson/deployments",
    "created_at": "2020-05-16T07:00:27Z",
-   "updated_at": "2025-06-10T15:04:36Z",
-   "pushed_at": "2025-06-10T15:02:51Z",
+   "updated_at": "2025-06-11T12:29:24Z",
+   "pushed_at": "2025-06-11T20:24:50Z",
    "git_url": "git://github.com/sbcgua/ajson.git",
    "ssh_url": "git@github.com:sbcgua/ajson.git",
    "clone_url": "https://github.com/sbcgua/ajson.git",
    "svn_url": "https://github.com/sbcgua/ajson",
    "homepage": "",
-   "size": 524,
+   "size": 869,
    "stargazers_count": 55,
    "watchers_count": 55,
    "language": "ABAP",
@@ -38348,13 +38356,13 @@
    "has_projects": true,
    "has_downloads": true,
    "has_wiki": true,
-   "has_pages": false,
+   "has_pages": true,
    "has_discussions": false,
    "forks_count": 19,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 18,
+   "open_issues_count": 20,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -38372,7 +38380,7 @@
    ],
    "visibility": "public",
    "forks": 19,
-   "open_issues": 18,
+   "open_issues": 20,
    "watchers": 55,
    "default_branch": "master",
    "permissions": {
@@ -38463,13 +38471,13 @@
    "deployments_url": "https://api.github.com/repos/sbcgua/mockup_loader/deployments",
    "created_at": "2015-11-03T17:02:54Z",
    "updated_at": "2025-02-08T07:24:55Z",
-   "pushed_at": "2025-06-10T19:44:44Z",
+   "pushed_at": "2025-06-12T08:27:02Z",
    "git_url": "git://github.com/sbcgua/mockup_loader.git",
    "ssh_url": "git@github.com:sbcgua/mockup_loader.git",
    "clone_url": "https://github.com/sbcgua/mockup_loader.git",
    "svn_url": "https://github.com/sbcgua/mockup_loader",
    "homepage": "",
-   "size": 1066,
+   "size": 1077,
    "stargazers_count": 68,
    "watchers_count": 68,
    "language": "ABAP",
@@ -38522,7 +38530,7 @@
   }
  },
  "sbcgua/text2tab": {
-  "lines": 6119,
+  "lines": 6121,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -38534,7 +38542,7 @@
   ],
   "parsing": {
    "version": "2.113.126",
-   "cloud": 50
+   "cloud": 49
   },
   "repo": {
    "id": 65610470,
@@ -38604,14 +38612,14 @@
    "releases_url": "https://api.github.com/repos/sbcgua/text2tab/releases{/id}",
    "deployments_url": "https://api.github.com/repos/sbcgua/text2tab/deployments",
    "created_at": "2016-08-13T09:37:35Z",
-   "updated_at": "2025-05-29T09:06:33Z",
-   "pushed_at": "2025-06-10T02:17:28Z",
+   "updated_at": "2025-06-11T08:47:59Z",
+   "pushed_at": "2025-06-11T08:49:14Z",
    "git_url": "git://github.com/sbcgua/text2tab.git",
    "ssh_url": "git@github.com:sbcgua/text2tab.git",
    "clone_url": "https://github.com/sbcgua/text2tab.git",
    "svn_url": "https://github.com/sbcgua/text2tab",
    "homepage": "",
-   "size": 1038,
+   "size": 1039,
    "stargazers_count": 28,
    "watchers_count": 28,
    "language": "ABAP",
@@ -38625,7 +38633,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 7,
+   "open_issues_count": 5,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -38645,7 +38653,7 @@
    ],
    "visibility": "public",
    "forks": 11,
-   "open_issues": 7,
+   "open_issues": 5,
    "watchers": 28,
    "default_branch": "master",
    "permissions": {
