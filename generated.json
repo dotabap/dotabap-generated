@@ -1695,7 +1695,7 @@
    "clone_url": "https://github.com/DevEpos/abap-call-hierarchy.git",
    "svn_url": "https://github.com/DevEpos/abap-call-hierarchy",
    "homepage": null,
-   "size": 358,
+   "size": 363,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -8231,7 +8231,7 @@
    "releases_url": "https://api.github.com/repos/SAP-samples/abap-platform-fiori-feature-showcase/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP-samples/abap-platform-fiori-feature-showcase/deployments",
    "created_at": "2022-10-10T07:11:03Z",
-   "updated_at": "2025-07-08T19:31:40Z",
+   "updated_at": "2025-07-12T02:19:22Z",
    "pushed_at": "2025-03-10T15:07:02Z",
    "git_url": "git://github.com/SAP-samples/abap-platform-fiori-feature-showcase.git",
    "ssh_url": "git@github.com:SAP-samples/abap-platform-fiori-feature-showcase.git",
@@ -8239,8 +8239,8 @@
    "svn_url": "https://github.com/SAP-samples/abap-platform-fiori-feature-showcase",
    "homepage": "",
    "size": 27810,
-   "stargazers_count": 209,
-   "watchers_count": 209,
+   "stargazers_count": 210,
+   "watchers_count": 210,
    "language": null,
    "has_issues": true,
    "has_projects": true,
@@ -8277,7 +8277,7 @@
    "visibility": "public",
    "forks": 50,
    "open_issues": 4,
-   "watchers": 209,
+   "watchers": 210,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -9376,11 +9376,11 @@
   }
  },
  "SAP/abap-to-json": {
-  "lines": 6945,
+  "lines": 7004,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.136",
-   "cloud": 257
+   "cloud": 261
   },
   "repo": {
    "id": 629583220,
@@ -9450,14 +9450,14 @@
    "releases_url": "https://api.github.com/repos/SAP/abap-to-json/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/abap-to-json/deployments",
    "created_at": "2023-04-18T15:48:21Z",
-   "updated_at": "2025-07-07T13:49:44Z",
-   "pushed_at": "2025-06-25T15:34:47Z",
+   "updated_at": "2025-07-11T16:03:33Z",
+   "pushed_at": "2025-07-11T16:03:30Z",
    "git_url": "git://github.com/SAP/abap-to-json.git",
    "ssh_url": "git@github.com:SAP/abap-to-json.git",
    "clone_url": "https://github.com/SAP/abap-to-json.git",
    "svn_url": "https://github.com/SAP/abap-to-json",
    "homepage": null,
-   "size": 600,
+   "size": 624,
    "stargazers_count": 65,
    "watchers_count": 65,
    "language": "ABAP",
@@ -12395,7 +12395,7 @@
    "releases_url": "https://api.github.com/repos/abap-kochbuch/abap-kochbuch/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-kochbuch/abap-kochbuch/deployments",
    "created_at": "2025-03-17T19:06:23Z",
-   "updated_at": "2025-07-07T05:27:47Z",
+   "updated_at": "2025-07-11T11:08:58Z",
    "pushed_at": "2025-06-26T14:37:05Z",
    "git_url": "git://github.com/abap-kochbuch/abap-kochbuch.git",
    "ssh_url": "git@github.com:abap-kochbuch/abap-kochbuch.git",
@@ -13693,7 +13693,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 39613,
+  "lines": 39620,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.136",
@@ -13767,14 +13767,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2025-07-10T12:05:08Z",
-   "pushed_at": "2025-07-10T12:13:02Z",
+   "updated_at": "2025-07-11T15:41:05Z",
+   "pushed_at": "2025-07-11T15:42:31Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "https://www.abap2UI5.org",
-   "size": 5997,
+   "size": 6001,
    "stargazers_count": 332,
    "watchers_count": 332,
    "language": "ABAP",
@@ -13788,7 +13788,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 11,
+   "open_issues_count": 10,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -13811,7 +13811,7 @@
    ],
    "visibility": "public",
    "forks": 63,
-   "open_issues": 11,
+   "open_issues": 10,
    "watchers": 332,
    "default_branch": "main",
    "permissions": {
@@ -14692,7 +14692,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 185608,
+  "lines": 185610,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.136",
@@ -14766,14 +14766,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2025-07-10T14:09:09Z",
-   "pushed_at": "2025-07-11T08:13:50Z",
+   "updated_at": "2025-07-11T13:52:17Z",
+   "pushed_at": "2025-07-12T07:27:47Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 26095,
+   "size": 26269,
    "stargazers_count": 1645,
    "watchers_count": 1645,
    "language": "ABAP",
@@ -14783,11 +14783,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 561,
+   "forks_count": 560,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 90,
+   "open_issues_count": 91,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14808,8 +14808,8 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 561,
-   "open_issues": 90,
+   "forks": 560,
+   "open_issues": 91,
    "watchers": 1645,
    "default_branch": "main",
    "permissions": {
@@ -14842,7 +14842,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 561,
+   "network_count": 560,
    "subscribers_count": 134
   }
  },
@@ -32672,13 +32672,13 @@
    "deployments_url": "https://api.github.com/repos/mariokernich/odapu-abap/deployments",
    "created_at": "2025-05-29T13:37:52Z",
    "updated_at": "2025-06-23T09:15:18Z",
-   "pushed_at": "2025-07-06T17:11:27Z",
+   "pushed_at": "2025-07-11T13:19:46Z",
    "git_url": "git://github.com/mariokernich/odapu-abap.git",
    "ssh_url": "git@github.com:mariokernich/odapu-abap.git",
    "clone_url": "https://github.com/mariokernich/odapu-abap.git",
    "svn_url": "https://github.com/mariokernich/odapu-abap",
    "homepage": "",
-   "size": 85277,
+   "size": 85347,
    "stargazers_count": 8,
    "watchers_count": 8,
    "language": "ABAP",
@@ -33810,7 +33810,7 @@
   }
  },
  "oisee/zvdb": {
-  "lines": 4028,
+  "lines": 4011,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.136",
@@ -33884,14 +33884,14 @@
    "releases_url": "https://api.github.com/repos/oisee/zvdb/releases{/id}",
    "deployments_url": "https://api.github.com/repos/oisee/zvdb/deployments",
    "created_at": "2023-11-19T21:22:14Z",
-   "updated_at": "2025-07-11T04:33:32Z",
-   "pushed_at": "2024-04-28T11:25:16Z",
+   "updated_at": "2025-07-12T03:26:25Z",
+   "pushed_at": "2025-07-12T03:26:21Z",
    "git_url": "git://github.com/oisee/zvdb.git",
    "ssh_url": "git@github.com:oisee/zvdb.git",
    "clone_url": "https://github.com/oisee/zvdb.git",
    "svn_url": "https://github.com/oisee/zvdb",
    "homepage": "",
-   "size": 2202,
+   "size": 2220,
    "stargazers_count": 40,
    "watchers_count": 40,
    "language": "ABAP",
@@ -33905,7 +33905,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 2,
+   "open_issues_count": 0,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -33922,7 +33922,7 @@
    ],
    "visibility": "public",
    "forks": 7,
-   "open_issues": 2,
+   "open_issues": 0,
    "watchers": 40,
    "default_branch": "main",
    "permissions": {
@@ -42425,7 +42425,7 @@
    "has_wiki": true,
    "has_pages": true,
    "has_discussions": false,
-   "forks_count": 5,
+   "forks_count": 4,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -42451,7 +42451,7 @@
     "watson-developer-cloud"
    ],
    "visibility": "public",
-   "forks": 5,
+   "forks": 4,
    "open_issues": 0,
    "watchers": 18,
    "default_branch": "master",
@@ -42485,7 +42485,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 5,
+   "network_count": 4,
    "subscribers_count": 14
   }
  },
