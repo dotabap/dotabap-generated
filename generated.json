@@ -9771,11 +9771,11 @@
   }
  },
  "SAP/code-pal-for-abap": {
-  "lines": 25417,
+  "lines": 25422,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.237",
-   "cloud": 150
+   "cloud": 151
   },
   "repo": {
    "id": 252472689,
@@ -9845,14 +9845,14 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2025-11-11T00:08:20Z",
-   "pushed_at": "2025-09-17T07:30:33Z",
+   "updated_at": "2025-11-11T11:22:23Z",
+   "pushed_at": "2025-11-11T11:22:18Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
    "clone_url": "https://github.com/SAP/code-pal-for-abap.git",
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
-   "size": 3108,
+   "size": 3107,
    "stargazers_count": 403,
    "watchers_count": 403,
    "language": "ABAP",
@@ -9866,7 +9866,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 35,
+   "open_issues_count": 34,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -9891,7 +9891,7 @@
    ],
    "visibility": "public",
    "forks": 75,
-   "open_issues": 35,
+   "open_issues": 34,
    "watchers": 403,
    "default_branch": "master",
    "permissions": {
@@ -10617,14 +10617,14 @@
    "releases_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SchwarzIT/sap-usi-logging-api/deployments",
    "created_at": "2021-07-06T09:15:31Z",
-   "updated_at": "2025-09-04T07:52:19Z",
-   "pushed_at": "2025-09-04T07:59:28Z",
+   "updated_at": "2025-11-11T15:05:18Z",
+   "pushed_at": "2025-11-11T15:10:20Z",
    "git_url": "git://github.com/SchwarzIT/sap-usi-logging-api.git",
    "ssh_url": "git@github.com:SchwarzIT/sap-usi-logging-api.git",
    "clone_url": "https://github.com/SchwarzIT/sap-usi-logging-api.git",
    "svn_url": "https://github.com/SchwarzIT/sap-usi-logging-api",
    "homepage": "",
-   "size": 791,
+   "size": 794,
    "stargazers_count": 26,
    "watchers_count": 26,
    "language": "ABAP",
@@ -10638,7 +10638,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 2,
+   "open_issues_count": 1,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -10658,7 +10658,7 @@
    ],
    "visibility": "public",
    "forks": 0,
-   "open_issues": 2,
+   "open_issues": 1,
    "watchers": 26,
    "default_branch": "main",
    "permissions": {
@@ -15384,11 +15384,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 16,
+   "forks_count": 17,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 18,
+   "open_issues_count": 19,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -15403,8 +15403,8 @@
     "abapgit"
    ],
    "visibility": "public",
-   "forks": 16,
-   "open_issues": 18,
+   "forks": 17,
+   "open_issues": 19,
    "watchers": 32,
    "default_branch": "main",
    "permissions": {
@@ -15437,7 +15437,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 16,
+   "network_count": 17,
    "subscribers_count": 13
   }
  },
@@ -15516,7 +15516,7 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2025-11-11T00:06:01Z",
+   "updated_at": "2025-11-12T04:41:47Z",
    "pushed_at": "2025-11-06T00:17:03Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
@@ -15524,8 +15524,8 @@
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
    "size": 26378,
-   "stargazers_count": 1699,
-   "watchers_count": 1699,
+   "stargazers_count": 1700,
+   "watchers_count": 1700,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -15533,11 +15533,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 573,
+   "forks_count": 574,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 93,
+   "open_issues_count": 94,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -15558,9 +15558,9 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 573,
-   "open_issues": 93,
-   "watchers": 1699,
+   "forks": 574,
+   "open_issues": 94,
+   "watchers": 1700,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -15592,7 +15592,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 573,
+   "network_count": 574,
    "subscribers_count": 131
   }
  },
@@ -28024,7 +28024,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -28047,7 +28047,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 5,
+   "forks": 6,
    "open_issues": 0,
    "watchers": 16,
    "default_branch": "Main",
@@ -28059,7 +28059,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 5
   }
  },
@@ -32508,7 +32508,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 308,
+   "open_issues_count": 309,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -32530,7 +32530,7 @@
    ],
    "visibility": "public",
    "forks": 80,
-   "open_issues": 308,
+   "open_issues": 309,
    "watchers": 299,
    "default_branch": "main",
    "permissions": {
@@ -39669,7 +39669,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 20,
+   "open_issues_count": 21,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -39687,7 +39687,7 @@
    ],
    "visibility": "public",
    "forks": 19,
-   "open_issues": 20,
+   "open_issues": 21,
    "watchers": 60,
    "default_branch": "master",
    "permissions": {
@@ -44139,7 +44139,7 @@
   }
  },
  "ysichov/ACE": {
-  "lines": 14775,
+  "lines": 14891,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.113.237",
@@ -44213,14 +44213,14 @@
    "releases_url": "https://api.github.com/repos/ysichov/ACE/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/ACE/deployments",
    "created_at": "2025-09-11T12:25:28Z",
-   "updated_at": "2025-11-09T12:50:41Z",
-   "pushed_at": "2025-11-09T12:50:37Z",
+   "updated_at": "2025-11-12T07:07:48Z",
+   "pushed_at": "2025-11-12T07:07:44Z",
    "git_url": "git://github.com/ysichov/ACE.git",
    "ssh_url": "git@github.com:ysichov/ACE.git",
    "clone_url": "https://github.com/ysichov/ACE.git",
    "svn_url": "https://github.com/ysichov/ACE",
    "homepage": "",
-   "size": 1760,
+   "size": 1987,
    "stargazers_count": 25,
    "watchers_count": 25,
    "language": "ABAP",
