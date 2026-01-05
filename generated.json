@@ -9011,7 +9011,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 70,
+   "forks_count": 71,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -9038,7 +9038,7 @@
     "sap-btp-abap"
    ],
    "visibility": "public",
-   "forks": 70,
+   "forks": 71,
    "open_issues": 20,
    "watchers": 278,
    "default_branch": "main",
@@ -9072,7 +9072,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 70,
+   "network_count": 71,
    "subscribers_count": 36
   }
  },
@@ -10483,11 +10483,11 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": true,
-   "forks_count": 0,
+   "forks_count": 1,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 2,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -10504,8 +10504,8 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 0,
-   "open_issues": 0,
+   "forks": 1,
+   "open_issues": 2,
    "watchers": 4,
    "default_branch": "main",
    "permissions": {
@@ -10538,7 +10538,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 0,
+   "network_count": 1,
    "subscribers_count": 5
   }
  },
@@ -29006,7 +29006,7 @@
   }
  },
  "greltel/ABAP-Cloud-Logger": {
-  "lines": 1279,
+  "lines": 1332,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.115.5",
@@ -29080,14 +29080,14 @@
    "releases_url": "https://api.github.com/repos/greltel/ABAP-Cloud-Logger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/greltel/ABAP-Cloud-Logger/deployments",
    "created_at": "2025-07-16T10:22:51Z",
-   "updated_at": "2026-01-03T22:07:08Z",
-   "pushed_at": "2026-01-03T22:07:05Z",
+   "updated_at": "2026-01-04T22:17:31Z",
+   "pushed_at": "2026-01-04T22:17:28Z",
    "git_url": "git://github.com/greltel/ABAP-Cloud-Logger.git",
    "ssh_url": "git@github.com:greltel/ABAP-Cloud-Logger.git",
    "clone_url": "https://github.com/greltel/ABAP-Cloud-Logger.git",
    "svn_url": "https://github.com/greltel/ABAP-Cloud-Logger",
    "homepage": "",
-   "size": 217,
+   "size": 189,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -29268,7 +29268,7 @@
   }
  },
  "greltel/ABAP-Point-Gate": {
-  "lines": 990,
+  "lines": 994,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.115.5",
@@ -29342,16 +29342,16 @@
    "releases_url": "https://api.github.com/repos/greltel/ABAP-Point-Gate/releases{/id}",
    "deployments_url": "https://api.github.com/repos/greltel/ABAP-Point-Gate/deployments",
    "created_at": "2025-09-11T09:42:07Z",
-   "updated_at": "2026-01-03T21:46:51Z",
-   "pushed_at": "2026-01-03T21:46:48Z",
+   "updated_at": "2026-01-05T08:32:47Z",
+   "pushed_at": "2026-01-04T21:55:07Z",
    "git_url": "git://github.com/greltel/ABAP-Point-Gate.git",
    "ssh_url": "git@github.com:greltel/ABAP-Point-Gate.git",
    "clone_url": "https://github.com/greltel/ABAP-Point-Gate.git",
    "svn_url": "https://github.com/greltel/ABAP-Point-Gate",
    "homepage": "",
-   "size": 147,
-   "stargazers_count": 6,
-   "watchers_count": 6,
+   "size": 95,
+   "stargazers_count": 8,
+   "watchers_count": 8,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -29378,7 +29378,7 @@
    "visibility": "public",
    "forks": 0,
    "open_issues": 0,
-   "watchers": 6,
+   "watchers": 8,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -35584,7 +35584,7 @@
   }
  },
  "monstermichl/HandlebarsABAP": {
-  "lines": 2940,
+  "lines": 2975,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.115.5",
@@ -35658,14 +35658,14 @@
    "releases_url": "https://api.github.com/repos/monstermichl/HandlebarsABAP/releases{/id}",
    "deployments_url": "https://api.github.com/repos/monstermichl/HandlebarsABAP/deployments",
    "created_at": "2025-12-06T08:57:05Z",
-   "updated_at": "2025-12-22T08:37:06Z",
-   "pushed_at": "2025-12-21T10:59:01Z",
+   "updated_at": "2026-01-04T18:07:14Z",
+   "pushed_at": "2026-01-04T18:07:37Z",
    "git_url": "git://github.com/monstermichl/HandlebarsABAP.git",
    "ssh_url": "git@github.com:monstermichl/HandlebarsABAP.git",
    "clone_url": "https://github.com/monstermichl/HandlebarsABAP.git",
    "svn_url": "https://github.com/monstermichl/HandlebarsABAP",
    "homepage": "",
-   "size": 53,
+   "size": 82,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
