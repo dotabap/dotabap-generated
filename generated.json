@@ -13145,7 +13145,7 @@
    "releases_url": "https://api.github.com/repos/abap-kochbuch/abap-kochbuch/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-kochbuch/abap-kochbuch/deployments",
    "created_at": "2025-03-17T19:06:23Z",
-   "updated_at": "2025-12-29T21:41:18Z",
+   "updated_at": "2026-01-11T19:14:35Z",
    "pushed_at": "2025-11-13T08:48:55Z",
    "git_url": "git://github.com/abap-kochbuch/abap-kochbuch.git",
    "ssh_url": "git@github.com:abap-kochbuch/abap-kochbuch.git",
@@ -14846,7 +14846,7 @@
    "has_wiki": false,
    "has_pages": true,
    "has_discussions": true,
-   "forks_count": 307,
+   "forks_count": 308,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -14877,7 +14877,7 @@
     "sap-netweaver"
    ],
    "visibility": "public",
-   "forks": 307,
+   "forks": 308,
    "open_issues": 138,
    "watchers": 829,
    "default_branch": "main",
@@ -14911,7 +14911,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 307,
+   "network_count": 308,
    "subscribers_count": 72
   }
  },
@@ -15589,7 +15589,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 194824,
+  "lines": 194830,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.115.13",
@@ -15663,8 +15663,8 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2026-01-09T17:17:41Z",
-   "pushed_at": "2026-01-09T21:42:06Z",
+   "updated_at": "2026-01-11T20:50:09Z",
+   "pushed_at": "2026-01-11T20:50:25Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
@@ -15680,11 +15680,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 578,
+   "forks_count": 579,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 108,
+   "open_issues_count": 107,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -15705,8 +15705,8 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 578,
-   "open_issues": 108,
+   "forks": 579,
+   "open_issues": 107,
    "watchers": 1734,
    "default_branch": "main",
    "permissions": {
@@ -15739,8 +15739,8 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 578,
-   "subscribers_count": 134
+   "network_count": 579,
+   "subscribers_count": 135
   }
  },
  "abapGit/background_modes": {
@@ -29211,14 +29211,14 @@
    "releases_url": "https://api.github.com/repos/greltel/ABAP-Projects/releases{/id}",
    "deployments_url": "https://api.github.com/repos/greltel/ABAP-Projects/deployments",
    "created_at": "2021-01-18T07:05:33Z",
-   "updated_at": "2026-01-10T11:41:07Z",
-   "pushed_at": "2026-01-10T11:41:04Z",
+   "updated_at": "2026-01-11T16:16:45Z",
+   "pushed_at": "2026-01-11T16:16:42Z",
    "git_url": "git://github.com/greltel/ABAP-Projects.git",
    "ssh_url": "git@github.com:greltel/ABAP-Projects.git",
    "clone_url": "https://github.com/greltel/ABAP-Projects.git",
    "svn_url": "https://github.com/greltel/ABAP-Projects",
    "homepage": "",
-   "size": 449,
+   "size": 454,
    "stargazers_count": 17,
    "watchers_count": 17,
    "language": "ABAP",
@@ -29342,7 +29342,7 @@
    "releases_url": "https://api.github.com/repos/greltel/ABAP-Point-Gate/releases{/id}",
    "deployments_url": "https://api.github.com/repos/greltel/ABAP-Point-Gate/deployments",
    "created_at": "2025-09-11T09:42:07Z",
-   "updated_at": "2026-01-10T21:23:45Z",
+   "updated_at": "2026-01-11T16:18:18Z",
    "pushed_at": "2026-01-06T10:25:27Z",
    "git_url": "git://github.com/greltel/ABAP-Point-Gate.git",
    "ssh_url": "git@github.com:greltel/ABAP-Point-Gate.git",
@@ -29350,8 +29350,8 @@
    "svn_url": "https://github.com/greltel/ABAP-Point-Gate",
    "homepage": "",
    "size": 118,
-   "stargazers_count": 26,
-   "watchers_count": 26,
+   "stargazers_count": 27,
+   "watchers_count": 27,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -29374,11 +29374,17 @@
    "allow_forking": true,
    "is_template": false,
    "web_commit_signoff_required": false,
-   "topics": [],
+   "topics": [
+    "abap",
+    "abap-development",
+    "abap-oo",
+    "abapgit",
+    "sap"
+   ],
    "visibility": "public",
    "forks": 4,
    "open_issues": 0,
-   "watchers": 26,
+   "watchers": 27,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -35141,7 +35147,7 @@
    "deployments_url": "https://api.github.com/repos/miggi92/odata-fw/deployments",
    "created_at": "2022-06-02T15:27:07Z",
    "updated_at": "2025-09-22T12:38:55Z",
-   "pushed_at": "2026-01-10T05:03:02Z",
+   "pushed_at": "2026-01-11T09:29:06Z",
    "git_url": "git://github.com/miggi92/odata-fw.git",
    "ssh_url": "git@github.com:miggi92/odata-fw.git",
    "clone_url": "https://github.com/miggi92/odata-fw.git",
