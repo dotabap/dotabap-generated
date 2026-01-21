@@ -4113,11 +4113,11 @@
   }
  },
  "Kaszub09/abapEasyDev": {
-  "lines": 11664,
+  "lines": 11900,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.115.16",
-   "cloud": 450
+   "cloud": 479
   },
   "repo": {
    "id": 913725235,
@@ -4187,14 +4187,14 @@
    "releases_url": "https://api.github.com/repos/Kaszub09/abapEasyDev/releases{/id}",
    "deployments_url": "https://api.github.com/repos/Kaszub09/abapEasyDev/deployments",
    "created_at": "2025-01-08T08:33:11Z",
-   "updated_at": "2026-01-08T04:56:02Z",
-   "pushed_at": "2025-12-29T12:55:16Z",
+   "updated_at": "2026-01-20T13:52:52Z",
+   "pushed_at": "2026-01-20T13:52:49Z",
    "git_url": "git://github.com/Kaszub09/abapEasyDev.git",
    "ssh_url": "git@github.com:Kaszub09/abapEasyDev.git",
    "clone_url": "https://github.com/Kaszub09/abapEasyDev.git",
    "svn_url": "https://github.com/Kaszub09/abapEasyDev",
    "homepage": null,
-   "size": 3936,
+   "size": 3949,
    "stargazers_count": 4,
    "watchers_count": 4,
    "language": "ABAP",
@@ -7212,7 +7212,7 @@
    "releases_url": "https://api.github.com/repos/OlegBash599/AnyTabUpdateTask/releases{/id}",
    "deployments_url": "https://api.github.com/repos/OlegBash599/AnyTabUpdateTask/deployments",
    "created_at": "2022-06-29T14:19:06Z",
-   "updated_at": "2025-11-07T03:14:20Z",
+   "updated_at": "2026-01-20T13:53:34Z",
    "pushed_at": "2024-12-31T23:08:53Z",
    "git_url": "git://github.com/OlegBash599/AnyTabUpdateTask.git",
    "ssh_url": "git@github.com:OlegBash599/AnyTabUpdateTask.git",
@@ -7220,8 +7220,8 @@
    "svn_url": "https://github.com/OlegBash599/AnyTabUpdateTask",
    "homepage": null,
    "size": 146,
-   "stargazers_count": 28,
-   "watchers_count": 28,
+   "stargazers_count": 29,
+   "watchers_count": 29,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -7248,7 +7248,7 @@
    "visibility": "public",
    "forks": 5,
    "open_issues": 1,
-   "watchers": 28,
+   "watchers": 29,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -14538,7 +14538,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 0,
+   "open_issues_count": 1,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14552,7 +14552,7 @@
    "topics": [],
    "visibility": "public",
    "forks": 1,
-   "open_issues": 0,
+   "open_issues": 1,
    "watchers": 8,
    "default_branch": "main",
    "permissions": {
@@ -14846,11 +14846,11 @@
    "has_wiki": false,
    "has_pages": true,
    "has_discussions": true,
-   "forks_count": 308,
+   "forks_count": 309,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 139,
+   "open_issues_count": 140,
    "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -14877,8 +14877,8 @@
     "sap-netweaver"
    ],
    "visibility": "public",
-   "forks": 308,
-   "open_issues": 139,
+   "forks": 309,
+   "open_issues": 140,
    "watchers": 830,
    "default_branch": "main",
    "permissions": {
@@ -14911,7 +14911,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 308,
+   "network_count": 309,
    "subscribers_count": 72
   }
  },
@@ -15589,7 +15589,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 195170,
+  "lines": 195195,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.115.16",
@@ -15663,14 +15663,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2026-01-19T15:41:49Z",
-   "pushed_at": "2026-01-19T15:41:57Z",
+   "updated_at": "2026-01-20T13:15:14Z",
+   "pushed_at": "2026-01-21T07:26:34Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 26596,
+   "size": 26685,
    "stargazers_count": 1741,
    "watchers_count": 1741,
    "language": "ABAP",
@@ -15684,7 +15684,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 101,
+   "open_issues_count": 103,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -15706,7 +15706,7 @@
    ],
    "visibility": "public",
    "forks": 580,
-   "open_issues": 101,
+   "open_issues": 103,
    "watchers": 1741,
    "default_branch": "main",
    "permissions": {
@@ -15740,7 +15740,7 @@
     "site_admin": false
    },
    "network_count": 580,
-   "subscribers_count": 134
+   "subscribers_count": 135
   }
  },
  "abapGit/background_modes": {
@@ -36099,7 +36099,7 @@
    "releases_url": "https://api.github.com/repos/oisee/zllm/releases{/id}",
    "deployments_url": "https://api.github.com/repos/oisee/zllm/deployments",
    "created_at": "2025-06-15T12:30:29Z",
-   "updated_at": "2026-01-18T11:50:19Z",
+   "updated_at": "2026-01-20T13:08:43Z",
    "pushed_at": "2026-01-01T18:46:37Z",
    "git_url": "git://github.com/oisee/zllm.git",
    "ssh_url": "git@github.com:oisee/zllm.git",
@@ -36107,8 +36107,8 @@
    "svn_url": "https://github.com/oisee/zllm",
    "homepage": "",
    "size": 822,
-   "stargazers_count": 50,
-   "watchers_count": 50,
+   "stargazers_count": 52,
+   "watchers_count": 52,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -36143,7 +36143,7 @@
    "visibility": "public",
    "forks": 8,
    "open_issues": 5,
-   "watchers": 50,
+   "watchers": 52,
    "default_branch": "main",
    "permissions": {
     "admin": false,
