@@ -8335,7 +8335,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 62,
+   "forks_count": 63,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -8361,7 +8361,7 @@
     "sample-code"
    ],
    "visibility": "public",
-   "forks": 62,
+   "forks": 63,
    "open_issues": 0,
    "watchers": 207,
    "default_branch": "main",
@@ -8395,7 +8395,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 62,
+   "network_count": 63,
    "subscribers_count": 28
   }
  },
@@ -9039,7 +9039,7 @@
   }
  },
  "SAP-samples/cloud-abap-rap": {
-  "lines": 35069,
+  "lines": 35167,
   "startingFolder": "/src/",
   "ignoreFiles": [
    "/.gitignore",
@@ -9121,13 +9121,13 @@
    "deployments_url": "https://api.github.com/repos/SAP-samples/cloud-abap-rap/deployments",
    "created_at": "2020-05-18T21:27:35Z",
    "updated_at": "2026-02-19T19:02:45Z",
-   "pushed_at": "2026-02-19T18:44:48Z",
+   "pushed_at": "2026-02-20T23:17:39Z",
    "git_url": "git://github.com/SAP-samples/cloud-abap-rap.git",
    "ssh_url": "git@github.com:SAP-samples/cloud-abap-rap.git",
    "clone_url": "https://github.com/SAP-samples/cloud-abap-rap.git",
    "svn_url": "https://github.com/SAP-samples/cloud-abap-rap",
    "homepage": "",
-   "size": 3819,
+   "size": 3837,
    "stargazers_count": 285,
    "watchers_count": 285,
    "language": null,
@@ -9709,7 +9709,7 @@
    "releases_url": "https://api.github.com/repos/SAP/abap-to-json/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/abap-to-json/deployments",
    "created_at": "2023-04-18T15:48:21Z",
-   "updated_at": "2026-02-19T15:58:44Z",
+   "updated_at": "2026-02-20T09:17:09Z",
    "pushed_at": "2026-02-19T15:55:26Z",
    "git_url": "git://github.com/SAP/abap-to-json.git",
    "ssh_url": "git@github.com:SAP/abap-to-json.git",
@@ -9717,8 +9717,8 @@
    "svn_url": "https://github.com/SAP/abap-to-json",
    "homepage": null,
    "size": 814,
-   "stargazers_count": 78,
-   "watchers_count": 78,
+   "stargazers_count": 79,
+   "watchers_count": 79,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -9755,7 +9755,7 @@
    "visibility": "public",
    "forks": 14,
    "open_issues": 0,
-   "watchers": 78,
+   "watchers": 79,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -14258,7 +14258,7 @@
    "clone_url": "https://github.com/abap-wasm/abap-wasm.git",
    "svn_url": "https://github.com/abap-wasm/abap-wasm",
    "homepage": "https://abap-wasm.github.io/abap-wasm-web/",
-   "size": 3093,
+   "size": 3162,
    "stargazers_count": 25,
    "watchers_count": 25,
    "language": "ABAP",
@@ -14268,7 +14268,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 5,
+   "forks_count": 6,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -14291,7 +14291,7 @@
     "webassembly"
    ],
    "visibility": "public",
-   "forks": 5,
+   "forks": 6,
    "open_issues": 10,
    "watchers": 25,
    "default_branch": "main",
@@ -14325,7 +14325,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 5,
+   "network_count": 6,
    "subscribers_count": 5
   }
  },
@@ -15217,7 +15217,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 9,
+   "forks_count": 10,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -15242,7 +15242,7 @@
     "sap"
    ],
    "visibility": "public",
-   "forks": 9,
+   "forks": 10,
    "open_issues": 3,
    "watchers": 18,
    "default_branch": "master",
@@ -15365,7 +15365,7 @@
     },
     "temp_clone_token": ""
    },
-   "network_count": 9,
+   "network_count": 10,
    "subscribers_count": 1
   }
  },
@@ -15809,7 +15809,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 197027,
+  "lines": 197095,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.115.24",
@@ -15883,14 +15883,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2026-02-19T17:42:24Z",
-   "pushed_at": "2026-02-20T03:43:55Z",
+   "updated_at": "2026-02-20T15:14:39Z",
+   "pushed_at": "2026-02-20T19:05:55Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 26934,
+   "size": 26913,
    "stargazers_count": 1754,
    "watchers_count": 1754,
    "language": "ABAP",
@@ -15900,11 +15900,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 583,
+   "forks_count": 584,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 83,
+   "open_issues_count": 84,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -15927,8 +15927,8 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 583,
-   "open_issues": 83,
+   "forks": 584,
+   "open_issues": 84,
    "watchers": 1754,
    "default_branch": "main",
    "permissions": {
@@ -15961,7 +15961,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 583,
+   "network_count": 584,
    "subscribers_count": 135
   }
  },
@@ -16434,7 +16434,7 @@
   }
  },
  "abapPM/ABAP-HTML-Diff": {
-  "lines": 2453,
+  "lines": 2442,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.115.24",
@@ -16508,14 +16508,14 @@
    "releases_url": "https://api.github.com/repos/abapPM/ABAP-HTML-Diff/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapPM/ABAP-HTML-Diff/deployments",
    "created_at": "2022-06-02T13:41:15Z",
-   "updated_at": "2026-02-05T22:11:32Z",
-   "pushed_at": "2026-02-05T22:11:28Z",
+   "updated_at": "2026-02-20T08:56:03Z",
+   "pushed_at": "2026-02-20T08:55:59Z",
    "git_url": "git://github.com/abapPM/ABAP-HTML-Diff.git",
    "ssh_url": "git@github.com:abapPM/ABAP-HTML-Diff.git",
    "clone_url": "https://github.com/abapPM/ABAP-HTML-Diff.git",
    "svn_url": "https://github.com/abapPM/ABAP-HTML-Diff",
    "homepage": "https://abappm.com",
-   "size": 86,
+   "size": 101,
    "stargazers_count": 6,
    "watchers_count": 6,
    "language": "ABAP",
@@ -28569,7 +28569,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 6,
+   "forks_count": 7,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -28595,7 +28595,7 @@
     "swagger"
    ],
    "visibility": "public",
-   "forks": 6,
+   "forks": 7,
    "open_issues": 3,
    "watchers": 40,
    "default_branch": "main",
@@ -28607,7 +28607,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 6,
+   "network_count": 7,
    "subscribers_count": 8
   }
  },
@@ -33639,7 +33639,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 41,
+   "forks_count": 42,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -33663,7 +33663,7 @@
     "swagger"
    ],
    "visibility": "public",
-   "forks": 41,
+   "forks": 42,
    "open_issues": 24,
    "watchers": 101,
    "default_branch": "main",
@@ -33675,7 +33675,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 41,
+   "network_count": 42,
    "subscribers_count": 16
   }
  },
@@ -35786,13 +35786,13 @@
    "deployments_url": "https://api.github.com/repos/miggi92/odata-fw/deployments",
    "created_at": "2022-06-02T15:27:07Z",
    "updated_at": "2026-02-18T15:28:18Z",
-   "pushed_at": "2026-02-20T06:10:20Z",
+   "pushed_at": "2026-02-20T18:16:29Z",
    "git_url": "git://github.com/miggi92/odata-fw.git",
    "ssh_url": "git@github.com:miggi92/odata-fw.git",
    "clone_url": "https://github.com/miggi92/odata-fw.git",
    "svn_url": "https://github.com/miggi92/odata-fw",
    "homepage": "https://miggi92.github.io/odata-fw/",
-   "size": 3647,
+   "size": 3666,
    "stargazers_count": 14,
    "watchers_count": 14,
    "language": "ABAP",
@@ -36769,7 +36769,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 7,
+   "forks_count": 8,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -36796,7 +36796,7 @@
     "tokenizer"
    ],
    "visibility": "public",
-   "forks": 7,
+   "forks": 8,
    "open_issues": 5,
    "watchers": 56,
    "default_branch": "main",
@@ -36808,7 +36808,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 7,
+   "network_count": 8,
    "subscribers_count": 2
   }
  },
@@ -37039,7 +37039,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 9,
+   "forks_count": 10,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -37061,7 +37061,7 @@
     "vectordb"
    ],
    "visibility": "public",
-   "forks": 9,
+   "forks": 10,
    "open_issues": 1,
    "watchers": 45,
    "default_branch": "main",
@@ -37073,7 +37073,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 9,
+   "network_count": 10,
    "subscribers_count": 3
   }
  },
@@ -46481,14 +46481,14 @@
    "releases_url": "https://api.github.com/repos/ysichov/ACE/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/ACE/deployments",
    "created_at": "2025-09-11T12:25:28Z",
-   "updated_at": "2026-02-07T20:59:39Z",
-   "pushed_at": "2026-02-07T20:59:35Z",
+   "updated_at": "2026-02-20T17:54:10Z",
+   "pushed_at": "2026-02-20T17:54:06Z",
    "git_url": "git://github.com/ysichov/ACE.git",
    "ssh_url": "git@github.com:ysichov/ACE.git",
    "clone_url": "https://github.com/ysichov/ACE.git",
    "svn_url": "https://github.com/ysichov/ACE",
    "homepage": "",
-   "size": 956,
+   "size": 1015,
    "stargazers_count": 30,
    "watchers_count": 30,
    "language": "ABAP",
@@ -46800,7 +46800,7 @@
   }
  },
  "ysichov/Simple-Data-Explorer": {
-  "lines": 10454,
+  "lines": 10471,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.115.24",
@@ -46874,14 +46874,14 @@
    "releases_url": "https://api.github.com/repos/ysichov/Simple-Data-Explorer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/Simple-Data-Explorer/deployments",
    "created_at": "2020-02-09T22:46:51Z",
-   "updated_at": "2025-12-25T15:50:42Z",
-   "pushed_at": "2025-11-26T20:56:47Z",
+   "updated_at": "2026-02-20T13:05:40Z",
+   "pushed_at": "2026-02-20T13:05:36Z",
    "git_url": "git://github.com/ysichov/Simple-Data-Explorer.git",
    "ssh_url": "git@github.com:ysichov/Simple-Data-Explorer.git",
    "clone_url": "https://github.com/ysichov/Simple-Data-Explorer.git",
    "svn_url": "https://github.com/ysichov/Simple-Data-Explorer",
    "homepage": "",
-   "size": 725,
+   "size": 771,
    "stargazers_count": 61,
    "watchers_count": 61,
    "language": "ABAP",
