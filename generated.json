@@ -9983,7 +9983,7 @@
    "releases_url": "https://api.github.com/repos/SAP/code-pal-for-abap/releases{/id}",
    "deployments_url": "https://api.github.com/repos/SAP/code-pal-for-abap/deployments",
    "created_at": "2020-04-02T14:05:42Z",
-   "updated_at": "2026-03-16T08:44:29Z",
+   "updated_at": "2026-03-19T04:04:06Z",
    "pushed_at": "2026-01-23T09:15:21Z",
    "git_url": "git://github.com/SAP/code-pal-for-abap.git",
    "ssh_url": "git@github.com:SAP/code-pal-for-abap.git",
@@ -9991,8 +9991,8 @@
    "svn_url": "https://github.com/SAP/code-pal-for-abap",
    "homepage": "",
    "size": 3128,
-   "stargazers_count": 420,
-   "watchers_count": 420,
+   "stargazers_count": 421,
+   "watchers_count": 421,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -10032,7 +10032,7 @@
    "visibility": "public",
    "forks": 74,
    "open_issues": 35,
-   "watchers": 420,
+   "watchers": 421,
    "default_branch": "master",
    "permissions": {
     "admin": false,
@@ -10065,7 +10065,7 @@
     "site_admin": false
    },
    "network_count": 74,
-   "subscribers_count": 23
+   "subscribers_count": 24
   }
  },
  "SAP2Moose/SAP2Moose": {
@@ -15890,7 +15890,7 @@
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 27124,
+   "size": 27125,
    "stargazers_count": 1782,
    "watchers_count": 1782,
    "language": "ABAP",
@@ -22910,7 +22910,7 @@
   }
  },
  "boy0korea/abap2json": {
-  "lines": 1735,
+  "lines": 1738,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.117.2",
@@ -22984,14 +22984,14 @@
    "releases_url": "https://api.github.com/repos/boy0korea/abap2json/releases{/id}",
    "deployments_url": "https://api.github.com/repos/boy0korea/abap2json/deployments",
    "created_at": "2021-07-04T15:01:33Z",
-   "updated_at": "2026-02-19T07:28:54Z",
-   "pushed_at": "2026-02-19T07:28:51Z",
+   "updated_at": "2026-03-19T04:59:32Z",
+   "pushed_at": "2026-03-19T04:59:29Z",
    "git_url": "git://github.com/boy0korea/abap2json.git",
    "ssh_url": "git@github.com:boy0korea/abap2json.git",
    "clone_url": "https://github.com/boy0korea/abap2json.git",
    "svn_url": "https://github.com/boy0korea/abap2json",
    "homepage": "",
-   "size": 145,
+   "size": 158,
    "stargazers_count": 2,
    "watchers_count": 2,
    "language": "ABAP",
@@ -35786,7 +35786,7 @@
    "deployments_url": "https://api.github.com/repos/miggi92/odata-fw/deployments",
    "created_at": "2022-06-02T15:27:07Z",
    "updated_at": "2026-03-12T21:42:16Z",
-   "pushed_at": "2026-03-17T12:40:43Z",
+   "pushed_at": "2026-03-18T18:04:01Z",
    "git_url": "git://github.com/miggi92/odata-fw.git",
    "ssh_url": "git@github.com:miggi92/odata-fw.git",
    "clone_url": "https://github.com/miggi92/odata-fw.git",
@@ -36237,7 +36237,7 @@
   }
  },
  "monstermichl/HandlebarsABAP": {
-  "lines": 2975,
+  "lines": 3014,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.117.2",
@@ -36311,14 +36311,14 @@
    "releases_url": "https://api.github.com/repos/monstermichl/HandlebarsABAP/releases{/id}",
    "deployments_url": "https://api.github.com/repos/monstermichl/HandlebarsABAP/deployments",
    "created_at": "2025-12-06T08:57:05Z",
-   "updated_at": "2026-01-12T20:52:29Z",
-   "pushed_at": "2026-01-12T20:52:26Z",
+   "updated_at": "2026-03-18T13:16:06Z",
+   "pushed_at": "2026-03-18T13:17:41Z",
    "git_url": "git://github.com/monstermichl/HandlebarsABAP.git",
    "ssh_url": "git@github.com:monstermichl/HandlebarsABAP.git",
    "clone_url": "https://github.com/monstermichl/HandlebarsABAP.git",
    "svn_url": "https://github.com/monstermichl/HandlebarsABAP",
    "homepage": "",
-   "size": 86,
+   "size": 110,
    "stargazers_count": 0,
    "watchers_count": 0,
    "language": "ABAP",
@@ -36617,7 +36617,7 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 13,
+   "forks_count": 14,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -36639,7 +36639,7 @@
     "abap-debugger"
    ],
    "visibility": "public",
-   "forks": 13,
+   "forks": 14,
    "open_issues": 7,
    "watchers": 34,
    "default_branch": "master",
@@ -36673,8 +36673,8 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 13,
-   "subscribers_count": 7
+   "network_count": 14,
+   "subscribers_count": 8
   }
  },
  "oisee/zllm": {
@@ -36752,7 +36752,7 @@
    "releases_url": "https://api.github.com/repos/oisee/zllm/releases{/id}",
    "deployments_url": "https://api.github.com/repos/oisee/zllm/deployments",
    "created_at": "2025-06-15T12:30:29Z",
-   "updated_at": "2026-03-11T11:56:39Z",
+   "updated_at": "2026-03-18T15:15:40Z",
    "pushed_at": "2026-01-01T18:46:37Z",
    "git_url": "git://github.com/oisee/zllm.git",
    "ssh_url": "git@github.com:oisee/zllm.git",
@@ -36760,8 +36760,8 @@
    "svn_url": "https://github.com/oisee/zllm",
    "homepage": "",
    "size": 822,
-   "stargazers_count": 59,
-   "watchers_count": 59,
+   "stargazers_count": 60,
+   "watchers_count": 60,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -36798,7 +36798,7 @@
    "visibility": "public",
    "forks": 8,
    "open_issues": 5,
-   "watchers": 59,
+   "watchers": 60,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -46410,11 +46410,11 @@
   }
  },
  "ysichov/ACE": {
-  "lines": 28366,
+  "lines": 28878,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.117.2",
-   "cloud": 118
+   "cloud": 113
   },
   "repo": {
    "id": 1054854500,
@@ -46484,14 +46484,14 @@
    "releases_url": "https://api.github.com/repos/ysichov/ACE/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/ACE/deployments",
    "created_at": "2025-09-11T12:25:28Z",
-   "updated_at": "2026-03-18T06:57:34Z",
-   "pushed_at": "2026-03-18T06:57:31Z",
+   "updated_at": "2026-03-19T04:18:07Z",
+   "pushed_at": "2026-03-19T04:18:04Z",
    "git_url": "git://github.com/ysichov/ACE.git",
    "ssh_url": "git@github.com:ysichov/ACE.git",
    "clone_url": "https://github.com/ysichov/ACE.git",
    "svn_url": "https://github.com/ysichov/ACE",
    "homepage": "",
-   "size": 931,
+   "size": 1124,
    "stargazers_count": 34,
    "watchers_count": 34,
    "language": "ABAP",
