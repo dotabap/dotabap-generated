@@ -5447,14 +5447,14 @@
    "releases_url": "https://api.github.com/repos/MagPasulke/abap-string-interpreter/releases{/id}",
    "deployments_url": "https://api.github.com/repos/MagPasulke/abap-string-interpreter/deployments",
    "created_at": "2026-05-18T13:39:17Z",
-   "updated_at": "2026-05-29T21:57:28Z",
-   "pushed_at": "2026-05-29T21:57:39Z",
+   "updated_at": "2026-05-30T21:28:31Z",
+   "pushed_at": "2026-05-30T21:28:43Z",
    "git_url": "git://github.com/MagPasulke/abap-string-interpreter.git",
    "ssh_url": "git@github.com:MagPasulke/abap-string-interpreter.git",
    "clone_url": "https://github.com/MagPasulke/abap-string-interpreter.git",
    "svn_url": "https://github.com/MagPasulke/abap-string-interpreter",
    "homepage": "",
-   "size": 473,
+   "size": 411,
    "stargazers_count": 13,
    "watchers_count": 13,
    "language": "ABAP",
@@ -8215,7 +8215,7 @@
     "site_admin": false
    },
    "network_count": 25,
-   "subscribers_count": 9
+   "subscribers_count": 10
   }
  },
  "SAP-samples/abap-file-uploader": {
@@ -8377,7 +8377,7 @@
     "site_admin": false
    },
    "network_count": 24,
-   "subscribers_count": 10
+   "subscribers_count": 11
   }
  },
  "SAP-samples/abap-oo-basics": {
@@ -8533,7 +8533,7 @@
     "site_admin": false
    },
    "network_count": 65,
-   "subscribers_count": 28
+   "subscribers_count": 29
   }
  },
  "SAP-samples/abap-platform-fiori-feature-showcase": {
@@ -8692,7 +8692,7 @@
     "site_admin": false
    },
    "network_count": 61,
-   "subscribers_count": 26
+   "subscribers_count": 27
   }
  },
  "SAP-samples/abap-platform-jak": {
@@ -8854,7 +8854,7 @@
     "site_admin": false
    },
    "network_count": 5,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "SAP-samples/abap-platform-yy": {
@@ -9016,7 +9016,7 @@
     "site_admin": false
    },
    "network_count": 7,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "SAP-samples/cloud-abap-exchange-rates": {
@@ -9172,7 +9172,7 @@
     "site_admin": false
    },
    "network_count": 6,
-   "subscribers_count": 3
+   "subscribers_count": 4
   }
  },
  "SAP-samples/cloud-abap-rap": {
@@ -9264,7 +9264,7 @@
    "clone_url": "https://github.com/SAP-samples/cloud-abap-rap.git",
    "svn_url": "https://github.com/SAP-samples/cloud-abap-rap",
    "homepage": "",
-   "size": 4075,
+   "size": 4076,
    "stargazers_count": 298,
    "watchers_count": 298,
    "language": null,
@@ -9338,7 +9338,7 @@
     "site_admin": false
    },
    "network_count": 80,
-   "subscribers_count": 37
+   "subscribers_count": 38
   }
  },
  "SAP/abap-file-formats-tools": {
@@ -9607,7 +9607,7 @@
     "site_admin": false
    },
    "network_count": 6,
-   "subscribers_count": 8
+   "subscribers_count": 9
   }
  },
  "SAP/abap-to-json": {
@@ -9881,7 +9881,7 @@
     "site_admin": false
    },
    "network_count": 14,
-   "subscribers_count": 5
+   "subscribers_count": 6
   }
  },
  "SAP/code-pal-for-abap": {
@@ -10041,7 +10041,7 @@
     "site_admin": false
    },
    "network_count": 74,
-   "subscribers_count": 24
+   "subscribers_count": 25
   }
  },
  "SAP2Moose/SAP2Moose": {
@@ -15785,7 +15785,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 199448,
+  "lines": 199452,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.119.24",
@@ -15859,14 +15859,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2026-05-30T06:56:17Z",
-   "pushed_at": "2026-05-30T06:56:12Z",
+   "updated_at": "2026-05-30T18:24:33Z",
+   "pushed_at": "2026-05-30T18:24:29Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 27094,
+   "size": 27126,
    "stargazers_count": 1845,
    "watchers_count": 1845,
    "language": "ABAP",
@@ -15876,11 +15876,11 @@
    "has_wiki": false,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 608,
+   "forks_count": 607,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 83,
+   "open_issues_count": 85,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -15903,8 +15903,8 @@
     "sap-gui"
    ],
    "visibility": "public",
-   "forks": 608,
-   "open_issues": 83,
+   "forks": 607,
+   "open_issues": 85,
    "watchers": 1845,
    "default_branch": "main",
    "permissions": {
@@ -15937,7 +15937,7 @@
     "user_view_type": "public",
     "site_admin": false
    },
-   "network_count": 608,
+   "network_count": 607,
    "subscribers_count": 133
   }
  },
@@ -25070,7 +25070,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 11,
+   "forks_count": 10,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -25089,7 +25089,7 @@
    "pull_request_creation_policy": "all",
    "topics": [],
    "visibility": "public",
-   "forks": 11,
+   "forks": 10,
    "open_issues": 0,
    "watchers": 28,
    "default_branch": "main",
@@ -25101,7 +25101,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 11,
+   "network_count": 10,
    "subscribers_count": 4
   }
  },
@@ -46894,11 +46894,11 @@
   }
  },
  "ysichov/AVE": {
-  "lines": 34002,
+  "lines": 34004,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.119.24",
-   "cloud": 170
+   "cloud": 168
   },
   "repo": {
    "id": 1204204657,
@@ -46975,7 +46975,7 @@
    "clone_url": "https://github.com/ysichov/AVE.git",
    "svn_url": "https://github.com/ysichov/AVE",
    "homepage": "",
-   "size": 3781,
+   "size": 3923,
    "stargazers_count": 33,
    "watchers_count": 33,
    "language": "ABAP",
