@@ -13009,7 +13009,7 @@
    "releases_url": "https://api.github.com/repos/abap-ai/mcp/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap-ai/mcp/deployments",
    "created_at": "2025-04-19T16:49:03Z",
-   "updated_at": "2026-07-02T06:00:51Z",
+   "updated_at": "2026-07-05T05:55:32Z",
    "pushed_at": "2026-06-14T18:29:27Z",
    "git_url": "git://github.com/abap-ai/mcp.git",
    "ssh_url": "git@github.com:abap-ai/mcp.git",
@@ -13017,8 +13017,8 @@
    "svn_url": "https://github.com/abap-ai/mcp",
    "homepage": null,
    "size": 8411,
-   "stargazers_count": 74,
-   "watchers_count": 74,
+   "stargazers_count": 75,
+   "watchers_count": 75,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": true,
@@ -13047,7 +13047,7 @@
    "visibility": "public",
    "forks": 13,
    "open_issues": 3,
-   "watchers": 74,
+   "watchers": 75,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -32983,7 +32983,7 @@
    "has_wiki": true,
    "has_pages": false,
    "has_discussions": false,
-   "forks_count": 1,
+   "forks_count": 0,
    "mirror_url": null,
    "archived": false,
    "disabled": false,
@@ -33002,7 +33002,7 @@
    "pull_request_creation_policy": "all",
    "topics": [],
    "visibility": "public",
-   "forks": 1,
+   "forks": 0,
    "open_issues": 0,
    "watchers": 4,
    "default_branch": "main",
@@ -33014,7 +33014,7 @@
     "pull": false
    },
    "temp_clone_token": "",
-   "network_count": 1,
+   "network_count": 0,
    "subscribers_count": 1
   }
  },
@@ -36049,7 +36049,7 @@
    "deployments_url": "https://api.github.com/repos/miggi92/odata-fw/deployments",
    "created_at": "2022-06-02T15:27:07Z",
    "updated_at": "2026-07-02T13:28:29Z",
-   "pushed_at": "2026-07-03T14:45:39Z",
+   "pushed_at": "2026-07-04T13:48:28Z",
    "git_url": "git://github.com/miggi92/odata-fw.git",
    "ssh_url": "git@github.com:miggi92/odata-fw.git",
    "clone_url": "https://github.com/miggi92/odata-fw.git",
@@ -47537,7 +47537,7 @@
   }
  },
  "ysichov/Simple-Data-Explorer": {
-  "lines": 17060,
+  "lines": 17084,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.119.48",
@@ -47611,14 +47611,14 @@
    "releases_url": "https://api.github.com/repos/ysichov/Simple-Data-Explorer/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/Simple-Data-Explorer/deployments",
    "created_at": "2020-02-09T22:46:51Z",
-   "updated_at": "2026-07-03T15:50:05Z",
-   "pushed_at": "2026-07-03T15:50:01Z",
+   "updated_at": "2026-07-05T08:33:36Z",
+   "pushed_at": "2026-07-05T08:33:32Z",
    "git_url": "git://github.com/ysichov/Simple-Data-Explorer.git",
    "ssh_url": "git@github.com:ysichov/Simple-Data-Explorer.git",
    "clone_url": "https://github.com/ysichov/Simple-Data-Explorer.git",
    "svn_url": "https://github.com/ysichov/Simple-Data-Explorer",
    "homepage": "",
-   "size": 1041,
+   "size": 1051,
    "stargazers_count": 64,
    "watchers_count": 64,
    "language": "ABAP",
@@ -47673,11 +47673,11 @@
   }
  },
  "ysichov/Smart-Debugger": {
-  "lines": 8204,
+  "lines": 15430,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.119.48",
-   "cloud": 27
+   "cloud": 56
   },
   "repo": {
    "id": 282706094,
@@ -47747,14 +47747,14 @@
    "releases_url": "https://api.github.com/repos/ysichov/Smart-Debugger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/Smart-Debugger/deployments",
    "created_at": "2020-07-26T18:07:46Z",
-   "updated_at": "2026-07-02T03:35:26Z",
-   "pushed_at": "2025-12-23T08:02:40Z",
+   "updated_at": "2026-07-05T10:13:19Z",
+   "pushed_at": "2026-07-05T10:13:15Z",
    "git_url": "git://github.com/ysichov/Smart-Debugger.git",
    "ssh_url": "git@github.com:ysichov/Smart-Debugger.git",
    "clone_url": "https://github.com/ysichov/Smart-Debugger.git",
    "svn_url": "https://github.com/ysichov/Smart-Debugger",
    "homepage": "",
-   "size": 2066,
+   "size": 2270,
    "stargazers_count": 63,
    "watchers_count": 63,
    "language": "ABAP",
