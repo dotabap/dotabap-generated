@@ -14772,7 +14772,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 67574,
+  "lines": 71251,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.119.56",
@@ -14846,14 +14846,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2026-07-10T21:16:37Z",
-   "pushed_at": "2026-07-11T01:27:34Z",
+   "updated_at": "2026-07-11T19:23:28Z",
+   "pushed_at": "2026-07-11T19:25:19Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "https://www.abap2UI5.org",
-   "size": 8574,
+   "size": 8894,
    "stargazers_count": 368,
    "watchers_count": 368,
    "language": "ABAP",
@@ -14867,7 +14867,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 4,
+   "open_issues_count": 5,
    "license": {
     "key": "mit",
     "name": "MIT License",
@@ -14892,7 +14892,7 @@
    ],
    "visibility": "public",
    "forks": 68,
-   "open_issues": 4,
+   "open_issues": 5,
    "watchers": 368,
    "default_branch": "main",
    "permissions": {
@@ -15859,7 +15859,7 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2026-07-10T17:55:10Z",
+   "updated_at": "2026-07-12T02:52:00Z",
    "pushed_at": "2026-07-10T17:54:18Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
@@ -15867,8 +15867,8 @@
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
    "size": 27270,
-   "stargazers_count": 1877,
-   "watchers_count": 1877,
+   "stargazers_count": 1878,
+   "watchers_count": 1878,
    "language": "ABAP",
    "has_issues": true,
    "has_projects": false,
@@ -15905,7 +15905,7 @@
    "visibility": "public",
    "forks": 612,
    "open_issues": 90,
-   "watchers": 1877,
+   "watchers": 1878,
    "default_branch": "main",
    "permissions": {
     "admin": false,
@@ -36049,13 +36049,13 @@
    "deployments_url": "https://api.github.com/repos/miggi92/odata-fw/deployments",
    "created_at": "2022-06-02T15:27:07Z",
    "updated_at": "2026-07-02T13:28:29Z",
-   "pushed_at": "2026-07-10T18:12:52Z",
+   "pushed_at": "2026-07-11T10:45:34Z",
    "git_url": "git://github.com/miggi92/odata-fw.git",
    "ssh_url": "git@github.com:miggi92/odata-fw.git",
    "clone_url": "https://github.com/miggi92/odata-fw.git",
    "svn_url": "https://github.com/miggi92/odata-fw",
    "homepage": "https://miggi92.github.io/odata-fw/",
-   "size": 3975,
+   "size": 3819,
    "stargazers_count": 17,
    "watchers_count": 17,
    "language": "ABAP",
@@ -46890,11 +46890,11 @@
   }
  },
  "ysichov/ABAP-AI-Code": {
-  "lines": 22581,
+  "lines": 22643,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.119.56",
-   "cloud": 87
+   "cloud": 88
   },
   "repo": {
    "id": 1253777615,
@@ -46964,14 +46964,14 @@
    "releases_url": "https://api.github.com/repos/ysichov/ABAP-AI-Code/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/ABAP-AI-Code/deployments",
    "created_at": "2026-05-29T20:02:47Z",
-   "updated_at": "2026-07-10T08:45:38Z",
-   "pushed_at": "2026-07-10T08:45:30Z",
+   "updated_at": "2026-07-11T12:56:01Z",
+   "pushed_at": "2026-07-11T12:55:53Z",
    "git_url": "git://github.com/ysichov/ABAP-AI-Code.git",
    "ssh_url": "git@github.com:ysichov/ABAP-AI-Code.git",
    "clone_url": "https://github.com/ysichov/ABAP-AI-Code.git",
    "svn_url": "https://github.com/ysichov/ABAP-AI-Code",
    "homepage": "",
-   "size": 1044,
+   "size": 770,
    "stargazers_count": 15,
    "watchers_count": 15,
    "language": "ABAP",
@@ -47673,11 +47673,11 @@
   }
  },
  "ysichov/Smart-Debugger": {
-  "lines": 17987,
+  "lines": 18015,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.119.56",
-   "cloud": 56
+   "cloud": 57
   },
   "repo": {
    "id": 282706094,
@@ -47747,14 +47747,14 @@
    "releases_url": "https://api.github.com/repos/ysichov/Smart-Debugger/releases{/id}",
    "deployments_url": "https://api.github.com/repos/ysichov/Smart-Debugger/deployments",
    "created_at": "2020-07-26T18:07:46Z",
-   "updated_at": "2026-07-11T09:20:10Z",
-   "pushed_at": "2026-07-11T09:20:05Z",
+   "updated_at": "2026-07-11T13:05:21Z",
+   "pushed_at": "2026-07-11T13:05:06Z",
    "git_url": "git://github.com/ysichov/Smart-Debugger.git",
    "ssh_url": "git@github.com:ysichov/Smart-Debugger.git",
    "clone_url": "https://github.com/ysichov/Smart-Debugger.git",
    "svn_url": "https://github.com/ysichov/Smart-Debugger",
    "homepage": "",
-   "size": 1402,
+   "size": 1281,
    "stargazers_count": 63,
    "watchers_count": 63,
    "language": "ABAP",
