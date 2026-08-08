@@ -14616,7 +14616,7 @@
   }
  },
  "abap2ui5/abap2ui5": {
-  "lines": 79840,
+  "lines": 80377,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.120.10",
@@ -14690,14 +14690,14 @@
    "releases_url": "https://api.github.com/repos/abap2UI5/abap2UI5/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abap2UI5/abap2UI5/deployments",
    "created_at": "2022-12-05T08:26:15Z",
-   "updated_at": "2026-08-07T02:18:10Z",
-   "pushed_at": "2026-08-07T06:38:48Z",
+   "updated_at": "2026-08-07T16:21:22Z",
+   "pushed_at": "2026-08-07T16:21:52Z",
    "git_url": "git://github.com/abap2UI5/abap2UI5.git",
    "ssh_url": "git@github.com:abap2UI5/abap2UI5.git",
    "clone_url": "https://github.com/abap2UI5/abap2UI5.git",
    "svn_url": "https://github.com/abap2UI5/abap2UI5",
    "homepage": "https://www.abap2UI5.org",
-   "size": 10758,
+   "size": 10626,
    "stargazers_count": 371,
    "watchers_count": 371,
    "language": "ABAP",
@@ -15629,7 +15629,7 @@
   }
  },
  "abapGit/abapGit": {
-  "lines": 202389,
+  "lines": 202420,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.120.10",
@@ -15703,14 +15703,14 @@
    "releases_url": "https://api.github.com/repos/abapGit/abapGit/releases{/id}",
    "deployments_url": "https://api.github.com/repos/abapGit/abapGit/deployments",
    "created_at": "2014-06-23T05:39:25Z",
-   "updated_at": "2026-08-07T07:53:53Z",
-   "pushed_at": "2026-08-07T07:17:53Z",
+   "updated_at": "2026-08-07T15:16:53Z",
+   "pushed_at": "2026-08-07T21:20:34Z",
    "git_url": "git://github.com/abapGit/abapGit.git",
    "ssh_url": "git@github.com:abapGit/abapGit.git",
    "clone_url": "https://github.com/abapGit/abapGit.git",
    "svn_url": "https://github.com/abapGit/abapGit",
    "homepage": "https://abapgit.org",
-   "size": 27356,
+   "size": 27359,
    "stargazers_count": 1899,
    "watchers_count": 1899,
    "language": "ABAP",
@@ -35590,11 +35590,11 @@
   }
  },
  "marianfoo/ztoad": {
-  "lines": 7439,
+  "lines": 9452,
   "startingFolder": "/src/",
   "parsing": {
    "version": "2.120.10",
-   "cloud": 246
+   "cloud": 266
   },
   "repo": {
    "id": 283709469,
@@ -35664,14 +35664,14 @@
    "releases_url": "https://api.github.com/repos/marianfoo/ztoad/releases{/id}",
    "deployments_url": "https://api.github.com/repos/marianfoo/ztoad/deployments",
    "created_at": "2020-07-30T08:08:27Z",
-   "updated_at": "2026-08-07T08:40:38Z",
-   "pushed_at": "2026-08-07T08:55:58Z",
+   "updated_at": "2026-08-07T16:40:34Z",
+   "pushed_at": "2026-08-07T16:38:39Z",
    "git_url": "git://github.com/marianfoo/ztoad.git",
    "ssh_url": "git@github.com:marianfoo/ztoad.git",
    "clone_url": "https://github.com/marianfoo/ztoad.git",
    "svn_url": "https://github.com/marianfoo/ztoad",
    "homepage": "",
-   "size": 423,
+   "size": 497,
    "stargazers_count": 63,
    "watchers_count": 63,
    "language": "ABAP",
@@ -35685,7 +35685,7 @@
    "mirror_url": null,
    "archived": false,
    "disabled": false,
-   "open_issues_count": 2,
+   "open_issues_count": 0,
    "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -35704,9 +35704,9 @@
    ],
    "visibility": "public",
    "forks": 20,
-   "open_issues": 2,
+   "open_issues": 0,
    "watchers": 63,
-   "default_branch": "master",
+   "default_branch": "main",
    "permissions": {
     "admin": false,
     "maintain": false,
